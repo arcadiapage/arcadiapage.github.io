@@ -9,10 +9,10 @@
 lang: en-US
 
 # Site title
-title: "Arcadia Page | Writer | Artist ❤️"
+title: "Arcadia Page ❤️"
 
 # A description of your site for meta tag, search engine results.
-description: "Self-exploration, Productivity, and the Writing Life"
+description: "Author of Idealist Dreams and creator of the webcomic Mascara"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -43,7 +43,7 @@ navigation:
 disqus: justgoodthemes
 
 # Colors
-accent_color: '#2d72d9'
+accent_color: '#dcd6f7'
 
 # Site footer
 footer:

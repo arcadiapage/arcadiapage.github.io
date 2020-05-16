@@ -26,6 +26,8 @@ layout: default
         href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&amp;url={{ page.url | absolute_url }}" rel="noopener">Twitter</a>
       <a target="_blank"
         href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}&amp;t={{ page.title | uri_escape }}" rel="noopener">Facebook</a>
+ <a target="_blank"
+        href="http://pinterest.com/pin/create/button/?url={{ page.url | absolute_url }}&amp;t={{ page.title | uri_escape }}" rel="noopener">Pinterest</a>
     </div><!-- .share-post -->
     <div class="author-box">
       {% if site.data.author.image and site.data.author.image != "" %}
@@ -47,5 +49,18 @@ layout: default
   {% if site.disqus and site.disqus != "" %}
     {% include disqus.html %}
   {% endif %}
+
+{% if site.show_related_posts %}
+  <h3 class="related-post-title">{{ site.text.post.related_posts | default: "Related Posts" }}</h3>
+  <ul class="related-posts">
+    {% for post in site.related_posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}" class="post-link">
+          {{ post.title }}
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+{% endif %}
 
 </main><!-- .main-content -->
