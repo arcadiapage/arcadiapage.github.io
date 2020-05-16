@@ -15,10 +15,10 @@ title: "Arcadia Page ❤️"
 description: "Author of Idealist Dreams and creator of the webcomic Mascara"
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: ""
+baseurl: "/arcadiapage.github.io"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://arcadiapage.github.io"
+url: "https://arcadiapage.github.io/"
 
 # Favicon
 favicon: images/favicon.png
