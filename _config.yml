@@ -18,7 +18,7 @@ description: "Author of Idealist Dreams and creator of the webcomic Mascara"
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://scriptor-jekyll.netlify.com"
+url: ""
 
 # Favicon
 favicon: images/favicon.png
