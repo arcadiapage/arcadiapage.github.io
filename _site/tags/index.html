@@ -1,0 +1,980 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2020 -->
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>Archives</title>
+  
+  
+  <meta name="author" content="Arcadia Page">
+  
+  
+  
+
+  <link rel="alternate" type="application/rss+xml" title="Arcadia Page | Writer | Artist ❤️ - Writer and Comic Artist" href="http://localhost:4000/feed.xml">
+
+  
+
+  
+
+  
+
+
+  
+    
+      
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+
+    
+      
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/assets/css/bootstrap-social.css">
+    
+      <link rel="stylesheet" href="/assets/css/main.css">
+    
+  
+
+  
+
+  
+
+  <!-- Facebook OpenGraph tags -->
+  
+
+  
+  <meta property="og:title" content="Archives">
+  
+
+   
+  <meta property="og:description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:',' | sort -%} {%- for tag...">
+  
+
+
+  <meta property="og:type" content="website">
+
+  
+  <meta property="og:url" content="http://localhost:4000/tags/">
+  <link rel="canonical" href="http://localhost:4000/tags/">
+  
+
+  
+  <meta property="og:image" content="http://localhost:4000/assets/img/avatar-icon.jpg">
+  
+
+
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@arcadiapage">
+  <meta name="twitter:creator" content="@arcadiapage">
+
+  
+  <meta name="twitter:title" content="Archives">
+  
+
+  
+  <meta name="twitter:description" content="{% assign date_format = site.date_format | default: &quot;%B %-d, %Y&quot; %} {%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:',' | sort -%} {%- for tag...">
+  
+
+  
+  <meta name="twitter:image" content="http://localhost:4000/assets/img/avatar-icon.jpg">
+  
+
+  
+
+  
+
+</head>
+
+
+  <body>
+
+    
+
+  
+    <nav class="navbar navbar-expand-md navbar-light fixed-top navbar-custom "><a class="navbar-brand" href="http://localhost:4000/">Arcadia Page | Writer | Artist ❤️</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="main-navbar">
+    <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="/books">Books</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.buymeacoffee.com/arcadiapage">Coffee ❤️</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://tinyletter.com/arcadiapage">Subscribe</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Resources</a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/aboutme">Contact</a>
+                  <a class="dropdown-item" href="/tags">Archives</a>
+                  <a class="dropdown-item" href="/disclosure">Disclosure</a>
+            </div>
+          </li>
+        </ul>
+  </div>
+
+  
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        <a href="http://localhost:4000/">
+          <img alt="Navbar avatar" class="avatar-img" src="/assets/img/avatar-icon.jpg" />
+        </a>
+      </div>
+    </div>
+  
+
+</nav>
+
+
+    <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container-md">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+        <div class="page-heading">
+          <h1>Archives</h1>
+      
+      
+      
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+
+<div class="container-md" role="main">
+  <div class="row">
+    <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      <a href="#Blue Room Cafe Novella" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;Blue Room Cafe Novella&nbsp;(1)</a><a href="#Book Announcements" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;Book Announcements&nbsp;(3)</a><a href="#Book Excerpts" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;Book Excerpts&nbsp;(3)</a><a href="#Book Recommendations" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;Book Recommendations&nbsp;(6)</a><a href="#Creative Business" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;Creative Business&nbsp;(5)</a><a href="#Creative Life" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;Creative Life&nbsp;(25)</a><a href="#Goal Setting" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;Goal Setting&nbsp;(5)</a><a href="#INFP & HSP" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;INFP & HSP&nbsp;(23)</a><a href="#Nonfiction" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;Nonfiction&nbsp;(1)</a><a href="#On Art" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;On Art&nbsp;(4)</a><a href="#On Writing" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;On Writing&nbsp;(30)</a><a href="#Productivity & Simplicity" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;Productivity & Simplicity&nbsp;(20)</a><a href="#Story Excerpts" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;Story Excerpts&nbsp;(1)</a><div id="full-tags-list"><h2 id="Blue Room Cafe Novella" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;Blue Room Cafe Novella&nbsp;(1)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2016/10/the-blue-room-cafe.html">The Blue Room Cafe</a>
+                <div class="entry-date">
+                    <time datetime="2016-10-28T09:52:00-07:00">October 28, 2016</time>
+                </div>
+            </div></div><h2 id="Book Announcements" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;Book Announcements&nbsp;(3)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2020/04/10-tips-on-working-with-your-strengths.html">10 Tips on Working With Your Strengths as an INFP Writer</a>
+                <div class="entry-date">
+                    <time datetime="2020-04-02T07:18:00-07:00">April 2, 2020</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/07/falling-in-love-again.html">Falling in Love Again</a>
+                <div class="entry-date">
+                    <time datetime="2017-07-23T07:14:00-07:00">July 23, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2016/04/welcome-to-my-new-blog.html">Welcome to My New Blog! </a>
+                <div class="entry-date">
+                    <time datetime="2016-04-08T15:00:00-07:00">April 8, 2016</time>
+                </div>
+            </div></div><h2 id="Book Excerpts" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;Book Excerpts&nbsp;(3)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2020/04/10-tips-on-working-with-your-strengths.html">10 Tips on Working With Your Strengths as an INFP Writer</a>
+                <div class="entry-date">
+                    <time datetime="2020-04-02T07:18:00-07:00">April 2, 2020</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/06/how-i-learned-to-plan-as-infp-have.html">How I Learned to Plan as an INFP: Have a Reminders List </a>
+                <div class="entry-date">
+                    <time datetime="2018-06-26T05:00:00-07:00">June 26, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/06/how-i-learned-to-plan-as-infp.html">How I Learned to Plan as an INFP: An Introduction</a>
+                <div class="entry-date">
+                    <time datetime="2018-06-12T04:30:00-07:00">June 12, 2018</time>
+                </div>
+            </div></div><h2 id="Book Recommendations" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;Book Recommendations&nbsp;(6)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2020/05/7-simple-organization-tips-for-infps.html">7 Simple Organization Tips for INFPs</a>
+                <div class="entry-date">
+                    <time datetime="2020-05-28T07:18:00-07:00">May 28, 2020</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/10/recommended-reading-for-infp-writers.html">Recommended Reading for INFP Writers</a>
+                <div class="entry-date">
+                    <time datetime="2019-10-25T06:30:00-07:00">October 25, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/04/my-favorite-reads-for-polymaths.html">My Favorite Reads for Polymaths, Multipotentialites, and Renaissance Souls</a>
+                <div class="entry-date">
+                    <time datetime="2018-04-20T11:32:00-07:00">April 20, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/04/creative-and-disorganized-here-are.html">Creative and Disorganized? Here are Resources I've Found Helpful</a>
+                <div class="entry-date">
+                    <time datetime="2018-04-09T07:06:00-07:00">April 9, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/12/how-i-got-most-out-of-my-myers-briggs.html">How I Got the Most Out of My Myers-Briggs Test Results</a>
+                <div class="entry-date">
+                    <time datetime="2017-12-04T08:18:00-08:00">December 4, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/09/september-love-list-helpful-resources.html">September Love List: Helpful Resources for Writing, Blogging and Other Things</a>
+                <div class="entry-date">
+                    <time datetime="2017-09-08T15:30:00-07:00">September 8, 2017</time>
+                </div>
+            </div></div><h2 id="Creative Business" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;Creative Business&nbsp;(5)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2019/11/exploring-multipotential-with-30-day.html">Exploring Multipotential with a 30 Day Etsy Challenge</a>
+                <div class="entry-date">
+                    <time datetime="2019-11-29T08:03:00-08:00">November 29, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/04/my-favorite-reads-for-polymaths.html">My Favorite Reads for Polymaths, Multipotentialites, and Renaissance Souls</a>
+                <div class="entry-date">
+                    <time datetime="2018-04-20T11:32:00-07:00">April 20, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/10/how-to-focus-on-what-you-do-best-when.html">How to Focus On What You Do Best When Creating Stories</a>
+                <div class="entry-date">
+                    <time datetime="2017-10-06T12:29:00-07:00">October 6, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/09/september-love-list-helpful-resources.html">September Love List: Helpful Resources for Writing, Blogging and Other Things</a>
+                <div class="entry-date">
+                    <time datetime="2017-09-08T15:30:00-07:00">September 8, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/04/my-day-thoughts-on-blogging-for-fiction.html">My Day & Thoughts on Blogging for Fiction Writers</a>
+                <div class="entry-date">
+                    <time datetime="2017-04-22T14:03:00-07:00">April 22, 2017</time>
+                </div>
+            </div></div><h2 id="Creative Life" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;Creative Life&nbsp;(25)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2020/03/the-digital-detox-project-how-to-have.html">The Digital Detox Project: How to Have Mindful App Usage</a>
+                <div class="entry-date">
+                    <time datetime="2020-03-13T06:00:00-07:00">March 13, 2020</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/11/exploring-multipotential-with-30-day.html">Exploring Multipotential with a 30 Day Etsy Challenge</a>
+                <div class="entry-date">
+                    <time datetime="2019-11-29T08:03:00-08:00">November 29, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/08/how-to-live-life-of-small-adventures.html">How to Live a Life of Small Adventures</a>
+                <div class="entry-date">
+                    <time datetime="2019-08-19T05:00:00-07:00">August 19, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/07/using-journaling-to-transform-how-you.html">Using Journaling to Transform How You Plan for the Day</a>
+                <div class="entry-date">
+                    <time datetime="2019-07-08T05:30:00-07:00">July 8, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/06/being-highly-sensitive-and-consistently.html">Being Highly Sensitive and Consistently Creative</a>
+                <div class="entry-date">
+                    <time datetime="2019-06-18T05:00:00-07:00">June 18, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/05/simplicity-is-reduction-of-choice.html">Simplicity is the Reduction of Choice</a>
+                <div class="entry-date">
+                    <time datetime="2019-05-27T06:30:00-07:00">May 27, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/02/how-im-fitting-more-creative-time-into.html"> How I'm Fitting More Creative Time into My Life by Creating Small</a>
+                <div class="entry-date">
+                    <time datetime="2019-02-15T09:55:00-08:00">February 15, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/11/using-writers-intuition-to-write-fiction.html">Using Writer's Intuition to Write Fiction</a>
+                <div class="entry-date">
+                    <time datetime="2018-11-29T06:39:00-08:00">November 29, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/10/using-your-writers-intuition-to-plan.html">Using Your Writer's Intuition to Plan Fiction</a>
+                <div class="entry-date">
+                    <time datetime="2018-10-22T05:00:00-07:00">October 22, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/09/accepting-my-scattered-work-style-as.html">Accepting My Scattered Work Style as an INFP</a>
+                <div class="entry-date">
+                    <time datetime="2018-09-25T11:57:00-07:00">September 25, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/09/how-i-plan-to-slow-down-today.html">How I Plan to Slow Down Today</a>
+                <div class="entry-date">
+                    <time datetime="2018-09-03T07:13:00-07:00">September 3, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/08/why-i-love-simple-daily-gratitude.html">Why I Love Simple Daily Gratitude</a>
+                <div class="entry-date">
+                    <time datetime="2018-08-20T06:00:00-07:00">August 20, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/05/learning-to-work-along-with-way-i-feel.html">Learning to Work Along With the Way I Feel </a>
+                <div class="entry-date">
+                    <time datetime="2018-05-15T05:47:00-07:00">May 15, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/04/my-favorite-reads-for-polymaths.html">My Favorite Reads for Polymaths, Multipotentialites, and Renaissance Souls</a>
+                <div class="entry-date">
+                    <time datetime="2018-04-20T11:32:00-07:00">April 20, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/04/creative-and-disorganized-here-are.html">Creative and Disorganized? Here are Resources I've Found Helpful</a>
+                <div class="entry-date">
+                    <time datetime="2018-04-09T07:06:00-07:00">April 9, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/01/how-i-learned-to-be-more-patient-with.html">How I Learned to Be More Patient With My Writing Projects</a>
+                <div class="entry-date">
+                    <time datetime="2018-01-25T06:48:00-08:00">January 25, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/12/how-i-got-most-out-of-my-myers-briggs.html">How I Got the Most Out of My Myers-Briggs Test Results</a>
+                <div class="entry-date">
+                    <time datetime="2017-12-04T08:18:00-08:00">December 4, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/10/how-journaling-improved-my-writing-and.html">How Journaling Improved My Writing and Emotional Health</a>
+                <div class="entry-date">
+                    <time datetime="2017-10-27T12:38:00-07:00">October 27, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/08/how-depression-altered-my-reality.html">How Depression Altered My Reality: The Effects of Depression and What I've Learned</a>
+                <div class="entry-date">
+                    <time datetime="2017-08-25T18:22:00-07:00">August 25, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/07/falling-in-love-again.html">Falling in Love Again</a>
+                <div class="entry-date">
+                    <time datetime="2017-07-23T07:14:00-07:00">July 23, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/07/a-series-of-unexpected-events.html">A Series of Unexpected Events</a>
+                <div class="entry-date">
+                    <time datetime="2017-07-15T10:11:00-07:00">July 15, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/05/personal-writing-challenge-progress.html">Personal Writing Challenge Progress!</a>
+                <div class="entry-date">
+                    <time datetime="2017-05-11T07:26:00-07:00">May 11, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/05/setting-up-personal-writing-challenge.html">Setting Up a Personal Writing Challenge</a>
+                <div class="entry-date">
+                    <time datetime="2017-05-01T10:59:00-07:00">May 1, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/04/my-day-thoughts-on-blogging-for-fiction.html">My Day & Thoughts on Blogging for Fiction Writers</a>
+                <div class="entry-date">
+                    <time datetime="2017-04-22T14:03:00-07:00">April 22, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2016/06/what-i-as-comic-creator-learned-from.html">What I As a Comic Creator Learned from Indie Writers</a>
+                <div class="entry-date">
+                    <time datetime="2016-06-03T11:14:00-07:00">June 3, 2016</time>
+                </div>
+            </div></div><h2 id="Goal Setting" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;Goal Setting&nbsp;(5)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2019/11/exploring-multipotential-with-30-day.html">Exploring Multipotential with a 30 Day Etsy Challenge</a>
+                <div class="entry-date">
+                    <time datetime="2019-11-29T08:03:00-08:00">November 29, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/02/how-im-fitting-more-creative-time-into.html"> How I'm Fitting More Creative Time into My Life by Creating Small</a>
+                <div class="entry-date">
+                    <time datetime="2019-02-15T09:55:00-08:00">February 15, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/09/september-love-list-helpful-resources.html">September Love List: Helpful Resources for Writing, Blogging and Other Things</a>
+                <div class="entry-date">
+                    <time datetime="2017-09-08T15:30:00-07:00">September 8, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/05/personal-writing-challenge-progress.html">Personal Writing Challenge Progress!</a>
+                <div class="entry-date">
+                    <time datetime="2017-05-11T07:26:00-07:00">May 11, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/05/setting-up-personal-writing-challenge.html">Setting Up a Personal Writing Challenge</a>
+                <div class="entry-date">
+                    <time datetime="2017-05-01T10:59:00-07:00">May 1, 2017</time>
+                </div>
+            </div></div><h2 id="INFP & HSP" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;INFP & HSP&nbsp;(23)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2020/05/7-simple-organization-tips-for-infps.html">7 Simple Organization Tips for INFPs</a>
+                <div class="entry-date">
+                    <time datetime="2020-05-28T07:18:00-07:00">May 28, 2020</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2020/04/dear-infp-writer-its-okay-to-have-too.html">Dear INFP Writer, It's Okay to Have Too Many Ideas</a>
+                <div class="entry-date">
+                    <time datetime="2020-04-24T05:49:00-07:00">April 24, 2020</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2020/04/10-tips-on-working-with-your-strengths.html">10 Tips on Working With Your Strengths as an INFP Writer</a>
+                <div class="entry-date">
+                    <time datetime="2020-04-02T07:18:00-07:00">April 2, 2020</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/10/recommended-reading-for-infp-writers.html">Recommended Reading for INFP Writers</a>
+                <div class="entry-date">
+                    <time datetime="2019-10-25T06:30:00-07:00">October 25, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/10/thoughts-on-how-i-work-as-infp-writer.html">Thoughts on How I Work as an INFP Writer</a>
+                <div class="entry-date">
+                    <time datetime="2019-10-18T06:58:00-07:00">October 18, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/10/how-i-make-use-of-my-random-writing.html">How I Make Use of My Random Writing Ideas as an INFP Writer</a>
+                <div class="entry-date">
+                    <time datetime="2019-10-03T05:30:00-07:00">October 3, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/09/4-unforgettable-lessons-i-learned-from.html">4 Unforgettable Lessons I Learned from my 1st Writing Retreat</a>
+                <div class="entry-date">
+                    <time datetime="2019-09-27T05:00:00-07:00">September 27, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/09/how-to-build-productive-writing-routine.html">How to Build a Productive Writing Routine</a>
+                <div class="entry-date">
+                    <time datetime="2019-09-13T05:00:00-07:00">September 13, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/06/being-highly-sensitive-and-consistently.html">Being Highly Sensitive and Consistently Creative</a>
+                <div class="entry-date">
+                    <time datetime="2019-06-18T05:00:00-07:00">June 18, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/05/simplicity-is-reduction-of-choice.html">Simplicity is the Reduction of Choice</a>
+                <div class="entry-date">
+                    <time datetime="2019-05-27T06:30:00-07:00">May 27, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/04/the-hidden-skill-infps-have-for-saving.html">The Hidden Skill INFPs Have for Saving Money </a>
+                <div class="entry-date">
+                    <time datetime="2019-04-29T06:30:00-07:00">April 29, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/01/how-i-created-my-hsp-sanctuary.html">How I Created My HSP Sanctuary</a>
+                <div class="entry-date">
+                    <time datetime="2019-01-25T13:35:00-08:00">January 25, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/09/accepting-my-scattered-work-style-as.html">Accepting My Scattered Work Style as an INFP</a>
+                <div class="entry-date">
+                    <time datetime="2018-09-25T11:57:00-07:00">September 25, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/09/how-i-plan-to-slow-down-today.html">How I Plan to Slow Down Today</a>
+                <div class="entry-date">
+                    <time datetime="2018-09-03T07:13:00-07:00">September 3, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/08/why-i-love-simple-daily-gratitude.html">Why I Love Simple Daily Gratitude</a>
+                <div class="entry-date">
+                    <time datetime="2018-08-20T06:00:00-07:00">August 20, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/06/how-i-learned-to-plan-as-infp-have.html">How I Learned to Plan as an INFP: Have a Reminders List </a>
+                <div class="entry-date">
+                    <time datetime="2018-06-26T05:00:00-07:00">June 26, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/06/how-i-learned-to-plan-as-infp.html">How I Learned to Plan as an INFP: An Introduction</a>
+                <div class="entry-date">
+                    <time datetime="2018-06-12T04:30:00-07:00">June 12, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/05/learning-to-work-along-with-way-i-feel.html">Learning to Work Along With the Way I Feel </a>
+                <div class="entry-date">
+                    <time datetime="2018-05-15T05:47:00-07:00">May 15, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/04/my-favorite-reads-for-polymaths.html">My Favorite Reads for Polymaths, Multipotentialites, and Renaissance Souls</a>
+                <div class="entry-date">
+                    <time datetime="2018-04-20T11:32:00-07:00">April 20, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/03/life-as-introverted-feeling-user.html">Life as an Introverted Feeling User</a>
+                <div class="entry-date">
+                    <time datetime="2018-03-09T10:24:00-08:00">March 9, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/12/how-i-got-most-out-of-my-myers-briggs.html">How I Got the Most Out of My Myers-Briggs Test Results</a>
+                <div class="entry-date">
+                    <time datetime="2017-12-04T08:18:00-08:00">December 4, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/09/how-discovering-my-high-sensitivity.html">How Discovering My High Sensitivity Changed the Way I View Social Anxiety</a>
+                <div class="entry-date">
+                    <time datetime="2017-09-22T15:30:00-07:00">September 22, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/08/how-depression-altered-my-reality.html">How Depression Altered My Reality: The Effects of Depression and What I've Learned</a>
+                <div class="entry-date">
+                    <time datetime="2017-08-25T18:22:00-07:00">August 25, 2017</time>
+                </div>
+            </div></div><h2 id="Nonfiction" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;Nonfiction&nbsp;(1)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2016/10/a-busy-girls-guide-to-natural-curls.html">A Busy Girls Guide To Natural Curls</a>
+                <div class="entry-date">
+                    <time datetime="2016-10-28T09:59:00-07:00">October 28, 2016</time>
+                </div>
+            </div></div><h2 id="On Art" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;On Art&nbsp;(4)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2019/02/how-im-fitting-more-creative-time-into.html"> How I'm Fitting More Creative Time into My Life by Creating Small</a>
+                <div class="entry-date">
+                    <time datetime="2019-02-15T09:55:00-08:00">February 15, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/05/learning-to-work-along-with-way-i-feel.html">Learning to Work Along With the Way I Feel </a>
+                <div class="entry-date">
+                    <time datetime="2018-05-15T05:47:00-07:00">May 15, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/11/5-things-to-do-to-get-started-with.html">5 Things to Do to Get Started With Creating Comics</a>
+                <div class="entry-date">
+                    <time datetime="2017-11-20T07:00:00-08:00">November 20, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2016/06/what-i-as-comic-creator-learned-from.html">What I As a Comic Creator Learned from Indie Writers</a>
+                <div class="entry-date">
+                    <time datetime="2016-06-03T11:14:00-07:00">June 3, 2016</time>
+                </div>
+            </div></div><h2 id="On Writing" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;On Writing&nbsp;(30)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2020/04/dear-infp-writer-its-okay-to-have-too.html">Dear INFP Writer, It's Okay to Have Too Many Ideas</a>
+                <div class="entry-date">
+                    <time datetime="2020-04-24T05:49:00-07:00">April 24, 2020</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2020/04/10-tips-on-working-with-your-strengths.html">10 Tips on Working With Your Strengths as an INFP Writer</a>
+                <div class="entry-date">
+                    <time datetime="2020-04-02T07:18:00-07:00">April 2, 2020</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2020/01/finding-my-blend-as-multi-passionate.html">Finding my Blend as a Multi-passionate Blogger</a>
+                <div class="entry-date">
+                    <time datetime="2020-01-03T06:00:00-08:00">January 3, 2020</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/12/how-to-combine-digital-notes-with.html">How to Combine Digital Notes with Analog Notes</a>
+                <div class="entry-date">
+                    <time datetime="2019-12-13T07:00:00-08:00">December 13, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/11/too-busy-to-write-here-are-4-flexible.html">Too Busy to Write? Here are 4 Flexible Writing Schedules to Try</a>
+                <div class="entry-date">
+                    <time datetime="2019-11-15T06:30:00-08:00">November 15, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/10/recommended-reading-for-infp-writers.html">Recommended Reading for INFP Writers</a>
+                <div class="entry-date">
+                    <time datetime="2019-10-25T06:30:00-07:00">October 25, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/10/thoughts-on-how-i-work-as-infp-writer.html">Thoughts on How I Work as an INFP Writer</a>
+                <div class="entry-date">
+                    <time datetime="2019-10-18T06:58:00-07:00">October 18, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/10/how-i-make-use-of-my-random-writing.html">How I Make Use of My Random Writing Ideas as an INFP Writer</a>
+                <div class="entry-date">
+                    <time datetime="2019-10-03T05:30:00-07:00">October 3, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/09/4-unforgettable-lessons-i-learned-from.html">4 Unforgettable Lessons I Learned from my 1st Writing Retreat</a>
+                <div class="entry-date">
+                    <time datetime="2019-09-27T05:00:00-07:00">September 27, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/09/how-you-can-easily-create-immersive.html">How You Can Easily Create an Immersive Story Setting on One Page</a>
+                <div class="entry-date">
+                    <time datetime="2019-09-20T07:12:00-07:00">September 20, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/09/how-to-build-productive-writing-routine.html">How to Build a Productive Writing Routine</a>
+                <div class="entry-date">
+                    <time datetime="2019-09-13T05:00:00-07:00">September 13, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/07/using-journaling-to-transform-how-you.html">Using Journaling to Transform How You Plan for the Day</a>
+                <div class="entry-date">
+                    <time datetime="2019-07-08T05:30:00-07:00">July 8, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/06/being-highly-sensitive-and-consistently.html">Being Highly Sensitive and Consistently Creative</a>
+                <div class="entry-date">
+                    <time datetime="2019-06-18T05:00:00-07:00">June 18, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/02/how-im-fitting-more-creative-time-into.html"> How I'm Fitting More Creative Time into My Life by Creating Small</a>
+                <div class="entry-date">
+                    <time datetime="2019-02-15T09:55:00-08:00">February 15, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/11/using-writers-intuition-to-write-fiction.html">Using Writer's Intuition to Write Fiction</a>
+                <div class="entry-date">
+                    <time datetime="2018-11-29T06:39:00-08:00">November 29, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/10/using-your-writers-intuition-to-plan.html">Using Your Writer's Intuition to Plan Fiction</a>
+                <div class="entry-date">
+                    <time datetime="2018-10-22T05:00:00-07:00">October 22, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/09/accepting-my-scattered-work-style-as.html">Accepting My Scattered Work Style as an INFP</a>
+                <div class="entry-date">
+                    <time datetime="2018-09-25T11:57:00-07:00">September 25, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/07/how-im-trying-to-solve-my-biggest.html">How I'm Trying to Solve My Biggest Writing Problems</a>
+                <div class="entry-date">
+                    <time datetime="2018-07-24T06:30:00-07:00">July 24, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/05/learning-to-work-along-with-way-i-feel.html">Learning to Work Along With the Way I Feel </a>
+                <div class="entry-date">
+                    <time datetime="2018-05-15T05:47:00-07:00">May 15, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/01/how-i-learned-to-be-more-patient-with.html">How I Learned to Be More Patient With My Writing Projects</a>
+                <div class="entry-date">
+                    <time datetime="2018-01-25T06:48:00-08:00">January 25, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/11/4-things-i-did-to-get-started-with.html">4 Things I Did to Get Started With Writing Fiction</a>
+                <div class="entry-date">
+                    <time datetime="2017-11-06T07:00:00-08:00">November 6, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/10/how-journaling-improved-my-writing-and.html">How Journaling Improved My Writing and Emotional Health</a>
+                <div class="entry-date">
+                    <time datetime="2017-10-27T12:38:00-07:00">October 27, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/10/how-to-focus-on-what-you-do-best-when.html">How to Focus On What You Do Best When Creating Stories</a>
+                <div class="entry-date">
+                    <time datetime="2017-10-06T12:29:00-07:00">October 6, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/09/september-love-list-helpful-resources.html">September Love List: Helpful Resources for Writing, Blogging and Other Things</a>
+                <div class="entry-date">
+                    <time datetime="2017-09-08T15:30:00-07:00">September 8, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/08/editing-phase.html">Editing Phase</a>
+                <div class="entry-date">
+                    <time datetime="2017-08-13T05:45:00-07:00">August 13, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/07/falling-in-love-again.html">Falling in Love Again</a>
+                <div class="entry-date">
+                    <time datetime="2017-07-23T07:14:00-07:00">July 23, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/07/a-series-of-unexpected-events.html">A Series of Unexpected Events</a>
+                <div class="entry-date">
+                    <time datetime="2017-07-15T10:11:00-07:00">July 15, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/05/personal-writing-challenge-progress.html">Personal Writing Challenge Progress!</a>
+                <div class="entry-date">
+                    <time datetime="2017-05-11T07:26:00-07:00">May 11, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/05/setting-up-personal-writing-challenge.html">Setting Up a Personal Writing Challenge</a>
+                <div class="entry-date">
+                    <time datetime="2017-05-01T10:59:00-07:00">May 1, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/04/my-day-thoughts-on-blogging-for-fiction.html">My Day & Thoughts on Blogging for Fiction Writers</a>
+                <div class="entry-date">
+                    <time datetime="2017-04-22T14:03:00-07:00">April 22, 2017</time>
+                </div>
+            </div></div><h2 id="Productivity & Simplicity" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;Productivity & Simplicity&nbsp;(20)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2020/05/7-simple-organization-tips-for-infps.html">7 Simple Organization Tips for INFPs</a>
+                <div class="entry-date">
+                    <time datetime="2020-05-28T07:18:00-07:00">May 28, 2020</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2020/03/the-digital-detox-project-how-to-have.html">The Digital Detox Project: How to Have Mindful App Usage</a>
+                <div class="entry-date">
+                    <time datetime="2020-03-13T06:00:00-07:00">March 13, 2020</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2020/02/the-digital-detox-project-reducing.html">The Digital Detox Project: Reducing Email Anxiety</a>
+                <div class="entry-date">
+                    <time datetime="2020-02-21T15:00:00-08:00">February 21, 2020</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/12/how-to-combine-digital-notes-with.html">How to Combine Digital Notes with Analog Notes</a>
+                <div class="entry-date">
+                    <time datetime="2019-12-13T07:00:00-08:00">December 13, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/11/too-busy-to-write-here-are-4-flexible.html">Too Busy to Write? Here are 4 Flexible Writing Schedules to Try</a>
+                <div class="entry-date">
+                    <time datetime="2019-11-15T06:30:00-08:00">November 15, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/07/using-journaling-to-transform-how-you.html">Using Journaling to Transform How You Plan for the Day</a>
+                <div class="entry-date">
+                    <time datetime="2019-07-08T05:30:00-07:00">July 8, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2019/04/the-hidden-skill-infps-have-for-saving.html">The Hidden Skill INFPs Have for Saving Money </a>
+                <div class="entry-date">
+                    <time datetime="2019-04-29T06:30:00-07:00">April 29, 2019</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/11/free-half-page-planner-index-notes.html">Free Half-Page Planner Index & Notes Printables</a>
+                <div class="entry-date">
+                    <time datetime="2018-11-12T05:00:00-08:00">November 12, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/10/using-your-writers-intuition-to-plan.html">Using Your Writer's Intuition to Plan Fiction</a>
+                <div class="entry-date">
+                    <time datetime="2018-10-22T05:00:00-07:00">October 22, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/10/free-minimal-half-page-planner.html">Free Minimal Half-Page Planner Printables </a>
+                <div class="entry-date">
+                    <time datetime="2018-10-08T06:00:00-07:00">October 8, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/09/accepting-my-scattered-work-style-as.html">Accepting My Scattered Work Style as an INFP</a>
+                <div class="entry-date">
+                    <time datetime="2018-09-25T11:57:00-07:00">September 25, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/09/how-i-plan-to-slow-down-today.html">How I Plan to Slow Down Today</a>
+                <div class="entry-date">
+                    <time datetime="2018-09-03T07:13:00-07:00">September 3, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/08/why-i-love-simple-daily-gratitude.html">Why I Love Simple Daily Gratitude</a>
+                <div class="entry-date">
+                    <time datetime="2018-08-20T06:00:00-07:00">August 20, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/07/how-im-trying-to-solve-my-biggest.html">How I'm Trying to Solve My Biggest Writing Problems</a>
+                <div class="entry-date">
+                    <time datetime="2018-07-24T06:30:00-07:00">July 24, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/06/how-i-learned-to-plan-as-infp-have.html">How I Learned to Plan as an INFP: Have a Reminders List </a>
+                <div class="entry-date">
+                    <time datetime="2018-06-26T05:00:00-07:00">June 26, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/06/how-i-learned-to-plan-as-infp.html">How I Learned to Plan as an INFP: An Introduction</a>
+                <div class="entry-date">
+                    <time datetime="2018-06-12T04:30:00-07:00">June 12, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/05/learning-to-work-along-with-way-i-feel.html">Learning to Work Along With the Way I Feel </a>
+                <div class="entry-date">
+                    <time datetime="2018-05-15T05:47:00-07:00">May 15, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2018/04/creative-and-disorganized-here-are.html">Creative and Disorganized? Here are Resources I've Found Helpful</a>
+                <div class="entry-date">
+                    <time datetime="2018-04-09T07:06:00-07:00">April 9, 2018</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2017/10/how-to-focus-on-what-you-do-best-when.html">How to Focus On What You Do Best When Creating Stories</a>
+                <div class="entry-date">
+                    <time datetime="2017-10-06T12:29:00-07:00">October 6, 2017</time>
+                </div>
+            </div><div class="tag-entry">
+                <a href="/2016/07/diy-planner.html">DIY Planner</a>
+                <div class="entry-date">
+                    <time datetime="2016-07-08T07:00:00-07:00">July 8, 2016</time>
+                </div>
+            </div></div><h2 id="Story Excerpts" class="linked-section">
+        <i class="fas fa-tag" aria-hidden="true"></i>
+        &nbsp;Story Excerpts&nbsp;(1)
+    </h2>
+    <div class="post-list"><div class="tag-entry">
+                <a href="/2016/10/the-blue-room-cafe.html">The Blue Room Cafe</a>
+                <div class="entry-date">
+                    <time datetime="2016-10-28T09:52:00-07:00">October 28, 2016</time>
+                </div>
+            </div></div></div>
+
+      
+    </div>
+  </div>
+</div>
+
+
+    <footer>
+  <div class="container-md beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      <ul class="list-inline text-center footer-links"><li class="list-inline-item">
+    <a href="/feed.xml" title="RSS">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">RSS</span>
+    </a>
+  </li><li class="list-inline-item">
+    <a href="mailto:arcadiapage@gmail.com" title="Email me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Email me</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://twitter.com/arcadiapage" title="Twitter">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Twitter</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://www.instagram.com/arcadiapage" title="Instagram">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Instagram</span>
+   </a>
+  </li></ul>
+
+      
+      <p class="copyright text-muted">
+      
+        Arcadia Page
+        &nbsp;&bull;&nbsp;
+      
+      2020
+
+      
+        &nbsp;&bull;&nbsp;
+        <a href="http://localhost:4000/">www.arcadiapage.com</a>
+      
+
+      
+      </p>
+      <!-- Please don't remove this, keep my open source work credited :) -->
+      <p class="theme-by text-muted">
+        Theme by
+        <a href="https://beautifuljekyll.com">beautiful-jekyll</a>
+      </p>
+<script async defer data-pin-hover="true" data-pin-tall="true" data-pin-round="true" src="//assets.pinterest.com/js/pinit.js"></script>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+    
+  
+    
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+
+  
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script src="/assets/js/main.js"></script>
+    
+  
+
+
+
+
+
+
+  
+  </body>
+</html>

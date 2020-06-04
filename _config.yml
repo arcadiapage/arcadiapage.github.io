@@ -1,71 +1,217 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# --- Basic options --- #
 
-# Site language
-lang: en-US
+# Name of website
+title: Arcadia Page | Writer | Artist ❤️
 
-# Site title
-title: "Arcadia Page ❤️"
+# Short description of your site
+description: Writer and Comic Artist
 
-# A description of your site for meta tag, search engine results.
-description: "Author of Idealist Dreams and creator of the webcomic Mascara"
+# Your name to show in the footer
+author: Arcadia Page
 
-# The subpath of your site, e.g. /blog, for generating urls.
-baseurl: ""
+#-- - Show related Posts
+show_related_posts:   true
 
-# The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://arcadiapage.github.io"
+# --- List of links in the navigation bar --- #
 
-# Favicon
-favicon: images/favicon.png
+navbar-links:
+  
+  Books: "books"
+  Coffee ❤️: "https://www.buymeacoffee.com/arcadiapage"
+  Subscribe: "https://tinyletter.com/arcadiapage"
+  Resources:
+   - Contact: "aboutme"
+   - Archives:  "tags"
+   - Disclosure: "disclosure"
+# --- Logo --- #
 
-# Google Analytics id, e.g. "UA-NNNNNNNN-N"
-google_analytics: ""
+# Image to show in the navigation bar - works best with a square image
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/assets/img/avatar-icon.jpg"
 
-# Site navigation - each item must have a title and a url.
-navigation:
-  - text: Home
-    url: /
-  - text: About
-    url: /about/
-  - text: Style Guide
-    url: /style-guide/
-  - text: Tags
-    url: /tags/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+# By default, the image is cut into a circle. You can disable this behaviour here.
+round-avatar: true
 
-# The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+# If you want to have an image logo in the top-left corner instead of the title text,
+# then specify the following parameter
+# title-img: /assets/img/Blog-header.png
 
-# Colors
-accent_color: '#dcd6f7'
 
-# Site footer
-footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
-  has_social: true
+# --- Footer options --- #
 
-# Plugins
+# Select the social network links that you want to show in the footer.
+# Uncomment the links you want to show and add your information to each one.
+# If you don't want to show a link to an RSS feed, set rss to "false".
+social-network-links:
+  email: "arcadiapage@gmail.com"
+# facebook: deanattali
+# github: daattali
+  twitter: arcadiapage
+  rss: true
+#  reddit: yourname
+#  linkedin: daattali
+#  xing: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: deanat78
+  instagram: arcadiapage
+#  youtube: user/deanat78
+#  spotify: yourname
+#  telephone: +14159998888
+#  steam: deanat78
+#  twitch: yourname
+#  yelp: yourname
+#  telegram: yourname
+#  calendly: yourname
+
+# --- General options --- #
+
+# Select which social network share links to show in posts
+share-links-active:
+  twitter: true
+  facebook: true
+  
+
+# How to display the link to your website in the footer
+# Remove this if you don't want a link in the footer
+url-pretty: "www.arcadiapage.com"
+
+# Create a "tags" index page and make tags on each post clickable
+link-tags: true
+
+# Excerpt Word Length - Truncates the excerpt to the specified number of words on the index page
+excerpt_length: 50
+
+# --- Colours / background image --- #
+
+# Personalize the colors in your website. Colour values can be any valid CSS colour
+
+navbar-col: "#af8baf"
+navbar-text-col: "#404040"
+navbar-border-col: "#EAEAEA"
+page-col: "#FFFFFF"
+link-col: "#6983aa"
+hover-col: "#dbdbdb"
+footer-col: "#f4f4f4"
+footer-text-col: "#777777"
+footer-link-col: "#ac8daf"
+
+# Alternatively, the navbar, footer, and page background can be set to use background images
+# instead of colour
+
+#navbar-img: "/assets/img/pink_rice.png"
+#footer-img: "/assets/img/bgimage.png"
+page-img: "/assets/img/so-white.png"
+
+# --- Web Statistics Section --- #
+
+# Fill in your Google Analytics gtag.js ID to track your website using gtag
+#gtag: ""
+
+# Fill in your Google Analytics ID to track your website using GA
+#google_analytics: ""
+
+# Google Tag Manager ID
+#gtm: ""
+
+# Matomo (aka Piwik) Web statistics
+# Uncomment the following section to enable Matomo. The opt-out parameter controls
+# whether or not you want to allow users to opt out of tracking.
+#matomo:
+#  site_id: "9"
+#  uri: "demo.wiki.pro"
+#  opt-out: true
+
+# --- Comments --- #
+
+# To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
+disqus: "arcadiapage"
+
+# To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
+#fb_comment_id: ""
+
+# To use Utterances comments: (0) uncomment the following section, (1) fill in
+# "repository" (make sure the repository is public), (2) Enable Issues in your repository,
+# (3) Install the Utterances app in your repository https://github.com/apps/utterances
+# See more details about the parameters below at https://utteranc.es/
+#utterances:
+#  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
+#  issue-term: title   # Mapping between blog posts and GitHub issues
+#  theme: github-light # Utterances theme
+#  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
+
+# To use Staticman comments, first invite `staticmanlab` as a collaborator to your repository and
+# accept the invitation by going to `https://staticman3.herokuapp.com/v3/connect/github/<username>/<repo-name>`.
+# Then uncomment the following section and fill in "repository", "branch", and "endpoint".
+# If you want to use reCaptcha for staticman (optional for spam protection), then fill
+# in the "siteKey" and "secret" parameters below and also in `staticman.yml`.
+# See more details at https://staticman.net/
+#staticman:
+#  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+#  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+#  endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
+#  reCaptcha:
+#    siteKey  : # Use your own site key, you need to apply for one on Google
+#    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
+
+# --- Misc --- #
+
+# Character used to separate site title and description in HTML document title
+# and RSS feed title
+title-separator: "-"
+
+# Ruby Date Format to show dates of posts
+date_format: "%B %-d, %Y"
+
+# Facebook App ID
+#fb_app_id: ""
+
+
+# --- You don't need to touch anything below here (but you can if you want) --- #
+
+# Output options (more information on Jekyll's site)
+timezone: "America/Vancouver"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 6
+paginate_path: /page:num/
+
+kramdown:
+  input: GFM
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+      readtime: true # add estimated reading time on all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "page"
+      show-avatar: true
+
+# Exclude these files from production site
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - docs/
+
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
 
-# http://jekyllrb.com/docs/pagination/
-paginate: 3
-paginate_path: '/page:num/'
-
-
-# Permalinks
-permalink: /:title
-
-# Conversion
-markdown: kramdown
-
-# Sass
-sass:
-  sass_dir: _sass
-  style: compressed
+# Beautiful Jekyll / Dean Attali
+# 2fc73a3a967e97599c9763d05e564189
