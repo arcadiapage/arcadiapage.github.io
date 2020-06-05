@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: Arcadia Page | Writer | Artist ❤️
+title: Arcadia Page 🖤
 
 # Short description of your site
 description: Writer and Comic Artist
@@ -17,7 +17,7 @@ show_related_posts:   true
 navbar-links:
   
   Books: "books"
-  Coffee ❤️: "https://www.buymeacoffee.com/arcadiapage"
+  Coffee 🖤: "https://www.buymeacoffee.com/arcadiapage"
   Subscribe: "https://tinyletter.com/arcadiapage"
   Resources:
    - Contact: "aboutme"
