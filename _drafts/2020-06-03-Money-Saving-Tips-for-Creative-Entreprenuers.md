@@ -9,7 +9,9 @@ tags:
 permalink: money-saving-tips-creative-entrepreneurs
 
 ---
-As a writer, I've been engaged in a never-ending fight with the Day Job. Ever since the age of five, I've dreamed of being a working author. I could create stories and books for others to enjoy and that would be my job.
+\[Note: This post contains affiliate links from [bookshop.org]( "https://bookshop.org ") in support of independent bookstores. I earn a commission from these links, but this does not affect your purchases or the price you pay, and I only link to books that I have read and enjoyed.\]
+
+As a writer, I've been engaged in a never-ending fight with the Day Job. Ever since the age of five, I've dreamed of being a working author. I could create stories and books for others and that would be my job.
 
 Despite all of the internal struggles, [having a day job has given me a wonderful amount of stability](https://personalityjunkie.com/10/day-job-artists-creative-types/). But because of changes to the economy due to the virus pandemic, many are clinging to that day job, myself included.
 
@@ -94,6 +96,8 @@ Focus on the beauty of the alternative options you have, instead of on what you'
 
 Also, try building appreciation for items that are worn and used. I'm not talking about holding on to things that need to go in the trash. I'm talking about appreciating items that are still usable that display history or character. The keyboard with the worn-out keys. The t-shirt with the gently fading print. The desk with the slightly banged corners. Think about what you've experienced with those items. Do you really need to buy something shiny and new right now? Are things fine the way they are?
 
+This may sound counter-intuitive but decluttering can also lead to wiser spending decisions in the future. Letting go of unnecessary items can help us get a better picture of what we need in our lives and what we don't. This saves us from wasting money on items that don't fit our goals, personality, or lifestyle. I know people have different opinions about being minimalist on a low income. But my minimalist mindset has helped me to make better decisions on how I use my money, and when you don't have much to work with, decision making is everything. 
+
 ## Step 4: Spend Less on Food
 
 Grocery and food tend to be one of the highest household expenses. Last year, my husband and I spent $150 on pizza. In an earlier attempt to reduce spending, I read **The No Spend Challenge Guide** by Jen Smith. She suggested grocery shopping at low-cost grocery stores, such as Aldi or Walmart.
@@ -114,7 +118,7 @@ Currently, I'm a bit obsessed with buying a $16.00 bag of locally roasted coffee
 
 ## Step 5: Reduce the Bills
 
-After comparing your spending to someone smart with their money or to the chart of Mr. Money Moustache, you may see that you need to reduce some of your bills.
+After comparing your spending with that of someone who is smart with their money or to the chart of Mr. Money Moustache, you may see that you need to reduce some of your bills.
 
 After comparing our spending I was able to successfully reduce our monthly cellphone bill for two phones from $70 a month to around $50, and our Internet bill from $120 to $60. I've listed resources for reasonably priced cellphone services at the end of this post.
 
@@ -128,7 +132,7 @@ Not only is putting money into where you live a better investment, but [commutin
 
 People appreciate items that are made by hand because they show love, care, and skill.
 
-When trying to save money, often creating things by hand will come out cheaper. But some handmade projects are time-consuming. Also if you're knitting or sewing, it can be more expensive than buying the item already made. But I think even if making something by hand takes more time or costs more money, it's still worth the effort in some cases.
+When trying to save money, creating things by hand can come out cheaper at times. But some handmade projects are time-consuming. Also if you're knitting or sewing, it can be more expensive than buying the item already made. But I think even if making something by hand takes more time or costs more money, it's still worth the effort in some cases.
 
 Going handmade helps you to:
 
@@ -161,7 +165,7 @@ Some things we can't do ourselves, and that's okay. The goal is to expand our ba
 Questions to think about:
 
 * Can I make this myself?
-* Can I do this myself? 
+* Can I do this myself?
 * What can I do to make items last longer?
 
 ## Reaping the Rewards
@@ -180,6 +184,6 @@ _Going Handmade:_ [**Lena Corwin's Made by Hand** by Lena Corwin](https://booksh
 
 _Services that will save money on your phone bill:_ [Ting](https://z60ggs9jt321.ting.com/) (This is an affiliate link that will give you a $25 credit and me a small commission. This is my current cellphone provider!), [GoogleFi](), and [Mint]().
 
-_My favorite online savings account services:_ [Smarty Pig](https://www.smartypig.com/), [Self]()
+_My favorite online savings account and credit services:_ [Smarty Pig](https://www.smartypig.com/), [Self]()
 
 _For when you can't do it all yourself:_ [Simbi]( "https://simbi.com/")
