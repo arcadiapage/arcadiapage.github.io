@@ -6,7 +6,7 @@ tags:
 - Productivity & Simplicity
 - Creative Business
 - Creative Life
-permalink: ways-to-work-less-and-write-more
+permalink: money-saving-tips-creative-entrepreneurs
 
 ---
 Money-Saving Tips for Creative Entrepreneurs
@@ -40,8 +40,6 @@ For me, book spending is the area to keep an eye on. I used to get emails from B
 Here are more practical ways to reduce overspending:
 
 * If you get ads from retailers that trigger you into spending too much, unsubscribe from them. Searching to see if something you need is on sale saves you money, but getting alerts for every discount that's available causes you to spend more. Getting sales notifications does NOT help you save money. Unsubscribe from those immediately.
-
-
 * If there is a website where you spend too much, set a time limit on it with a site blocker. I like using [Leechblock](https://www.proginosko.com/leechblock/) to limit my time on Amazon. Also using an ad-blocker, like [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), can help you save money and give yourself a much better internet browsing experience.
 * If there is a physical store where you tend to spend too much, see if they have a ship-to-store option, so you can pick up what you need and avoid browsing. I do this with Target.
 
@@ -83,7 +81,7 @@ Here's are some more specific questions I came across as I was questioning my sp
 Some things I've discovered as a result of my questioning:
 
 * I can make a fantastic pour-over coffee at home. Doing my version of the [Misto from Starbucks](https://stories.starbucks.com/stories/2016/caffe-misto-vs-latte/) is my favorite. And I'm fine not having coffee every day.
-* I don't need to buy books. My local library is more than adequate, and as I hone my note-taking skills, I'll always have the information I need. Plus if I want to read the book again, I can always recheck it out. By the way, Amazon Prime also has a nice selection of free ebooks.
+* I don't need to buy books. My local library is more than adequate, and as I hone my note-taking skills, I'll always have the information I need. Plus if I want to read the book again, I can always recheck it out. By the way, Amazon Prime also has a nice selection of free ebooks. However, if a writer makes something that I deeply appreciate, I will buy their work. 
 * With some research, it's possible to find inexpensive makeup that looks great. And I'm okay with wearing less make-up in general.
 * [I don't need to spend much on home decor](https://lifehacker.com/how-can-i-turn-my-boring-digs-into-an-awesome-well-des-5888862). Putting photographs, handmade artwork, found items, and items I own on display is enough to make an impact. Need some inspiration? [Check out this neither minimalist or maximalist home on Apartment Therapy]().
 * My husband and I don't need to eat out every week. Once a month is fine.
@@ -120,7 +118,7 @@ Currently, I'm a bit obsessed with buying a $16.00 bag of locally roasted coffee
 
 After comparing your spending to someone smart with their money or to the chart of Mr. Money Moustache, you may see that you need to reduce some of your bills.
 
-After comparing our spending I was able to successfully reduce our cellphone bill for two phones from $70 a month to around $50, and our Internet bill from $120 to $60. I've listed resources for reasonably priced cellphone services at the end of this post.
+After comparing our spending I was able to successfully reduce our monthly cellphone bill for two phones from $70 a month to around $50, and our Internet bill from $120 to $60. I've listed resources for reasonably priced cellphone services at the end of this post.
 
 If you want to reduce your Internet bill, simply do an online search for, "Negotiate bill (insert name of your internet service)." Then you will get a list of articles that will guide you on how to negotiate with your current internet provider.
 
@@ -138,12 +136,13 @@ Going handmade helps you to:
 
 * Learn a new skill. That is priceless.
 * Be more mindful of the craftsmanship that goes into items you own.
-* Let go of a throw-away mindset. If you spent hours making something yourself, will you be tempted to quickly swap it out for something newer and better? Probably not. Have the ability to repair your items. If you made it, it's easier to fix it.
+* Let go of a throw-away mindset. If you spent hours making something yourself, will you be tempted to quickly swap it out for something newer and better? Probably not. 
+* Have the ability to repair your items. If you made it, it's easier to fix it.
 * Grow in self-confidence.
 
 So here are a few areas where you can try making it by hand.
 
-**Cook for yourself.** Now that I've shared with you Jack Monroe's site, cooking for yourself will be a breeze. Her recipes are so easy to throw together, that it's helped my husband and me to eat out less. I can put together a whole meal from start to finish in 30 minutes. Fast food can wait. Also once you learn how to cook for yourself, you can cook for your friends, saving money from eating out and ordering pizza.
+**Cook for yourself.** Now that I've shared with you Jack Monroe's site, cooking for yourself will be a breeze. Her recipes are so easy to throw together, that it's helped my husband and I to eat out less. I can put together a whole meal from start to finish in 30 minutes. Fast food can wait. Also once you learn how to cook for yourself, you can cook for your friends, saving money from eating out and ordering pizza.
 
 **DIY Household Supplies.** Household supplies, especially organic ones can be expensive. However, it's easy to make your own at the fraction of the cost. I recommend checking out the book [**Essential Glow** by Stephanie Gerber](https://bookshop.org/a/8232/9781681882727). You can also find great recipes for handmade cleaners and beauty products on the [Hello Glow](https://helloglow.co/) blog.
 
@@ -153,7 +152,7 @@ Weaving and gardening are some other great DIY outlets to look into. If you lear
 
 It's super easy to find simple DIY projects online that take little time but enables you to create something that you need and can be proud of. Take full advantage of that.
 
-Going handmade is more than only arts & crafts. Do you have any services that you tend to hire out for such as lawn care or cleaning? Try doing them yourself instead. I know not hiring a house cleaner may seem like it's taking more time away from creative work, but think about it this way.
+Going handmade is more than only arts and crafts. Do you have any services that you tend to hire out for such as lawn care or cleaning? See if it's possible to do them yourself instead. I know not hiring a house cleaner may seem like it's taking more time away from creative work, but think about it this way.
 
 To pay for that lawn care service or house cleaner, you will need to work longer hours at your job or will have to make more money from your art. If you're already an earning creative, doing those services yourself will lower the bar of what you need to earn to have a livable income. If you lower the bar of your income, it will relieve the pressure of creating and selling enough work.
 
@@ -167,11 +166,11 @@ Questions to think about:
 
 ## Reaping the Rewards
 
-At first, it will take a little bit of work, but after following these tips, you will find that you have more money in the bank in a relatively short time. My husband and I made most of these changes in December of 2019 and because of them, we've been able to have an interest-earning savings account for the first time in our 7 years of marriage and are finally able to start building our credit. 
+At first it will take a little bit of work, but after following these tips, you will find that you have more money in the bank in a relatively short time. My husband and I made most of these changes in December of 2019 and because of them, we've been able to have an interest-earning savings account for the first time in our 7 years of marriage and are finally able to start building our credit.
 
 Don't rush to spend that money you save at the store. Use it to get better healthcare and bank it. Learn about HSAs and interest earning savings accounts.
 
-When you're starting as a writer or an artist, you're not going to make much money. Living a simple and fulfilling lifestyle will make those early profits go further. Also your earning goals will fall into a reachable range. How exciting is that?
+When you're starting out as a writer or an artist, you're not going to make much money. Living a simple and fulfilling lifestyle will make those early profits go further. Also your earning goals will fall into a reachable range. How exciting is that?
 
 ## Other Recommended Resources
 
@@ -179,7 +178,7 @@ _Cookbooks to reduce eating out:_ [**The Mason Jar Cookbook** by Amy Fazio](), *
 
 _Going Handmade:_ [**Lena Corwin's Made by Hand** by Lena Corwin](https://bookshop.org/a/8232/9781617690594), [**Hello Tokyo** by Ebony Bizys](https://bookshop.org/a/8232/9781419723957), [A Beautiful Mess blog]().
 
-_Services that will save money on your phone bill:_ [Ting](https://z60ggs9jt321.ting.com/) (This is an affiliate link that will give you a $25 credit and me a small commission. This is my current cellphone provider!), [GoogleFi](), and [Mint](). 
+_Services that will save money on your phone bill:_ [Ting](https://z60ggs9jt321.ting.com/) (This is an affiliate link that will give you a $25 credit and me a small commission. This is my current cellphone provider!), [GoogleFi](), and [Mint]().
 
 _My favorite online savings account services:_ [Smarty Pig](https://www.smartypig.com/), [Self]()
 
