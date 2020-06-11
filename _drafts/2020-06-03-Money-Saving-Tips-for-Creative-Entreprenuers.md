@@ -9,8 +9,6 @@ tags:
 permalink: money-saving-tips-creative-entrepreneurs
 
 ---
-Money-Saving Tips for Creative Entrepreneurs
-
 As a writer, I've been engaged in a never-ending fight with the Day Job. Ever since the age of five, I've dreamed of being a working author. I could create stories and books for others to enjoy and that would be my job.
 
 Despite all of the internal struggles, [having a day job has given me a wonderful amount of stability](https://personalityjunkie.com/10/day-job-artists-creative-types/). But because of changes to the economy due to the virus pandemic, many are clinging to that day job, myself included.
@@ -19,7 +17,7 @@ However, at the end of last year, my husband and I took some major steps forward
 
 Although I'm under threat of losing the stability I have from my day job, I'm not scared. The spending changes we made have enabled us to live well enough, even on very little. We're living at around 60% - 70%  of our $30,000 income. We have enough money for Amazon Prime, Netflix, and the occasional meal out. This isn't a life of being in the dark ages, but it is a life of simplicity, balance, and setting limits.
 
-I realize that right now many artists and creatives are going through a difficult time, especially those who may be losing their more stable sources of income. If you're working as an artist and are having trouble with making ends meet, this post could be helpful for you, especially if paired with getting some government assistance.
+I realize that right now many artists and creatives are going through a difficult time, especially those who may be losing their more stable sources of income. If you're working as an artist and are having trouble with making ends meet, this post could be helpful for you, especially if paired with government assistance.
 
 Living an inexpensive and fulfilling life is easier than you think, especially if you live in western society. It's amazing what you can do. Just keep an open mind and an experimental attitude.
 
@@ -81,7 +79,7 @@ Here's are some more specific questions I came across as I was questioning my sp
 Some things I've discovered as a result of my questioning:
 
 * I can make a fantastic pour-over coffee at home. Doing my version of the [Misto from Starbucks](https://stories.starbucks.com/stories/2016/caffe-misto-vs-latte/) is my favorite. And I'm fine not having coffee every day.
-* I don't need to buy books. My local library is more than adequate, and as I hone my note-taking skills, I'll always have the information I need. Plus if I want to read the book again, I can always recheck it out. By the way, Amazon Prime also has a nice selection of free ebooks. However, if a writer makes something that I deeply appreciate, I will buy their work. 
+* I don't need to buy books. My local library is more than adequate, and as I hone my note-taking skills, I'll always have the information I need. Plus if I want to read the book again, I can always recheck it out. By the way, Amazon Prime also has a nice selection of free ebooks. However, if a writer makes something that I deeply appreciate, I will buy their work.
 * With some research, it's possible to find inexpensive makeup that looks great. And I'm okay with wearing less make-up in general.
 * [I don't need to spend much on home decor](https://lifehacker.com/how-can-i-turn-my-boring-digs-into-an-awesome-well-des-5888862). Putting photographs, handmade artwork, found items, and items I own on display is enough to make an impact. Need some inspiration? [Check out this neither minimalist or maximalist home on Apartment Therapy]().
 * My husband and I don't need to eat out every week. Once a month is fine.
@@ -136,7 +134,7 @@ Going handmade helps you to:
 
 * Learn a new skill. That is priceless.
 * Be more mindful of the craftsmanship that goes into items you own.
-* Let go of a throw-away mindset. If you spent hours making something yourself, will you be tempted to quickly swap it out for something newer and better? Probably not. 
+* Let go of a throw-away mindset. If you spent hours making something yourself, will you be tempted to quickly swap it out for something newer and better? Probably not.
 * Have the ability to repair your items. If you made it, it's easier to fix it.
 * Grow in self-confidence.
 
@@ -158,15 +156,17 @@ To pay for that lawn care service or house cleaner, you will need to work longer
 
 When it comes to the creative process, if you find yourself struggling with focus, take a break to do some crafting, cooking, or gardening. I've found that taking a break to create with my hands or doing physical activity helps me to settle my mind and regain my focus.
 
+Some things we can't do ourselves, and that's okay. The goal is to expand our basic skill set so that we can save money by removing unnecessary services.
+
 Questions to think about:
 
 * Can I make this myself?
-* Can I do this myself?
+* Can I do this myself? 
 * What can I do to make items last longer?
 
 ## Reaping the Rewards
 
-At first it will take a little bit of work, but after following these tips, you will find that you have more money in the bank in a relatively short time. My husband and I made most of these changes in December of 2019 and because of them, we've been able to have an interest-earning savings account for the first time in our 7 years of marriage and are finally able to start building our credit.
+At first it will take a little bit of work, but after following these tips you will find that you have more money in the bank in a relatively short time. My husband and I made most of these changes in December of 2019 and because of them, we've been able to have an interest-earning savings account for the first time in our 7 years of marriage and are finally able to start building our credit.
 
 Don't rush to spend that money you save at the store. Use it to get better healthcare and bank it. Learn about HSAs and interest earning savings accounts.
 
