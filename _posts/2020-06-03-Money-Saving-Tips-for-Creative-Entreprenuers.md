@@ -9,8 +9,6 @@ tags:
 permalink: money-saving-tips-creative-entrepreneurs
 
 ---
-\[Note: This post contains affiliate links from [bookshop.org]( "https://bookshop.org ") in support of indie bookstores. I earn a commission from these links, but this does not affect the price you pay, and I only link to books that I've enjoyed.\]
-
 As a writer, I've been engaged in a never-ending fight with the Day Job. Ever since the age of five, I've dreamed of being a working author. I could create stories and books for others and that would be my job.
 
 Despite the internal struggle, [having a day job has given me a wonderful amount of stability](https://personalityjunkie.com/10/day-job-artists-creative-types/). But because of changes to the economy due to the virus pandemic, many are clinging to that day job, myself included.
@@ -22,6 +20,8 @@ Although I'm under threat of losing the stability I have from my day job, I'm no
 I realize that right now many artists and creatives are going through a difficult time, especially those who may be losing their more stable sources of income. If you're working as an artist and are having trouble with making ends meet, this post could be helpful for you, especially if paired with government assistance.
 
 Living an inexpensive and fulfilling life is easier than you think, especially if you live in western society. It's amazing what you can do. Just keep an open mind and an experimental attitude.
+
+\[Note: This post contains affiliate links from [bookshop.org]( "https://bookshop.org ") in support of indie bookstores. I earn a commission from these links, but this does not affect the price you pay, and I only link to books that I've enjoyed.\]
 
 ## Step 1: See where the money is going
 
@@ -35,7 +35,7 @@ Do you see any ways that you can be more balanced with your spending? Note any i
 
 When you spot where you are overspending, make a note of how much you would prefer to spend. Then plan to monitor that from now on.
 
-For me, book spending is the area to keep an eye on. I used to get emails from Bookbub. Although it was great knowing what was on sale, in the long run, those sales were not saving me money. It was the number one contributor to my $500 ebook bill. So I unsubscribed. 
+For me, book spending is the area to keep an eye on. I used to get emails from Bookbub. Although it was great knowing what was on sale, in the long run, those sales were not saving me money. It was the number one contributor to my $500 ebook bill. So I unsubscribed.
 
 Here are more practical ways to reduce overspending:
 
