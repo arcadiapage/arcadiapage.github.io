@@ -9,11 +9,11 @@ tags:
 permalink: money-saving-tips-creative-entrepreneurs
 
 ---
-\[Note: This post contains affiliate links from [bookshop.org]( "https://bookshop.org ") in support of independent bookstores. I earn a commission from these links, but this does not affect your purchases or the price you pay, and I only link to books that I have read and enjoyed.\]
+\[Note: This post contains affiliate links from [bookshop.org]( "https://bookshop.org ") in support of indie bookstores. I earn a commission from these links, but this does not affect the price you pay, and I only link to books that I've enjoyed.\]
 
 As a writer, I've been engaged in a never-ending fight with the Day Job. Ever since the age of five, I've dreamed of being a working author. I could create stories and books for others and that would be my job.
 
-Despite all of the internal struggles, [having a day job has given me a wonderful amount of stability](https://personalityjunkie.com/10/day-job-artists-creative-types/). But because of changes to the economy due to the virus pandemic, many are clinging to that day job, myself included.
+Despite the internal struggle, [having a day job has given me a wonderful amount of stability](https://personalityjunkie.com/10/day-job-artists-creative-types/). But because of changes to the economy due to the virus pandemic, many are clinging to that day job, myself included.
 
 However, at the end of last year, my husband and I took some major steps forward in how we manage money. Thanks to these changes, the little bit of money I earn from writing has more of a household impact. It even brings writing full time more within my reach because those changes reduced how much I need to earn to make a livable income.
 
@@ -49,7 +49,7 @@ If clothes are your weakness, check out [The 333 Project](https://bemorewithless
 
 ## Step 2: Question Everything
 
-It's easy to have an "I need it. I want it. I'll buy it" mindset. It can become almost a knee jerk response. "It's on sale. I'll buy it!" But I've come to see that buying an item only because it's on sale is a low bar to set.
+It's easy to have an "I want it. I'll buy it" mindset. It can become almost a knee jerk response. "It's on sale. I'll buy it!" But I've come to see that buying an item only because it's on sale is a low bar to set.
 
 To slow down that automatic response, you may want to ask yourself some questions before you hand over your money, regardless of if the item is on sale or not.
 
@@ -81,7 +81,7 @@ Here's are some more specific questions I came across as I was questioning my sp
 Some things I've discovered as a result of my questioning:
 
 * I can make a fantastic pour-over coffee at home. Doing my version of the [Misto from Starbucks](https://stories.starbucks.com/stories/2016/caffe-misto-vs-latte/) is my favorite. And I'm fine not having coffee every day.
-* I don't need to buy books. My local library is more than adequate, and as I hone my note-taking skills, I'll always have the information I need. Plus if I want to read the book again, I can always recheck it out. By the way, Amazon Prime also has a nice selection of free ebooks. However, if a writer makes something that I deeply appreciate, I will buy their work.
+* I can buy less books. My local library is more than adequate, and as I hone my note-taking skills, I'll always have the information I need. Plus if I want to read the book again, I can always recheck it out. By the way, Amazon Prime also has a nice selection of free ebooks. However, if a writer makes something that I deeply appreciate, I will buy their work.
 * With some research, it's possible to find inexpensive makeup that looks great. And I'm okay with wearing less make-up in general.
 * [I don't need to spend much on home decor](https://lifehacker.com/how-can-i-turn-my-boring-digs-into-an-awesome-well-des-5888862). Putting photographs, handmade artwork, found items, and items I own on display is enough to make an impact. Need some inspiration? [Check out this neither minimalist or maximalist home on Apartment Therapy]().
 * My husband and I don't need to eat out every week. Once a month is fine.
@@ -90,13 +90,13 @@ Some things I've discovered as a result of my questioning:
 
 Try making an unwish-list. This is a wish-list of items that you DON'T need or can do with less of. It's also helpful to note what you can do instead.
 
-For example: _I don't need to buy books because I enjoy supporting my local library. Plus, there is something beautiful about taking time to reread books that I already own and reading my writing._
+For example: _I don't need to buy so many books because I enjoy supporting my local library. Plus, there is something beautiful about taking time to reread books that I already own and reading my writing._
 
 Focus on the beauty of the alternative options you have, instead of on what you're doing without.
 
 Also, try building appreciation for items that are worn and used. I'm not talking about holding on to things that need to go in the trash. I'm talking about appreciating items that are still usable that display history or character. The keyboard with the worn-out keys. The t-shirt with the gently fading print. The desk with the slightly banged corners. Think about what you've experienced with those items. Do you really need to buy something shiny and new right now? Are things fine the way they are?
 
-This may sound counter-intuitive but decluttering can also lead to wiser spending decisions in the future. Letting go of unnecessary items can help us get a better picture of what we need in our lives and what we don't. This saves us from wasting money on items that don't fit our goals, personality, or lifestyle. I know people have different opinions about being minimalist on a low income. But my minimalist mindset has helped me to make better decisions on how I use my money, and when you don't have much to work with, decision making is everything. 
+This may sound counter-intuitive but decluttering can also lead to wiser spending decisions in the future. Letting go of unnecessary items can help us get a better picture of what we need in our lives and what we don't. This saves us from wasting money on items that don't fit our goals, personality, or lifestyle. I know people have different opinions about being minimalist on a low income. But my minimalist mindset has helped me to make better decisions on how I use my money, and when you don't have much to work with, decision making is everything.
 
 ## Step 4: Spend Less on Food
 
