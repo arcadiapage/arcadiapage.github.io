@@ -27,7 +27,7 @@ Living an inexpensive and fulfilling life is easier than you think, especially i
 
 Make a list of all the places you can remember shopping over the past year. Then look them up in your bank account. Filter your search so you can see a year's worth of spending for a single retailer. Calculate the total and write it down. Then look up the next retailer on your list. You may also want to note what category of spending that retailer usually falls under, such as food, clothing, house supplies, etc. It's okay if your totals are rough and not exact.
 
-When doing this, some imbalances will pop out at you. For example, last year I noticed that I had spent $500 on ebooks at Amazon. There's nothing wrong with buying the occasional ebook here and there, but I quickly saw that $500 is way out of balance for our income. My husband had spent over $1000 on board games. We quickly saw that we had some changes to make.
+When doing this, some imbalances will pop out at you. For example, last year I noticed that I had spent $500 on ebooks at Amazon. There's nothing wrong with buying the occasional ebook here and there, but I quickly saw that $500 is way out of balance for our income. My husband had spent over $1000 on board games. We realized that we had some changes to make.
 
 After coming up with your totals, take time to compare your spending with someone who has way better spending habits than you. If you don't know anyone personally, I suggest starting with this eye-opening post from [Mr. Money Moustache](). Take a close look at his spreadsheet and compare categories. Yes, it's from 2014, but I can tell you from personal experience, it still works.  And unlike the two-person household I live in, [this guy has kids](https://www.mrmoneymustache.com/2012/06/01/raising-a-family-on-under-2000-per-year/)!
 
@@ -35,7 +35,7 @@ Do you see any ways that you can be more balanced with your spending? Note any i
 
 When you spot where you are overspending, make a note of how much you would prefer to spend. Then plan to monitor that from now on.
 
-For me, book spending is the area to keep an eye on. I used to get emails from Bookbub. Although it was great knowing what was on sale, in the long run, those sales were not saving me money. It was the number one contributor to my $500 ebook bill. So I unsubscribed. Now I just check the site once in a while to see if there is anything I would enjoy.
+For me, book spending is the area to keep an eye on. I used to get emails from Bookbub. Although it was great knowing what was on sale, in the long run, those sales were not saving me money. It was the number one contributor to my $500 ebook bill. So I unsubscribed. 
 
 Here are more practical ways to reduce overspending:
 
@@ -152,7 +152,7 @@ So here are a few areas where you can try making it by hand.
 
 Weaving and gardening are some other great DIY outlets to look into. If you learn how to garden well, you could reduce your grocery costs. If you're bad at knitting, learning how to weave is a great way to learn how to create textiles for home decor and household items.
 
-It's super easy to find simple DIY projects online that take little time but enables you to create something that you need and can be proud of. Take full advantage of that.
+It's easy to find simple DIY projects online that take little time but enables you to create something that you need and can be proud of. Take full advantage of that.
 
 Going handmade is more than only arts and crafts. Do you have any services that you tend to hire out for such as lawn care or cleaning? See if it's possible to do them yourself instead. I know not hiring a house cleaner may seem like it's taking more time away from creative work, but think about it this way.
 
