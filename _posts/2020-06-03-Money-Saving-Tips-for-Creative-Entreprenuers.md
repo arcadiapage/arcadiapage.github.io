@@ -1,14 +1,17 @@
 ---
+
 layout: post
 title: Money Saving Tips for Creative Entrepreneurs
 author: Arcadia Page
 tags:
+
 - Productivity & Simplicity
 - Creative Business
 - Creative Life
-permalink: money-saving-tips-creative-entrepreneurs
+  permalink: money-saving-tips-creative-entrepreneurs
 
 ---
+
 As a writer, I've been engaged in a never-ending fight with the Day Job. Ever since the age of five, I've dreamed of being a working author. I could create stories and books for others and that would be my job.
 
 Despite the internal struggle, [having a day job has given me a wonderful amount of stability](https://personalityjunkie.com/10/day-job-artists-creative-types/). But because of changes to the economy due to the virus pandemic, many are clinging to that day job, myself included.
@@ -21,7 +24,7 @@ I realize that right now many artists and creatives are going through a difficul
 
 Living an inexpensive and fulfilling life is easier than you think, especially if you live in western society. It's amazing what you can do. Just keep an open mind and an experimental attitude.
 
-\[Note: This post contains affiliate links from [bookshop.org]( "https://bookshop.org ") in support of indie bookstores. I earn a commission from these links, but this does not affect the price you pay, and I only link to books that I've enjoyed.\]
+\[Note: This post contains affiliate links from [bookshop.org](https://bookshop.org) in support of indie bookstores. I earn a commission from these links, but this does not affect the price you pay, and I only link to books that I've enjoyed.\]
 
 ## Step 1: See where the money is going
 
@@ -29,7 +32,7 @@ Make a list of all the places you can remember shopping over the past year. Then
 
 When doing this, some imbalances will pop out at you. For example, last year I noticed that I had spent $500 on ebooks at Amazon. There's nothing wrong with buying the occasional ebook here and there, but I quickly saw that $500 is way out of balance for our income. My husband had spent over $1000 on board games. We realized that we had some changes to make.
 
-After coming up with your totals, take time to compare your spending with someone who has way better spending habits than you. If you don't know anyone personally, I suggest starting with this eye-opening post from [Mr. Money Moustache](). Take a close look at his spreadsheet and compare categories. Yes, it's from 2014, but I can tell you from personal experience, it still works.  And unlike the two-person household I live in, [this guy has kids](https://www.mrmoneymustache.com/2012/06/01/raising-a-family-on-under-2000-per-year/)!
+After coming up with your totals, take time to compare your spending with someone who has way better spending habits than you. If you don't know anyone personally, I suggest starting with this eye-opening post from [Mr. Money Moustache](https://www.mrmoneymustache.com/2015/01/16/exposed-the-mmm-familys-2014-spending/). Take a close look at his spreadsheet and compare categories. Yes, it's from 2014, but I can tell you from personal experience, it still works.  And unlike the two-person household I live in, [this guy has kids](https://www.mrmoneymustache.com/2012/06/01/raising-a-family-on-under-2000-per-year/)!
 
 Do you see any ways that you can be more balanced with your spending? Note any ideas of how to get your spending more closely aligned with his and keep an eye out for areas of overspending.
 
@@ -83,7 +86,7 @@ Some things I've discovered as a result of my questioning:
 * I can make a fantastic pour-over coffee at home. Doing my version of the [Misto from Starbucks](https://stories.starbucks.com/stories/2016/caffe-misto-vs-latte/) is my favorite. And I'm fine not having coffee every day.
 * I can buy less books. My local library is more than adequate, and as I hone my note-taking skills, I'll always have the information I need. Plus if I want to read the book again, I can always recheck it out. By the way, Amazon Prime also has a nice selection of free ebooks. However, if a writer makes something that I deeply appreciate, I will buy their work.
 * With some research, it's possible to find inexpensive makeup that looks great. And I'm okay with wearing less make-up in general.
-* [I don't need to spend much on home decor](https://lifehacker.com/how-can-i-turn-my-boring-digs-into-an-awesome-well-des-5888862). Putting photographs, handmade artwork, found items, and items I own on display is enough to make an impact. Need some inspiration? [Check out this neither minimalist or maximalist home on Apartment Therapy]().
+* [I don't need to spend much on home decor](https://lifehacker.com/how-can-i-turn-my-boring-digs-into-an-awesome-well-des-5888862). Putting photographs, handmade artwork, found items, and items I own on display is enough to make an impact. Need some inspiration? [Check out this neither minimalist or maximalist home on Apartment Therapy](https://www.apartmenttherapy.com/minimal-and-colorful-australia-house-tour-36697727?utm_source=spotim&utm_medium=spotim_recirculation&spotim_referrer=recirculation).
 * My husband and I don't need to eat out every week. Once a month is fine.
 
 ## Step 3: Build Appreciation
@@ -108,7 +111,7 @@ So now I shop at Aldi regularly, and I enjoy it. They have a variety of healthy 
 
 One thing I've learned is not to rely on sales papers to tell me what to buy. Instead, I focus on making meals with simple, inexpensive ingredients. When the ingredients are inexpensive across the board, it's easy to save on groceries regardless of where you shop.
 
-If you're looking for recipes that are fast, inexpensive, and healthy, I highly recommend checking out the blog of [Jack Monroe](). Combining her recipes with shopping at a low-cost grocery store is a sure way to significantly reduce your grocery bill. I can find most of the ingredients for her recipes at Aldi.
+If you're looking for recipes that are fast, inexpensive, and healthy, I highly recommend checking out the blog of [Jack Monroe](https://cookingonabootstrap.com/). Combining her recipes with shopping at a low-cost grocery store is a sure way to significantly reduce your grocery bill. I can find most of the ingredients for her recipes at Aldi.
 
 Since her site is British, [American readers may find this conversion chart helpful](https://www.errenskitchen.com/cooking-conversions/cups-to-grams-and-oz/). Canned items in her recipes can be replaced with fresh if you wish. If you need to add meat to a vegetarian dish, I've found it works well when I add chicken to recipes with chickpeas and black beans, and beef to recipes with kidney beans and baked beans. Play around and see what you come up with. Her recipes are flexible, and soon you'll find yourself eating at home more, getting creative in the kitchen, and wasting less food overall.
 
@@ -178,12 +181,12 @@ When you're starting out as a writer or an artist, you're not going to make much
 
 ## Other Recommended Resources
 
-_Cookbooks to reduce eating out:_ [**The Mason Jar Cookbook** by Amy Fazio](), **Real Simple Meals Made Easy** by Renee Schettler.
+_Cookbooks to reduce eating out:_ [**The Mason Jar Cookbook** by Amy Fazio](https://bookshop.org/a/8232/9781510704251), **Real Simple Meals Made Easy** by Renee Schettler.
 
-_Going Handmade:_ [**Lena Corwin's Made by Hand** by Lena Corwin](https://bookshop.org/a/8232/9781617690594), [**Hello Tokyo** by Ebony Bizys](https://bookshop.org/a/8232/9781419723957), [A Beautiful Mess blog]().
+_Going Handmade:_ [**Lena Corwin's Made by Hand** by Lena Corwin](https://bookshop.org/a/8232/9781617690594), [**Hello Tokyo** by Ebony Bizys](https://bookshop.org/a/8232/9781419723957), [A Beautiful Mess blog](https://abeautifulmess.com/category/home-decor).
 
-_Services that will save money on your phone bill:_ [Ting](https://z60ggs9jt321.ting.com/) (This is an affiliate link that will give you a $25 credit and me a small commission. This is my current cellphone provider!), [GoogleFi](), and [Mint]().
+_Services that will save money on your phone bill:_ [Ting](https://z60ggs9jt321.ting.com/) (This is an affiliate link that will give you a $25 credit and me a small commission. This is my current cellphone provider!), [GoogleFi](https://fi.google.com/about/), and [Mint](https://www.mintmobile.com/).
 
-_My favorite online savings account and credit services:_ [Smarty Pig](https://www.smartypig.com/), [Self]()
+_My favorite online savings account and credit services:_ [Smarty Pig](https://www.smartypig.com/), [Self](https://www.self.inc/)
 
-_For when you can't do it all yourself:_ [Simbi]( "https://simbi.com/")
+_For when you can't do it all yourself:_ [Simbi](https://simbi.com/)
