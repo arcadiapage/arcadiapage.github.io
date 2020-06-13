@@ -1,8 +1,7 @@
 ---
-
 layout: post
-title: "Money Saving Tips for Creative Entrepreneurs"
 author: Arcadia Page
+title: Money Saving Tips for Creative Entreprenuers 
 tags:
 
 - Productivity & Simplicity
