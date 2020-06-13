@@ -19,3 +19,5 @@ fields:
   config:
     required: false
   label: Permalink
+pages:
+- _posts/money-saving-tips-for-creative-entrepreneurs.md
