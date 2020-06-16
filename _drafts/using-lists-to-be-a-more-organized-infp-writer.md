@@ -8,17 +8,13 @@ tags:
 - On Writing
 
 ---
-
-
-
-
 Writers have to manage a ton of information. There's information for writing projects, research, and blog posts. There are our personal writing practice and journaling. There's our own habit of reading and the notes that creates. Plus we also want to hold on to ideas and observations--it can all become a crazy mess of stuff!
 
 And as an INFP, I have a ton of ideas that I don't want to lose in my notebooks or computer. By lose, I mean can't find ever again due to disorganization.
 
 *[Note: This post contains affiliate links from [bookshop.org](https://bookshop.org) in support of indie bookstores. I earn a commission from these links, but this does not affect the price you pay, and I only link to books that I've enjoyed.]*
 
-Recently I've read **[L'art de la Liste** by Dominique Loreau](https://bookshop.org/a/8232/9781409182917). **L'Art de la List** is a nice guide on how to record and bring all of that together without being overwhelmed by volume. Lists are the secret to saving information that matters in a way that is concise and easy to find.
+Recently I've read [**L'art de la Liste** by Dominique Loreau](https://bookshop.org/a/8232/9781409182917). **L'Art de la List** is a nice guide on how to record and bring all of that together without being overwhelmed by volume. Lists are the secret to saving information that matters in a way that is concise and easy to find.
 
 Although this isn't exactly a writing book, I think it's one that writers need to read. List-creating techniques can help busy writers to:
 
@@ -75,4 +71,4 @@ If you are a Bullet Journaller, I think this is one of the most exciting ways I'
 
 One note about reading this book: don't be overwhelmed by her list suggestions. Lists can grow new lists on their own. The key is to look at each entry in your list as having the potential of becoming a whole new list. With this kind of approach, you will create a collection of lists that fit your needs because they are based on other lists that you have made.
 
-I recommend reading **[L'art de la Liste** ](https://bookshop.org/a/8232/9781409182917)if you are a writer who is struggling to manage all the information that naturally comes from being a writer.
+I recommend reading [**L'art de la Liste** ](https://bookshop.org/a/8232/9781409182917)if you are a writer who is struggling to manage all the information that naturally comes from being a writer.
