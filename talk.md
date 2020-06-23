@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Let's Talk
-subtitle: From Face to Face to Email
+subtitle: From Face-to-Face to Email
 ---
 # Want to learn more about one of my posts?
 
-Then let's talk face to face! Thanks to Buy Me A Coffee, I'm now offering access to my virtual office where we can chat face to face about one (or 2) questions related to a specific blog post for 15 minutes.  
+Then let's talk face to face! Thanks to Buy Me A Coffee + Remotehour, I'm now offering access to my virtual office. I can chat with you face-to-face for 15 minutes about one (or 2) of your questions related to a specific blog post.  
 
 [Click here to ask me a question.](https://www.buymeacoffee.com/arcadiapage)
 
