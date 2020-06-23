@@ -22,8 +22,8 @@ navbar-links:
   Subscribe: "https://tinyletter.com/arcadiapage"
   Resources:
    - Let's Talk: "talk"
-   - About Me: "aboutme"
    - Archives:  "tags"
+   - About Me: "aboutme"
    - Disclosure: "disclosure"
 # --- Logo --- #
 
