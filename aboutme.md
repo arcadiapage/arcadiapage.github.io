@@ -17,5 +17,5 @@ I am a fan of Japanese culture, an aspiring minimalist, and have this hopelessly
 <br/>
 # Other Blogs
 
-[Manga & Mascara](https://manga-arcadia.blogspot.com/)
+[Manga & Mascara](https://manga-arcadia.blogspot.com/) (No longer updated)
 
