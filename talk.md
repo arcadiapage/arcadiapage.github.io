@@ -7,7 +7,7 @@ subtitle: From Video Chat to Email
 
 Then let's talk face to face! 
 
-Thanks to [Buy Me A Coffee](https://www.buymeacoffee.com/) + [Remotehour](https://remotehour.com/), I'm now offering access to my virtual office. I can chat with you face-to-face for 15 minutes to answer one (or 2) of your questions related to a specific blog post.  
+Thanks to [Buy Me A Coffee](https://www.buymeacoffee.com/) + [Remotehour](https://remotehour.com/), I'm now offering access to my virtual office. We can video chat for 15 minutes to answer one (or 2) of your questions related to a specific blog post.  
 
 [Click here to ask me a question.](https://www.buymeacoffee.com/arcadiapage)🙋‍♀️🙋‍♂️
 
