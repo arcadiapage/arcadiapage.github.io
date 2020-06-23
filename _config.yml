@@ -21,7 +21,8 @@ navbar-links:
   Musings: "https://arcadiapage.bearblog.dev/blog/"
   Subscribe: "https://tinyletter.com/arcadiapage"
   Resources:
-   - Contact: "aboutme"
+   - Let's Talk: ""
+   - About Me: "aboutme"
    - Archives:  "tags"
    - Disclosure: "disclosure"
 # --- Logo --- #
