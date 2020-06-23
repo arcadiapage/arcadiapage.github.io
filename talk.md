@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Let's Talk
-subtitle: From Face-to-Face to Email
+subtitle: From Video Chat to Email
 ---
 # Want to learn more about one of my posts?
 
