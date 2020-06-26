@@ -73,4 +73,4 @@ One note about reading this book: don't be overwhelmed by her list suggestions. 
 
 I recommend reading [**L'art de la Liste** ](https://bookshop.org/a/8232/9781409182917)if you are a writer who is struggling to manage all the information that naturally comes from being a writer.
 
-*Have a question about this blog post? [I'm now offering 1-on-1 Consultations for questions related to any of my blog posts.](https://www.buymeacoffee.com/arcadiapage/e/1001) It's a 15 minute video chat for $10. This is highly experimental fun.🙂 * 
+*Have a question about this blog post? [I'm now offering 1-on-1 Consultations for questions related to any of my blog posts.](https://www.buymeacoffee.com/arcadiapage/e/1001) It's a 15 minute video chat for $10. This is highly experimental fun.🙂*
