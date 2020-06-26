@@ -3,11 +3,11 @@ layout: page
 title: Let's Talk
 subtitle: From Video Chat to Email
 ---
-# Have a question about one of my posts?
+# Have a question related to a specific blog post?
 
-Want to dig deeper into [Recommended Reading for INFP Writers](https://arcadiapage.com/2019/10/recommended-reading-for-infp-writers.html), [My Favorite Reads for Polymaths, Multipotentialites, and Renaissance Souls](https://arcadiapage.com/2018/04/my-favorite-reads-for-polymaths.html), or any other blog posts that you're interested in? Then let's talk face to face! 
+Thanks to Buy Me A Coffee + Remotehour, [I'm now offering 1-on-1 consultations for questions related to any of my blog posts.](https://www.buymeacoffee.com/arcadiapage/e/1001) It's a 15 minute video chat for $10. This is highly experimental fun.
 
-Thanks to [Buy Me A Coffee](https://www.buymeacoffee.com/) + [Remotehour](https://remotehour.com/), you now have access to my virtual office. We can video chat for 15 minutes to answer one (or 2) of your questions related to a specific blog post. And I'm also okay with answering questions related to my posts from my older blog, Manga & Mascara. 
+We can video chat for 15 minutes to answer one (or 2) of your questions related to a specific blog post. And I'm also okay with answering questions related to my posts from my older blog, Manga & Mascara or my random blog, Musings. 
 
 [Click here to ask me a question.](https://www.buymeacoffee.com/arcadiapage/e/1001)🙋‍♀️🙋‍♂️
 
