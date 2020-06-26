@@ -5,11 +5,11 @@ subtitle: From Video Chat to Email
 ---
 # Have a question about one of my posts?
 
-Want to dig deeper into [How I Learned to Plan as an INFP](https://arcadiapage.com/2018/06/how-i-learned-to-plan-as-infp.html), [Recommended Reading for INFP Writers](https://arcadiapage.com/2019/10/recommended-reading-for-infp-writers.html), [My Favorite Reads for Polymaths, Multipotentialites, and Renaissance Souls](https://arcadiapage.com/2018/04/my-favorite-reads-for-polymaths.html), or any other blog posts that you're interested in? Then let's talk face to face! 
+Want to dig deeper into [Recommended Reading for INFP Writers](https://arcadiapage.com/2019/10/recommended-reading-for-infp-writers.html), [My Favorite Reads for Polymaths, Multipotentialites, and Renaissance Souls](https://arcadiapage.com/2018/04/my-favorite-reads-for-polymaths.html), or any other blog posts that you're interested in? Then let's talk face to face! 
 
 Thanks to [Buy Me A Coffee](https://www.buymeacoffee.com/) + [Remotehour](https://remotehour.com/), you now have access to my virtual office. We can video chat for 15 minutes to answer one (or 2) of your questions related to a specific blog post. And I'm also okay with answering questions related to my posts from my older blog, Manga & Mascara. 
 
-[Click here to ask me a question.](https://www.buymeacoffee.com/arcadiapage)🙋‍♀️🙋‍♂️
+[Click here to ask me a question.](https://www.buymeacoffee.com/arcadiapage/e/1001)🙋‍♀️🙋‍♂️
 
 Can't wait to meet you!🙂
 
