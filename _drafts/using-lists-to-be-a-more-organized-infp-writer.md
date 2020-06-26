@@ -72,3 +72,5 @@ If you are a Bullet Journaller, I think this is one of the most exciting ways I'
 One note about reading this book: don't be overwhelmed by her list suggestions. Lists can grow new lists on their own. The key is to look at each entry in your list as having the potential of becoming a whole new list. With this kind of approach, you will create a collection of lists that fit your needs because they are based on other lists that you have made.
 
 I recommend reading [**L'art de la Liste** ](https://bookshop.org/a/8232/9781409182917)if you are a writer who is struggling to manage all the information that naturally comes from being a writer.
+
+## Have a question related to a specific blog post? [I'll be happy do a 15 minute video chat session to discuss one (or 2) of your questions.](https://www.buymeacoffee.com/arcadiapage/e/1001)
