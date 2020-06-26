@@ -12,19 +12,19 @@ Writers have to manage a ton of information. There's information for writing pro
 
 And as an INFP, I have a ton of ideas that I don't want to lose in my notebooks or computer. By lose, I mean can't find ever again due to disorganization.
 
-*[Note: This post contains affiliate links from [bookshop.org](https://bookshop.org) in support of indie bookstores. I earn a commission from these links, but this does not affect the price you pay, and I only link to books that I've enjoyed.]*
+_\[Note: This post contains affiliate links from_ [_bookshop.org_](https://bookshop.org) _in support of indie bookstores. I earn a commission from these links, but this does not affect the price you pay, and I only link to books that I've enjoyed.\]_
 
 Recently I've read [**L'art de la Liste** by Dominique Loreau](https://bookshop.org/a/8232/9781409182917). **L'Art de la List** is a nice guide on how to record and bring all of that together without being overwhelmed by volume. Lists are the secret to saving information that matters in a way that is concise and easy to find.
 
 Although this isn't exactly a writing book, I think it's one that writers need to read. List-creating techniques can help busy writers to:
 
-- Capture ideas and observations.
-- Have a simple journaling practice.
-- Have a simple regular writing practice, from testing out descriptions to imaginary conversations.
-- Manage research and information.
-- Plan stories.
+* Capture ideas and observations.
+* Have a simple journaling practice.
+* Have a simple regular writing practice, from testing out descriptions to imaginary conversations.
+* Manage research and information.
+* Plan stories.
 
-If you're also an artist, creating lists is an easy way to bring your writing and art together. 
+If you're also an artist, creating lists is an easy way to bring your writing and art together.
 
 Also as an INFP, working with lists helps us to see how different things are connected. Being aware of patterns and connections is a major part of how we process information.
 
@@ -36,14 +36,14 @@ Notebooks are great for capturing. You just go about your life, jotting down wha
 
 Bullet Journals are also a good way for capturing information. I think when it comes to Bullet Journaling, many people forget that it is at its essence, a capturing system. Your notebook is for capturing. Bullet Journalling is for capturing. So yes, it's going to be crazy and ugly. That's the nature of it.
 
-For a long time, I've used notebooks for capturing information. However, in her book, Loreau mentions that some older Japanese people like taking notes on a folded piece of paper. Technically, it's a piece of paper that is folded 6 to 8 times to create a little palm-sized pad to write on. 
+For a long time, I've used notebooks for capturing information. However, in her book, Loreau mentions that some older Japanese people like taking notes on a folded piece of paper. Technically, it's a piece of paper that is folded 6 to 8 times to create a little palm-sized pad to write on.
 
 Once I read about it, I knew that this is what I needed in my life. The reasons are:
 
-- This is more portable than a notebook. The folded paper is ridged enough that I can write on it in the palm of my hand, even while standing. It can even fit into the tiny pockets of my jeans (a common issue with women's pants).
-- I can use any paper type I want, from fancy writing paper to artwork ready smooth bristol.
-- The folds of the paper allow me to write more sensitive information where it can't be easily seen.
-- Easy to digitize!!! Recently, I started using Rocketbook notebooks. Yes, they are easier to scan than a standard notebook, but still, I found scanning and cleaning all of those pages a pain. Using one piece of paper is perfect because when it's all full, all I have to do is scan one page front and back. 
+* This is more portable than a notebook. The folded paper is ridged enough that I can write on it in the palm of my hand, even while standing. It can even fit into the tiny pockets of my jeans (a common issue with women's pants).
+* I can use any paper type I want, from fancy writing paper to artwork ready smooth bristol.
+* The folds of the paper allow me to write more sensitive information where it can't be easily seen.
+* Easy to digitize!!! Recently, I started using Rocketbook notebooks. Yes, they are easier to scan than a standard notebook, but still, I found scanning and cleaning all of those pages a pain. Using one piece of paper is perfect because when it's all full, all I have to do is scan one page front and back.
 
 I title my scanned pages by looking at the titles of the notes I took and picking keywords from them. These are the words I'm most likely to use when searching for them on my computer. Along with keywords, I also add to the title of the scan the date of my earliest note.
 
@@ -73,4 +73,4 @@ One note about reading this book: don't be overwhelmed by her list suggestions. 
 
 I recommend reading [**L'art de la Liste** ](https://bookshop.org/a/8232/9781409182917)if you are a writer who is struggling to manage all the information that naturally comes from being a writer.
 
-*Have a question related to a specific blog post? [I'll be happy do a 15 minute video chat session to discuss one (or 2) of your questions.](https://www.buymeacoffee.com/arcadiapage/e/1001)
+*Have a question related to a specific blog post? [I'll be happy to do a 15-minute video chat to discuss one (or 2) of your questions. Can't wait to meet you!🙂](https://www.buymeacoffee.com/arcadiapage/e/1001)*
