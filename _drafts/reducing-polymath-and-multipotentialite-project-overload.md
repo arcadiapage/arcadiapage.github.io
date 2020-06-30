@@ -2,7 +2,8 @@
 layout: post
 title: Reducing Polymath and Multipotentialite Project Overload
 subtitle: Finding Balance When Wanting to Do All the Things
-tags: []
+tags:
+- Creative Life
 
 ---
 \[Note: This post contains affiliate links from [bookshop.org](https://bookshop.org) in support of indie bookstores. I earn a commission from these links, but this does not affect the price you pay, and I only link to books that I've enjoyed.\]
