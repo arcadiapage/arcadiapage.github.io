@@ -42,7 +42,7 @@ Even if I was like, "Well, I don't know..." or "I sort of like this..." I decide
 
 And after six months of making painfully little progress on fixing my blouse, after letting go of my unnecessary projects, I was able to finish it up in less than a month.
 
-I also let go of other projects besides my sewing ones. As I result I was able to reach another difficult goal: building a static blog on Github.
+I also let go of other projects besides my sewing ones. As I result I was able to reach another difficult goal: moving my old blogger blog to a new static blog on Github.
 
 Letting go of so many old, abandoned projects was scary, but I'm glad I did.
 
