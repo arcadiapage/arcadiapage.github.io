@@ -32,9 +32,9 @@ This letting-go process was not a thoughtless, "Throw out all the undone project
 
 Instead, I realized that:
 
-\-Some unfinished projects no longer reflect who I am.
-\-Some unfinished projects no longer reflect what I want.
-\-Remixing doesn't feel appealing when you have a lot of old stuff.
+* Some unfinished projects no longer reflect who I am. -
+* Some unfinished projects no longer reflect what I want. 
+* Remixing doesn't feel appealing when you have a lot of old stuff.
 
 I had to look for projects that still made me say, "YES!"
 
@@ -51,9 +51,13 @@ Letting go of the old let in the new.
 **Questions to ask when reducing projects:**
 
 It this project related to something else that I want to learn?
-Do I really have time for this project?
-Do I currently have the funds and resources for it?
-Is there a way I can simplify this project?
+
+Do I really have time for this project? 
+
+Do I currently have the funds and resources for it? 
+
+Is there a way I can simplify this project? 
+
 Does this project fit who I am now?
 
 Are you a polymath or multipotentialite with a bunch of projects going on? How do you manage them?
