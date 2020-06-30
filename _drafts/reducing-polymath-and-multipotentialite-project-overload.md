@@ -5,6 +5,8 @@ subtitle: Finding Balance When Wanting to Do All the Things
 tags: []
 
 ---
+\[Note: This post contains affiliate links from [bookshop.org](https://bookshop.org) in support of indie bookstores. I earn a commission from these links, but this does not affect the price you pay, and I only link to books that I've enjoyed.\]
+
 Not too long ago I read the book [**Goodbye Things** by Fumio Sasaki](https://bookshop.org/a/8232/9780393609035). This was a book that I procrastinated to read because on the surface it looked like extreme minimalism. However, when I finally got around to reading it, I was so inspired by this book that I've read it twice and plan to read it again. 
 
 One of the things that stood out to me is how Sasaki shares that before letting go of these things, he spent much of his time shopping, watching tv, browsing social media, and trying to impress people with his music, movie, and camera collection. But, after letting go of his stuff, he started traveling and learning all kinds of new skills. 
