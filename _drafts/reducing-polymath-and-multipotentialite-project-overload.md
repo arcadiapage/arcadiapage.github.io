@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Decluttering Projects for Polymaths and Multipotentialites '
+title: 'Project Decluttering for Polymaths and Multipotentialites '
 subtitle: Finding Balance When Wanting to Do All the Things
 tags:
 - Creative Life
