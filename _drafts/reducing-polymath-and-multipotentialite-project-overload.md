@@ -32,7 +32,7 @@ This letting-go process was not a thoughtless, "Throw out all the undone project
 
 Instead, I realized that:
 
-* Some unfinished projects no longer reflect who I am. -
+* Some unfinished projects no longer reflect who I am. 
 * Some unfinished projects no longer reflect what I want. 
 * Remixing doesn't feel appealing when you have a lot of old stuff.
 
