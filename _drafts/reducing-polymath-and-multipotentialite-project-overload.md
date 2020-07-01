@@ -60,4 +60,4 @@ Is there a way I can simplify this project?
 
 Does this project fit who I am now?
 
-Are you a polymath or multipotentialite with a bunch of projects going on? How do you manage them?
+**Are you a polymath or multipotentialite with a bunch of projects going on? How do you manage them?**
