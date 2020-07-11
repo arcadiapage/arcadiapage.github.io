@@ -1,15 +1,17 @@
 ---
 layout: page
 title: Let's Talk
-subtitle: From Video Chat to Email
+subtitle:
 ---
-# Have a question related to a specific blog post?
+# Take My 20 Minute 1-on-1 Writing Workshop
 
-Thanks to Buy Me A Coffee + Remotehour, [I'm now offering 1-on-1 consultations for questions related to any of my blog posts.](https://www.buymeacoffee.com/arcadiapage/e/1001) It's a 15 minute video chat for $10. This is highly experimental fun.
+Want to explore your writing but don't have much time? This workshop was designed with you in mind.
 
-We can video chat for 15 minutes to answer one (or 2) of your questions related to a specific blog post. And I'm also okay with answering questions related to my posts from my older blog, Manga & Mascara or my random blog, Musings. 
+My 20 Minute 1-on-1 Writing Workshop focuses on intuitive writing techniques. Intuitive writing involves getting in touch with your unique voice as a writer and feeling free to express yourself. The freedom of intuitive writing often brings out new writing styles, ideas, and other things that you didn't even know you had in you.
 
-[Click here to ask me a question.](https://www.buymeacoffee.com/arcadiapage/e/1001)🙋‍♀️🙋‍♂️
+I've been amazed at the positive reviews this workshop has gotten so far. 
+
+[Click here to learn more and sign up!](https://payhip.com/b/9pD0)
 
 Can't wait to meet you!🙂
 
