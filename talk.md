@@ -3,7 +3,7 @@ layout: page
 title: Let's Talk
 subtitle:
 ---
-# Take My 20 Minute 1-on-1 Writing Workshop
+# Take The 20 Minute 1-on-1 Writing Workshop
 
 Want to explore your writing but don't have much time? This workshop was designed with you in mind.
 
