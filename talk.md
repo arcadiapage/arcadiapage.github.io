@@ -5,7 +5,7 @@ subtitle:
 ---
 # Take The 20 Minute 1-on-1 Writing Workshop
 
-Want to explore your writing but don't have much time? This workshop was designed with you in mind.
+Want to explore your writing but don't have much time? Then this workshop was designed for you.
 
 My 20 Minute 1-on-1 Writing Workshop focuses on intuitive writing techniques. Intuitive writing involves getting in touch with your unique voice as a writer and feeling free to express yourself. The freedom of intuitive writing often brings out new writing styles, ideas, and other things that you didn't even know you had in you.
 
