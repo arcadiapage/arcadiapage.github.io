@@ -16,7 +16,6 @@ When I first read that I thought, "What does that even mean?"
 
 However, the more I write, the more I understand.
 
-
 ![Writing](/uploads/the-perfect-pinterest-pin.png){: .mx-auto.d-block :}
 
 Readers may think they're connecting with the writer's style, but in reality, they are connecting with the writer's truth. Readers connect with how clearly they can see you. Writing that gives readers the clearest view of who you are and your inner world is your writing style.
@@ -28,7 +27,7 @@ And with others, it comes out in lush descriptions (aka "flowery" writing).
 
 That truth shows up in different ways for each writer. It's very individual. And that's probably why clarifying style is the number one reason why people take my workshop, although it also can address other writing issues.
 
-Also, style isn't set in stone. It changes as we age and experience different things in life. It also changes according to why you're writing and who you're writing for.
+Also, style isn't set in stone. It changes as we age and experience different things in life. It also changes according to why we're writing and who we're writing for.
 
 So then comes the question, "How do you find your style?"
 
@@ -36,7 +35,7 @@ Here are two main ways:
 
 **Continue to write pieces where you are yourself.**
 
-Journal and free-write regularly. I know this isn't very ground-breaking, but it's true. I've found blogging to be a great way to discover my natural writing style because keeping a blog involves writing a lot regularly. The more you write as yourself, the more you can recognize your voice. In short, write a lot without self-judgment. Take time to write in a place that feels safe to you. 
+Journal and free-write regularly. I know this isn't very ground-breaking, but it's true. I've found blogging to be a great way to discover my natural writing style because keeping a blog involves writing a lot regularly. The more you write as yourself, the more you can recognize your voice. In short, write a lot without self-judgment. Take time to write in a place that feels safe to you.
 
 **Read aloud.**
 
