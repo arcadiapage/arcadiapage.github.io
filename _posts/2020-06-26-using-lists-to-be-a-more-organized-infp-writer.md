@@ -3,7 +3,7 @@ layout: post
 title: Using Lists to Be a More Organized INFP Writer
 subtitle: ''
 tags:
-- 'INFP & HSP '
+- INFP & HSP 
 - Productivity & Simplicity
 - On Writing
 
