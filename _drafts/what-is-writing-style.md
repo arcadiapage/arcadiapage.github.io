@@ -17,7 +17,7 @@ When I first read that I thought, "What does that even mean?"
 However, the more I write, the more I understand.
 
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+![Writing](/uploads/the-perfect-pinterest-pin.png){: .mx-auto.d-block :}
 
 Readers may think they're connecting with the writer's style, but in reality, they are connecting with the writer's truth. Readers connect with how clearly they can see you. Writing that gives readers the clearest view of who you are and your inner world is your writing style.
 
