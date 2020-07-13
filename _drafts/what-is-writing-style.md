@@ -43,7 +43,7 @@ Reading what you write aloud can also help you to hear what kind of voice you ha
 
 Don't be surprised if your natural writing voice is a little different from your daily speaking voice, especially if you're an introvert. I find that my writing voice has more impact and presence than my speaking voice.
 
-As a side-note, sharing your work with kind friends or with an online audience can also help you to hone in on your writing style through feedback.
+As a side-note, sharing your work with kind friends or an online audience can also help you to hone in on your writing style through feedback.
 
 I hope this short post helps you on your journey to finding your writing identity!
 
