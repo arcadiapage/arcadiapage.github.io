@@ -12,7 +12,8 @@ I've sort of listed these books in order. The first few books are about learning
 
 \[Note: This post contains affiliate links from [bookshop.org](https://bookshop.org/) in support of indie bookstores. I earn a commission from these links, but this does not affect what you pay, and I only link to books that I’ve enjoyed.\]
 
-![](/uploads/recommended-reading.png)
+![](/uploads/recommended-reading.png){: .mx-auto.d-block :}
+
 
 # [The Comprehensive INFP Survival Guide by Heidi Priebe](https://bookshop.org/a/8232/9781945796159)
 
