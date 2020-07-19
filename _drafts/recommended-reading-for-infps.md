@@ -12,6 +12,8 @@ I've sort of listed these books in order. The first few books are about learning
 
 \[Note: This post contains affiliate links from [bookshop.org](https://bookshop.org/) in support of indie bookstores. I earn a commission from these links, but this does not affect what you pay, and I only link to books that I’ve enjoyed.\]
 
+![](/uploads/recommended-reading.png)
+
 # [The Comprehensive INFP Survival Guide by Heidi Priebe](https://bookshop.org/a/8232/9781945796159)
 
 This is a good overview of the cognitive functions of INFPs and what all of that means. I like the book written by Priebe on ENFPs a slight bit more, but this book is still quite good. And I like the reminder at the end of the book that INFPs are needed in the world, and what we feel and think matters.
@@ -28,7 +30,7 @@ After learning about inferior functions, this book is a good follow up. It's sho
 
 Not all INFPs are highly sensitive, but many are. If you're often overwhelmed by sounds, smells, or textures, or you are often deeply moved by art and nature, you may be highly sensitive. [Take the HSP questionnaire to see if this book is for you](http://hsperson.com/test/). Finding out about my high sensitivity has helped me to make my environment less draining, and I've learned that half of what I thought was social anxiety was actually over-stimulation. As a high sensation-seeking HSP, I also learned why is so important for me to add more peace and quiet space to my day.
 
-If you are an HSP, you may also want to check out **[Your Rainforest Mind](https://bookshop.org/a/8232/9780692713105)** by Paula Prober and **[Emotional Sensitivity and Intensity](https://bookshop.org/a/8232/9781473656031)** by Imi Lo.
+If you are an HSP, you may also want to check out [**Your Rainforest Mind**](https://bookshop.org/a/8232/9780692713105) by Paula Prober and [**Emotional Sensitivity and Intensity**](https://bookshop.org/a/8232/9781473656031) by Imi Lo.
 
 # [Start Where You Are by Meera Lee Patel ](https://bookshop.org/a/8232/9780399174827)
 
