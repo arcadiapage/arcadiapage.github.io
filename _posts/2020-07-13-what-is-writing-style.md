@@ -16,7 +16,7 @@ When I first read that I thought, "What does that even mean?"
 
 However, the more I write, the more I understand.
 
-![Writing](/uploads/the-perfect-pinterest-pin.png){: .mx-auto.d-block :}
+![](/uploads/the-perfect-pinterest-pin.png){: .mx-auto.d-block :}
 
 Readers may think they're connecting with the writer's style, but in reality, they are connecting with the writer's truth. Readers connect with how clearly they can see you. Writing that gives readers the clearest view of who you are and your inner world is your writing style.
 
@@ -45,6 +45,6 @@ Don't be surprised if your natural writing voice is a little different from your
 
 As a side-note, sharing your work with kind friends or a supportive online audience can also help you to hone in on your writing style through feedback.
 
-I hope this short post helps you on your journey to finding your writing identity! I wish it could have been longer, but really, the subject of writing style isn't as complex as people make it to be. 
+I hope this short post helps you on your journey to finding your writing identity! I wish it could have been longer, but really, the subject of writing style isn't as complex as people make it to be.
 
 And if you would like to work with me, [please click here for more information about my 1-on-1 Writing Workshop.](https://payhip.com/b/9pD0)
