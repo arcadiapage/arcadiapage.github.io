@@ -8,10 +8,9 @@ tags:
 ---
 As an INFP, reading is one of my favorite ways to relax. Not only do I love enjoying fiction or a graphic novel, but I also enjoy reading things that help me to learn a little more about myself. Below are my favorite books that are about or are related to living life as an INFP.
 
-I've sort of listed these books in order. The first few books are about learning what it means to be an INFP. Next are a few more books about self-discovery that may appeal to INFPs, and the last few books are about creative and emotional challenges that INFPs may face. Then at the end, I mention a couple of extra books.
+I've sort of listed these books in order. The first few books are about learning what it means to be an INFP. Next are a few more books about self-discovery that may appeal to INFPs, and the last few books are about creative and emotional challenges that INFPs may face. Then at the end, I mention some extra books.
 
-[Note: This post contains affiliate links from [bookshop.org](https://bookshop.org/) in support of indie bookstores. I earn a commission from these links, but this does not affect what you pay, and I only link to books that I’ve enjoyed.]
-
+\[Note: This post contains affiliate links from [bookshop.org](https://bookshop.org/) in support of indie bookstores. I earn a commission from these links, but this does not affect what you pay, and I only link to books that I’ve enjoyed.\]
 
 # [The Comprehensive INFP Survival Guide by Heidi Priebe](https://bookshop.org/a/8232/9781945796159)
 
@@ -27,9 +26,9 @@ After learning about inferior functions, this book is a good follow up. It's sho
 
 # [The Highly Sensitive Person by Dr. Elaine Aron ](https://bookshop.org/a/8232/9780553062182)
 
-Not all INFPs are highly sensitive, but many are. If you're often overwhelmed by sounds, smells, or textures, or you are often deeply moved by art and nature, you may be highly sensitive. [Take the HSP questionnaire to see if this book is for you](http://hsperson.com/test/). Finding out about my high sensitivity has helped me to make my environment less draining, and I've learned that half of what I thought was social anxiety was actually over-stimulation. As a high sensation-seeking HSP, I also learned why is so important for me to add more peace and quiet space to my day. 
+Not all INFPs are highly sensitive, but many are. If you're often overwhelmed by sounds, smells, or textures, or you are often deeply moved by art and nature, you may be highly sensitive. [Take the HSP questionnaire to see if this book is for you](http://hsperson.com/test/). Finding out about my high sensitivity has helped me to make my environment less draining, and I've learned that half of what I thought was social anxiety was actually over-stimulation. As a high sensation-seeking HSP, I also learned why is so important for me to add more peace and quiet space to my day.
 
-If you are an HSP, you may also want to check out **Your Rainforest Mind** by Paula Prober and **Emotional Sensitivity and Intensity** by Imi Lo. 
+If you are an HSP, you may also want to check out **[Your Rainforest Mind](https://bookshop.org/a/8232/9780692713105)** by Paula Prober and **[Emotional Sensitivity and Intensity](https://bookshop.org/a/8232/9781473656031)** by Imi Lo.
 
 # [Start Where You Are by Meera Lee Patel ](https://bookshop.org/a/8232/9780399174827)
 
@@ -51,20 +50,19 @@ My favorite idea from **Refuse to Choose** is the Scanner Daybook. I've never wr
 
 # Other Reading
 
-**[The Quiet Rise of Introverts](https://bookshop.org/a/8232/9781633536418)** by Brenda Knowles
+[**The Quiet Rise of Introverts**](https://bookshop.org/a/8232/9781633536418) by Brenda Knowles
 
-**[Quiet: The Power of Introverts in a World that Can't Stop Talking](https://bookshop.org/a/8232/9780307352156)** by Susan Cain
+[**Quiet: The Power of Introverts in a World that Can't Stop Talking**](https://bookshop.org/a/8232/9780307352156) by Susan Cain
 
-**[Joy at Work](https://bookshop.org/a/8232/9780316423328)** by Marie Kondo & Scott Sonenshien 
+[**Joy at Work**](https://bookshop.org/a/8232/9780316423328) by Marie Kondo & Scott Sonenshien
 
-**[L'art de la Liste](https://bookshop.org/a/8232/9781409182917)** by Dominique Loreau 
+[**L'art de la Liste**](https://bookshop.org/a/8232/9781409182917) by Dominique Loreau
 
-**[The Clutter Connection](https://bookshop.org/a/8232/9781633538566)** by Cassandra Aarssen 
+[**The Clutter Connection**](https://bookshop.org/a/8232/9781633538566) by Cassandra Aarssen
 
 And of course, a moment of shameless self-promo...
-**[Idealist Dreams: How I Learned to Plan as an INFP](https://payhip.com/b/KrBh)** by Arcadia Page
+[**Idealist Dreams: How I Learned to Plan as an INFP**](https://payhip.com/b/KrBh) by Arcadia Page
 
 # Follow the Rabbit Holes!
 
 As you read these books, you may run into other ideas and topics you want to explore. Don't ignore that urge. Follow the tangents that take you off track. You will be amazed by what you discover.
- 
