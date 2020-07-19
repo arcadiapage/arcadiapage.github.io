@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Recommended Reading For INFPs
-subtitle: ''
+subtitle: My Favorite Books for INFPs
 tags:
 - 'INFP & HSP '
 
