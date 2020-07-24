@@ -3,7 +3,7 @@ layout: post
 title: Recommended Reading For INFPs
 subtitle: My Favorite Books for INFPs
 tags:
-- 'INFP & HSP '
+- INFP & HSP
 
 ---
 As an INFP, reading is one of my favorite ways to relax. Not only do I love enjoying fiction or a graphic novel, but I also enjoy reading things that help me to learn a little more about myself. Below are my favorite books that are about or are related to living life as an INFP.
