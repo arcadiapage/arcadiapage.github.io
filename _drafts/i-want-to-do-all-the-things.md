@@ -3,6 +3,10 @@ layout: post
 title: I Want to Do All the Things
 subtitle: Finding Balance as a Polymath, Multipotentialite & Renaissance Soul
 tags:
+- Productivity & Simplicity
+- Goal Setting
+- Creative Life
+- Creative Business
 - Book Announcements
 
 ---
