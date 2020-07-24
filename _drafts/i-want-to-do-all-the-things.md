@@ -14,7 +14,7 @@ I'm happy to announce the publication of my new ebook, **I Want to Do All the Th
 
 [It's now available at your favorite ebook retailers!](https://payhip.com/b/4ljG)
 
-![](/uploads/all-the-things-pin.png)
+![](/uploads/all-the-things-pin.png){: .mx-auto.d-block :}
 
 Want a preview?
 
