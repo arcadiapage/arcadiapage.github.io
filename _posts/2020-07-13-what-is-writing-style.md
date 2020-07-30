@@ -3,7 +3,7 @@ layout: post
 title: What is Writing Style?
 subtitle: And How to Find It...
 tags:
-- 'On Writing '
+- On Writing 
 
 ---
 Recently, I've been running a [20 Minute 1-on-1 Writing Workshop](https://payhip.com/b/9pD0). Helping others to get in touch with their writing style has been an unexpected adventure! However, there's always that lingering question, "What is style?"
