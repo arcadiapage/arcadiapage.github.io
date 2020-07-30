@@ -19,6 +19,8 @@ If you're an INFP with a burning desire to journal, don't ignore that. I highly 
 
 Many INFP's care deeply about journaling, so here I'm sharing some of the reasons why I like to journal and how that relates to my personality type.
 
+![](/uploads/journaling-helps-me-as-an-infp-writer.png){: .mx-auto.d-block :}
+
 ## Journaling helps me to deal with overwhelm
 
 As an INFP, my primary function is Introverted Feeling and my secondary function is Extroverted Intuition. That means that as an introvert, I need time to process things deeply. However, since I'm always on the lookout for the next new thing, I often take in more external information than I can process. Doing this leads to overwhelm.
@@ -51,15 +53,15 @@ Through writing, I build my personal identity and see who I am at the moment.
 
 ## Journaling is a way to reflect and grow
 
-Journaling also allows me to look back at who I used to be.  Then from that, I can think about what kind of person I want to become. 
+Journaling also allows me to look back at who I used to be.  Then from that, I can think about what kind of person I want to become.
 
-My thoughts and imaginings about the future are my favorite things to journal about. I enjoy daydreaming with my words about where I would like to go and what I would like to do. And when looking back at my old journals, I'm often amazed at how much of that I was able to make happen. 
+My thoughts and imaginings about the future are my favorite things to journal about. I enjoy daydreaming with my words about where I would like to go and what I would like to do. And when looking back at my old journals, I'm often amazed at how much of that I was able to make happen.
 
 ## Journaling makes me a better writer
 
 Once I was talking to an acquaintance of mine who once and a while mentions how he would've liked to become an artist. His big hang-up is that he does not see the point in creating art that isn't sellable or practical. I nodded and smiled because I understood his point of view. But although I understood it, inside I was like, "That's the exact reason why you will never be able to sell any art if you did decide to become an artist!"
 
-The art that artist does without pay and that doesn't serve any "practical" purpose is called PRACTICE. And actually, the practice is the practical purpose. Making art that no one sees helps you to become a better artist. It's like a pianist doing scales. Scales don't make for great music, but they sharpen skills. 
+The art that artist does without pay and that doesn't serve any "practical" purpose is called PRACTICE. And actually, the practice is the practical purpose. Making art that no one sees helps you to become a better artist. It's like a pianist doing scales. Scales don't make for great music, but they sharpen skills.
 
 My messy, confusing, grammar-lacking, emotional journal is my practice. Through journaling I get to practice writing emotions, putting together narratives (even if it is just about what I ate for breakfast), and wordplay. I get to chronicle my internal motivations and see how that turns out for me. It also gives me a place to analyze other people. The results are that I know how to write from the heart, and that's the number one gift that writers have to give to readers.
 
