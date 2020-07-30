@@ -65,4 +65,6 @@ The art that artist does without pay and that doesn't serve any "practical" purp
 
 My messy, confusing, grammar-lacking, emotional journal is my practice. Through journaling I get to practice writing emotions, putting together narratives (even if it is just about what I ate for breakfast), and wordplay. I get to chronicle my internal motivations and see how that turns out for me. It also gives me a place to analyze other people. The results are that I know how to write from the heart, and that's the number one gift that writers have to give to readers.
 
-Are you an INFP who loves to journal? How has journaling helped you?
+How has journaling helped you as an INFP?
+
+[(Check out my 20 Minute 1-on-1 Writing Workshop for more writing help 🖤)](https://payhip.com/b/9pD0)
