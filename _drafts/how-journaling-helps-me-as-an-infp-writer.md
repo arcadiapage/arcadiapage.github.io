@@ -49,13 +49,13 @@ Journaling allows me to look at my values and inspirations from every angle. I c
 
 Through writing, I build my personal identity and see who I am at the moment.
 
-## Journaling is a Way to Reflect and Grow
+## Journaling is a way to reflect and grow
 
 Journaling also allows me to look back at who I used to be.  Then from that, I can think about what kind of person I want to become. 
 
 My thoughts and imaginings about the future are my favorite things to journal about. I enjoy daydreaming with my words about where I would like to go and what I would like to do. And when looking back at my old journals, I'm often amazed at how much of that I was able to make happen. 
 
-## Journaling Makes Me a Better Writer
+## Journaling makes me a better writer
 
 Once I was talking to an acquaintance of mine who once and a while mentions how he would've liked to become an artist. His big hang-up is that he does not see the point in creating art that isn't sellable or practical. I nodded and smiled because I understood his point of view. But although I understood it, inside I was like, "That's the exact reason why you will never be able to sell any art if you did decide to become an artist!"
 
