@@ -20,7 +20,7 @@ Want a preview?
 
 Much of the first chapter of this book was taken from my blog post, [Project Decluttering for Polymaths and Multipotentialites.](https://arcadiapage.com/2020-07-02-reducing-polymath-and-multipotentialite-project-overload/)
 
-I've also recorded a virutal book reading!
+I've also recorded a virtual book reading!
 
 [![](http://img.youtube.com/vi/6z4iYMzriq4/0.jpg)](http://www.youtube.com/watch?v=6z4iYMzriq4 "I Want to Do All the Things Book Reading")
 
