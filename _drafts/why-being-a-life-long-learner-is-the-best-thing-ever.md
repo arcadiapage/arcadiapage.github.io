@@ -18,6 +18,8 @@ But I don't care because being a life-long learner is fantastic and empowering. 
 
 \[Note: This post contains affiliate links from bookshop.org in support of indie bookstores. I earn a commission from these links, but this does not affect what you pay, and I only link to books that I’ve enjoyed.\]
 
+![](/uploads/creative-learning.png)
+
 ## Better Money Management
 
 Last month my husband reviewed our bank account with a surprised look on his face. We were saving more money than ever.
@@ -56,7 +58,7 @@ I don't usually write much about women's health, but it just blows my mind how m
 
 I'm not worried about lacking job skills because anything I need to learn, I can learn quickly. Also, it is absolutely amazing what you can make with your own two hands. Food, music, books, technology, home decor, clothes, cleaning products...Even if you're not that great at something, it's easy to find information on how to be good enough.
 
-I don't feel the need to put in the 10,000 hours to achieve absolute mastery. I'm not looking to be the best in the world, but good enough. Being able to do the basics is usually enough to make amazing things happen. I also have the mindset that there is more than one way to accomplish something. This transforms obstacles into challenges. 
+I don't feel the need to put in the 10,000 hours to achieve absolute mastery. I'm not looking to be the best in the world, but good enough. Being able to do the basics is usually enough to make amazing things happen. I also have the mindset that there is more than one way to accomplish something. This transforms obstacles into challenges.
 
 ## More Humility
 
@@ -66,7 +68,7 @@ People who are better than me are just more juicy resources to suck knowledge fr
 
 I think it's strange how some people shut down their brains once they leave school. Many adults are like, "Woo-hoo! Now that I'm out of school, I don't need to learn nothing!!" Then all they do is put out what they know, no matter how outdated that may be, and refuse to take in anything new.
 
-This is sad because it leaves many people unprepared for a modern world that's in a constant state of change and discovery. It's okay and even desirable not to know it all. 
+This is sad because it leaves many people unprepared for a modern world that's in a constant state of change and discovery. It's okay and even desirable not to know it all.
 
 ## Share the Knowledge
 
