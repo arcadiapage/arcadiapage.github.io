@@ -2,7 +2,8 @@
 layout: post
 title: Why Being a Life-Long Learner is the Best Thing Ever
 subtitle: ''
-tags: []
+tags:
+- Creative Life
 
 ---
 I've spent most of my life acquiring new skills and improving them.
