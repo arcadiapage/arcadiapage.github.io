@@ -22,7 +22,7 @@ However, I muddled through it, and now I'm back at a point where I feel like I'm
 
 So here are my tips for planning your todo's and time when life gets crazy.
 
-![](/uploads/how-plan-when-life-is-chaotic.png)
+![](/uploads/how-plan-when-life-is-chaotic.png){: .mx-auto.d-block :}
 
 \[Note: This post contains affiliate links from bookshop.org in support of indie bookstores. I earn a commission from these links, but this does not affect what you pay, and I only link to books that I’ve enjoyed.\]
 
