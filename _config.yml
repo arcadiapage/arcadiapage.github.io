@@ -55,7 +55,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: arcadiapage
+#  instagram:
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -126,7 +126,7 @@ page-img: "/assets/img/so-white.png"
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-disqus: "arcadiapage"
+# disqus: ""
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
