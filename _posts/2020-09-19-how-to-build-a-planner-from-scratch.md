@@ -132,8 +132,6 @@ So I ordered the goods and transferred my collection of sticky lists to the Filo
 
 ![](/uploads/img_20200912_114130.jpg){: .mx-auto.d-block :}
 
-![](/uploads/img_20200912_114343.jpg){: .mx-auto.d-block :}
-
 These aren't all the lists, but you get the general idea. (As a side note, I configured this notebook for left-handed use. I was surprised by how comfortable it is to start a new sheet on the left side instead of the right.)
 
 ## Other Additions
