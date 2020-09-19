@@ -23,7 +23,11 @@ But it only took me two days to set up a personal system that is simple and work
 
 ## Inbox & Capture
 
-The first thing I did was schedule a time to process inboxes every day.  I created a simple habit tracker to keep me accountable. Will I keep up with marking out the days? I doubt it. I have a bad history with habit trackers. But usually, after a week I can remember to do stuff without much prompting.
+The first thing I did was schedule a time to process inboxes every day.  I created a simple habit tracker to keep me accountable. 
+
+![](/uploads/habit-tracker.jpg)
+
+Will I keep up with marking out the days? I doubt it. I have a bad history with habit trackers. But usually, after a week I can remember to do stuff without much prompting.
 
 Inboxes include email accounts, mail, papers, and other places where information and messages come into your life.
 
@@ -128,11 +132,13 @@ So I ordered the goods and transferred my collection of sticky lists to the Filo
 
 ![](/uploads/img_20200912_114343.jpg)
 
-(As a side note, I configured this notebook for left-handed use. I was surprised by how comfortable it is to start a new sheet on the left side instead of the right.)
+These aren't all the lists, but you get the general idea. (As a side note, I configured this notebook for left-handed use. I was surprised by how comfortable it is to start a new sheet on the left side instead of the right.)
 
 ## Other Additions
 
-Along with copying all of my lists to the Filofax, I also created a Bullet Journal style monthly calendar. 
+Along with copying all of my lists to the Filofax, I also created a Bullet Journal style monthly calendar.
+
+![](/uploads/bujo-monthly.jpg)
 
 I ended up sectioning my lists with dividers like this:
 
@@ -159,7 +165,7 @@ At the front of my binder, I have a stack of blank pages for capturing. They're 
 
 As I've been using this planner for the past week, it's changed a bit. For one thing, I ended up letting go of the This Month list and moved all tasks from it to the Next 7 Days/This Week list. I'm finding that my Next 7 Days list is becoming a running log of things that must get done soon, but that doesn't need to be done today.
 
-I also merged my Sparks Joy list with my Whenever list. I use the inspiration Bujo Signifier (I like to use a heart symbol) for tasks that spark joy.
+I also merged my Sparks Joy list with my Whenever list. I use the inspiration Bujo signifier (I like to use a heart symbol) for tasks that spark joy.
 
 ## What About Notes?
 
