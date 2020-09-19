@@ -56,7 +56,7 @@ As I captured notes and tasks throughout the day, I used [Bullet Journal style s
 
 On day two during my scheduled inbox processing time, I read through the stuff I captured. I saved the tasks and notes that were urgent, needed, or sparked joy. 
 
-I typed up the notes I decided to save into the note-taking app on my computer (Which is currently, Obsidian). I mainly typed the notes that were a sentence or two. For pages of handwritten notes, I scanned them and then added them to my note-taking app. 
+I typed up the notes I decided to save into the note-taking app on my computer (Which is currently, [Obsidian](https://obsidian.md/)). I mainly typed the notes that were a sentence or two. For pages of handwritten notes, I scanned them and then added them to my note-taking app. 
 
 As for tasks, I copied them to a Master Task list, or what I like to call a Reminders list. Since I was starting with nothing, I simply titled another sticky Master Tasks and copied what I wanted to save there. 
 
@@ -78,7 +78,7 @@ Also on day two, I saw that one list for all tasks wasn't going to work, so I di
 - Future Log (of Bullet Journal Fame)
 
 
-As you see, my reminders list became multiple time-oriented lists. 
+As you see, my one Reminders list became multiple time-oriented lists. 
 
 My current projects/goals also became their own lists. 
 
@@ -121,7 +121,7 @@ So I ordered the goods and transferred my collection of sticky lists to the Filo
 (As a side note, I configured this notebook for left-handed use. I was surprised by how comfortable it is to start a new sheet on the left side instead of the right.)
 
 ## Other Additions
-Along with copying all of my lists to the Filofax, I also created a Bullet Journal Style monthly calendar. I ended up sectioning my lists with dividers like this:
+Along with copying all of my lists to the Filofax, I also created a Bullet Journal style monthly calendar. I ended up sectioning my lists with dividers like this:
 
 **Reminders Section**
 - Today
