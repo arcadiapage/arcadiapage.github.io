@@ -13,7 +13,7 @@ My replacement method of using only a calendar and a daily "Must Do" list was gr
 
 After a few weeks of putting up with this, I realized that I was ready to build something more permanent. I don't like the "I can't find my plans" feeling.
 
-![](/uploads/build-a-planner-from-scratch.png)
+![](/uploads/build-a-planner-from-scratch.png){: .mx-auto.d-block :}
 
 That's one of the reasons why Bullet Journaling doesn't work for me. I have a hard time finding my todos among all those notes about other things. Tabs do help, but it's still harder than I would like it to be.
 
@@ -25,9 +25,9 @@ But it only took me two days to set up a personal system that is simple and work
 
 ## Inbox & Capture
 
-The first thing I did was schedule a time to process inboxes every day.  I created a simple habit tracker to keep me accountable. 
+The first thing I did was schedule a time to process inboxes every day.  I created a simple habit tracker to keep me accountable.
 
-![](/uploads/habit-tracker.jpg)
+![](/uploads/habit-tracker.jpg){: .mx-auto.d-block :}
 
 Will I keep up with marking out the days? I doubt it. I have a bad history with habit trackers. But usually, after a week I can remember to do stuff without much prompting.
 
@@ -66,7 +66,7 @@ As for tasks, I copied them to a Master Task list, or what I like to call a Remi
 
 Then I threw away all the sticky pages I used for capturing that day since I had processed all the information on them and no longer needed to save them.
 
-![](/uploads/img_20200912_120741.jpg)
+![](/uploads/img_20200912_120741.jpg){: .mx-auto.d-block :}
 
 Capturing this way helped me to hold on to tasks and notes as soon as they came to mind. But decluttering helped me to only keep what mattered.
 
@@ -85,7 +85,7 @@ Also on day two, I saw that one list for all tasks wasn't going to work, so I di
 
 As you see, my one Reminders list became multiple time-oriented lists.
 
-![](/uploads/stickies.jpg)
+![](/uploads/stickies.jpg){: .mx-auto.d-block :}
 
 My current projects/goals also became their own lists.
 
@@ -126,13 +126,13 @@ The 6 ring binder won out because it can better handle being in my purse. My fol
 
 So I ordered the goods and transferred my collection of sticky lists to the Filofax. I copied each list to a new page.
 
-![](/uploads/img_20200912_114448.jpg)
+![](/uploads/img_20200912_114448.jpg){: .mx-auto.d-block :}
 
-![](/uploads/img_20200912_114049.jpg)
+![](/uploads/img_20200912_114049.jpg){: .mx-auto.d-block :}
 
-![](/uploads/img_20200912_114130.jpg)
+![](/uploads/img_20200912_114130.jpg){: .mx-auto.d-block :}
 
-![](/uploads/img_20200912_114343.jpg)
+![](/uploads/img_20200912_114343.jpg){: .mx-auto.d-block :}
 
 These aren't all the lists, but you get the general idea. (As a side note, I configured this notebook for left-handed use. I was surprised by how comfortable it is to start a new sheet on the left side instead of the right.)
 
@@ -140,7 +140,7 @@ These aren't all the lists, but you get the general idea. (As a side note, I con
 
 Along with copying all of my lists to the Filofax, I also created a Bullet Journal style monthly calendar.
 
-![](/uploads/bujo-monthly.jpg)
+![](/uploads/bujo-monthly.jpg){: .mx-auto.d-block :}
 
 I ended up sectioning my lists with dividers like this:
 
