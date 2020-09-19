@@ -2,7 +2,9 @@
 layout: Post
 title: How to Build a Planner from Scratch
 subtitle: ''
-tags: []
+tags:
+- Creative Life
+- Productivity & Simplicity
 
 ---
 Recently, I shared how my previous planning system totally collapsed in my post [How to Plan When Life is Chaotic](https://arcadiapage.com/2020-08-28-how-to-plan-when-life-is-chaotic/). 
@@ -28,7 +30,7 @@ Inboxes include email accounts, mail, papers, and other places where information
 
 So here are the inboxes I had to deal with:
 
-- Thunderbird (Email. Great for consolidating multiple email inboxes)
+- Email (Thunderbird is great for consolidating multiple email inboxes)
 - Composition notebook (Book notes, Project ideas, and old to-do lists)
 - File system Inbox (I have a designated inbox on my computer for notes I type)
 - Downloads folder
