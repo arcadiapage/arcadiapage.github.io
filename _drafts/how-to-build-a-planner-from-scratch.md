@@ -13,7 +13,7 @@ After a few weeks of putting up with this, I realized that I was ready to build 
 
 That's one of the reasons why Bullet Journaling doesn't work for me. I have a hard time finding my todos among all those notes about other things. Tabs do help, but it's still harder than I would like it to be. 
 
-For some direction for building my new planner, I turned to the *Zen to Done* method by Leo Babauta, which happens to be the backbone of my book [How I Learned to Plan as an INFP](https://payhip.com/b/KrBh).
+For some direction for building my new planner, I turned to the [Zen to Done](https://zenhabits.net/zen-to-done-ztd-the-ultimate-simple-productivity-system/) method by Leo Babauta, which happens to be the backbone of my book [How I Learned to Plan as an INFP](https://payhip.com/b/KrBh).
 
 Revisiting Zen to Done reminded me that planning is a habit that takes time to build. And like many habits, it can fall apart and need rebuilding.  Right now, I'm still rebuilding my planning habit. 
 
@@ -40,7 +40,7 @@ Processing my emails wasn't that hard because I had previously done a lot of wor
 After processing the inboxes that I already had, it was time to add a new inbox: a daily note and task capture method. 
 
 
-## Create a capture method
+## Create a Capture Method
 
 Leo recommends going analog for capturing, mainly because it helps with memory. Although I find digital capturing more exciting, I realized that with my executive functioning challenges, I need to go for all the memory that I can get. 
 
@@ -52,7 +52,7 @@ As I captured notes and tasks throughout the day, I used [Bullet Journal style s
 
 
 
-## Declutter the capture
+## Declutter the Capture
 
 On day two during my scheduled inbox processing time, I read through the stuff I captured. I saved the tasks and notes that were urgent, needed, or sparked joy. 
 
@@ -146,7 +146,7 @@ As I've been using this planner for the past week, it's changed a bit. For one t
 
 I also merged my Sparks Joy list with my Whenever list. I use the inspiration Bujo Signifier (I like to use a heart symbol) for tasks that spark joy. 
 
-## What about notes?
+## What About Notes?
 
 I'm not worried about keeping notes in this planner because the notes I save are synced from my computer to my phone. 
 
