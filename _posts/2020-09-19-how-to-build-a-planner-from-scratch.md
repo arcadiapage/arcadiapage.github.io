@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: How to Build a Planner from Scratch
 subtitle: ''
 tags:
