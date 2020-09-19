@@ -90,7 +90,7 @@ The way I view my life influenced how I divided things up. I just went with what
 
 So if you're trying this out, think about what makes the most sense to you. What information do you need for your tasks? Is it more important for you to know the time tasks need to be done or the urgency?  Or is the context more important (for example, home, work, etc...)? 
 
-## All the stickies! 
+## Let's Create a Planner! 
 
 From day one, I was thinking about what kind of planner I needed for my current life. But after things started looking like this, I decided to take action. 
 
@@ -158,4 +158,4 @@ I think my favorite thing about the design of this is that it encourages letting
 
 I think over the next month I'm going to see the biggest changes in the way I use this planner to manage projects and goals. After using this system for a month, I would like to do a short walk-through video of it to share how I use it in more detail. 
 
-So if you're facing a planning meltdown, I hope this post helps you to get from just making it each day to creating a new way to plan that fits the latest state of your life. 
+So if you're facing a planning meltdown, I hope this post helps you to get from just making it each day to creating a new way to plan that fits the latest state of your life.
