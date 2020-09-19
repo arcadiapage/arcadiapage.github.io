@@ -13,6 +13,8 @@ My replacement method of using only a calendar and a daily "Must Do" list was gr
 
 After a few weeks of putting up with this, I realized that I was ready to build something more permanent. I don't like the "I can't find my plans" feeling.
 
+![](/uploads/build-a-planner-from-scratch.png)
+
 That's one of the reasons why Bullet Journaling doesn't work for me. I have a hard time finding my todos among all those notes about other things. Tabs do help, but it's still harder than I would like it to be.
 
 For some direction for building my new planner, I turned to the [Zen to Done](https://zenhabits.net/zen-to-done-ztd-the-ultimate-simple-productivity-system/) method by Leo Babauta, which happens to be the backbone of my book [How I Learned to Plan as an INFP](https://payhip.com/b/KrBh).
