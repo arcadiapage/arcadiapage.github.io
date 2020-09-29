@@ -61,7 +61,7 @@ Check out what you need to buy or do to make it happen. It's okay if you don't h
 
 As you're visualizing your goals, make sure to remember the reason for your trip. Much like misguided travelers, often when people reach their goal, it may not feel the way they expected.
 
-If you don't want to feel rushed, don't imagine yourself running around doing everything. If you want to feel relaxed, imagine yourself reaching your goal in a relaxed way.
+If you don't want to feel rushed, don't imagine yourself running around doing everything. If you want to feel relaxed, imagine yourself reaching your goal in a relaxed way. What you plan to do and how you do it determines how you feel.
 
 Some may wonder if it's worth it to put so much effort into visualizing goals, and it is! 
 
