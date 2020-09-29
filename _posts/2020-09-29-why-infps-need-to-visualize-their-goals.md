@@ -44,7 +44,7 @@ Thinking about goal setting like going on a trip can help you to
 
 So if you're ready to purposefully visualize your goals, here's how to do it.
 
-1 - **Imagine**. From a traveling point of view, this is when you think, "I really want to visit THAT place." Then your brain starts spinning up images of what you're seeing and doing. You're suddenly eating Ramen in Tokyo. Don't ignore those images. Explore them upside down and inside out.
+1 - **Imagine**. From a traveling point of view, this is when you think, "I really want to visit THAT place." Then your brain starts spinning up images of what you're seeing and doing. You're suddenly eating ramen in Tokyo. Don't ignore those images. Explore them upside down and inside out.
 
 How do you look when you reach your goal? Where are you? Who else is there? What kind of activities are you doing to get there? How do you feel while doing those activities?
 
@@ -56,7 +56,7 @@ What are your thoughts about your goal? What do you hope for?
 
 3 - **Vision Board**. This is the point where would-be travelers collect the destination brochures, language learning materials, and possible prices for travel and lodging, even if they don't have the money or a time frame. Do the same for your goals.
 
-Collect the images of what you want to see, who you want to be, and the information you need. Pinterest works great for this, but you can also download images from the internet and store them in a folder dedicated to your goal. If images don't exist, make sketches. Some people like to place a map or poster of where they want to go on their wall. Do the same with your goal.
+Collect the images of what you want to see, who you want to be, and the information you need. Pinterest works great for this, but you can also download images from the internet and store them in a folder dedicated to your goal. If images don't exist, make sketches. Some people like to place a map, poster, or collage of where they want to go on their wall. Do the same with your goal.
 
 Check out what you need to buy or do to make it happen. It's okay if you don't have the money or time now. Usually, once you know what kind of investment it may take, you can often find ways to accomplish what you need at a reduced cost with whatever time you have. Often these discoveries come via serendipity.
 
@@ -68,7 +68,7 @@ Some may wonder if it's worth it to put so much effort into visualizing goals, a
 
 The key to making the first step towards any goal is to have a strong mental vision. Visualizing builds desire, and desire is the fuel for motivation. If you're lacking motivation for a goal, it may be time to return to your vision and make some adjustments. Adjust it until it lights a fire inside of you.
 
-As an INFP, I also love visualizing my goals in detail, because it makes it easier for me to know how to reach them even without an elaborate plan or a time frame. I hate to admit this, but even if I start with a time frame, I often end up throwing it out.  
+As an INFP, I love visualizing my goals in detail because it makes it easier for me to know how to reach them even without an elaborate plan or a time frame. I hate to admit this, but even if I start with a time frame, I often end up throwing it out.  
 
 After so much visualizing, the fire burning within me is so intense, I reach my goals sooner than I expect because I'm absolutely driven to put in the work. In such a state, trying to stick to a time period holds me back.
 
