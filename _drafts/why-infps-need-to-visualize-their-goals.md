@@ -2,10 +2,15 @@
 layout: post
 title: Why INFPs Need to Visualize Their Goals
 subtitle: ''
-tags: []
+tags:
+- Productivity & Simplicity
+- INFP & HSP
+- Goal Setting
 
 ---
 Like most people who want to accomplish stuff in their life, INFPs have goals. However, one challenging thing about setting goals as an INFP is staying interested long enough to reach it.
+
+![](/uploads/infp-visualize-goals.png){: .mx-auto.d-block :}
 
 I really love thinking of goal setting as like planning a trip.
 
@@ -52,7 +57,7 @@ What are your thoughts about your goal? What do you hope for?
 
 Collect the images of what you want to see, who you want to be, and the information you need. Pinterest works great for this, but you can also download images from the internet and store them in a folder dedicated to your goal. If images don't exist, make sketches. Some people like to place a map or poster of where they want to go on their wall. Do the same with your goal.
 
-Check out what you may need to buy or do to make it happen. It's okay if you don't have the money or time now. Usually, once you know what kind of investment it may take, you can often find ways to accomplish what you need at a reduced cost with whatever time you have. Often these discoveries come via serendipity. 
+Check out what you may need to buy or do to make it happen. It's okay if you don't have the money or time now. Usually, once you know what kind of investment it may take, you can often find ways to accomplish what you need at a reduced cost with whatever time you have. Often these discoveries come via serendipity.
 
 As you're visualizing your goals, make sure to remember the reason for your trip. Much like misguided travelers, often when people reach their goal, it may not feel the way they expected.
 
