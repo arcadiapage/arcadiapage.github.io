@@ -38,12 +38,13 @@ For each major project I've undertaken, from creating stories and books to setti
 Thinking about goal setting like going on a trip can help you to
 
 * Avoid getting distracted from where you really want to go
+* Know how to get back on track if you hit a detour
 * Keep motivated
 * Know what the destination looks like and when milestones are reached
 
 So if you're ready to purposefully visualize your goals, here's how to do it.
 
-1 - **Imagine**. From a traveling point of view, this is when you think, "I really want to visit THAT place." Then your brain starts spinning up images of what you're seeing and doing. Don't ignore those images. Explore them upside down and inside out.
+1 - **Imagine**. From a traveling point of view, this is when you think, "I really want to visit THAT place." Then your brain starts spinning up images of what you're seeing and doing. You're suddenly eating Ramen in Tokyo. Don't ignore those images. Explore them upside down and inside out.
 
 How do you look when you reach your goal? Where are you? Who else is there? What kind of activities are you doing to get there? How do you feel while doing those activities?
 
