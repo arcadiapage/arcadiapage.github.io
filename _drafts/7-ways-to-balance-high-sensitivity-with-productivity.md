@@ -2,7 +2,10 @@
 layout: post
 title: '7 Ways to Balance High Sensitivity with Productivity '
 subtitle: ''
-tags: []
+tags:
+- Creative Life
+- Productivity & Simplicity
+- INFP & HSP
 
 ---
 When my last period of depression was at its worst, I had this on-going feeling of lacking the ability to do what I wanted, no matter how hard I tried. And this wasn't about reaching life-long goals. This feeling extended to simple things like keeping up with chores and taking care of myself.
@@ -14,6 +17,8 @@ From this, I learned an important lesson. As a sensitive person, overwhelm and b
 Getting things done as an HSP can be a delicate balance. It's learning the art of moving forward in life without hurting your mental and physical health.
 
 So here I'm sharing some personal discoveries that have helped me to be a productive and healthy sensitive person. Hopefully, if you're an HSP, you'll find some of these tips helpful too.
+
+![](/uploads/productive-hsp.png){: .mx-auto.d-block :}
 
 ## I need to set my own standards of productivity
 
@@ -67,6 +72,7 @@ However, I've also come to appreciate the gifts within my most irritating sensit
 Although I often don't want to, that fuzzy-brain feeling of overstimulation won't go away until I do.  For me, overstimulation also shows up as sudden tiredness or a general lack of focus. I feel like I can't focus on anything.
 
 My favorite ways of taking a break:
+
 * Naps
 * Exercise
 * Closing my eyes and doing nothing for at least 5 minutes.
@@ -75,7 +81,7 @@ Along these lines, I've also discovered that I must have outdoor time every day 
 
 ## I need to take time to visualize
 
-For sensitive people, visualization can be quite a weapon. I think because we absorb so much of our environment, it's easy to mentally recreate settings and situations in detail. 
+For sensitive people, visualization can be quite a weapon. I think because we absorb so much of our environment, it's easy to mentally recreate settings and situations in detail.
 
 Taking the time to visualize helps me to set goals. Envisioning the results of taking a certain path in my life helps me to sort out what I want to do.
 
@@ -95,6 +101,6 @@ I learned to write nonfiction books by reading a ton of nonfiction books. Lately
 
 I don't learn everything this way, but for me, this is the upside to being sensitive. Learning through immersion enables me to accomplish more without burnout.
 
-I often feel like I'm just relaxing and playing around until I start putting out unique creations of my own, fuelled by what I've been unconsciously taking in. 
+I often feel like I'm just relaxing and playing around until I start putting out unique creations of my own, fuelled by what I've been unconsciously taking in.
 
 So these are the ways that I stay productive and healthy as an HSP. Do you have unique ways of being productive as a highly sensitive person? Feel free to share your thoughts with me via email!
