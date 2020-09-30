@@ -5,7 +5,7 @@ subtitle: ''
 tags: []
 
 ---
-When my last bout of depression was at its worst, I had this on-going feeling of lacking the ability to do what I wanted, no matter how hard I tried. And this wasn't about reaching life-long goals. This feeling extended to simple things like keeping up with chores and taking care of myself.
+When my last period of depression was at its worst, I had this on-going feeling of lacking the ability to do what I wanted, no matter how hard I tried. And this wasn't about reaching life-long goals. This feeling extended to simple things like keeping up with chores and taking care of myself.
 
 Fortunately, I discovered that I am a Highly Sensitive Person, and I immediately took steps to reduce overstimulation. It was a slow healing process, but I owe much my productivity today to honoring my sensitivity.
 
@@ -13,9 +13,9 @@ From this, I learned an important lesson. As a sensitive person, overwhelm and b
 
 Getting things done as an HSP can be a delicate balance. It's learning the art of moving forward in life without hurting your mental and physical health.
 
-So here I'm sharing some personal discoveries that have helped me to be a productive and healthy sensitive person. Hopefully, if you're an HSP, you'll find some of these tips helpful too. 
+So here I'm sharing some personal discoveries that have helped me to be a productive and healthy sensitive person. Hopefully, if you're an HSP, you'll find some of these tips helpful too.
 
-## I need to set my own standard of productivity
+## I need to set my own standards of productivity
 
 The mindset of doing more faster is not for sensitive people. Especially as a writer, I feel the pressure to write as much as I can as quickly as I can. When I was creating webcomics, working fast was my method of operation. As a result, I experienced severe, creative burnout that lasted for years. So here is my new motto:
 
@@ -72,15 +72,15 @@ My favorite ways of taking a break:
 * Exercise
 * Closing my eyes and doing nothing for at least 5 minutes.
 
-Along these lines, I've also discovered that I must have outdoor time every day if possible. My overstimulation disappears the most quickly when I'm in nature.
+Along these lines, I've also discovered that I must have outdoor time every day if possible. My overstimulation disappears the most when I'm in nature.
 
 ## I need to take time to visualize
 
-For sensitive people, visualization can be quite a weapon. I think because we absorb so much of our environment, it's easy to mentally recreate settings and situations in detail. I think this is tied to my visual and auditory sensitivity.
+For sensitive people, visualization can be quite a weapon. I think because we absorb so much of our environment, it's easy to mentally recreate settings and situations in detail. 
 
 Taking the time to visualize helps me to set goals. Envisioning the results of taking a certain path in my life helps me to sort out what I want to do.
 
-I don't only visualize things in my mind. I also visualize on paper by using mindmaps to see relationships between concepts and other things in my life. 
+I don't only visualize things in my mind. I also visualize on paper by using mindmaps to see relationships between concepts and other things in my life.
 
 Seeing how different pursuits affect each other enables me to narrow down the many moving parts of my life to the main pieces that affect everything else.
 
@@ -90,12 +90,12 @@ The reason why overstimulation is an issue for sensitive people is that we take 
 
 I think on some level, all people are sponge-like. However, sensitive people absorb more than the majority of the population. For me, this often shows up as learning that's hard to explain.
 
-I can't explain to you how I learned to draw comics. Drawing comics requires different skills from illustration drawing. It's more than drawing characters--it involves mood, pacing and story expressed visually. All I can say is that I learned how to draw comics by reading a lot of comics.
+I can't explain to you how I learned to draw comics. I never learned it in my art classes at school. Drawing comics requires different skills from illustration drawing. All I can say is that I learned how to draw comics by reading a lot of comics.
 
-I learned to write nonfiction books by reading a ton of nonfiction books. Lately, I've even been able to create original recipes that taste good because I've been cooking a lot.
+I learned to write nonfiction books by reading a ton of nonfiction books. Lately, I've even been able to create original recipes that actually taste good because I've been cooking a lot.
 
 I don't learn everything this way, but for me, this is the upside to being sensitive. Learning through immersion enables me to accomplish more without burnout.
 
-I often feel like I'm just relaxing and playing around until I start putting out similar creations of my own. It wasn't just fun and games after all...
+I often feel like I'm just relaxing and playing around until I start putting out unique creations of my own, fuelled by what I've been unconsciously taking in. 
 
-So these are the ways that I stay productive and healthy as an HSP. Do you have unique ways of being productive as an HSP? Feel free to share your thoughts with me via email!
+So these are the ways that I stay productive and healthy as an HSP. Do you have unique ways of being productive as a highly sensitive person? Feel free to share your thoughts with me via email!
