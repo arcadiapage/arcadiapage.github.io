@@ -67,8 +67,7 @@ However, I've also come to appreciate the gifts within my most irritating sensit
 Although I often don't want to, that fuzzy-brain feeling of overstimulation won't go away until I do.  For me, overstimulation also shows up as sudden tiredness or a general lack of focus. I feel like I can't focus on anything.
 
 My favorite ways of taking a break:
-  - Naps
-
+* Naps
 * Exercise
 * Closing my eyes and doing nothing for at least 5 minutes.
 
