@@ -29,7 +29,7 @@ However, I was able to overcome the roadblocks, and I want to share what has hel
 14. Experiment with different types of writing, from poetry to essays.
 15. Support other writers instead of competing with them. We're all working together.
 16. Support the platforms where you share your writing.
-17. Use [Draft2Digital](https://www.draft2digital.com/)to self-publish. Not only is publishing an ebook there a breeze, but creating a print book is just as easy.
+17. Use [Draft2Digital](https://www.draft2digital.com/) to self-publish. Not only is publishing an ebook there a breeze, but creating a print book is just as easy.
 18. Make time to work on your writing projects daily, even if it's only for 10 minutes before breakfast.
 19. Challenge yourself. See how much of a book you can write within a week or a month.
 20. Start with the big picture of your writing project. Then figure out the details as you go.
