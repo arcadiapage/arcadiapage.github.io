@@ -9,9 +9,11 @@ As an INFP, I love to write. It's such a natural extension of myself, that not a
 
 Although I have followed through on many of my projects, I still face the pitfalls that are common for my personality type: losing focus, being disorganized, collecting a graveyard of abandoned projects, and so on.
 
-I also have faced situations that have made writing difficult, such as working a retail job with an insane schedule or working through depression.
+I also have faced situations that have made writing difficult, such as working a retail job with an insane schedule or working through depression. However, I was able to overcome the roadblocks, and I want to share what has helped me. 
 
-However, I was able to overcome the roadblocks, and I want to share what has helped me. So here are 25 Ways to Thrive as an INFP Writer:
+This post is in many ways a celebration of my latest book, [I Can't Help Being an INFP Writer: 100+ Tips to Help INFP Writers Capture Ideas, Stay Motivated, and Overcome Problems](https://payhip.com/b/4tWM).
+
+So here are 25 Ways to Thrive as an INFP Writer:
 
 ![](/uploads/thriving-infp-writer.png){: .mx-auto.d-block :}
 
