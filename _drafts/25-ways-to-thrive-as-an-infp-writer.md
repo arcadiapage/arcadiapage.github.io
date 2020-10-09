@@ -2,7 +2,10 @@
 layout: post
 title: 25 Ways to Thrive as an INFP Writer
 subtitle: ''
-tags: []
+tags:
+- 'INFP & HSP '
+- On Writing
+- Book Announcements
 
 ---
 As an INFP, I love to write. It's such a natural extension of myself, that not a single day goes by without me doing some writing. I know this is not only true for me, but many other INFPs feel the same.
