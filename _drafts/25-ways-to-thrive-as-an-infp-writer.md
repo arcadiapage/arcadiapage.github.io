@@ -13,6 +13,8 @@ I also have faced situations that have made writing difficult, such as working a
 
 However, I was able to overcome the roadblocks, and I want to share what has helped me. So here are 25 Ways to Thrive as an INFP Writer:
 
+![](/uploads/thriving-infp-writer.png)
+
  1. Keep in mind what role writing has played in your life.
  2. Don't give up in the face of setbacks. Look for solutions.
  3. When working on a rough draft, don't critique yourself. This will only hurt your motivation and cause you to unnecessarily doubt your writing ability. Only edit after finishing your rough draft.
@@ -40,5 +42,7 @@ However, I was able to overcome the roadblocks, and I want to share what has hel
 25. Always be ready to take note of what inspires you.
 
 Want to learn more about how your personality type impacts your writing?  Discover more in my latest book [I Can't Help Being an INFP Writer: 100+ Tips to Help INFP Writers Capture Ideas, Stay Motivated, and Overcome Writing Problems](https://payhip.com/b/4tWM).
+
+![](/uploads/infp-writer-cover.jpg)
 
 Have any thoughts or comments on this article? [Let's talk!](https://arcadiapage.com/talk/)
