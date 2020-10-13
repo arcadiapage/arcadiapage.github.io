@@ -34,3 +34,7 @@ So, enough writing from me!
 Here's the video tour of my new planner set-up.
 
 [![](http://img.youtube.com/vi/-yXd7Z2pLDo/0.jpg)](http://www.youtube.com/watch?v=-yXd7Z2pLDo "Simple Planner Structure")
+
+Enjoy! 
+
+Have any thoughts or comments on this article? [Let's talk!](https://arcadiapage.com/talk/)
