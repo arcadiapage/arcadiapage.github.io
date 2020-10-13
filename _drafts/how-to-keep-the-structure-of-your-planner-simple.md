@@ -11,7 +11,7 @@ So [last month](https://arcadiapage.com/2020-09-19-how-to-build-a-planner-from-s
 
 Since that post, I've streamlined what I started with to the essentials.
 
-![](/uploads/simple-structure.png)
+![](/uploads/simple-structure.png){: .mx-auto.d-block :}
 
 The big picture of my planner is organized like this:
 
