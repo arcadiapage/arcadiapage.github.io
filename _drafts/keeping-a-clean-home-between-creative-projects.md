@@ -15,7 +15,7 @@ However, the flaw in my aversion to chores is this:
 
 I am a sensitive person.
 
-So the more untamed my environment becomes, the more I have feelings of unease. As the pile of dishes grows in my sink, my inner spirit sinks into agitation. 
+So the more untamed my environment becomes, the more I have feelings of unease. As the pile of dishes grows in my sink, my inner spirit sinks into agitation.
 
 Being visually sensitive is a gift because nice aesthetics bring me a lot of joy. I could stay in IKEA forever. However, I cannot mentally handle an off-kilter living environment. Add that to my other sensory sensitivities and the dirtiness is overwhelming--although sometimes it's not that bad when I look at it objectively. But it's too much for me.
 
@@ -32,6 +32,8 @@ After publishing my last book, I had a mini-housekeeping breakdown. I had fallen
 One day while browsing through my audiobook wishlist on Hoopla, I came across the book **How to Manage Your Home Without Losing Your Mind** by Dana K. White. This book had been on my wishlist for a while, but this time it grabbed my attention. It's weird, but sometimes specific books call out to me, as if they know I desperately need them.
 
 So I checked out the audiobook, and my hunch was right. And if you prefer creating over doing chores, this could be the right book for you too.
+
+![](/uploads/keeping-a-clean-home.png)
 
 ## I'm the One Responsible
 
@@ -63,9 +65,9 @@ Once I saw the impact of doing the dishes daily for a week, I was hooked.
 
 Now, after washing the dishes and cleaning a few other kitchen items, I also:
 
--  Sweep the kitchen floor
--  Restock the bathroom and wipe surfaces
--  Take 5 minutes to tidy the house. Basically, just going around putting things back where they belong.
+* Sweep the kitchen floor
+* Restock the bathroom and wipe surfaces
+* Take 5 minutes to tidy the house. Basically, just going around putting things back where they belong.
 
 Doing all of these usually takes less than an hour. It stuns me every time how these small actions make my home so pleasant.
 
@@ -87,7 +89,7 @@ My favorite thing about having daily chores is that perfection is not a requirem
 
 Recently, I suffered from heat exhaustion, and for a while, I only could wash dishes every other day. Still, things were manageable.
 
-Unfortunately, my experience with heat exhaustion snowballed into a major panic attack due to not sleeping, not eating regularly, and having constant mental visions of my demise. Even when I had recovered from the heat exhaustion, I thought I was sick. 
+Unfortunately, my experience with heat exhaustion snowballed into a major panic attack due to not sleeping, not eating regularly, and having constant mental visions of my demise. Even when I had recovered from the heat exhaustion, I thought I was sick.
 
 Fortunately, when I went running to my husband feeling faint with sweaty palms, he was able to confirm that I was hyperventilating and was in the midst of an anxiety attack.
 
