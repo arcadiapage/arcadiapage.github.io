@@ -4,7 +4,7 @@ title: Keeping A Clean Home Between Creative Projects
 subtitle: It can be done...
 tags:
 - Creative Life
-- Simplicity & Productivity
+- Productivity & Simplicity
 
 ---
 I have a long history of running from chores. They're generally not fun, and why should I spend my time on something that's going to be messy again tomorrow?
