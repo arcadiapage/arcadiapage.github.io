@@ -33,7 +33,7 @@ One day while browsing through my audiobook wishlist on Hoopla, I came across th
 
 So I checked out the audiobook, and my hunch was right. And if you prefer creating over doing chores, this could be the right book for you too.
 
-![](/uploads/keeping-a-clean-home.png)
+![](/uploads/keeping-a-clean-home.png){: .mx-auto.d-block :}
 
 ## I'm the One Responsible
 
