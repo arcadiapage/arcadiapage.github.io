@@ -3,7 +3,7 @@ layout: post
 title: 25 Ways to Thrive as an INFP Writer
 subtitle: ''
 tags:
-- 'INFP & HSP '
+- INFP & HSP 
 - On Writing
 - Book Announcements
 
