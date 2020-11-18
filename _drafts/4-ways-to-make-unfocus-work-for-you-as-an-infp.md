@@ -15,6 +15,8 @@ Unfortunately, the last week of October, I got hit with heat exhaustion (#florid
 
 While in that state, I decided to binge-watch "K-ON!". Besides being a super cute anime, I also got an unexpected lesson in dealing with my wandering mind.
 
+![](/uploads/4-tips-unfocus-infp.png){: .mx-auto.d-block :}
+
 "K-ON!" follows the journey of Yui Hirasawa, a directionless high school student. Many people see her as lazy and hopeless. However, when she joins the light music club and starts learning to play guitar, she is captivated. She's still a wanderer, but at the same time, she dedicates herself to improving as a guitarist and supporting the light music club.
 
 The watershed moment in the show is when Yui makes the observation that she may have seemed like she was going randomly through life, but all that time, she hoped something would come along into which she could pour all her energy.
