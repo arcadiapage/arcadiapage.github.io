@@ -2,7 +2,10 @@
 layout: post
 title: 4 Ways to Make Unfocus Work for You as an INFP
 subtitle: ''
-tags: []
+tags:
+- 'Productivity & Simplicity '
+- INFP & HSP
+- Creative Life
 
 ---
 Wandering days are confusing. I have something important to do, but I get distracted, drifting from one thing to another. Oh, I need to clean my desk. I need to text some people. I need to--
@@ -57,7 +60,7 @@ As a writer, I can be responsible by noting my word count, writing every day, an
 
 It's easy to forget that laughing, being silly, and overall enjoying yourself as you get stuff done does not equal irresponsibility. So bring out the coffee, pastries, music, podcasts, and over-watched movies as you work on those more responsible things. Extra points to you if you do it at the beach.
 
-## 3. Taking breaks is as important as work.
+## 3. Taking breaks is as important as work
 
 In "K-ON," the main work of the light music club is to learn their instruments well so they can play music at school events. Doing this requires regular practice for the club members. Practicing an instrument is tedious but cannot be avoided.
 
