@@ -111,4 +111,4 @@ After watching this show and recovering from heat exhaustion, I felt more okay w
 
 So this is how I plan on making my unfocus work for me as an INFP.
 
-Any thoughts on this post? Feel free to comment!
+Any thoughts on this post? [Feel free to comment!](https://www.buymeacoffee.com/arcadiapage/4-ways-make-unfocus-work-you-infp)
