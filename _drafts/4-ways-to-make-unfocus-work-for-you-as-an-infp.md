@@ -53,7 +53,7 @@ However, when it comes time for them to perform for a school event, they are alw
 
 Despite all the time they spend playing, when it comes down to what matters, they are also responsible.
 
-As a writer, I can be responsible by noting my word count, writing every day, and publishing work often. Still, I can have a fantastic time doing it all. In the American hustle culture, that can be easy to forget.
+As a writer, I can be responsible by noting my word count, writing every day, and publishing work often. Still, I can have a fantastic time doing it all. In the Western hustle culture, that can be easy to forget.
 
 It's easy to forget that laughing, being silly, and overall enjoying yourself as you get stuff done does not equal irresponsibility. So bring out the coffee, pastries, music, podcasts, and over-watched movies as you work on those more responsible things. Extra points to you if you do it at the beach.
 
