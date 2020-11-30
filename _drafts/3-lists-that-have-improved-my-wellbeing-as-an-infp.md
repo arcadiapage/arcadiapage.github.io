@@ -14,8 +14,11 @@ However, for me, the most important lists in my collection (other than my list o
 
 So here are my three all-time favorite lists that have helped me maintain my mental wellbeing as an INFP.
 
+![](/uploads/3-lists-pin.png){: .mx-auto.d-block :}
+
 ## 1 - Make a list of things you have _always_ found fun.
-   Benefits of this list: soothes anxiety and stress.
+
+Benefits of this list: soothes anxiety and stress.
 
 On this list, I write the things that I found fun as a child and teen and still enjoy today. I also added a few things that I didn't start enjoying until recently that I don't see myself letting go of anytime soon.
 
@@ -30,7 +33,8 @@ It was the most relaxing and fun day I had in a long time. And I got some writin
 Fear keeps you from feeling alive and holds you hostage. Fun reminds you that life is still lovely, even when there are things in it that gets you down.
 
 ## 2 - Keep a list of things you find fascinating.
-   The benefit of this list: Helps with focusing
+
+The benefit of this list: Helps with focusing
 
 The book **The ADHD Advantage** by Dale Archer, M.D. helped me come up with this list. I'm not diagnosed with ADHD, but it amazes me how the advice on organizing and planning that works for me is usually for people with ADHD traits.
 
@@ -47,7 +51,8 @@ If you score a 10 on the self-test, most likely, you're one of those people who 
 I scored a 7 on his questionnaire, which gave me some food for thought. It made me see that it may be necessary for me to form a deeper understanding of how those traits are affecting my life and to pay more attention to their effects.
 
 ## 3 - Keep a list of where you flourish.
-   Benefits of this list: You know your values and where you belong.
+
+Benefits of this list: You know your values and where you belong.
 
 The book **#Girlboss** by Sophia Amoruso led me to create this list. In her book, she shares how it's important to know where you flourish if you want to grow. For her, working with fashion is where she tends to flourish.
 
