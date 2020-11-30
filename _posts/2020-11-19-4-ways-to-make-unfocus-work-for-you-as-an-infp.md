@@ -3,7 +3,7 @@ layout: post
 title: 4 Ways to Make Unfocus Work for You as an INFP
 subtitle: ''
 tags:
-- 'Productivity & Simplicity '
+- Productivity & Simplicity
 - INFP & HSP
 - Creative Life
 
