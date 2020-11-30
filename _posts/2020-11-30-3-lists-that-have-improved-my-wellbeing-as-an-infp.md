@@ -66,4 +66,4 @@ All of these lists involve reflecting the good times, which is important for INF
 
 By going through the activities on my Fun List, I learned new and fascinating things about the [Japonisme](https://en.wikipedia.org/wiki/Japonisme) art movement and how that led to the [Art Nouveau](https://en.wikipedia.org/wiki/Art_Nouveau) movement, which I am falling head-over-heels for.  Returning to old pleasures can result in uncovering something new. I hope these lists will lead you to discover the unexpected as well.
 
-Any thoughts or list ideas you would like to share? Feel free to comment!
+Any thoughts or list ideas you would like to share? [Feel free to comment!](https://www.buymeacoffee.com/arcadiapage/3-lists-have-improved-wellbeing-infp)
