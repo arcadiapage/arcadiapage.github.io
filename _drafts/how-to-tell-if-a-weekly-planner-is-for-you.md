@@ -2,7 +2,8 @@
 layout: post
 title: How to Tell if a Weekly Planner is for You
 subtitle: ''
-tags: []
+tags:
+- Productivity & Simplicity
 
 ---
 _The artwork for this post is also by Arcadia Page_
