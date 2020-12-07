@@ -21,7 +21,7 @@ Now I'm in the process of streamlining what I have.
 
 For months now, the calendar in my planner has been in the classic Bullet Journal style. I would list the days of the month down the left side of the page. Then next to the dates, I would write the events of the month.
 
-However, despite having this monthly calendar and a weekly to-do list, something felt off. I couldn't get a clear picture of what was happing during the week. And when sudden changes happened, I struggled to move things around.
+However, despite having this monthly calendar and a weekly to-do list, something felt off. I couldn't get a clear picture of what was happening during the week. And when sudden changes happened, I struggled to move things around.
 
 So I decided to scrap the monthly calendar and weekly to-do list. Now I have a weekly calendar that effectively does both.
 
@@ -45,7 +45,7 @@ Plus, the nonessential fun items act as a buffer. If something serious comes up,
 
 For each week, I have three to four tasks that I want to get done but are not tied to a specific day. I write these tasks in the notes section of my weekly layout.
 
-Then I try to keep an eye open for opportunities to do them. I get them done whenever I can. Some items I'm not able to get done, so I roll them over to the next week, still maintaining my three to four-item limit.
+Then I try to keep an eye open for opportunities to do them. I get them done whenever I can. Some items I'm not able get to them, so I roll them over to the next week, still maintaining my three to four-item limit.
 
 Most of my weekly whenever items are random chores or other things that need to be done before the end of the month.
 
@@ -63,6 +63,6 @@ The daily log also gives me space to offload ideas that hit me in the day. My we
 
 The only notes I don't save in my planner are my extensive notes from books and journal entries. Those live in my composition notebook.
 
-I know that now about everyone is running sales on planners. I am a fan of MochiThings, and they have some very simple, well designed planners on their site. Hopefully, this post provides some help with picking out a planner that works for you.
+I know that now about everyone is running sales on planners. And if you want to see if a weekly planner could work for you without paying up, doing a search on "Weekly Planner Printables" will also give you a ton of options. Hopefully, this post provides some help with picking out a planner that works for you.
 
 Any thoughts? Feel free to leave a comment!
