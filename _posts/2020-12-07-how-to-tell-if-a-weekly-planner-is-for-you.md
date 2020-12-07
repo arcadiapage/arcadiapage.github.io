@@ -3,6 +3,7 @@ layout: post
 title: How to Tell if a Weekly Planner is for You
 subtitle: ''
 tags:
+- Creative Life
 - Productivity & Simplicity
 
 ---
