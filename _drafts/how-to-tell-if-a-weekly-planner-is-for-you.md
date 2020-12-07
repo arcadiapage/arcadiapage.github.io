@@ -67,4 +67,4 @@ I know that now about everyone is running sales on planners. And if you want to 
 
 Any thoughts? Feel free to leave a comment!
 
-![](/uploads/weekly-planner-pin.jpg)
+![](/uploads/weekly-planner-pin.jpg){: .mx-auto.d-block :}
