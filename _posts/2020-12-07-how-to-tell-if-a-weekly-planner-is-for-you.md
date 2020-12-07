@@ -6,8 +6,6 @@ tags:
 - Productivity & Simplicity
 
 ---
-_The artwork for this post is also by Arcadia Page_
-
 When working with your planner, do you have a nagging feeling of not being able to see far enough into the future? Do you feel like although you are writing everything down on a monthly calendar, you still have no idea of what's going on?
 
 Then you may need to switch to a weekly layout or at least a larger monthly calendar that allows for more detail.
@@ -67,5 +65,7 @@ The only notes I don't save in my planner are my extensive notes from books and 
 I know that now about everyone is running sales on planners. And if you want to see if a weekly planner could work for you without paying up, doing a search on "Weekly Planner Printables" will also give you a ton of options. Hopefully, this post provides some help with picking out a planner that works for you.
 
 Any thoughts? Feel free to leave a comment!
+
+_The artwork for this post is also by Arcadia Page_
 
 ![](/uploads/weekly-planner-pin.jpg){: .mx-auto.d-block :}
