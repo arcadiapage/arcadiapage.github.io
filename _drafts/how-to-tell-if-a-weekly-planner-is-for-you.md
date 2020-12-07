@@ -49,7 +49,7 @@ Then I try to keep an eye open for opportunities to do them. I get them done whe
 
 Most of my weekly whenever items are random chores or other things that need to be done before the end of the month.
 
-** I note what needs to be done next week.**
+**I note what needs to be done next week.**
 
 In the notes section of my weekly layout, I also have an area for tasks that pop into my mind that can be taken care of the following week. So then, when I start filling in the activities for the next week, I can see if I can fit those in or not.
 
