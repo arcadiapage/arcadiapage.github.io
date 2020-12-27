@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Taking Breaks is Essential for Me as an INFP
+title: Why Breaks are Essential for Me as an INFP
 subtitle: ''
 tags: []
 
