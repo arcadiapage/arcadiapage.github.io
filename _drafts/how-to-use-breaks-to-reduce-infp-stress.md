@@ -2,7 +2,11 @@
 layout: post
 title: Why Breaks are Essential for Me as an INFP
 subtitle: ''
-tags: []
+tags:
+- Productivity & Simplicity
+- Creative Life
+- Creative Business
+- INFP & HSP
 
 ---
 As an INFP,  I'm full of ideas and inspiration. I also deal with plenty of anxiety and worry because I can't help caring deeply about things.
