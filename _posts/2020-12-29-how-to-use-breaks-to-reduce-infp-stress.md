@@ -65,4 +65,4 @@ Any thoughts on this article? Feel free to [leave a comment](https://www.buymeac
 
 _The artwork for this post is also by Arcadia Page_
 
-{: .mx-auto.d-block :}
+![](/uploads/breaks-are-essential.jpg){: .mx-auto.d-block :}
