@@ -15,9 +15,9 @@ There is also pressure to keep going--to keep writing, sharing, and making. But 
 
 After dealing with anxiety and mild burnout after publishing my last book, I realized that it was time for me to introduce some serious break times to my day. For me, deciding to do this was groundbreaking.
 
-In anime, there is the stereotype of comic artists working late into the night to meet a deadline while having cold and heat compresses stuck to their faces due to the physical strain. When I was creating webcomics, I had a similar work ethic, which carried on to other parts of my life. But now I'm like, "No more overworking myself to meet invisible deadlines!" 
+In anime, there is the stereotype of comic artists working late into the night to meet a deadline while having cold and heat compresses stuck to their faces due to the physical strain. When I was creating webcomics, I had a similar work ethic, which carried on to other parts of my life. But now I'm like, "No more overworking myself to meet invisible deadlines!"
 
-I will work to meet my goals, but overwork is going to be out of the picture. Also as a highly sensitive person if I want to stay healthy, I need to know when to slow it down. 
+I will work to meet my goals, but overwork is going to be out of the picture. Also as a highly sensitive person if I want to stay healthy, I need to know when to slow it down.
 
 ## The Awesomeness of a Break Time List
 
@@ -62,3 +62,7 @@ So what mental and physical activities drain you? What feels like work to you? I
 Plus, if you are prone to burnout that comes out of the blue like I am, then you'll have a better idea of who the culprit could have been. In our busy world, make your breaks count.
 
 Any thoughts on this article? Feel free to [leave a comment](https://www.buymeacoffee.com/arcadiapage/why-breaks-essential-me-infp) or [get in touch](https://arcadiapage.com/talk/)!
+
+_The artwork for this post is also by Arcadia Page_
+
+{: .mx-auto.d-block :}
