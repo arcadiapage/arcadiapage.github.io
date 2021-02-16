@@ -2,7 +2,9 @@
 layout: post
 title: How INFPs Can Use Writing for Healing
 subtitle: ''
-tags: []
+tags:
+- INFP & HSP
+- On Writing
 
 ---
 
