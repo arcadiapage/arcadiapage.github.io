@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How INFPs Can Use Writing for Healing
+title: How INFPs Can Use Journaling for Healing
 subtitle: ''
 tags:
 - INFP & HSP
