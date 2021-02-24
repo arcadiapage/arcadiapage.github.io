@@ -75,4 +75,4 @@ So as a short guide to journaling to make sense of the day:
 
 So this is how I used writing for healing as an INFP. Have any thoughts about this post? Feel free to reach out to me via [Twitter or Email](https://arcadiapage.com/talk/)!
 
-![](/uploads/infp-journaling-for-healing.png)
+![](/uploads/infp-journaling-for-healing.png){: .mx-auto.d-block :}
