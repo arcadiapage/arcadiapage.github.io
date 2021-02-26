@@ -18,7 +18,7 @@ Maintaining emotional balance is difficult because I feel things so deeply. But 
 
 So here is what I wish I knew earlier about my emotional health as an INFP.
 
-## I need a lot of rest.
+## I need a lot of rest
 
 And I hate the fact that I do. I want to keep going and going. But over the years I've come to accept that I need regular downtime.
 
@@ -68,7 +68,7 @@ After all of this, I realized how much work it takes for me to understand myself
 
 With this realization, I became a lot more forgiving of those who don't fully understand where I'm coming from. It still bothers me from time to time, but overall I'm much happier, and I don't worry much about people not getting me.
 
-# Take positive action, no matter how small.
+# Take positive action, no matter how small
 
 My mind vividly processes my life. As a result, I often get stuck in fear, anxiety, and indecision. When I feel paralyzed, deciding to take a small positive step forward helps me to get moving.
 
