@@ -80,4 +80,4 @@ So these are the things I wish I would have known earlier about my emotional hea
 
 Does anything in this article resonate with you? If so, feel free to reach out via [Twitter or Email](https://arcadiapage.com/talk/)!. I would love to know what you think!
 
-![](/uploads/things-i-wish-i-knew-earlies.png)
+![](/uploads/things-i-wish-i-knew-earlies.png){: .mx-auto.d-block :}
