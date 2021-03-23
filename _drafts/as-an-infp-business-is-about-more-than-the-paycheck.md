@@ -65,3 +65,5 @@ Along with making my own schedule, I dislike feeling pressured. I prefer working
 So this is why being an entrepreneur is attractive to me as an INFP, and I can't wait to share with you the tips and tricks I've learned so far about doing business online as a sensitive introvert.
 
 Does anything in this article resonate with you? If so, feel free to reach out via [Twitter or Email](https://arcadiapage.com/talk/). I would love to know what you think!
+
+![](/uploads/infp-business-is-more-than-a-paycheck.png)
