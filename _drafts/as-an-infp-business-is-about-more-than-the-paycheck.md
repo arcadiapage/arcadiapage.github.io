@@ -2,7 +2,10 @@
 layout: post
 title: As an INFP, Business is About More Than the Paycheck
 subtitle: ''
-tags: []
+tags:
+- INFP & HSP
+- Creative Business
+- Season 1 INFP Entrepreneur
 
 ---
 The INFP personality type isn't usually associated with entrepreneurship, probably because entrepreneurship often brings to mind images of go-getters who won't stop until they reach that six-figure income.
