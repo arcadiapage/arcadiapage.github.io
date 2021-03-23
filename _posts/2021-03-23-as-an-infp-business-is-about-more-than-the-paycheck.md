@@ -54,7 +54,7 @@ As for me, the positions in which I was employed were not using my unique skills
 
 I want to work when it is right for me. Overall, I'm more focused on quality of life over income. I'm willing to accept a lower-paying job and a simpler lifestyle if it gives me the time for the other things that are important to me.
 
-Recently I read an interesting article on Vox entitled,["The Problem is Work.](https://www.vox.com/22321909/covid-19-pandemic-school-work-parents-remote) What I loved about this article is how it highlighted how work culture in the United States is designed without family responsibilities in mind. Typical work positions require people to work as if they don't have a family.
+Recently I read an interesting article on Vox entitled,[ The Problem is Work.](https://www.vox.com/22321909/covid-19-pandemic-school-work-parents-remote) What I loved about this article is how it highlighted how work culture in the United States is designed without family responsibilities in mind. Typical work positions require people to work as if they don't have a family.
 
 This is not the life I want to live, so I feel compelled to do my own thing. Working with family and loved ones in mind also can mean settling for a lower-income because less time is spent working. This means that I work with less hustle than is typical for entrepreneurs. As a result, I have to bootstrap more and maintain a live well on less mentality.
 
