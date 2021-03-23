@@ -7,7 +7,7 @@ tags: []
 ---
 The INFP personality type isn't usually associated with entrepreneurship, probably because entrepreneurship often brings to mind images of go-getters who won't stop until they reach that six-figure income.
 
-Unfortunately, that's the stereotype that surrounds entrepreneurship. As an INFP the way I view striking out on my own is different from the imagery of "entrepreneurship" that I see thrown around out there.
+Unfortunately, that's the stereotype that surrounds entrepreneurship. As an INFP the way I view striking out on my own is different from the imagery of "entrepreneurship" I see thrown around out there.
 
 From March to August I will be writing on the topic of The INFP Entrepreneur. I believe that INFP's have something unique to bring when it comes to the way that business is done.
 
@@ -27,7 +27,7 @@ When it comes to entrepreneurship, it irks me when business success is only look
 
 But for me, it's not about the specific dollar amount, but the amount of money I need to live the life I want. And the lifestyle I enjoy is simple, light on resources, and doesn't cost much to maintain. In fact, as an INFP,  a self-made business can feel unsuccessful regardless of how much money it's bringing in when it doesn't align with my emotional needs.
 
-Starting a business is challenging, especially since there are so much competition and a high risk of failure. But I can't help doing it anyway, and here's why:
+Starting a business is challenging, especially since there's so much competition and a high risk of failure. But I can't help doing it anyway, and here's why:
 
 ## I Want Work that Aligns With What I Care About
 
