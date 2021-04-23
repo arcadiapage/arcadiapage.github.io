@@ -71,7 +71,7 @@ In the morning, this can give you a positive start to the day. In the evening, t
 
 # Have self-care ready after work.
 
-Once you get home, be ready to take that bath, put on some music, read a book, or whatever it is that destresses you.  You may have other things that need to be done before you can fully relax, but regardless, make sure to get a break in there.
+Once you get home, be ready to take that bath, put on some music, read a book, or whatever it is that de-stresses you.  You may have other things that need to be done before you can fully relax, but regardless, make sure to get a break in there.
 
 Taking a moment for some self-care after work instead of flipping on the TV or Netflix, can give you more energy at the end of the day. And that is the energy you can use to catch up with your loved ones or do something creative.
 
