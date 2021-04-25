@@ -95,3 +95,5 @@ Make sure to do things that will help you to be more relaxed during your workday
 So that's my list for learning to love your day job. Hopefully, this can help with growing a little respect for your job. It's not easy to do, but having a better mindset can make a difference.
 
 Does anything in this article resonate with you? If so, feel free to reach out via [Twitter or Email](https://arcadiapage.com/talk/). I would love to know what you think!
+
+![](/uploads/day-job-struggle.png){: .mx-auto.d-block :}
