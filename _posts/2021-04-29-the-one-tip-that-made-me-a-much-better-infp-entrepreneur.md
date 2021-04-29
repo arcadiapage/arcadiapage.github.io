@@ -5,7 +5,7 @@ subtitle: ''
 tags:
 - INFP & HSP
 - Creative Business
-- 'Season 1 INFP Entrepreneur '
+- Season 1 INFP Entrepreneur
 
 ---
 Starting a business or even a small side hustle can involve facing a ton of confusing questions. When thinking about my entrepreneurship journey, I had to find answers to questions like,  "What are people willing to buy? Who is my audience and where can I find them? How can I make sure that I enjoy creating this business?"
