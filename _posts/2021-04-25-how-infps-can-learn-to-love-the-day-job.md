@@ -5,7 +5,7 @@ subtitle: ''
 tags:
 - Productivity & Simplicity
 - INFP & HSP
-- 'Season 1 INFP Entrepreneur '
+- Season 1 INFP Entrepreneur
 
 ---
 As an INFP, I have had the biggest struggle with loving my day job. Forget loving it. I've struggled with moderately liking the jobs that I've held.
