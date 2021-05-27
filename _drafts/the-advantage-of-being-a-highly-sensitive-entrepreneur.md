@@ -2,7 +2,10 @@
 layout: post
 title: 'The Advantage of Being a Highly Sensitive Entrepreneur '
 subtitle: ''
-tags: []
+tags:
+- Creative Business
+- INFP & HSP
+- Season 1 INFP Entrepreneur
 
 ---
 When it comes to sensitivity, much of the focus is on reducing overstimulation from the environment. Often we view experiencing things so vividly as something to protect ourselves from. It's not unusual for me to find myself battling bright lights, visually busy environments, and grating sounds. 
