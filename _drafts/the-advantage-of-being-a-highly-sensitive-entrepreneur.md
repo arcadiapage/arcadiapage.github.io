@@ -60,4 +60,4 @@ So if you're a sensitive person with a desire to start your own business, go for
 
 Does anything in this article resonate with you? If so, feel free to reach out via [Twitter or Email](https://arcadiapage.com/talk/). I would love to know what you think!
 
-![](/uploads/highly-sensitive-entrepreneur-advantage.png)
+![](/uploads/highly-sensitive-entrepreneur-advantage.png){: .mx-auto.d-block :}
