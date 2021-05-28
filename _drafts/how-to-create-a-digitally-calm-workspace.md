@@ -105,4 +105,4 @@ Other tips for creating a relaxing digital experience:
 
 So these are my tips for reducing digital overwhelm, especially if you're sensitive. Have any thoughts about this post? Feel free to reach out to me via [Twitter or Email](https://arcadiapage.com/talk/)!
 
-![](/uploads/creating-a-digitally-calm-workspace.png)
+![](/uploads/creating-a-digitally-calm-workspace.png){: .mx-auto.d-block :}
