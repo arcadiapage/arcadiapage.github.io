@@ -88,7 +88,7 @@ Taking breaks from your devices is important if you want to avoid digital burnou
 
 Taking breaks will [slow down](https://arcadiapage.com/2018/09/how-i-plan-to-slow-down-today.html) the flow of time in your day, make you feel more relaxed, and improve your productivity overall.
 
-The book **Do Pause: You Life is Not a Todo List** by Robert Poynton is a great exploration of how to take breaks that lead to better productivity and more space in your day. And no, this does not involve cramming more stuff to do into your break time.
+The book **Do Pause: You are Not a To Do List** by Robert Poynton is a great exploration of how to take breaks that lead to better productivity and more space in your day. And no, this does not involve cramming more stuff to do into your break time.
 
 My favorite way to add a pause to my day is when I'm exiting a room, I take a brief moment to pause at the threshold to "collect my thoughts." I think about what I've done so far, how I feel, and what I need to do next. I also like drinking tea with no distractions to take a break. When I worked in an office, enjoying lunch out in nature was non-negotiable.
 
