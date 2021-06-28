@@ -2,7 +2,10 @@
 layout: post
 title: 'How INFPs Can Ditch the Hustle Culture '
 subtitle: ''
-tags: []
+tags:
+- INFP & HSP
+- Productivity & Simplicity
+- 'Season 1 INFP Entrepreneur '
 
 ---
 Lately, I've been amazed at how many stories are being shared of [people quitting their jobs](https://www.npr.org/2021/06/24/1007914455/as-the-pandemic-recedes-millions-of-workers-are-saying-i-quit). 
