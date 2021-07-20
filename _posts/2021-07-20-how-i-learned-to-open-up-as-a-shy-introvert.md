@@ -7,7 +7,7 @@ tags:
 - Book Announcements
 
 ---
-Lately, I've been writing about _The INFP Entrepreneur_. In this post I'm taking a detour from that to share my newest project: **Inner Universe, Outer Worlds**.
+Lately, I've been writing about [_The INFP Entrepreneur_](https://arcadiapage.com/tags/#Season%201%20INFP%20Entrepreneur). In this post I'm taking a detour from that to share my newest project: **Inner Universe, Outer Worlds**.
 
 ![](/uploads/inneruniverse-cover-photo.png){: .mx-auto.d-block :}
 
