@@ -80,3 +80,5 @@ Don't let others shame you for resting. You need this. Most likely, the people w
 Burnout can be terrible, but it doesn't last forever. You can and will recover, and you'll come out of it with some wisdom that you didn't have going into it.
 
 Have any thoughts about this post? Feel free to reach out to me via [Twitter or Email](https://arcadiapage.com/talk/)!
+
+![](/uploads/infp-burnout-at-work-pin.png){: .mx-auto.d-block :}
