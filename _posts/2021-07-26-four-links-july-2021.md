@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Links - July 2021
-subtitle: ''
+subtitle: Slow Down and Do Less
 tags:
 - Productivity & Simplicity
 - Helpful Links
