@@ -51,7 +51,7 @@ Moments of clarity will come, and when they do, make sure to take advantage of t
 
 If others are involved, let them know that you're having an off day. Say, "Hey, I'm having a bad day and my brain is fried, so let me know if I make any weird mistakes."
 
-When I worked in an office, this approach reduced to pressure of not feeling myself, and I had the support of my coworkers. Owning up to having a tough day instead of trying to hide it makes work easier to deal with. 
+When I worked in an office, this approach reduced to pressure of not feeling myself, and I had the support of my coworkers. Owning up to having a tough day instead of trying to hide it makes work easier to deal with.
 
 ## Reduce daily tasks
 
