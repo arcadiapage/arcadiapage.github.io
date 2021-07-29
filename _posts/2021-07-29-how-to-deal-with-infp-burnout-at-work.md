@@ -7,7 +7,7 @@ tags:
 - Season 1 INFP Entrepreneur
 
 ---
-Right now I'm dealing with the worst bout of burnout I've ever had in my life. Contributing factors include the emotional and financial effects of the pandemic and breaking free of caffeine addiction. I feel tired, scattered, and less creative. 
+Right now I'm dealing with the worst bout of burnout I've ever had in my life. Contributing factors include the emotional and financial effects of the pandemic and breaking free of caffeine addiction. I feel tired, scattered, and less creative.
 
 Recovering is tough, but I'm glad to say I'm getting better. Sometimes I try to think of what I could have done to avoid this. Some factors were unavoidable. We may dream of living a burnout free life, but circumstances may demand otherwise.
 
@@ -79,7 +79,7 @@ Don't let others shame you for resting. You need this. Most likely, the people w
 
 Burnout can be terrible, but it doesn't last forever. You can and will recover, and you'll come out of it with some wisdom that you didn't have going into it.
 
-tl;dr? No problem! Watch the related [TikTok video](https://pin.it/6ztyZH6) via Pinterest
+**tl;dr? No problem! Watch the related** [**TikTok video**](https://pin.it/6ztyZH6) **via Pinterest**
 
 Enjoyed this post? Please consider sharing it with your friends! This blog is entirely self-funded and relies on the generosity of readers. If you would like to support my work, [you can make a one-time or recurring donation](https://www.buymeacoffee.com/arcadiapage) or [purchase one of my books](https://payhip.com/ArcadiaPage). Also, I love hearing what you think. Feel free to reach out to me via [Twitter or Email](https://arcadiapage.com/talk/)!
 
