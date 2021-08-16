@@ -1,11 +1,13 @@
 ---
 layout: post
 title: 'Simple Self-Care Tips for Busy Entreprenuers '
-subtitle: ''
+subtitle: Guest Post by Brad Krause
 tags: []
 
 ---
 Simple Self-Care Tips for Busy Entrepreneurs
+
+![](/uploads/entreprenuer-self-care.jpg)
 
 Photo Credit: [Pexels.com](https://www.pexels.com/photo/focused-black-male-freelancer-using-laptop-in-street-cafe-3799115/)
 
@@ -13,7 +15,6 @@ As an entrepreneur, you're probably extremely passionate about your work. Every 
 
 **Find ways to save time so you have more hours of the day for yourself.**
 
-  
 The first step is carving out time for yourself in your busy schedule. Start by looking into technological innovations that might streamline your work, making your daily processes more efficient. PCMag provides a list of productivity apps [that can help](https://www.pcmag.com/news/the-best-productivity-apps). For example, Dragon NaturallySpeaking is a handy dictation tool.
 
 You can also save time in your workday by outsourcing tasks to others instead of handling them yourself. Entrepreneur explains that outsourcing will [free up your time](https://www.entrepreneur.com/article/204652) to concentrate on core competencies. Thanks to the rise in remote work and work-for-hire platforms, you can now find independent professionals to handle everything from payroll to IT.
@@ -24,7 +25,6 @@ Regular exercise can improve not only physical well-being but also mental health
 
 When it comes to your diet, cook more at home. [Johns Hopkins](https://clf.jhsph.edu/about-us/news/news-2014/study-suggests-home-cooking-main-ingredient-healthier-diet) reveals that home-cooked meals are healthier as they tend to be lower in saturated fats and sodium. Don't have much time to spend in the kitchen? Meal prep kits deliver the healthy ingredients you need for fast and easy recipes directly to your door.
 
-  
 **Incorporate relaxation techniques into your workday.**
 
 Throughout the workday, you likely face a diversity of stressors. As an entrepreneur, you're the top boss, so every tiny issue gets escalated to you. Find ways to deal with stressful situations as they arise. You might step away for a quick walk, for example, or meditate briefly using a guided meditation app.
