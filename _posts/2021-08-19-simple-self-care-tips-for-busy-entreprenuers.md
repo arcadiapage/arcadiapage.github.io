@@ -2,10 +2,12 @@
 layout: post
 title: 'Simple Self-Care Tips for Busy Entreprenuers '
 subtitle: Guest Post by Brad Krause
-tags: []
+tags:
+- Productivity & Simplicity
+- Season 1 INFP Entrepreneur
 
 ---
-Simple Self-Care Tips for Busy Entrepreneurs
+_Note: This is a guest post. All views expressed in this post belongs to the writer. For more writing by Brad Krause, visit_  [_Self Caring.info_](http://selfcaring.info/)
 
 ![](/uploads/entreprenuer-self-care.jpg)
 
