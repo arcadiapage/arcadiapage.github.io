@@ -15,7 +15,7 @@ If you're an INFP, take a moment to think if any of these observations sound lik
 
 If you're not an INFP, I hope this post helps you understand where your INFP employees and co-workers are coming from.
 
-So first off, here is a quick overview of how INFPs work in general:
+**So first off, here is a quick overview of how INFPs work in general:**
 
 ## Introverted
 
@@ -35,7 +35,7 @@ I'm flexible and open to alternative ways of doing things. When it comes to tryi
 
 I've also found that this flexibility can make it hard for me to organize physical objects into categories because I can see how each thing fits into multiple categories.
 
-So that's the wide view of the INFP personality type at work. Now let's get a closer look at things by focusing on the function stack.
+So that's the wide view of the INFP personality type at work. **Now let's get a closer look at things by focusing on the function stack.**
 
 The function stack for INFPs is FiNeSiTe. Here I'm giving a quick overview without going too deep. If you want to learn more about how the MBTI function stacks work, I recommend visiting this page on [PersonalityJunkie](https://personalityjunkie.com/myers-briggs-functions-inferior-function/) for more details on each function. I also go into the INFP function stack more deeply in my book, [Idealist Dreams: How I Learned to Plan as an INFP](https://payhip.com/b/KrBh).
 
