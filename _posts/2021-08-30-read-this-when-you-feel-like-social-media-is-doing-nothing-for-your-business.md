@@ -3,7 +3,7 @@ layout: post
 title: Read This When You Feel Like Social Media Is Doing Nothing for Your Business
 subtitle: August - 4 Links
 tags:
-- 'Season 1 INFP Entrepreneur '
+- Season 1 INFP Entrepreneur
 - Creative Business
 
 ---
