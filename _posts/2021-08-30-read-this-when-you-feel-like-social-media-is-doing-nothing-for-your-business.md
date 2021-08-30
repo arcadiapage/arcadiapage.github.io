@@ -18,8 +18,8 @@ And this may come as a shock, but social media is optional.
 So here are four articles that will help with overcoming the fear of getting started when you have no audience:
 
 1. You don't need to be an expert. Be authentic and share your journey:
-   [What Happens When People Start Designing Their Own Learning Paths? | Alliance for Self-Directed Education](https://www.self-directed.org/tp/designing-learning-paths/)
-2. Focus on creating things that help others and build relationships: [Your Business Doesn’t Need Social Media to Grow by Sarthak Sharma | The Skynox Blog | Medium](https://medium.com/skynox/your-business-doesnt-need-social-media-to-grow-%EF%B8%8F-30933ee48ed)
+   [What Happens When People Start Designing Their Own Learning Paths?](https://www.self-directed.org/tp/designing-learning-paths/)
+2. Focus on creating things that help others and build relationships: [Your Business Doesn’t Need Social Media to Grow by Sarthak Sharma](https://medium.com/skynox/your-business-doesnt-need-social-media-to-grow-%EF%B8%8F-30933ee48ed)
 3. Getting the word out about your product and "networking" doesn't have to feel icky:
    [Marketing Without Social Media* 21 ways to find clients and customers without using social media. | Alexandra Franzen](http://www.alexandrafranzen.com/2021/01/30/marketing/)
 4. A reminder that the definition of success only belongs to you:
