@@ -33,6 +33,6 @@ Do you know anyone who is struggling with getting the word out about their busin
 
 I do link round-up posts like this every month. If you want to keep up with them, feel free to [subscribe](https://tinyletter.com/arcadiapage). However, this is the last post related to my series, [The INFP Entrepreneur](https://arcadiapage.com/tags/#Season%201%20INFP%20Entrepreneur).
 
-My next season of posts will be on the topic of Mindful Planning. I'll be sharing how moments of reflection can make it possible to combine productivity with fulfillment. If that interests you, [consider subscribing to my blog](https://tinyletter.com/arcadiapage).
+My next season of posts will be on the topic of **Thoughtful Planning**. I'll be sharing how moments of reflection can make it possible to combine productivity with fulfillment. If that interests you, [consider subscribing to my blog](https://tinyletter.com/arcadiapage).
 
 ![](/uploads/social-media-doing-nothing.png){: .mx-auto.d-block :}
