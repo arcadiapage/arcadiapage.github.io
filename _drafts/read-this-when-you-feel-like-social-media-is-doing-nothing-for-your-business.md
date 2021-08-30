@@ -19,8 +19,7 @@ So here are four articles that will help with overcoming the fear of getting sta
 
 1. You don't need to be an expert. Be authentic and share your journey:
    [What Happens When People Start Designing Their Own Learning Paths? | Alliance for Self-Directed Education](https://www.self-directed.org/tp/designing-learning-paths/)
-2. Focus on creating things that help others and building relationships:
-   [Your Business Doesn’t Need Social Media to Grow by Sarthak Sharma | The Skynox Blog | Medium](https://medium.com/skynox/your-business-doesnt-need-social-media-to-grow-%EF%B8%8F-30933ee48ed)
+2. Focus on creating things that help others and build relationships: [Your Business Doesn’t Need Social Media to Grow by Sarthak Sharma | The Skynox Blog | Medium](https://medium.com/skynox/your-business-doesnt-need-social-media-to-grow-%EF%B8%8F-30933ee48ed)
 3. Getting the word out about your product and "networking" doesn't have to feel icky:
    [Marketing Without Social Media* 21 ways to find clients and customers without using social media. | Alexandra Franzen](http://www.alexandrafranzen.com/2021/01/30/marketing/)
 4. A reminder that the definition of success only belongs to you:
@@ -35,3 +34,5 @@ Do you know anyone who is struggling with getting the word out about their busin
 I do link round-up posts like this every month. If you want to keep up with them, feel free to [subscribe](https://tinyletter.com/arcadiapage). However, this is the last post related to my series, [The INFP Entrepreneur](https://arcadiapage.com/tags/#Season%201%20INFP%20Entrepreneur).
 
 My next season of posts will be on the topic of Mindful Planning. I'll be sharing how moments of reflection can make it possible to combine productivity with fulfillment. If that interests you, [consider subscribing to my blog](https://tinyletter.com/arcadiapage).
+
+![](/uploads/social-media-doing-nothing.png){: .mx-auto.d-block :}
