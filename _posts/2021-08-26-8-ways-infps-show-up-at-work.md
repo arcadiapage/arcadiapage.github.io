@@ -4,7 +4,7 @@ title: 8 Ways INFPs Show Up at Work
 subtitle: ''
 tags:
 - INFP & HSP
-- 'Season 1 INFP Entrepreneur '
+- Season 1 INFP Entrepreneur
 
 ---
 INFPs are creative, imaginative, and have a lot to bring to their places of employment when in the right environment. In this post, I'm taking a deep dive into how INFPs show up at work.
