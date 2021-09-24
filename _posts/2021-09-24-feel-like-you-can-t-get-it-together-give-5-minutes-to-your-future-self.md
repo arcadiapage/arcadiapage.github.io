@@ -14,7 +14,7 @@ For a long time I thought that this was simply how things had to be. I thought t
 
 However,  recently I realized that I was allowing this to happen. True, there are chaotic parts of life that are beyond our control. But at the same time, I was totally ignoring the small steps I could take to make tomorrow a little better for my future self. 
 
-Getting it together can be simple, and taking the time to do so can be so worth it. 
+## Getting it together can be simple, and taking the time to do so can be so worth it. 
 
 Honestly, the idea of putting time into cleaning and preparing myself for tomorrow scared me. I imagined hours of food prep, cleaning, and putting things into order. It was not only daunting, but totally unappealing. I can think of a million other things I'd rather be doing.
 
@@ -38,7 +38,7 @@ However, the next morning when I'm trying to get out the door, all I need to put
 
 Everything on this list works that way. You may not fully complete what you're trying to do, but the little bit you accomplish will make tomorrow easier to manage.
 
-**10 Ways to Get More Organized in 5 minutes**
+## 10 Ways to Get More Organized in 5 minutes
 
 Pick one task, set a timer for five minutes, and go!
 
@@ -61,4 +61,4 @@ I've tried my best to explain the power of tiny tasks in this short blog post, b
 
 For more about how to make tiny tasks work for you, check out my new book [**The Little Book of Tiny Tasks: Make Your Life More Calm While Getting Things Done 5 Minutes at a Time**](https://payhip.com/b/e32lr).
 
-Do you know any one who is struggling to "get it together"? Share this article with them via email or DM.  I'm sure they'll appreciate these simple tips on how to spend a little more effort on being prepared. Having it together requires an investment of time, and doing little tasks can make that easier. 
+Do you know any one who is struggling to "get it together"? Share this article with them via email or DM.  I'm sure they'll appreciate these simple tips on how to spend a little more effort on being prepared. Having it together requires an investment of time, and doing little tasks can make that easier.
