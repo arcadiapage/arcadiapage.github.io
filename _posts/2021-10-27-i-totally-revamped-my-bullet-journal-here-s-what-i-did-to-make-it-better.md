@@ -7,8 +7,6 @@ tags:
 - Season 2 Thoughtful Planning
 
 ---
-# How I Bullet Journal
-
 At the start of this year, I was totally happy with the planner I was using. But then one day, some well-meaning friends bought me a really nice, deluxe notebook. First I thought, "Wow, it's rare for people to be aware of what a high quality, modern notebook is. I'm impressed." And my second thought was, "I want to use it for a Bullet Journal!"
 
 So being the novelty addict that I am, I decided to put my current planner on pause and try Bullet Journaling again. I've Bullet Journaled off and on for a long time, but this time around I stumbled onto something amazing. In fact, once I finished that notebook, I could not wait to start another Bullet Journal. For me this is a big deal because normally with my Bullet Journals, I either abandon it before finishing the notebook, or when I do finish, I'm like, "Yeah, not doing that again for awhile."
