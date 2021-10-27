@@ -104,9 +104,9 @@ This layout creates plenty of room for both planning and daily notes. If you fli
 
 On the four days side, I like to write my tasks for the day. The nice thing about putting my tasks on the four days side is that if I don't finish everything I planned to do, it's easy for me to roll over my tasks to tomorrow or later in the week by rewriting them.  I can also get a nice overview of the past four days and see what I was able to finish and not finish. At the start of a new month, I always make sure to copy events and appointments from the future log to my four day pages.
 
+![](/uploads/mybujo1.png)
+
 On the monthly notes side I like to start with reminders of important meetings and due dates that are coming up over the next four days. After that, it's a little bit of everything! I write down tasks that I would like to do next. I also create short notes and journal entries. I star my favorite notes and entries.
-
-
 
 If I want to expand on a note by creating a new collection, first I find a blank page at the end of my calendar for the month. Then on that page I write the title in the top outer corner to improve visibility.
 
