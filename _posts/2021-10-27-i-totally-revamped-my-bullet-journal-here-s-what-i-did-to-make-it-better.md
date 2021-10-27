@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Totally Revamped My Bullet Journal! Here's What I Did to Make It Better.
+title: I've Totally Revamped My Bullet Journal! Here's What I Did to Make It Better.
 subtitle: ''
 tags:
 - Productivity & Simplicity
