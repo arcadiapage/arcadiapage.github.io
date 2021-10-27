@@ -138,7 +138,7 @@ From now until November I'll be writing on the topic of **Thoughtful Planning**.
 
 ***
 
-Have thoughts on this post?
+Have thoughts on this post? 🤔
 
 * Reply via [email](https://arcadiapage.com/talk/)
 * Reply via [Twitter](https://mobile.twitter.com/arcadiapage/status/1453394954974334990)
