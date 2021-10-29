@@ -4,7 +4,7 @@ title: 'Combine Productivity with Fulfillment: Three Prompts for Adding Meaning 
   Your Todo List'
 subtitle: ''
 tags:
-- 'Productivity & Simplicity '
+- Productivity & Simplicity
 - Season 2 Thoughtful Planning
 
 ---
