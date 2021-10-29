@@ -37,7 +37,7 @@ But although I'm a minimalist, I think a maximalist Bullet Journaler would enjoy
 
 # Here's My Set-up:
 
-(Tl;dr: You can watch short videos of this set-up via [Pinterest](https://pin.it/6T8NBDb) under the section "Bullet Journal Hacks". I'll be posting the videos over the next two weeks.)
+(Tl;dr: You can watch short videos of this set-up via my [Pinterest](https://pin.it/6T8NBDb) board under the section "Bullet Journal Hacks". You can also find them on Tiktok @arcadiapage. I'll be posting the videos over the next week.)
 
 ## **Rapid Logging**
 
@@ -114,7 +114,7 @@ If there isn't enough room after the topic name to write the page link, I'll wri
 
 **Other Collections**
 
-I put all of my other collections after my calendar for the month. My favorite collections are my Projects page and Wishlist/Someday page.
+I put all of my other collections after my calendar for the month. My favorite collections are my Projects page and Wish-list/Someday page.
 
 My Projects page really shows the power of linking pages to each other. It's simply a list of projects I'm currently working on, but if I have more ideas for a project, I create a new collection for that project on a new page, and then reference the page where the new collection can be found on the Projects page.
 
@@ -132,7 +132,7 @@ After finishing a Bullet Journal, I like to type important notes into my digital
 
 I hope that this post has given you inspiration on how to make your Bullet Journal fast to set up,  easy to scan visually and practical.  Plus, you can still make a pretty if you want too!
 
-I know there are a lot of technical things going on in this post. To make it easier to visualize, I'm doing a short series of TikToK videos of my "Bullet Journal Hacks." For easier viewing, I'm pinning these to a [Pinterest board as I make them](https://pin.it/6T8NBDb). Also a version of this post with more illustrations will be in my upcoming book.
+I know there are a lot of technical things going on in this post. To make it easier to visualize, I'm doing a short series of Tiktok videos of my "Bullet Journal Hacks." For easier viewing, I'm pinning these to a [Pinterest board as I make them](https://pin.it/6T8NBDb). Also a version of this post with more illustrations will be in my upcoming book.
 
 From now until November I'll be writing on the topic of **Thoughtful Planning**. To keep up with my posts, follow me by [email](https://tinyletter.com/arcadiapage). Also if you happen to know anyone who needs a fresh take on Bullet Journaling, feel free to share this post with them.
 
