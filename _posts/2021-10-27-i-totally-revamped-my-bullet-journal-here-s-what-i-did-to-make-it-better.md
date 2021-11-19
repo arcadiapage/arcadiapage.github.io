@@ -14,7 +14,7 @@ So being the novelty addict that I am, I decided to put my current planner on pa
 The way I Bullet Journal now is simple and not fussy.  Plus, my current approach effectively answers a few common pain points of Bullet Journaling, those being:
 
 1. Cramped future planning.
-2. Difficulty handling re-occuring tasks.
+2. Difficulty handling re-occurring tasks.
 3. Having to buy three or four notebooks over the entire year.
 4. Spending a lot of time setting it up.
 5. Struggling to find relevant notes (this was a problem for me, at least.)
@@ -31,7 +31,7 @@ The current layout of my Bullet Journal is heavily inspired by the popular zero-
 
 I admit that in my five years of getting together with and breaking up with the Bullet journal, I have gone from being a fancy doodler to a minimalist. This set up that I'm sharing with you is minimalist. However, the Bullet Journal Method is a minimalist method at its core. It's just that people have gotten so creative with it, that some of that has been lost.
 
-Just to be clear, using your Bullet Journal as place for art and doodling is fine, and as an artist myself, I get that. However, it's important not to let the creativity get in the way of the main point of Bullet Journaling which is to have a notebook where you can plan, jot down some notes, and then find those notes effectively. Bullet Journals can become a source of frustration if you lose touch with the purpose of it.
+Just to be clear, using your Bullet Journal as a place for art and doodling is fine, and as an artist myself, I get that. However, it's important not to let the creativity get in the way of the main point of Bullet Journaling which is to have a notebook where you can plan, jot down some notes, and then find those notes effectively. Bullet Journals can become a source of frustration if you lose touch with the purpose of it.
 
 But although I'm a minimalist, I think a maximalist Bullet Journaler would enjoy this set-up too because of how it handles the use of page space.
 
@@ -47,11 +47,11 @@ I deviate from the standard Bullet Journal method when it comes to events. Becau
 
 However, I do use special bullets for projects and repetitive tasks.
 
-**For projects** I draw a bullet with a square around it. Tasks that are vague, require multiple steps or take a lot of time are projects. "Write a book" or "Clean out the garage" are projects. Things like "Call mom" or "Sweep the floor" are tasks.
+**For projects,** I draw a bullet with a square around it. Tasks that are vague, require multiple steps or take a lot of time are projects. "Write a book" or "Clean out the garage" are projects. Things like "Call mom" or "Sweep the floor" are tasks.
 
 Drawing squares around project tasks helps me see at a glance what can be done quickly, and what will require some extra steps.
 
-**For re-occuring tasks**, I draw a circle around the bullet. This let's me know that this task will need to be rewritten on my calendar once I complete it.
+**For re-occurring tasks**, I draw a circle around the bullet. This lets me know that this task will need to be rewritten on my calendar once I complete it.
 
 ## **Signifiers**
 
@@ -72,7 +72,7 @@ What really makes this method special is how I use and organize my collections.
 
 **The Index is Now Favorites**
 
-Instead of counting off four pages at the start of my notebook to create the index, I dedicate the first two pages of my notebook to note my favorite pages and collections.
+Instead of counting off four pages at the start of my notebook to create the index, I dedicate the first two pages to note my favorite pages and collections.
 
 To keep track of my favorite pages, I simply write the page topic and then the related page numbers.
 
