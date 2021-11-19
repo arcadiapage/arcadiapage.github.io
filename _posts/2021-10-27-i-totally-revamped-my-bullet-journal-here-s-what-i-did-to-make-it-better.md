@@ -130,7 +130,7 @@ After finishing a Bullet Journal, I like to type important notes into my digital
 
 # Give it a Try
 
-I hope that this post has given you inspiration on how to make your Bullet Journal fast to set up,  easy to scan visually and practical.  Plus, you can still make a pretty if you want too!
+I hope that this post has given you inspiration on how to make your Bullet Journal fast to set up,  easy to scan visually and practical.  Plus, you can still make a pretty if you want to!
 
 I know there are a lot of technical things going on in this post. To make it easier to visualize, I'm doing a short series of Tiktok videos of my "Bullet Journal Hacks." For easier viewing, I'm pinning these to a [Pinterest board as I make them](https://pin.it/6T8NBDb). Also a version of this post with more illustrations will be in my upcoming book.
 
