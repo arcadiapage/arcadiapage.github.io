@@ -80,7 +80,7 @@ One neat thing I've noticed is that once I started using a favorites page, memor
 
 **Future Log**
 
-After the favorites pages is my future log. It sticks to the standard format of The Bullet Journal Method. I divide my page into thirds and write the names of the upcoming months in each section. My future log covers six months, so I end up using two pages that are divided into thirds. When noting down an important future event, I like to put an exclamation mark in front of it.
+After the favorites pages is my future log. It sticks to the standard format of The Bullet Journal Method. I divide my page into thirds and write the names of the upcoming months in each section. My future log covers six months, so I use two pages that are divided into thirds. When noting down an important future event, I like to put an exclamation mark in front of it.
 
 Here is also where I start to number my pages. I tend to number my pages as I go, instead of doing the whole notebook at once.
 
