@@ -121,4 +121,4 @@ I'll be sharing more about reaching goals and planning in my upcoming book, whic
 Have thoughts about this post?
 
 * Reply via [email](https://arcadiapage.com/talk/)
-* Reply via [Twitter](https://twitter.com/arcadiapage/status/1453024720065110016?s=20)
+* Reply via [Twitter](https://mobile.twitter.com/arcadiapage/status/1465779315094736897)
