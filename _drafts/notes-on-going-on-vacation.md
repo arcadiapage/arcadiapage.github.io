@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes on Going on Vacation
+title: Notes About Going on Vacation
 subtitle: 'yay! '
 tags:
 - Book Announcements
