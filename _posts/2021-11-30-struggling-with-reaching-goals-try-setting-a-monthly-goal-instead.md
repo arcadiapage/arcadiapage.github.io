@@ -116,9 +116,11 @@ I hope this post has given you some inspiration on how to keep motivated and rea
 
 I'll be sharing more about reaching goals and planning in my upcoming book, which I'll be publishing this month. To get notified of when it's out, you can follow me on [Payhip](https://payhip.com/ArcadiaPage).
 
+12/4 UPDATE: My book is now out! The title is [**Thoughtful Planning: How I Learned to Use Journaling to Set Intentional Goals & Design Flexible Days**](https://payhip.com/b/YSucT)**. It's now available at your favorite ebook retailer. 
+
 ***
 
 Have thoughts about this post?
 
-* Reply via [email](https://arcadiapage.com/talk/)
-* Reply via [Twitter](https://mobile.twitter.com/arcadiapage/status/1465779315094736897)
+* Comment via [email](https://arcadiapage.com/talk/)
+* Comment via [Twitter](https://mobile.twitter.com/arcadiapage/status/1465779315094736897)
