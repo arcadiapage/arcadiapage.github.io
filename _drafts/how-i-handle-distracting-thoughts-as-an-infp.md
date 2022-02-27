@@ -28,3 +28,10 @@ I share more INFP-friendly tips for finding focus in my book Idealist Dreams: Ho
 [4 Ways to Make Unfocus Work for You as an INFP](https://arcadiapage.com/2020-11-19-4-ways-to-make-unfocus-work-for-you-as-an-infp/)
 
 [Accepting My Scattered Work Style as an INFP](https://arcadiapage.com/2018/09/accepting-my-scattered-work-style-as.html)
+
+***
+
+Have thoughts on this post? 🤔
+
+* Comment via [email](https://arcadiapage.com/talk/)
+* Comment via [Twitter]()
