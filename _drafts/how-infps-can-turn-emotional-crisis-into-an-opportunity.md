@@ -34,3 +34,8 @@ And are some more articles related to this topic that you may find helpful:
 [3 Lists that Have Improved My Wellbeing as an INFP](https://arcadiapage.com/2020-11-30-3-lists-that-have-improved-my-wellbeing-as-an-infp/)
 
 [Things I Wish I Knew Earlier About My Emotional Health as an INFP](https://arcadiapage.com/2021-02-26-things-i-wish-i-knew-earlier-about-my-emotional-health-as-an-infp/)
+
+Have thoughts on this post? 🤔
+
+* Comment via [email](https://arcadiapage.com/talk/)
+* Comment via [Twitter](https://mobile.twitter.com/arcadiapage/status/1453394954974334990)
