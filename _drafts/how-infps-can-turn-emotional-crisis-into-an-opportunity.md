@@ -2,7 +2,8 @@
 layout: post
 title: How INFPs Can Turn Emotional Crisis Into an Opportunity
 subtitle: ''
-tags: []
+tags:
+- INFP & HSP
 
 ---
 When we think of emotional crisis, we often think of the dramatic, like having breakdowns or meltdowns. But emotional crisis can also include more subtle things such as [burnout](https://arcadiapage.com/2021-07-29-how-to-deal-with-infp-burnout-at-work/) or having a [rough week](https://arcadiapage.com/2021-10-26-what-to-do-when-your-day-doesn-t-go-as-planned/). Ongoing feelings of boredom, loneliness, or disconnection also count.
@@ -35,7 +36,9 @@ And are some more articles related to this topic that you may find helpful:
 
 [Things I Wish I Knew Earlier About My Emotional Health as an INFP](https://arcadiapage.com/2021-02-26-things-i-wish-i-knew-earlier-about-my-emotional-health-as-an-infp/)
 
+***
+
 Have thoughts on this post? 🤔
 
 * Comment via [email](https://arcadiapage.com/talk/)
-* Comment via [Twitter](https://mobile.twitter.com/arcadiapage/status/1453394954974334990)
+* Comment via [Twitter]()
