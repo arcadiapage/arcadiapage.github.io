@@ -41,4 +41,4 @@ And here are some additional, hand-picked articles related to this topic that yo
 Have thoughts on this post? 🤔
 
 * Comment via [email](https://arcadiapage.com/talk/)
-* Comment via [Twitter]()
+* Comment via [Pinterest](https://www.pinterest.com/pin/339107046952895121)
