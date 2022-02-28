@@ -23,7 +23,7 @@ I've mainly mentioned capturing distracting ideas, but if you feel safe, doing t
 
 If you would like to capture your wandering thoughts, I recommend using something that you can easily grab at the moment, be it analog or digital.
 
-I share more INFP-friendly tips for finding focus in my book Idealist Dreams: How I Learned to Plan as an INFP.  And here are a couple more hand-picked articles that you may enjoy: 
+I share more INFP-friendly tips for finding focus in my book [Idealist Dreams: How I Learned to Plan as an INFP](https://payhip.com/b/KrBh).  And here are a couple more hand-picked articles that you may enjoy:
 
 [4 Ways to Make Unfocus Work for You as an INFP](https://arcadiapage.com/2020-11-19-4-ways-to-make-unfocus-work-for-you-as-an-infp/)
 
