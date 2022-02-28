@@ -34,4 +34,4 @@ I share more INFP-friendly tips for finding focus in my book [Idealist Dreams: H
 Have thoughts on this post? 🤔
 
 * Comment via [email](https://arcadiapage.com/talk/)
-* Comment via [Twitter]()
+* Comment via [Pinterest](https://www.pinterest.com/pin/339107046952895115/)
