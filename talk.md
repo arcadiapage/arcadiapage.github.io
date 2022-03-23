@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Let's Talk
-subtitle:
+subtitle: 
+published: false
+
 ---
 # Where Else to find me/contact me
 
@@ -11,4 +13,3 @@ subtitle:
 # Other Blogs
 
 [Manga & Mascara](https://manga-arcadia.blogspot.com/) (No longer updated)
-
