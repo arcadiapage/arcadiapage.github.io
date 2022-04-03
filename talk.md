@@ -2,7 +2,6 @@
 layout: page
 title: Let's Talk
 subtitle: 
-published: false
 
 ---
 # Where Else to find me/contact me
