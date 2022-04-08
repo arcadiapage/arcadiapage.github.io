@@ -55,3 +55,10 @@ By doing this, we're not trying to ignore or completely distract ourselves from 
 Happiness is more painful when we're just painting a smile on and playing a role, just to get on with it. But being honest about negative emotions and being aware of how they interplay with the more positive sides of ourselves leads to feeling more real.
 
 And being able to feel joy while accepting the pain of life can lead to something a bit better than happiness. I've found that these are the seeds of growing contentment.
+
+***
+
+Have thoughts on this post? 🤔
+
+* Comment via [email](https://arcadiapage.com/talk/)
+* Comment via [Pinterest](https://www.pinterest.com/pin/339107046953210139/)
