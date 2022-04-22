@@ -18,11 +18,9 @@ navbar-links:
   
   Books: "books"
   Coffee 🖤: "https://www.buymeacoffee.com/arcadiapage"
-  Musings: "https://arcadiapage.bearblog.dev/blog/"
   Subscribe: "https://tinyletter.com/arcadiapage"
   
   Resources:
-   - Let's Talk: "talk"
    - Archives:  "tags"
    - About Me: "aboutme"
    - Disclosure: "disclosure"
