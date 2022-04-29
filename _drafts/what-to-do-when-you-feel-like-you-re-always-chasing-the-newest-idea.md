@@ -5,7 +5,7 @@ subtitle: ''
 tags: []
 
 ---
-Have you ever started a project thinking, "This (story, painting, song, book or whatever else you're trying to make) is the one I'm going to stick with until the end.“? But then, days later, you get a new brilliant idea that makes the old one seem lame, so you ditch the old one to chase something new, and the cycle continues...
+Have you ever started a project thinking, "This (story, painting, song, book or whatever else you're trying to make) is the one I'm going to stick with until the end“? But then, days later, you get a new brilliant idea that makes the old one seem lame, so you ditch the old one to chase something new, and the cycle continues...
 
 I've been there so many times. Sometimes I'm okay with the chase, especially when new ideas bring some much-needed fresh energy to my creative life. But other times, the sensation of not being able to stick to anything is such a drag, and it gets tiresome.
 
@@ -27,7 +27,7 @@ While you're at it, also pay attention to why you feel that certain parts of you
 
 Take time to deeply appreciate what works, because when you understand why you like parts of your project and why that matters, it becomes easier to pick up on what you desire from your projects in general.
 
-## Be a Curator Instead of a Collector 
+## Be a Curator Instead of a Collector
 
 Create limits.
 
@@ -37,13 +37,13 @@ It's important to realize that getting a new project idea does not automatically
 
 Of course, how you decide to filter your ideas is a personal choice. But here are some of my personal boundaries for which ideas can be officially turned into projects.
 
-- **Do I have time to work on this idea?** If an idea is really complex or will take more time  or energy than what I have to turn into a fully completed project, I put it off until circumstances are more favorable.
-- **Does this idea keep reappearing over and over?** If so, that means it's something that my intuition is telling me I need to pay attention to. It may be a project worth starting.
-- **Does this idea keep tugging at me? Do I feel like I'm being pulled towards it or that it's drawing me in?** If I get a new project idea and it keeps pulling at me, even months after I first thought of it, that means it's something I need to work on.
+* **Do I have time to work on this idea?** If an idea is really complex or will take more time  or energy than what I have to turn into a fully completed project, I put it off until circumstances are more favorable.
+* **Does this idea keep reappearing over and over?** If so, that means it's something that my intuition is telling me I need to pay attention to. It may be a project worth starting.
+* **Does this idea keep tugging at me? Do I feel like I'm being pulled towards it or that it's drawing me in?** If I get a new project idea and it keeps pulling at me, even months after I first thought of it, that means it's something I need to work on.
 
- At the start of last year I was working on a book, but I abandoned it because the concept for my last book, Thoughtful Planning, kept tugging at me. It was a struggle because I wasn't sure if I was just being flaky. But when I started the new book and writing came so easily, I knew that I had made the right choice in abandoning the book that I was working on.
+At the start of last year I was working on a book, but I abandoned it because the concept for my last book, Thoughtful Planning, kept tugging at me. It was a struggle because I wasn't sure if I was just being flaky. But when I started the new book and writing came so easily, I knew that I had made the right choice in abandoning the book that I was working on.
 
-Also, serendipitously coming across helpful information related to your idea may indicate that it's ready to be turned into a project.
+Also, randomly coming across helpful information related to your idea may indicate that it's ready to be turned into a project.
 
 And one last thing to consider:
 
