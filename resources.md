@@ -6,6 +6,8 @@ tags: []
 published: false
 
 ---
+Welcome to my library of resources! Try not to get lost! 
+
 Blogs to Explore
 
 Books I Think are Awesome
