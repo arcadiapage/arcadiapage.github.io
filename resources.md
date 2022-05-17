@@ -5,7 +5,9 @@ subtitle: ''
 tags: []
 
 ---
-![](https://64.media.tumblr.com/tumblr_mbeciwFWqe1roozkr.gif)Welcome to my library of resources! Try not to get lost!
+![](https://64.media.tumblr.com/tumblr_mbeciwFWqe1roozkr.gif)
+
+Welcome to my library of resources! Try not to get lost!
 
 # Index
 
