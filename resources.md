@@ -6,7 +6,9 @@ tags: []
 published: false
 
 ---
-Welcome to my library of resources! Try not to get lost! 
+Welcome to my library of resources! Try not to get lost!
+
+# Index
 
 Blogs to Explore
 
