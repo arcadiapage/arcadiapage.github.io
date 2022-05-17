@@ -13,6 +13,6 @@ Also I appreciate hearing from you! Feel free to leave a note in the chatbox abo
 
 ![](https://64.media.tumblr.com/0796361c903bbe4e8000bb1b932096bf/7cf915f60095705b-fb/s250x400/d543a435469cd128d04a18183c8620edeb5c06fd.gif)
 
-_CHATBOX_
+_CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2027/th_hello-1.gif)_
 
 <iframe src="https://www3.cbox.ws/box/?boxid=3516103&boxtag=1nWV3Y" width="100%" height="450" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>
