@@ -9,6 +9,8 @@ tags: []
 
 # Index
 
+![](http://fc02.deviantart.net/fs71/f/2013/172/3/a/heart_border__purple_black__by_revpixy-d6a0gve.gif)
+
 Blogs to Explore
 
 Books I Think are Awesome
