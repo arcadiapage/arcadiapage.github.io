@@ -21,7 +21,7 @@ Favorite Blogging Resources
 
 Favorite Writing Websites
 
-Calming Music
+My Favorite Noise.net Generators
 
 Calming Websites
 
@@ -30,6 +30,22 @@ Favorite Shops
 ![](http://fc02.deviantart.net/fs71/f/2013/172/3/a/heart_border__purple_black__by_revpixy-d6a0gve.gif)
 
 # Websites to Explore
+[CSS Bed](https://www.cssbed.com/)
+[Neocities: Create your own free website!](https://neocities.org/)
+[Hundred Rabbits — home](https://100r.co/site/home.html)
+[The Plain Text Project](https://plaintextproject.online/)
+[Killing the Sacred Cows of Publishing – Dean Wesley Smith](https://www.deanwesleysmith.com/category/killing-the-sacred-cows-of-publishing/)
+[Alexandra Franzen](http://www.alexandrafranzen.com/)
+[Just write.](https://www.sarasoueidan.com/desk/just-write/)
+[Idiomatic](https://idiomatic.rosano.ca/)
+[Fraidycat](https://fraidyc.at/)
+[Canva: Free Design Tool: Presentations, Video, Social Media + More](https://www.canva.com/)
+[Beautiful Free Images & Pictures | Unsplash](https://unsplash.com/)
+[P I X E L - S O U P](https://pixel-soup.tumblr.com/)
+[Working Toward a Better Internet](https://sadgrl.online/)
+[Pop!_OS by System76](https://pop.system76.com/)
+[Home - Linux Mint](https://linuxmint.com/)
 
+# DIY Website Making and Blogging
 
-
+# Nerd Gurl Stuuufff...
