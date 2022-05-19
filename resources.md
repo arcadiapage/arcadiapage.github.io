@@ -11,37 +11,41 @@ tags: []
 
 ![](http://fc02.deviantart.net/fs71/f/2013/172/3/a/heart_border__purple_black__by_revpixy-d6a0gve.gif)
 
-Favorite Personality Type Articles
-[Writing Advice](# Writing Advice) 
-[Simple Living](# Simple Living) 
-[Graphics](# Graphics)
-[DIY Website & Blog Making](# DIY Website & Blog Making)
-[Digital Freedom](# Digital Freedom) 
+* Favorite Personality Type Articles
+* [Writing Advice](# Writing Advice)
+* [Simple Living](# Simple Living)
+* [Graphics](# Graphics)
+* [DIY Website & Blog Making](# DIY Website & Blog Making)
+* [Digital Freedom](# Digital Freedom)
 
 ![](http://fc02.deviantart.net/fs71/f/2013/172/3/a/heart_border__purple_black__by_revpixy-d6a0gve.gif)
 
 # Writing Advice
-[Killing the Sacred Cows of Publishing – Dean Wesley Smith](https://www.deanwesleysmith.com/category/killing-the-sacred-cows-of-publishing/)
-[Alexandra Franzen](http://www.alexandrafranzen.com/)
-[Just write.](https://www.sarasoueidan.com/desk/just-write/)
 
-# Simple Living 
-[Hundred Rabbits — home](https://100r.co/site/home.html)
-[The Plain Text Project](https://plaintextproject.online/)
+* [Killing the Sacred Cows of Publishing – Dean Wesley Smith](https://www.deanwesleysmith.com/category/killing-the-sacred-cows-of-publishing/)
+* [Alexandra Franzen](http://www.alexandrafranzen.com/)
+* [Just write.](https://www.sarasoueidan.com/desk/just-write/)
+
+# Simple Living
+
+* [Hundred Rabbits — home](https://100r.co/site/home.html)
+* [The Plain Text Project](https://plaintextproject.online/)
 
 # Graphics
-[Canva: Free Design Tool: Presentations, Video, Social Media + More](https://www.canva.com/)
-[Beautiful Free Images & Pictures | Unsplash](https://unsplash.com/)
-[P I X E L - S O U P](https://pixel-soup.tumblr.com/)
 
+* [Canva: Free Design Tool: Presentations, Video, Social Media + More](https://www.canva.com/)
+* [Beautiful Free Images & Pictures | Unsplash](https://unsplash.com/)
+* [P I X E L - S O U P](https://pixel-soup.tumblr.com/)
 
 # DIY Website & Blog Making
-[Neocities: Create your own free website!](https://neocities.org/)
-[Working Toward a Better Internet](https://sadgrl.online/)
-[CSS Bed](https://www.cssbed.com/)
-[Idiomatic](https://idiomatic.rosano.ca/)
 
-# Digital Freedom 
-[Fraidycat](https://fraidyc.at/)
-[Pop!_OS by System76](https://pop.system76.com/)
-[Home - Linux Mint](https://linuxmint.com/)
+* [Neocities: Create your own free website!](https://neocities.org/)
+* [Working Toward a Better Internet](https://sadgrl.online/)
+* [CSS Bed](https://www.cssbed.com/)
+* [Idiomatic](https://idiomatic.rosano.ca/)
+
+# Digital Freedom
+
+* [Fraidycat](https://fraidyc.at/)
+* [Pop!_OS by System76](https://pop.system76.com/)
+* [Home - Linux Mint](https://linuxmint.com/)
