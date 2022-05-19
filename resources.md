@@ -43,9 +43,10 @@ Favorite Shops
 [Beautiful Free Images & Pictures | Unsplash](https://unsplash.com/)
 [P I X E L - S O U P](https://pixel-soup.tumblr.com/)
 [Working Toward a Better Internet](https://sadgrl.online/)
-[Pop!_OS by System76](https://pop.system76.com/)
-[Home - Linux Mint](https://linuxmint.com/)
+
 
 # DIY Website Making and Blogging
 
 # Nerd Gurl Stuuufff...
+[Pop!_OS by System76](https://pop.system76.com/)
+[Home - Linux Mint](https://linuxmint.com/)
