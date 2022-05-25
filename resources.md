@@ -44,7 +44,7 @@ tags: []
 * [CSS Bed](https://www.cssbed.com/)
 * [Idiomatic](https://idiomatic.rosano.ca/)
 
-<a id="Digital-Freedom">Digital Freedom</a> 
+<h2><a id="Digital-Freedom">Digital Freedom</a></h2> 
 * [Fraidycat](https://fraidyc.at/)
 * [Pop!_OS by System76](https://pop.system76.com/)
 * [Home - Linux Mint](https://linuxmint.com/)
