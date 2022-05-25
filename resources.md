@@ -16,7 +16,7 @@ tags: []
 * [Simple Living](# Simple Living)
 * [Graphics](# Graphics)
 * [DIY Website & Blog Making](# DIY Website & Blog Making)
-* [Digital Freedom](# Digital Freedom)
+* <a href="#Digital-Freedom"> Digital Freedom </a>
 
 ![](http://fc02.deviantart.net/fs71/f/2013/172/3/a/heart_border__purple_black__by_revpixy-d6a0gve.gif)
 
@@ -44,8 +44,7 @@ tags: []
 * [CSS Bed](https://www.cssbed.com/)
 * [Idiomatic](https://idiomatic.rosano.ca/)
 
-# Digital Freedom
-
+<a id="Digital-Freedom">Digital Freedom</a> 
 * [Fraidycat](https://fraidyc.at/)
 * [Pop!_OS by System76](https://pop.system76.com/)
 * [Home - Linux Mint](https://linuxmint.com/)
