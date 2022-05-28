@@ -5,15 +5,15 @@ subtitle: ''
 tags: []
 
 ---
-Pain can be overwhelming, especially if experienced daily. After a year and a half of suffering from chronic physical pain, I'm glad to be seeing the end of the tunnel. Yet, the emotional trauma of being unwell for so long will stick with me for a while. It will take time for me to feel safe in my body again. Add to that the collective pain being experienced in society right now, and mentally processing pain suddenly becomes a big challenge. 
+Pain can be overwhelming, especially if experienced daily. After a year and a half of suffering from chronic physical pain, I'm glad to be seeing the end of the tunnel. Yet, the emotional trauma of being unwell for so long will stick with me for a while. It will take time for me to feel safe in my body again. Add to that the collective pain being experienced in society right now, and mentally processing pain suddenly becomes a big challenge.
 
-I've relied on crying, talking, and journaling to deal with my pain. But because of experiencing so much pain, I often feel like there is only so much crying and talking one can do. Although relieving, crying can be draining, and sometimes I get tired of hearing myself talk about my problems. 
+I've relied on crying, talking, and journaling to deal with my pain. But because of experiencing so much pain, I often feel like there is only so much crying and talking one can do. Although relieving, crying can be draining, and sometimes I get tired of hearing myself talk about my problems.
 
 I realized that I needed extra space to express my pain and transform it into something useful. So lately, I've been wading into using that energy to create art.
 
 ## Why I Feel Making Art is Important for Processing Pain
 
-While breaking out some brushes and acrylic paint, my mind drifted to Frida Kahlo. I kept thinking of the images I had seen of her painting while laid up in bed. I thought of her often while I was confined to bed for a few months last year, unsure if I would ever get out of it. Frida Kahlo spent much of her life in pain, but I believe that her art helped her to maintain a sense of self. 
+While breaking out some brushes and acrylic paint, my mind drifted to Frida Kahlo. I kept thinking of the images I had seen of her painting while laid up in bed. I thought of her often while I was confined to bed for a few months last year, unsure if I would ever get out of it. Frida Kahlo spent much of her life in pain, but I believe that her art helped her to maintain a sense of self.
 
 When we experience emotional or physical pain for long periods, it can devour our identity because it's such a strong emotion and sensation. Creating art can help us see our emotions and their effects while creating the sense that pain is an experience. It's not who we are.
 
@@ -21,9 +21,9 @@ Using art to process pain is energizing. It turns it into something constructive
 
 From the view of personality type, INFPs are wired to transform emotions, even difficult ones, into art. The combination of introverted feeling and extraverted intuition equips INFPs to use emotional experiences for creative expression.
 
-And art doesn't just have to be visual. Emotions can also be shared through music, poetry, fiction, crafts, or any other creative practice that fits you. 
+And art doesn't just have to be visual. Emotions can also be shared through music, poetry, fiction, crafts, or any other creative practice that fits you.
 
-What got me started on experimenting with using visual art to process pain is this webpage from [Softheart Clinic](https://softheartclinic.neocities.org/subpages/cautionmenhera.html)(Note: this page has a warning because it refers to mental health situations that may be triggering). It shares how artists in Japan use their mental health struggles to create art and fashion.
+What got me started on experimenting with using visual art to process pain is this webpage from [Softheart Clinic](https://softheartclinic.neocities.org/subpages/cautionmenhera.html) (Note: this page has a warning because it refers to mental health situations that may be triggering). It shares how artists in Japan use their mental health struggles to create art and fashion.
 
 This page gave me a starting point for making my struggles into art. So here's the process I've been using.
 
@@ -54,9 +54,9 @@ Then I pick some of my favorite items and add them to the piece. So going with t
 
 Of course, art isn't a formula. So if I have an exciting idea while working, I'll follow that instead of sticking to the plan. The point is to express honestly while feeling safe. Keeping hope and comfort within reach creates emotional safety, and your art can remind you of that.
 
-## Adding Emotional Security to Your Art Practice 
+## Adding Emotional Security to Your Art Practice
 
-If the subject you are creating art about really riles you up, try pairing your activity with appropriate music. If the subject matter makes you a little anxious or sad, like my art does to me, sandwich working on it between moments of calmness.  
+If the subject you are creating art about really riles you up, try pairing your activity with appropriate music. If the subject matter makes you a little anxious or sad, like my art does to me, sandwich working on it between moments of calmness.
 
 Before starting, do something that you know relaxes you. Have a cup of tea, take a relaxing bath, walk outside, whatever gets you feeling calm. Then once you feel safe, get into creating your art. It's okay if you cry while doing so. I usually end up crying at some point. Once you've had enough, stop and do something uplifting. Work out, watch a funny video or do anything else that soothes you.
 
@@ -66,4 +66,4 @@ By the way, make sure to keep your project and the materials easy to access. I l
 
 So this is how I've been making art from my pain lately. I'm not quite ready to post any pictures of my paintings yet, but I think it would be cool to do so eventually. And remember, although you may want to share the art you make, remember that first and foremost, it's for you. The main audience for this kind of work is always yourself.
 
-**Any thoughts on this post? Feel free to let me know what you think via chat or by reaching out to me.
+**Any thoughts on this post? Feel free to let me know what you think via chat or by email.**
