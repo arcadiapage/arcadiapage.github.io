@@ -50,6 +50,6 @@ Note: This page is still very much a work in progress...
 
 * [Fraidycat](https://fraidyc.at/)
 * [Pop!_OS by System76](https://pop.system76.com/)
-* [Home - Linux Mint](https://linuxmint.com/)
+* [Linux Mint](https://linuxmint.com/)
 
 <a href="#Index"> Back to Top </a>
