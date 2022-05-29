@@ -13,7 +13,7 @@ Note: This page is still very much a work in progress...
 
 ![](http://fc02.deviantart.net/fs71/f/2013/172/3/a/heart_border__purple_black__by_revpixy-d6a0gve.gif)
 
-* <a href ="#Personality-Articles">Favorite Personality Type Articles</a>
+* <a href ="#Personality-Articles">Personality Type</a>
 * <a href="#Writing-Advice"> Writing Advice </a>
 * <a href="#Simple-Living"> Simple Living </a>
 * <a href="#Graphics"> Graphics </a>
@@ -22,9 +22,14 @@ Note: This page is still very much a work in progress...
 
 ![](http://fc02.deviantart.net/fs71/f/2013/172/3/a/heart_border__purple_black__by_revpixy-d6a0gve.gif)
 
-<h2><a id="Personality-Articles">Favorite Personality Type Articles</a></h2>
+<h2><a id="Personality-Articles">Personality Type</a></h2>
 
 * [Here's Why INFPs and INTPs Get Misunderstood](https://www.psychologyjunkie.com/2018/10/06/heres-why-infps-and-intps-get-misunderstood/)
+* [If You’re Confused About Your Myers-Briggs Personality Type, Read This: An Intro To Cognitive Functions](http://thoughtcatalog.com/heidi-priebe/2015/06/if-youre-confused-about-your-myers-briggs-personality-type-read-this-an-intro-to-cognitive-functions/)
+* [Function Roles The Core Purpose of Jung’s 8 Functions](https://personalityjunkie.com/02/function-roles-8-jungian-functions/)
+* [Five Signs that You May Be a Divergent Thinker](https://www.linkedin.com/pulse/five-signs-you-may-divergent-thinker-dorian-simpson)
+* [cpi online](https://www.ldinfo.com/cpi-online.htm) Learning style questionairre 
+         
 
 <h2><a id="Writing-Advice">Writing Advice</a></h2>
 
