@@ -13,7 +13,7 @@ Note: This page is still very much a work in progress...
 
 ![](http://fc02.deviantart.net/fs71/f/2013/172/3/a/heart_border__purple_black__by_revpixy-d6a0gve.gif)
 
-* Favorite Personality Type Articles
+* <a href ="#Personality-Articles">Favorite Personality Type Articles</a>
 * <a href="#Writing-Advice"> Writing Advice </a>
 * <a href="#Simple-Living"> Simple Living </a>
 * <a href="#Graphics"> Graphics </a>
@@ -21,6 +21,10 @@ Note: This page is still very much a work in progress...
 * <a href="#Digital-Freedom"> Digital Freedom </a>
 
 ![](http://fc02.deviantart.net/fs71/f/2013/172/3/a/heart_border__purple_black__by_revpixy-d6a0gve.gif)
+
+<h2><a id="Personality-Articles">Favorite Personality Type Articles</a></h2>
+
+* [Here's Why INFPs and INTPs Get Misunderstood](https://www.psychologyjunkie.com/2018/10/06/heres-why-infps-and-intps-get-misunderstood/)
 
 <h2><a id="Writing-Advice">Writing Advice</a></h2>
 
@@ -51,5 +55,6 @@ Note: This page is still very much a work in progress...
 * [Fraidycat](https://fraidyc.at/)
 * [Pop!_OS by System76](https://pop.system76.com/)
 * [Linux Mint](https://linuxmint.com/)
+* [F-Droid - Free and Open Source Android App Repository](https://f-droid.org/)
 
 <a href="#Index"> Back to Top </a>
