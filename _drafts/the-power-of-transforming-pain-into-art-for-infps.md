@@ -66,4 +66,4 @@ By the way, make sure to keep your project and the materials easy to access. I l
 
 So this is how I've been making art from my pain lately. I'm not quite ready to post pictures of my paintings yet, but I think it would be cool to do so eventually. And remember, although you may want to share the art you make, first and foremost, it's for you. The main audience for this kind of work is always yourself.
 
-**Any thoughts on this post? Feel free to let me know what you think via chat or by email.**
+**Any thoughts on this post?** ✨ **Feel free to let me know what you think via [chat or email!](https://arcadiapage.com/coffee/)**
