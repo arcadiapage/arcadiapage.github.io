@@ -7,7 +7,7 @@ tags: []
 ---
 ![](https://64.media.tumblr.com/460e90cbd60d50f37a59236acbd41a19/tumblr_orvdjmknOr1ucpx1qo2_r1_250.gif){: .mx-auto.d-block :}
 
-(Note: This page is still very much a work in progress...
+Note: This page is still very much a work in progress...
 
 <h1><a id="Index">Index</a></h1>
 
@@ -28,25 +28,26 @@ tags: []
 * [Alexandra Franzen](http://www.alexandrafranzen.com/)
 * [Just write.](https://www.sarasoueidan.com/desk/just-write/)
 
-<h2><a id="Simple-Living">Simple Living</a></h2> 
+<h2><a id="Simple-Living">Simple Living</a></h2>
 
 * [Hundred Rabbits — home](https://100r.co/site/home.html)
 * [The Plain Text Project](https://plaintextproject.online/)
 
-<h2><a id="Graphics">Graphics</a></h2> 
+<h2><a id="Graphics">Graphics</a></h2>
 
 * [Canva: Free Design Tool: Presentations, Video, Social Media + More](https://www.canva.com/)
 * [Beautiful Free Images & Pictures Unsplash](https://unsplash.com/)
 * [P I X E L - S O U P](https://pixel-soup.tumblr.com/)
 
-<h2><a id="Website-Blog-Making">DIY Website & Blog Making</a></h2> 
+<h2><a id="Website-Blog-Making">DIY Website & Blog Making</a></h2>
 
 * [Neocities: Create your own free website!](https://neocities.org/)
 * [Working Toward a Better Internet](https://sadgrl.online/)
 * [CSS Bed](https://www.cssbed.com/)
 * [Idiomatic](https://idiomatic.rosano.ca/)
 
-<h2><a id="Digital-Freedom">Digital Freedom</a></h2> 
+<h2><a id="Digital-Freedom">Digital Freedom</a></h2>
+
 * [Fraidycat](https://fraidyc.at/)
 * [Pop!_OS by System76](https://pop.system76.com/)
 * [Home - Linux Mint](https://linuxmint.com/)
