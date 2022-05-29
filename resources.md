@@ -28,8 +28,7 @@ Note: This page is still very much a work in progress...
 * [If You’re Confused About Your Myers-Briggs Personality Type, Read This: An Intro To Cognitive Functions](http://thoughtcatalog.com/heidi-priebe/2015/06/if-youre-confused-about-your-myers-briggs-personality-type-read-this-an-intro-to-cognitive-functions/)
 * [Function Roles The Core Purpose of Jung’s 8 Functions](https://personalityjunkie.com/02/function-roles-8-jungian-functions/)
 * [Five Signs that You May Be a Divergent Thinker](https://www.linkedin.com/pulse/five-signs-you-may-divergent-thinker-dorian-simpson)
-* [cpi online](https://www.ldinfo.com/cpi-online.htm) Learning style questionairre 
-         
+* [cpi online](https://www.ldinfo.com/cpi-online.htm) Learning style questionairre
 
 <h2><a id="Writing-Advice">Writing Advice</a></h2>
 
