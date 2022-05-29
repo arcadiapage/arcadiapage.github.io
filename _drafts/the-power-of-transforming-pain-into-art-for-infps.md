@@ -2,7 +2,10 @@
 layout: post
 title: The Power of Transforming Pain into Art for INFPs
 subtitle: ''
-tags: []
+tags:
+- 'INFP & HSP '
+- Creative Life
+- On Art
 
 ---
 Pain can be overwhelming, especially if experienced daily. After a year and a half of suffering from chronic physical pain, I'm glad to be seeing the end of the tunnel. Yet, the emotional trauma of being unwell for so long will stick with me for a while. It will take time for me to feel safe in my body again. Add to that the collective pain being experienced in society, and mentally processing pain suddenly becomes a big challenge and a necessity.
