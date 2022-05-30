@@ -29,6 +29,14 @@ Note: This page is still very much a work in progress...
 * [Function Roles The Core Purpose of Jung’s 8 Functions](https://personalityjunkie.com/02/function-roles-8-jungian-functions/)
 * [Five Signs that You May Be a Divergent Thinker](https://www.linkedin.com/pulse/five-signs-you-may-divergent-thinker-dorian-simpson)
 * [cpi online](https://www.ldinfo.com/cpi-online.htm) Learning style questionairre
+* [Extraverted Intuition (Ne): An Inside Look](https://personalityjunkie.com/10/extraverted-intuition-ne/)
+* [Understanding INFP Feeling - Psychology Junkie](https://www.psychologyjunkie.com/2017/02/20/understanding-infp-feeling/)
+* [INFPs, ISFPs and Empathic Mirroring - Psychology Junkie](https://www.psychologyjunkie.com/2016/12/28/infps-isfps-empathic-mirroring/)
+* [How Each Myers-Briggs® Type Uses Their Tertiary Function - Psychology Junkie](https://www.psychologyjunkie.com/2017/11/20/myers-briggs-type-uses-tertiary-function/)
+* [Cognitive Processes and Idea Generation](http://www.cognitiveprocesses.com/UsesOfType/Cognitive-Processes-And-Idea-Generation.cfm)
+* [Cognitive Processes and Problem Solving*](http://www.cognitiveprocesses.com/UsesOfType/Cognitive-Processes-And-Problem-Solving.cfm)
+
+<a href="#Index"> Back to Top </a>
 
 <h2><a id="Writing-Advice">Writing Advice</a></h2>
 
