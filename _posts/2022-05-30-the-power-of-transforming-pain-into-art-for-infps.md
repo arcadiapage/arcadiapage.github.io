@@ -3,7 +3,7 @@ layout: post
 title: How I Use Art to Process Emotional Pain as an INFP
 subtitle: ''
 tags:
-- 'INFP & HSP '
+- INFP & HSP 
 - Creative Life
 - On Art
 
