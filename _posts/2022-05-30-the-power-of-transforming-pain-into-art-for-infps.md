@@ -16,7 +16,7 @@ I realized that I needed extra space to express my pain and transform it into so
 
 ## Why I Feel Making Art is Important for Processing Pain
 
-While breaking out some brushes and acrylic paint, my mind drifted to Frida Kahlo. I kept thinking of the images I had seen of her painting while laid up in bed. I thought of her often while I was confined to bed for a few months last year, afriad that I would never get out of it. Frida Kahlo spent much of her life in pain, but I believe that her art helped her to maintain a sense of self.
+While breaking out some brushes and acrylic paint, my mind drifted to [Frida Kahlo](https://en.wikipedia.org/wiki/Frida_Kahlo). I kept thinking of the images I had seen of her painting while laid up in bed. I thought of her often while I was confined to bed for a few months last year, afriad that I would never get out of it. Frida Kahlo spent much of her life in pain, but I believe that her art helped her to maintain a sense of self.
 
 When we experience emotional or physical pain for long periods, it can devour our identity because it's such a strong emotion and sensation. Creating art can help us see our emotions and their effects while maintaining awareness that pain is an experience. It's not who we are.
 
