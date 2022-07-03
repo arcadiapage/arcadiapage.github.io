@@ -2,7 +2,9 @@
 layout: post
 title: As a Highly Sensitive Person, It's OK to Say "No" to Hustling
 subtitle: ''
-tags: []
+tags:
+- 'Productivity & Simplicity '
+- INFP & HSP
 
 ---
 For highly sensitive people living in a world that encourages pushing through overstimulation is tough. When you feel tired, worn out, and overwhelmed, the general advice is to drink more coffee and work through it.
@@ -48,3 +50,5 @@ So don't try to blend in, but stand out as having a more observant, reflective, 
 ![](/uploads/how-hsps-can-avoid-hustling-list.png)
 
 ![](/uploads/highly-sensitive-person-avoiding-overwork.png){: .mx-auto.d-block :}
+
+**Any thoughts on this post?** ✨ **Feel free to let me know what you think via** [**chat or email!**](https://arcadiapage.com/coffee/)
