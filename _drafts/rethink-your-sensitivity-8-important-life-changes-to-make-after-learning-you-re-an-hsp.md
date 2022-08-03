@@ -6,9 +6,7 @@ subtitle: ''
 tags: []
 
 ---
-Rethink Your Sensitivity: 8 Important Life Changes to Make after Learning You're an HSP
-
-Years ago, when I discovered that I was a Highly Sensitive Person, I thought I had myself *all* figured out. I added more things to my life to accommodate my sensitivity, incorporating more outdoor time into my day and installing blue light filters on all my devices since I know how visually sensitive I am. I also switched to using more natural skin care products since I am sensitive to chemicals and unnatural scents.
+Years ago, when I discovered that I was a Highly Sensitive Person, I thought I had myself _all_ figured out. I added more things to my life to accommodate my sensitivity, incorporating more outdoor time into my day and installing blue light filters on all my devices since I know how visually sensitive I am. I also switched to using more natural skin care products since I am sensitive to chemicals and unnatural scents.
 
 I made all of these practical adjustments with the idea that this was the best way to cater to my needs as an HSP since the books I've read about sensitivity focus a lot on the importance of creating a comfortable physical environment.
 
@@ -21,25 +19,15 @@ Making these shallow gestures towards my sensitivity distracted me from the deep
 If you're highly sensitive, here are some signs to look out for that show you may not fully understand your sensitivity. All of these don't have to be present at the same time. Just a few may be a signal that you need to step back and re-evaluate how you're handling being an HSP:
 
 * You feel like you are pushing and forcing yourself all the time. Pushing yourself to wake up, to do tasks, or to be there for other people.
-
 * You are constantly forcing yourself to stay awake. You may even use digital devices when tired to keep your eyes open.
-
 * You are consuming a lot of sugar or caffeine either to keep going or "just because I like it." You may crave these things when feeling tired.
-
 * Your brain feels like an overflowing bathtub.
-
 * You have a lot of neck, shoulder, back, and jaw tension.
-
 * You feel irritable, and you don't know why. You can also feel angry and not know why.
-
 * You are overly concerned with perfectionism and getting things just right.
-
 * Things not going according to plan feels unbearable.
-
 * You feel creatively dull or uninspired.
-
 * At the edge of your mind is a sense of panic. Panic that everything may go wrong, and you don't have the resources to handle it.
-
 * The emotional energy of others hits you hard. You easily take on the pain and anxiety of others. The emotional walls between you and other people feel very thin.
 
 Looking at this list, I better understand why HSPs often decide to work for themselves. As an HSP, it's essential to structure your life so that you can work at your own speed instead of having others dictate that pace for you. I learned the hard way that if you don't honor your natural pacing, your body will force you to.
@@ -88,7 +76,7 @@ Knowing the physical senses that impact me the most has made me aware of the bes
 
 **Revaluate your attitude towards rest.**
 
-Modern society has issues with rest. Often rest is confused with laziness, procrastination, and addiction to convienence. However, for HSPs, rest is vital. HSPs need rest to keep over-stimulation in check and to maintain their focus.
+Modern society has issues with rest. Often rest is confused with laziness, procrastination, and addiction to convenience. However, for HSPs, rest is vital. HSPs need rest to keep over-stimulation in check and to maintain their focus.
 
 So pay attention to your attitude towards rest. Are the popular views of rest affecting how you take care of yourself? Are you pushing yourself to keep going, even when you know you shouldn't? When you take a moment to rest, do you feel guilt nagging in the back of your mind? Do you reluctantly go to bed? Do you resist stopping to recharge?
 
