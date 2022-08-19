@@ -16,7 +16,7 @@ Making these shallow gestures towards my sensitivity distracted me from the deep
 
 ## Know the Signs
 
-If you're highly sensitive, here are some signs to look out for that show you may not fully understand your sensitivity. All of these don't have to be present at the same time. Just a few may be a signal that you need to step back and re-evaluate how you're handling being an HSP:
+If you're highly sensitive, here are some traits to look out for that show you may not fully understand your sensitivity. All of these don't have to be present at the same time. Just a few may be a signal that you need to step back and re-evaluate how you're handling being an HSP:
 
 * You feel like you are pushing and forcing yourself all the time. Pushing yourself to wake up, to do tasks, or to be there for other people.
 * You are constantly forcing yourself to stay awake. You may even use digital devices when tired to keep your eyes open.
