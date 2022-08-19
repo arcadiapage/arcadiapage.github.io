@@ -40,7 +40,7 @@ Reacquainting myself with my sensitive nature has been both difficult and exhila
 
 If you are an HSS HSP, like I am, you have to approach being sensitive differently from someone who is not. For one thing, **under-stimulation** can end up being as much of a problem as **overstimulation.** As a high sensation seeker, I have to watch out for instigating my overstimulation, especially when facing boredom. I like action, movement, noise, and stimulation. However, I have to be aware of my thresholds. Sometimes when I listen to music, I start playing it loud, but as time goes on, I have to lower the volume and lower it some more, and then I reach a point where listening to it is irritating. I often jump into things with full intensity, but then have to slow down my pace or "lower the volume."
 
-If you're an HSS HSP, pay attention to how you deal with quiet and boredom. Find ways to deal with under-stimulation without pushing yourself into overstimulation. You can take \[this test\]([https://hsperson.com/test/high-sensation-seeking-test/](https://hsperson.com/test/high-sensation-seeking-test/ "https://hsperson.com/test/high-sensation-seeking-test/")) to see if you are High Sensation Seeking at Elaine Aaron's website.
+If you're an HSS HSP, pay attention to how you deal with quiet and boredom. Find ways to deal with under-stimulation without pushing yourself into overstimulation. You can take [this test](https://hsperson.com/test/high-sensation-seeking-test/) to see if you are High Sensation Seeking at Elaine Aaron's website.
 
 **Take an honest look at your diet.**
 
