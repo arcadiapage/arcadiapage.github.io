@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Rethink Your Sensitivity: 8 Important Life Changes to Make after Learning
-  You''re an HSP'
+title: 'Eleven Traits that Show You May Be Ignoring your Needs as a Highly Sensitive
+  Person '
 subtitle: ''
 tags: []
 
