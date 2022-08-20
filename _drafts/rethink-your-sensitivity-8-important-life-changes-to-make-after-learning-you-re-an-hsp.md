@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eleven Traits that Show You May Be Ignoring your Needs as a Highly Sensitive
+title: 'Eleven Traits that Show Up When You Ignore your Needs as a Highly Sensitive
   Person '
 subtitle: ''
 tags: []
@@ -16,7 +16,7 @@ Making these shallow gestures towards my sensitivity distracted me from the deep
 
 ## Know the Signs
 
-If you're highly sensitive, here are some traits to look out for that show you may not fully understand your sensitivity. All of these don't have to be present at the same time. Just a few may be a signal that you need to step back and re-evaluate how you're handling being an HSP:
+If you're highly sensitive, here are some traits and signs to look out for that show you may not fully understand your sensitivity. All of these don't have to be present at the same time. Just a few may be a signal that you need to step back and re-evaluate how you're handling being an HSP:
 
 * You feel like you are pushing and forcing yourself all the time. Pushing yourself to wake up, to do tasks, or to be there for other people.
 * You are constantly forcing yourself to stay awake. You may even use digital devices when tired to keep your eyes open.
@@ -32,7 +32,7 @@ If you're highly sensitive, here are some traits to look out for that show you m
 
 Looking at this list, I better understand why HSPs often decide to work for themselves. As an HSP, it's essential to structure your life so that you can work at your own speed instead of having others dictate that pace for you. I learned the hard way that if you don't honor your natural pacing, your body will force you to.
 
-## My Top Eight HSP Life Changes
+## My Top HSP Life Changes
 
 Reacquainting myself with my sensitive nature has been both difficult and exhilarating. Accepting my natural pace has been a struggle, but at the same time, I feel so much better when I go with it. Here are the things I wish I would have done to better honor my sensitivity at the start(besides adding blue light filters to all of my devices).
 
@@ -74,9 +74,9 @@ Also, it's important to note that not all HSPs are sensitive in the same ways. M
 
 Knowing the physical senses that impact me the most has made me aware of the best ways to soothe myself. Our physical senses aren't all or nothing. It's still possible to use my senses to the full without overwhelming myself.
 
-**Revaluate your attitude towards rest.**
+**Reevaluate your attitude towards rest.**
 
-Modern society has issues with rest. Often rest is confused with laziness, procrastination, and addiction to convenience. However, for HSPs, rest is vital. HSPs need rest to keep over-stimulation in check and to maintain their focus.
+Modern society has issues with rest. Often rest is confused with laziness, procrastination, and addiction to convenience. However, for HSPs, rest is vital. Highly sensitive people need rest to keep over-stimulation in check and to maintain their focus.
 
 So pay attention to your attitude towards rest. Are the popular views of rest affecting how you take care of yourself? Are you pushing yourself to keep going, even when you know you shouldn't? When you take a moment to rest, do you feel guilt nagging in the back of your mind? Do you reluctantly go to bed? Do you resist stopping to recharge?
 
@@ -105,7 +105,7 @@ In general, be aware of the need to relieve physical tension from your body ever
 
 **Practice letting go.**
 
-As an HSP, not only do I clench my muscles as a reaction to stress, but I also engage in emotional "clenching."
+As a highly sensitive person, not only do I clench my muscles as a reaction to stress, but I also engage in emotional "clenching."
 
 I tend to hold on to negative emotions, although they keep hurting me, just like it's hard for me to release and relax my tense and achy muscles. I've had to incorporate practices for letting go emotionally into my life.
 
