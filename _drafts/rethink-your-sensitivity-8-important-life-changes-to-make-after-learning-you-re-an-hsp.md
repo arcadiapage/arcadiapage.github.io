@@ -9,7 +9,7 @@ tags:
 ---
 Years ago, when I discovered that I was a Highly Sensitive Person, I thought I had myself _all_ figured out. I added more things to my life to accommodate my sensitivity, incorporating more outdoor time into my day and installing blue light filters on all my devices since I know how visually sensitive I am. I also switched to using more natural skin care products since I am sensitive to chemicals and unnatural scents.
 
-I made all of these practical adjustments with the idea that this was the best way to cater to my needs as an HSP since the books I've read about sensitivity focus a lot on the importance of creating a comfortable physical environment.
+I made all of these practical adjustments with the idea that this was the best way to cater to my needs as a highly sensitive person since the books I've read about sensitivity focus a lot on the importance of creating a comfortable physical environment.
 
 Physical comfort is important for HSPs. But over the past year, I've realized that these changes were surface level and didn't address the real nature of being a Highly Sensitive Person. Making these kinds of changes without paying attention to the deep underlying facets of sensitivity left me open to hurting myself. I fell into overwork and ignored my needs without even realizing it because I was still doing what I thought I needed to take care of myself as a sensitive person.
 
@@ -31,7 +31,7 @@ If you're highly sensitive, here are some traits and signs to look out for that 
 * At the edge of your mind is a sense of panic. Panic that everything may go wrong, and you don't have the resources to handle it.
 * The emotional energy of others hits you hard. You easily take on the pain and anxiety of others. The emotional walls between you and other people feel very thin.
 
-Looking at this list, I better understand why HSPs often decide to work for themselves. As an HSP, it's essential to structure your life so that you can work at your own speed instead of having others dictate that pace for you. I learned the hard way that if you don't honor your natural pacing, your body will force you to.
+Looking at this list, I better understand why HSPs often decide to work for themselves. As an HSP, it's essential to structure your life so that you can work at your own speed instead of having others dictate that pace for you. My book, [Thoughtful Planning: How to Use Questions for Self-reflection to Design Your Day](https://payhip.com/b/YSucT), is all about tuning into your natural pace. I learned the hard way that if you don't honor your natural pacing, your body will force you to.
 
 ## My Top HSP Life Changes
 
