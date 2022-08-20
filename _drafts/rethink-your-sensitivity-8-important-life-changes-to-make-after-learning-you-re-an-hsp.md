@@ -3,7 +3,8 @@ layout: post
 title: 'Eleven Traits that Show Up When You Ignore your Needs as a Highly Sensitive
   Person '
 subtitle: ''
-tags: []
+tags:
+- INFP & HSP
 
 ---
 Years ago, when I discovered that I was a Highly Sensitive Person, I thought I had myself _all_ figured out. I added more things to my life to accommodate my sensitivity, incorporating more outdoor time into my day and installing blue light filters on all my devices since I know how visually sensitive I am. I also switched to using more natural skin care products since I am sensitive to chemicals and unnatural scents.
