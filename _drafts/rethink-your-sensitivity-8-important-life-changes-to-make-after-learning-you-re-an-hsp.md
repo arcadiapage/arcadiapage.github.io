@@ -7,6 +7,8 @@ tags:
 - INFP & HSP
 
 ---
+![highly sensitive person trait traits of highly sensitive person](/uploads/eleven-traits-highly-sensitive-person.png "Eleven traits that show up when you ignore your needs as a highly sensitive person")
+
 Years ago, when I discovered that I was a Highly Sensitive Person, I thought I had myself _all_ figured out. I added more things to my life to accommodate my sensitivity, incorporating more outdoor time into my day and installing blue light filters on all my devices since I know how visually sensitive I am. I also switched to using more natural skin care products since I am sensitive to chemicals and unnatural scents.
 
 I made all of these practical adjustments with the idea that this was the best way to cater to my needs as a highly sensitive person since the books I've read about sensitivity focus a lot on the importance of creating a comfortable physical environment.
