@@ -7,7 +7,7 @@ tags:
 - INFP & HSP
 
 ---
-![highly sensitive person trait traits of highly sensitive person](/uploads/eleven-traits-highly-sensitive-person.png "Eleven traits that show up when you ignore your needs as a highly sensitive person")
+![highly sensitive person trait traits of highly sensitive person](/uploads/eleven-traits-highly-sensitive-person.png "Eleven traits that show up when you ignore your needs as a highly sensitive person"){: .mx-auto.d-block :}
 
 Years ago, when I discovered that I was a Highly Sensitive Person, I thought I had myself _all_ figured out. I added more things to my life to accommodate my sensitivity, incorporating more outdoor time into my day and installing blue light filters on all my devices since I know how visually sensitive I am. I also switched to using more natural skin care products since I am sensitive to chemicals and unnatural scents.
 
@@ -119,3 +119,5 @@ My favorite letting go practices are forgiveness, decluttering, saying goodbye, 
 Forgiveness and letting go aren't about forgetting what happened -- They're about releasing the grip of the things that keep you stuck from moving forward. You move from a place of blame to a place of finding comfort, peace, and actual solutions.
 
 So this is my super list of things I think highly sensitive people need in their lives. I so wish I knew I needed these things a long time ago.
+
+**Any thoughts on this post?** ✨ **Feel free to let me know what you think via** [**chat or email!**](https://arcadiapage.com/coffee/)
