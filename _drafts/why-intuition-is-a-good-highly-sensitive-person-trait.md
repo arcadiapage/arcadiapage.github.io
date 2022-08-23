@@ -7,7 +7,7 @@ tags:
 - INFP & HSP
 
 ---
-My intuition is a huge part of who I am as a highly sensitive person. It's one of my favorite traits, and it is so powerful. The gentle hunches, tugs, and unexpected connections are welcome visitors that give my life a sense of direction and vibrancy. Being intuitive is exciting. Every day brings a chance to uncover subtle details that others miss.
+Intuition is one of the many good traits of highly sensitive people. My intuition is a huge part of who I am, and it is so powerful. The gentle hunches, tugs, and unexpected connections are welcome visitors that give my life a sense of direction and vibrancy. Being intuitive is exciting. Every day brings a chance to uncover subtle details that others miss.
 
 I like to think of intuition as enhanced pattern recognition fed by the information I absorb through my senses. This recognition happens so quickly, that it can be subconscious, showing up as a gut feeling, being tugged in a certain direction, or a sudden ah-ha moment. All humans are capable of intuition. However, highly sensitive people tend to be extra intuitive because they process more sensory information.
 
@@ -35,9 +35,7 @@ Since HSPs are more in tune with their environment, they give attention to detai
 
 ## Insight
 
-The highly sensitive person trait of intuition also gives HSPs the gift of insight. Intuitives work with webs of information all the time.
-
-As a result, people come to intuitives for recommendations and advice. When people ask for your opinion on something, not only do you see the meaningful details, but you also see how things are connected and the impact of that. You may even identify with the Sage Jungian archetype.
+The highly sensitive person trait of intuition also gives HSPs the gift of insight. Intuitives work with webs of information all the time. As a result, people come to them for recommendations and advice. When people ask for your opinion on something, not only do you see the meaningful details, but you also see how things are connected and the impact of that. You may even identify with the Sage Jungian archetype.
 
 ## Foresight
 
