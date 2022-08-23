@@ -74,3 +74,5 @@ When we are authentic, others can sense that too. People may even tell you that 
 Sometimes highly sensitive people can struggle to have a good relationship with their intuition. Signs of trouble include burnout, loss of identity, and chronic indecision. Also, you may feel like you're striving all the time. Intuition is very gentle and tends to show up more when we're relaxed. It's natural problem solving, not forced. So if you see these signs of trouble in your life, [you need to take a moment to slow down and check in with yourself](https://arcadiapage.com/2022-08-20-rethink-your-sensitivity-8-important-life-changes-to-make-after-learning-you-re-an-hsp/).
 
 I hope you now know why your intuition is awesome.❤️
+
+**Any thoughts on this post?** ✨ **Feel free to let me know what you think via** [**chat or email!**](https://arcadiapage.com/coffee/)
