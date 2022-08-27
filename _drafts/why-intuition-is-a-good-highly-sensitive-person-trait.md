@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Intuition is a Good Highly Sensitive Person Trait
+title: Why Intuition is a Good Trait to Have as a Highly Sensitive Person
 subtitle: ''
 tags:
 - Creative Life
