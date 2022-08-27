@@ -27,7 +27,7 @@ INFJs often describe their intuition as a deep sense of knowing without fully un
 
 If you are neither an INFP nor an INFJ, take a moment to do some internet research to see what kind of intuition comes the most naturally to your type.
 
-# Benefits of having the trait of intuition as a highly sensitive person
+# Benefits of having the trait of intuition as a highly sensitive person:
 
 ## Creativity
 
