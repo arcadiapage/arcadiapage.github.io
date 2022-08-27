@@ -15,6 +15,8 @@ Information is fuel for intuition. And by information, I don't mean simply books
 
 The intuition of the highly sensitive person forges connections between all of this sensory information, creating new insights. These connections can also create recognizable patterns, which makes it possible for HSPs to accurately predict what is most likely to happen in certain situations.
 
+![](/uploads/intuition-highly-sensitive-person-trait.png){: .mx-auto.d-block :}
+
 Many highly sensitive people identify as being INFPs or INFJs. What I love about the MBTI is that it accounts for two types of intuition: extraverted and introverted intuition. Everyone uses both styles, but we often prefer one over the other. The one we use the most is reflected in our personality type code. INFPs prefer to use extraverted intuition, and INFJs prefer introverted intuition.
 
 As an INFP, I have more experience with [extraverted intuition](https://arcadiapage.com/2018/09/accepting-my-scattered-work-style-as.html). If I could think of one word to describe extraverted intuition, it would be exploration. It's all about taking in new things from my environment. Extraverted intuition can be messy and distractible because it's always on the lookout for what's fresh. But despite the chaos, it channels all that life experience and newness into creative work.
