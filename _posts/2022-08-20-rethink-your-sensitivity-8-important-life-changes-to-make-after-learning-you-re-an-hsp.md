@@ -33,7 +33,7 @@ If you're highly sensitive, here are some traits and signs to look out for that 
 * At the edge of your mind is a sense of panic. Panic that everything may go wrong, and you don't have the resources to handle it.
 * The emotional energy of others hits you hard. You easily take on the pain and anxiety of others. The emotional walls between you and other people feel very thin.
 
-Looking at this list, I better understand why HSPs often decide to work for themselves. As an HSP, it's essential to structure your life so that you can work at your own speed instead of having others dictate that pace for you. My book, [Thoughtful Planning: How to Use Questions for Self-reflection to Design Your Day](https://payhip.com/b/YSucT), is all about tuning into your natural pace. I learned the hard way that if you don't honor your natural pacing, your body will force you to.
+Looking at this list, I better understand why HSPs often decide to work for themselves. As an HSP, it's essential to structure your life so that you can work at your own speed instead of having others dictate that pace for you. My book, [Thoughtful Planning: How to Use Questions for Self-reflection to Design Your Day](https://payhip.com/b/YSucT), is all about tuning into your natural pace. I learned the hard way that if you don't honor your natural pacing, your body will force you to. You may also be [disconnected from your intuition](https://arcadiapage.com/2022-08-27-why-intuition-is-a-good-highly-sensitive-person-trait/) and have a hard time making decisions and separating your needs from those of others.
 
 ## My Top HSP Life Changes
 
