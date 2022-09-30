@@ -2,12 +2,13 @@
 layout: post
 title: What It's Like Being an INFP Enneagram Type 3
 subtitle: "...And saying hello to my shadow"
-tags: []
+tags:
+- INFP & HSP
 
 ---
 After years of thinking I was a Type 4 on the Enneagram, I recently realized that I'm a Type 3. Okay, technically I am SX/SP 3w4.
 
-( [This](https://personalitypath.com/enneagram/wings/enneagram-3w2-3w4/) site and [this site](https://psychologia.co/3w4/) have good descriptions of 3w4s.And [this site](https://enneagramexplained.com/the-27-enneagram-subtypes/) has a nice description of the subtypes for each type.)
+( [This](https://personalitypath.com/enneagram/wings/enneagram-3w2-3w4/) site and [this site](https://psychologia.co/3w4/) have good descriptions of 3w4s. And [this site](https://enneagramexplained.com/the-27-enneagram-subtypes/) has a nice description of the subtypes for each type.)
 
 At first, there was the excitement of recognition. The feeling of, "This is so me, that it's crazy that I didn't even realize it!”
 
@@ -18,7 +19,6 @@ When I think of Enneagram Type 3s, I think of influencers, celebrities, and entr
 But I've realized that no matter how much I deny it, the truth remains. I care about achievement, and I want to be the boss--mainly of myself. I am all into entrepreneurship. I care about doing things in style, looking good, and working hard on my skills. I will stubbornly stick to my goals and dreams, and I ~~love attention~~ will gladly accept the praise that comes my way. I also enjoy encouraging others to do and become their best.
 
 Awkward to admit, but true.
-
 
 # So How Did I Find Out My True Enneagram Type?
 
@@ -40,7 +40,6 @@ Do I feel it was a waste thinking that I was a Type 4 for so long? Not at all. T
 
 So not having my exact type was more of an unexpected gift than a problem.
 
-
 # INFP and Type 3 Overlaps?
 
 Being a Type 3w4 has some interesting and unusual overlaps with the INFP personality type.
@@ -55,7 +54,7 @@ Being an SX/SP 3 with a 4 wing fits perfectly with being an introvert. I'm less 
 
 For a while, I did struggle with having unfulfilling friendships. The mask I wore to attract friends kept people disconnected from who I truly was. I felt like my "friends” never really knew me. Fortunately, as I've gotten older, I've become more authentic, so I'm no longer sending out the wrong signals and creating those unfulfilling friendships.
 
-The inherent charm of the Enneagram Type 3 lines up well with the use of extraverted intuition (Ne).  ENFPs primarily use extraverted intuition, and they're known for being magnetic and easily liked. For INFPs, extraverted intuition is their secondary function, and when it's tapped into, INFPs display a quirky kind of charm as well. My theory for why extraverted intuition has this kind of effect is because Ne finds everything fascinating, even other people. 
+The inherent charm of the Enneagram Type 3 lines up well with the use of extraverted intuition (Ne).  ENFPs primarily use extraverted intuition, and they're known for being magnetic and easily liked. For INFPs, extraverted intuition is their secondary function, and when it's tapped into, INFPs display a quirky kind of charm as well. My theory for why extraverted intuition has this kind of effect is because Ne finds everything fascinating, even other people.
 
 The most difficult thing about being a Type 3 INFP is that I often fall into the grip of my inferior function due to all the striving. The Enneagram Type 3 tends to correspond with the [extraversion and thinking preferences](https://personalityjunkie.com/07/myers-briggs-enneagram-mbti-types-correlations-relationship/) of the MBTI. As an INFP, extraverted thinking (Te) is my inferior function.
 
@@ -63,14 +62,14 @@ But since extraverted thinking is my inferior function, I'm attracted to finding
 
 Somehow I came to believe that wearing the mask of an extraverted thinker via relentlessly striving is the way to win admiration and love and that I'm not good enough as I am. It's a message from my childhood and society. I feel that in some ways I'm more fragile than Type 3s that have different MBTI types since I'm more prone to burnout due to overuse of extraverted thinking.
 
-However, the amazing thing is that being a healthy INFP means being a healthy enneagram Type 3. A healthy INFP is in touch with [introverted](https://arcadiapage.com/2018/03/life-as-introverted-feeling-user.html) feeling. They are deeply aware of their values and what's important to them. This makes INFPs authentic.
+However, the amazing thing is that being a healthy INFP means being a healthy Enneagram Type 3. A healthy INFP is in touch with [introverted](https://arcadiapage.com/2018/03/life-as-introverted-feeling-user.html) feeling. They are deeply aware of their values and what's important to them. This makes INFPs authentic.
 
 To be a healthy Type 3, it's essential to get in touch with your authenticity. This is because Type 3s can get so used to shaping the way they appear to please others, that they lose touch with who they are and what they want. As a result, Type 3s risk coming across as shallow. On top of that, they will never feel successful enough, beautiful enough, or famous enough because they've never taken the time to think about what success is to them. As long as Type 3s live by seeing themselves through the eyes of others, they will never feel like they are enough.
-
 
 As a side note, since I'm a Type 3 INFP, I must learn to control my workaholic tendencies and sink into using introverted sensing. Just like with introverted feeling, introverted sensing involves slowing down. Introverted sensing is also about taking time to reflect, learning from the past, and working with the mind-body connection. I have to buckle down on using my top three functions (Fi, Ne, Si), so I don't get weighed down by my inferior function (Te).
 
 # Using Type 3 Abilities for the Greater Good
+
 Sometimes when I read descriptions of Enneagram Type 3s, I wonder what exactly are they good for, other than chasing beauty, chasing money, and being tabloid fodder.
 
 Well, if Type 3s took a break from building their self-image and turned their attention towards being genuinely of service, here's what I think they'll be good at:
@@ -96,6 +95,7 @@ He shines the most when he brings out the beauty of the work of others. When hel
 [This meme of him, pretty much explains it all.](https://pin.it/1GGW2ZU)
 
 # Moving Forward
+
 Coming to grips with my Enneagram personality type is going to involve some effort.
 
 I want to get to a place where I'm not scared of myself and can relax into the things that make me a Type 3. Rejecting these parts of myself made me not take my workaholic nature as seriously as I should have, and I missed out on doing some essential self-care. Also, I tend to fear appearing confident. As if that is something wrong.
