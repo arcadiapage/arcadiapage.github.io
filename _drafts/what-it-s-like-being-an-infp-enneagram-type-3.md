@@ -110,4 +110,4 @@ I think this all highlights how important it is that we hold on to our concept o
 
 And that can be thrilling.
 
-This post is way more like a public journal entry than most of my posts. I hope it makes sense!
+This post is way more like a public journal entry than most of my posts. I hope it makes sense! **Any thoughts ?** ✨ **Feel free to let me know what you think via** [**chat or email!**](https://arcadiapage.com/coffee/)
