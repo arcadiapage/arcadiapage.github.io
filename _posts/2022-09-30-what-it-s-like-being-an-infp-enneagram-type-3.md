@@ -10,11 +10,11 @@ After years of thinking I was a Type 4 on the Enneagram, I recently realized tha
 
 ( [This](https://personalitypath.com/enneagram/wings/enneagram-3w2-3w4/) site and [this site](https://psychologia.co/3w4/) have good descriptions of 3w4s. And [this site](https://enneagramexplained.com/the-27-enneagram-subtypes/) has a nice description of the subtypes for each type.)
 
-At first, there was the excitement of recognition. The feeling of, "This is so me, that it's crazy that I didn't even realize it!”
+At first, there was the excitement of recognition. The feeling of, "This is so me, it's crazy I didn't realize it!”
 
 But then there was also the dread. I would be lying if I said that I did not suffer from a brief identity crisis. Realizing that I'm a Type 3 was like discovering that the evil I've worked so hard to vanquish is actually within.
 
-When I think of Enneagram Type 3s, I think of influencers, celebrities, and entrepreneurs who are so obsessed with image and status that they get into trouble. They are addicted to likes and are disconnected from themselves. This isn't appealing to me. As a result, I've been ignoring as much of the stuff that makes me a Type 3 as I can, even the things that are good.
+When I think of Enneagram Type 3s, I think of influencers, celebrities, and entrepreneurs who are so obsessed with image and status that they get into trouble. They are addicted to likes and are disconnected from themselves. This isn't appealing to me. As a result, I've been ignoring as much of what makes me a Type 3, even the things that are good.
 
 But I've realized that no matter how much I deny it, the truth remains. I care about achievement, and I want to be the boss--mainly of myself. I am all into entrepreneurship. I care about doing things in style, looking good, and working hard on my skills. I will stubbornly stick to my goals and dreams, and I ~~love attention~~ will gladly accept the praise that comes my way. I also enjoy encouraging others to do and become their best.
 
@@ -44,9 +44,7 @@ So not having my exact type was more of an unexpected gift than a problem.
 
 Being a Type 3w4 has some interesting and unusual overlaps with the INFP personality type.
 
-Type 3s in general tend to struggle with deception because they are always trying to project a certain image of themselves to win the praise of others.
-
-However, because of my 4 wing and INFP personality type, my mind is quick to point out when I'm being fake. Sometimes it catches me before I slip into fakeness, and other times it berates me later for doing something unauthentic. This back and forth can cause a lot of emotional turbulence.
+Type 3s in general tend to struggle with deception because they are always trying to project a certain image of themselves to win the praise of others. However, because of my 4 wing and INFP personality type, my mind is quick to point out when I'm being fake. Sometimes it catches me before I slip into fakeness, and other times it berates me later for doing something unauthentic. This back and forth can cause a lot of emotional turbulence.
 
 There have been moments where my Type 3 side has embarrassed me so much, that I regret that it's there. That's why I'm very careful not to do things that feel icky to me, especially when it comes to sharing my work. I also can't do the slick, extremely commercialized stuff that other Type 3s do because it feels so unreal, and I will end up disgusted with myself. But although I'm careful, I still sometimes do and say Type 3ish stuff that makes me cringe.
 
@@ -54,13 +52,13 @@ Being an SX/SP 3 with a 4 wing fits perfectly with being an introvert. I'm less 
 
 For a while, I did struggle with having unfulfilling friendships. The mask I wore to attract friends kept people disconnected from who I truly was. I felt like my "friends” never really knew me. Fortunately, as I've gotten older, I've become more authentic, so I'm no longer sending out the wrong signals and creating those unfulfilling friendships.
 
-The inherent charm of the Enneagram Type 3 lines up well with the use of extraverted intuition (Ne).  ENFPs primarily use extraverted intuition, and they're known for being magnetic and easily liked. For INFPs, extraverted intuition is their secondary function, and when it's tapped into, INFPs display a quirky kind of charm as well. My theory for why extraverted intuition has this kind of effect is because Ne finds everything fascinating, even other people.
+The inherent charm of the Enneagram Type 3 lines up well with the use of extraverted intuition (Ne).  ENFPs primarily use extraverted intuition, and they're known for being magnetic and easily liked. For INFPs, extraverted intuition is their secondary function, and when it's tapped into, INFPs display a quirky kind of charm as well. 
 
 The most difficult thing about being a Type 3 INFP is that I often fall into the grip of my inferior function due to all the striving. The Enneagram Type 3 tends to correspond with the [extraversion and thinking preferences](https://personalityjunkie.com/07/myers-briggs-enneagram-mbti-types-correlations-relationship/) of the MBTI. As an INFP, extraverted thinking (Te) is my inferior function.
 
 But since extraverted thinking is my inferior function, I'm attracted to finding effective shortcuts for accomplishing things much like the typical Enneagram Type 3, since I don't want to waste a lot of effort on Te stuff.
 
-Somehow I came to believe that wearing the mask of an extraverted thinker via relentlessly striving is the way to win admiration and love and that I'm not good enough as I am. It's a message from my childhood and society. I feel that in some ways I'm more fragile than Type 3s that have different MBTI types since I'm more prone to burnout due to overuse of extraverted thinking.
+Somehow I came to believe that wearing the mask of an extraverted thinker and relentlessly striving is the way to win admiration and love. It's a message from my childhood and society. I feel that in some ways I'm more fragile than Type 3s that have different MBTI types since I'm more prone to burnout due to overuse of extraverted thinking.
 
 However, the amazing thing is that being a healthy INFP means being a healthy Enneagram Type 3. A healthy INFP is in touch with [introverted](https://arcadiapage.com/2018/03/life-as-introverted-feeling-user.html) feeling. They are deeply aware of their values and what's important to them. This makes INFPs authentic.
 
@@ -72,13 +70,13 @@ As a side note, since I'm a Type 3 INFP, I must learn to control my workaholic t
 
 Sometimes when I read descriptions of Enneagram Type 3s, I wonder what exactly are they good for, other than chasing beauty, chasing money, and being tabloid fodder.
 
-Well, if Type 3s took a break from building their self-image and turned their attention towards being genuinely of service, here's what I think they'll be good at:
+Well, if Type 3s took a break from building their self-image and turned their attention towards being of service, here's what I think they'll be good at:
 
-Lovingly motivating and inspiring others to be their best and to achieve.
+- Lovingly motivating and inspiring others to be their best and to achieve.
 
-Assisting others with overcoming obstacles by creatively sharing how they have overcome their obstacles.
+- Assisting others with overcoming obstacles by creatively sharing how they have overcome their obstacles.
 
-Bringing out the natural beauty and charm of others. Helping people to see who they can become.
+- Bringing out the natural beauty and charm of others. Helping people to see who they can become.
 
 Type 3s have the skills and the drive to make their dreams come true and can show others how to do the same.
 
@@ -86,7 +84,7 @@ Type 3s have the skills and the drive to make their dreams come true and can sho
 
 So far, I've only come across one example of a character who is very likely an INFP 3w4. I know this example is nerdy and niche, but I'm putting it out there.
 
-The character is Mikoto Mikoshiba from Monthly Girls' Nozaki-kun. This is a manga, and the anime was available on Netflix for a while.
+The character is Mikoto Mikoshiba from **Monthly Girls' Nozaki-kun**. This is a manga, and the anime was available on Netflix for a while.
 
 Mikoshiba is a shy, sensitive, introverted otaku who works hard to project a flashy, flirty persona, but gets easily embarrassed by his own displays of overconfidence. This mix of opposing characteristics is very endearing, and not only does it make me laugh, but I get where this character is coming from.
 
@@ -96,7 +94,7 @@ He shines the most when he brings out the beauty of the work of others. When hel
 
 # Moving Forward
 
-Coming to grips with my Enneagram personality type is going to involve some effort.
+Coming to grips with my Enneagram personality type is going to take some time.
 
 I want to get to a place where I'm not scared of myself and can relax into the things that make me a Type 3. Rejecting these parts of myself made me not take my workaholic nature as seriously as I should have, and I missed out on doing some essential self-care. Also, I tend to fear appearing confident. As if that is something wrong.
 
@@ -104,7 +102,7 @@ As an INFP Enneagram 3, I need to regularly slow down to notice what I want, eve
 
 It is weird getting used to the idea that I don't need to achieve to receive love, but I don't need to shrink myself down either. I'm fine the way I am when I'm not striving but also when I'm not holding back.
 
-Lastly, I need to feel free to laugh at myself. Honestly, being an INFP Enneagram Type 3w4 is strange, especially with the bouncing between overconfidence, humiliation, striving, and crashing. I'm deeply grateful that being an INFP gives me the capacity to deeply introspect and to tease apart the way I operate in the world and how I feel.
+Lastly, I need to feel free to laugh at myself. Honestly, being an INFP Enneagram Type 3w4 is weird, especially with the bouncing between overconfidence, humiliation, striving, and crashing. I'm deeply grateful that being an INFP gives me the capacity to deeply introspect and to tease apart the way I operate in the world and how I feel.
 
 I think this all highlights how important it is that we hold on to our concept of self lightly because sometimes, we're not exactly who we think are. Sometimes we are who we deny being.
 
