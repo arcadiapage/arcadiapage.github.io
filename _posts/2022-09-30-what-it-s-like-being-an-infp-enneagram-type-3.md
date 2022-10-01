@@ -14,6 +14,8 @@ At first, there was the excitement of recognition. The feeling of, "This is so m
 
 But then there was also the dread. I would be lying if I said that I did not suffer from a brief identity crisis. Realizing that I'm a Type 3 was like discovering that the evil I've worked so hard to vanquish is actually within.
 
+![Enneagram Type 3 INFP, INFP Enneagram 3, Enneagram 3 INFP ](/uploads/infp-enneagram-3-pinterest-pin-1000-x-1500.png "INFP Enneagram Type 3, Enneagram 3 INFP"){: .mx-auto.d-block :}
+
 When I think of Enneagram Type 3s, I think of influencers, celebrities, and entrepreneurs who are so obsessed with image and status that they get into trouble. They are addicted to likes and are disconnected from themselves. This isn't appealing to me. As a result, I've been ignoring as much of what makes me a Type 3, even the things that are good.
 
 But I've realized that no matter how much I deny it, the truth remains. I care about achievement, and I want to be the boss--mainly of myself. I am all into entrepreneurship. I care about doing things in style, looking good, and working hard on my skills. I will stubbornly stick to my goals and dreams, and I ~~love attention~~ will gladly accept the praise that comes my way. I also enjoy encouraging others to do and become their best.
@@ -52,7 +54,7 @@ Being an SX/SP 3 with a 4 wing fits perfectly with being an introvert. I'm less 
 
 For a while, I did struggle with having unfulfilling friendships. The mask I wore to attract friends kept people disconnected from who I truly was. I felt like my "friends” never really knew me. Fortunately, as I've gotten older, I've become more authentic, so I'm no longer sending out the wrong signals and creating those unfulfilling friendships.
 
-The inherent charm of the Enneagram Type 3 lines up well with the use of extraverted intuition (Ne).  ENFPs primarily use extraverted intuition, and they're known for being magnetic and easily liked. For INFPs, extraverted intuition is their secondary function, and when it's tapped into, INFPs display a quirky kind of charm as well. 
+The inherent charm of the Enneagram Type 3 lines up well with the use of extraverted intuition (Ne).  ENFPs primarily use extraverted intuition, and they're known for being magnetic and easily liked. For INFPs, extraverted intuition is their secondary function, and when it's tapped into, INFPs display a quirky kind of charm as well.
 
 The most difficult thing about being a Type 3 INFP is that I often fall into the grip of my inferior function due to all the striving. The Enneagram Type 3 tends to correspond with the [extraversion and thinking preferences](https://personalityjunkie.com/07/myers-briggs-enneagram-mbti-types-correlations-relationship/) of the MBTI. As an INFP, extraverted thinking (Te) is my inferior function.
 
@@ -72,11 +74,9 @@ Sometimes when I read descriptions of Enneagram Type 3s, I wonder what exactly a
 
 Well, if Type 3s took a break from building their self-image and turned their attention towards being of service, here's what I think they'll be good at:
 
-- Lovingly motivating and inspiring others to be their best and to achieve.
-
-- Assisting others with overcoming obstacles by creatively sharing how they have overcome their obstacles.
-
-- Bringing out the natural beauty and charm of others. Helping people to see who they can become.
+* Lovingly motivating and inspiring others to be their best and to achieve.
+* Assisting others with overcoming obstacles by creatively sharing how they have overcome their obstacles.
+* Bringing out the natural beauty and charm of others. Helping people to see who they can become.
 
 Type 3s have the skills and the drive to make their dreams come true and can show others how to do the same.
 
