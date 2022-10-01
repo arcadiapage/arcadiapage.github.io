@@ -17,11 +17,11 @@ show_related_posts:   true
 navbar-links:
   
   Books: "books"
-  Coffee 🖤: "coffee"
+  Topics 🖤: "tags"
   Subscribe: "https://tinyletter.com/arcadiapage"
   
   Resources:
-   - Archives:  "tags"
+   - Archives:  "coffee"
    - About Me: "aboutme"
    - Disclosure: "disclosure"
 # --- Logo --- #
