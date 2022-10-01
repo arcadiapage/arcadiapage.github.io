@@ -90,7 +90,7 @@ Mikoshiba is a shy, sensitive, introverted otaku who works hard to project a fla
 
 He shines the most when he brings out the beauty of the work of others. When helping Nozaki with creating his comic, Mikoshiba draws the flowers around the comic characters to bring out their charm.
 
-[This meme of him, pretty much explains it all.](https://pin.it/1GGW2ZU)
+[This meme of him pretty much explains it all.](https://pin.it/1GGW2ZU)
 
 # Moving Forward
 
