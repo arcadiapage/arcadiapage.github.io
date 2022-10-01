@@ -53,3 +53,5 @@ Physical pain sends you a message. It says, _slow down_, _stop_, or _do somethin
 Don't try to detach from or bury emotional pain. Being aware of it is the only way you can heal. So many people go through life hiding their emotional pain and doing nothing about it. As a highly sensitive person, you do not need to live with that much suffering. Your awareness enables you to find healing from your emotional pain much sooner than most people. All you need to do is listen to what your pain is telling you. This is most definitely a gift.
 
 So these are all reasons why emotional sensitivity is a good trait for highly sensitive people to have. I hope this post has helped you to start seeing your intense emotions as important messengers and not enemies to fight.
+
+**Any thoughts on this post?** ✨ **Feel free to let me know what you think via** [**chat or email!**](https://arcadiapage.com/coffee/)
