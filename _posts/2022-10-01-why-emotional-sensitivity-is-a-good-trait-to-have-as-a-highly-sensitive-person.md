@@ -10,6 +10,8 @@ As a highly sensitive person, my emotional sensitivity can be difficult to handl
 
 For highly sensitive people, emotions can be a powerful force that can push them to accomplish amazing things. So here are some good things about having the trait of emotional sensitivity, especially for highly sensitive people.
 
+![Traits of highly sensitive person, Highly sensitive person good traits, Highly sensitive person trait](/uploads/highly-sensitive-person-good-traits.png "Traits of Highly Sensitive person,  Highly sensitive person good traits"){: .mx-auto.d-block :}
+
 # Strong Emotions Create Strong Motivation
 
 When it comes to setting and reaching goals, a lot of attention is given to the more concrete things, such as the steps you need to take and the timeline for reaching your goals. However, your motivation for reaching those goals is more important than logistics. You can have the best laid out plans ever, but they mean nothing if you lack the drive to get started and stick to them.
