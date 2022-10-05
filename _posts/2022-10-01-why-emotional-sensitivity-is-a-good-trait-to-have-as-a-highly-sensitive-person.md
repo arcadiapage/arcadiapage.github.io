@@ -24,13 +24,13 @@ Without having strong emotions, there is no way I could publish work as regularl
 
 # Strong Emotions Make You More Aware of What You Value
 
-Every day we are given messages telling us what we should value. As an [Enneagram Type 3](), I know what it's like to live a life of trying to make the values of "successful" people my own.
+Every day we are given messages telling us what we should value. As an [Enneagram Type 3](https://arcadiapage.com/2022-09-30-what-it-s-like-being-an-infp-enneagram-type-3/), I know what it's like to live a life of trying to make the values of "successful" people my own.
 
 However, when you are disconnected from your values, you become a shell of yourself. You set goals that you don't care to reach and can end up living a life that doesn't feel like it belongs to you.
 
 The common advice for Enneagram Type 3s is that if they want to live a life that feels authentic to what they want, they have to tap into their emotions.
 
-As a highly sensitive person, you have the advantage of being in touch with your emotional landscape regularly. I have to admit that although I'm an HSP, I've gone through periods of my life where I've actively tried to [detach from what I feel](). These methods have ranged from being a caffeine-addicted workaholic to wearing a mask of who I thought I needed to be appreciated by others.
+As a highly sensitive person, you have the advantage of being in touch with your emotional landscape regularly. I have to admit that although I'm an HSP, I've gone through periods of my life where I've actively tried to [detach from what I feel](https://arcadiapage.com/2022-03-31-being-an-infp-doesn-t-mean-you-never-block-your-emotions/). These methods have ranged from being a caffeine-addicted workaholic to wearing a mask of who I thought I needed to be appreciated by others.
 
 However, when you let all of that go and realize what truly matters to you, that's when your emotions become a catalyst for authenticity. Care, affection, and love are all emotions, and it's these emotions specifically that point you to what is important to you and your values. So what do you care about? Who do you care for? What do you love? What touches your heart?
 
@@ -48,7 +48,7 @@ Your awareness of emotion also makes it easier for you to tune into the needs of
 
 # Being Aware of Your Emotional Pain is Essential for Your Health
 
-As a highly sensitive person, I focus a lot on managing my emotional ups and downs. The most important thing I've learned from getting better at handling my emotions is not to [ignore my emotional pain]().
+As a highly sensitive person, I focus a lot on managing my emotional ups and downs. The most important thing I've learned from getting better at handling my emotions is not to [ignore my emotional pain](https://arcadiapage.com/2022-05-30-the-power-of-transforming-pain-into-art-for-infps/).
 
 Physical pain sends you a message. It says, _slow down_, _stop_, or _do something different_. The same goes for your emotions. Emotional pain is telling you that you need to slow down and reexamine what you're doing. Sometimes it's even telling you to stop doing something and to make a change. If the pain is especially bad, it may be a signal to seek help, just like how you need help when facing severe physical pain.
 
