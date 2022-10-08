@@ -16,7 +16,7 @@ But then there was also the dread. I would be lying if I said that I did not suf
 
 ![Enneagram Type 3 INFP, INFP Enneagram 3, Enneagram 3 INFP ](/uploads/infp-enneagram-3-pinterest-pin-1000-x-1500.png "INFP Enneagram Type 3, Enneagram 3 INFP"){: .mx-auto.d-block :}
 
-When I think of Enneagram Type 3s, I think of influencers, celebrities, and entrepreneurs who are so obsessed with image and status that they get into trouble. They are addicted to likes and are disconnected from themselves. This isn't appealing to me. As a result, I've been ignoring as much of what makes me a Type 3, even the things that are good.
+When I think of Enneagram Type 3s, I think of influencers, celebrities, and entrepreneurs who are so obsessed with image and status that they get into trouble. They are addicted to likes and are disconnected from themselves. This isn't appealing to me. As a result, I've been ignoring much of what makes me a Type 3, even the things that are good.
 
 But I've realized that no matter how much I deny it, the truth remains. I care about achievement, and I want to be the boss--mainly of myself. I am all into entrepreneurship. I care about doing things in style, looking good, and working hard on my skills. I will stubbornly stick to my goals and dreams, and I ~~love attention~~ will gladly accept the praise that comes my way. I also enjoy encouraging others to do and become their best.
 
