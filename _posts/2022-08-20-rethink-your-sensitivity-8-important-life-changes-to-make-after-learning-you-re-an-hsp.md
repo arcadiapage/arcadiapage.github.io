@@ -7,6 +7,9 @@ tags:
 - INFP & HSP
 
 ---
+10/24/22 Update: This post inspired my latest book [Love Your Sensitivity:7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person](https://payhip.com/b/KI5eW).  You can find it now at your favorite ebook retailer.
+***
+
 Years ago, when I discovered that I was a Highly Sensitive Person, I thought I had myself _all_ figured out. I added more things to my life to accommodate my sensitivity, incorporating more outdoor time into my day and installing blue light filters on all my devices since I know how visually sensitive I am. I also switched to using more natural skin care products since I am sensitive to chemicals and unnatural scents.
 
 I made all of these practical adjustments with the idea that this was the best way to cater to my needs as a highly sensitive person since the books I've read about sensitivity focus a lot on the importance of creating a comfortable physical environment.
