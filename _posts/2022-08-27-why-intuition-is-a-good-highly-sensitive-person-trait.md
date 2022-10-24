@@ -75,4 +75,4 @@ Sometimes highly sensitive people can struggle to have a good relationship with 
 
 I hope you now know why your intuition is awesome.❤️
 
-**Any thoughts on this post?** ✨ **Feel free to let me know what you think via** [**chat or email!**](https://arcadiapage.com/coffee/)
+**Enjoyed this post?✨ If so, you'll probably also appreciate my latest book, [Love Your Sensitivity:7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person ](https://payhip.com/b/KI5eW)**
