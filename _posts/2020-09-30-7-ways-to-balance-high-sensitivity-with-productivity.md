@@ -18,6 +18,8 @@ Getting things done as an HSP can be a delicate balance. It's learning the art o
 
 So here I'm sharing some personal discoveries that have helped me to be a productive and healthy sensitive person. Hopefully, if you're an HSP, you'll find some of these tips helpful too.
 
+**Update:✨ If this post catches your interest, you’ll also appreciate my latest book,** [**Love Your Sensitivity:7 Essential Life Changes to Make After Learning You’re a Highly Sensitive Person**](https://payhip.com/b/KI5eW)**--now available at your favorite ebook retailer.** 
+
 ![](/uploads/productive-hsp.png){: .mx-auto.d-block :}
 
 ## I need to set my own standards of productivity
