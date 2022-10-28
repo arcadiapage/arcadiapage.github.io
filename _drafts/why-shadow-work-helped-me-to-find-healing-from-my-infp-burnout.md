@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Shadow Work Helped Me to Find Healing From My INFP Burnout
+title: Why Shadow Work Helped Me Find Healing From My INFP Burnout
 subtitle: ''
 tags:
 - Productivity & Simplicity
@@ -29,7 +29,7 @@ Burnout forces you to face some tough questions. Questions like, "How did I get 
 
 I think the last question is the one I asked the most.
 
-When experiencing burnout as an INFP, you are in the grip. That means the inferior function, extraverted thinking, has taken over. You are now disconnected from the other functions, especially your primary and secondary functions of [introverted feeling]() and [extraverted intuition]().
+When experiencing burnout as an INFP, you are in the grip. That means the inferior function, extraverted thinking, has taken over. You are now disconnected from the other functions, especially your primary and secondary functions of [introverted feeling](https://arcadiapage.com/2018/03/life-as-introverted-feeling-user.html) and [extraverted intuition](https://arcadiapage.com/2018/09/accepting-my-scattered-work-style-as.html).
 
 "What do I want?" is a great question to ask to reconnect with introverted feeling. It reminds you of your values and what is meaningful to you.
 
@@ -39,15 +39,15 @@ But then I started asking myself, "Why?"
 
 Why did I want to go back to being busy and productive?
 
-*Because it made me feel good. Obviously.*
+_Because it made me feel good. Obviously._
 
 Why did it make me feel good?
 
-*Because being busy made me feel needed and loved. I felt like I mattered.*
+_Because being busy made me feel needed and loved. I felt like I mattered._
 
 I believed if I couldn't work and be productive, I wasn't worthy of love.
 
-Then I started writing about my fears. *What scared me the most about not being able to do what I did before? Why did that scare me?*
+Then I started writing about my fears. _What scared me the most about not being able to do what I did before? Why did that scare me?_
 
 Focusing on this topic unearthed themes of being afraid of ridicule for being in pain, looking like a "loser" and being discarded by others, especially by those who I loved.
 
@@ -83,12 +83,14 @@ And my burnout inspired me to forget about taking college classes my senior year
 
 For the sake of my health, I had to sacrifice achievement. What will you need to let go of to avoid or heal from burnout? Whatever it is, make sure to say goodbye to it with appreciation. Burnout always teaches a lesson, even if it's a hard one.
 
-# Moving Foward from Burnout 
+# Moving Foward from Burnout
 
-As I'm recovering, I'm looking forward to the life I will build as I get better. I will make sure it reflects my updated outlook. However, unlike when I was younger, now I know why I was driven to burnout. 
+As I'm recovering, I'm looking forward to the life I will build as I get better. I will make sure it reflects my updated outlook. However, unlike when I was younger, now I know why I was driven to burnout.
 
-Seeing my shadow has helped me to understand and finally break away from my addiction to work. [I no longer equate the admiration earned from achievement with love]().
+Seeing my shadow has helped me to understand and finally break away from my addiction to work. [I no longer equate the admiration earned from achievement with love](https://arcadiapage.com/2022-09-30-what-it-s-like-being-an-infp-enneagram-type-3/).
 
 Realize that you need to be healthy to get things done. If you're burned out, you can no longer be of service in a meaningful way. So take care of yourself. Rest, nap daily, get a massage, take baths, go to bed early, eat healthy foods, and do the inner work.
 
 Keep notes of any insights you have while working through burnout. They have the potential to permanently change your outlook.
+
+**Any thoughts ?** ✨ **Feel free to let me know what you think via** [**chat or email!**](https://arcadiapage.com/coffee/)
