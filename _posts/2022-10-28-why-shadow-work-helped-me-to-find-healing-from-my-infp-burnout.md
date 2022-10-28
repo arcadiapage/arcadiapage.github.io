@@ -15,6 +15,8 @@ As I got older, I experienced burnout from working in retail. A year into the pa
 
 But wrapped up in all the pain, I found a level of healing that I never expected through shadow work.
 
+![](/uploads/journaling-pinterest-pin-design.png){: .mx-auto.d-block :}
+
 # What is Shadow Work?
 
 Shadow work is getting in touch with the hidden parts of your personality. Sometimes other people can see your shadow, but you are left unaware of it. When others point out aspects of your shadow, you can still fail to see it due to the tricks your mind plays to undervalue it.
@@ -83,7 +85,7 @@ And my burnout inspired me to forget about taking college classes my senior year
 
 For the sake of my health, I had to sacrifice achievement. What will you need to let go of to avoid or heal from burnout? Whatever it is, make sure to say goodbye to it with appreciation. Burnout always teaches a lesson, even if it's a hard one.
 
-# Moving Foward from Burnout
+# Moving Forward from Burnout
 
 As I'm recovering, I'm looking forward to the life I will build as I get better. I will make sure it reflects my updated outlook. However, unlike when I was younger, now I know why I was driven to burnout.
 
