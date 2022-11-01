@@ -93,6 +93,6 @@ Seeing my shadow has helped me to understand and finally break away from my addi
 
 Realize that you need to be healthy to get things done. If you're burned out, you can no longer be of service in a meaningful way. So take care of yourself. Rest, nap daily, get a massage, take baths, go to bed early, eat healthy foods, and do the inner work.
 
-Keep notes of any insights you have while working through burnout. They have the potential to permanently change your outlook.
+Keep notes of any insights you have while working through burnout. They have the potential to permanently change your outlook. Another reason why many INFPs experience burnout is because they may have the trait of high sensitivity. For more about how being highly sensitive can impact the way you function, check out my post, [Eleven Traits that Show Up When You Ignore Your Needs as a Highly Sensitive Person.](https://arcadiapage.com/2022-08-20-rethink-your-sensitivity-8-important-life-changes-to-make-after-learning-you-re-an-hsp/)
 
 **Any thoughts ?** ✨ **Feel free to let me know what you think via** [**chat or email!**](https://arcadiapage.com/coffee/)
