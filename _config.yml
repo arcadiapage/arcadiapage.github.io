@@ -23,7 +23,7 @@ navbar-links:
   Resources:
    - Coffee:  "coffee"
    - About Me: "aboutme"
-   - Disclosure: "disclosure"
+   - Disclosure: "https://payhip.com/ArcadiaPage/privacy-policy"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
