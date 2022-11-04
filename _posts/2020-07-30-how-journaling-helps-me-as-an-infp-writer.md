@@ -21,7 +21,7 @@ Many INFP's care deeply about journaling, so here I'm sharing some of the reason
 
 (Need more writing inspiration? Discover my latest book, [I Can't Help Being an INFP Writer: 100+ Tips to Help INFP Writers Capture Ideas, Stay Motivated, and Overcome Problems](https://payhip.com/b/4tWM). And if my book isn't enough, you may also enjoy my simple and affordable [INFP Writer Consulting Session](https://payhip.com/b/cpVP0).)
 
-![](/uploads/journaling-helps-me-as-an-infp-writer.png){: .mx-auto.d-block :}
+![INFP Writer INFP Writers INFP Writing ](/uploads/journaling-helps-me-as-an-infp-writer.png "INFP Writer Journaling"){: .mx-auto.d-block :}
 
 ## Journaling helps me to deal with overwhelm
 
