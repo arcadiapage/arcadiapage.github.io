@@ -16,11 +16,11 @@ I also have faced situations that have made writing difficult, such as working a
 
 This post is in many ways a celebration of my latest book, [I Can't Help Being an INFP Writer: 100+ Tips to Help INFP Writers Capture Ideas, Stay Motivated, and Overcome Problems](https://payhip.com/b/4tWM).
 
-UPDATE Nov 2022: And if my book isn't enough, you may also enjoy my simple and affordable [INFP Writer Consulting Session](https://payhip.com/b/cpVP0). 
+UPDATE Nov 2022: And if my book isn't enough, you may also enjoy my simple and affordable [INFP Writer Consulting Session](https://payhip.com/b/cpVP0).
 
 So here are 25 Ways to Thrive as an INFP Writer:
 
-![](/uploads/thriving-infp-writer.png){: .mx-auto.d-block :}
+![INFP writer, INFP writing, INFP writers, INFP writing tips](/uploads/thriving-infp-writer.png "Ways to thrive as an INFP Writer"){: .mx-auto.d-block :}
 
  1. Keep in mind what role writing has played in your life.
  2. Don't give up in the face of setbacks. Look for solutions.
