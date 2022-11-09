@@ -16,7 +16,7 @@ I am an Asian culture addict, an aspiring minimalist, and have this hopelessly n
 
 <br/>
 
-You can also follow me on [Mastodon](https://writing.exchange/web/@arcadiapage).
+You can also follow me on Mastodon at [@arcadiapage@writing.exchange](https://writing.exchange/web/@arcadiapage).
 
 # Other Blogs
 
