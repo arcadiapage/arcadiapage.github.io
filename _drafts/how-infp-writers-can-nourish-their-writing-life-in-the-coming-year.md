@@ -2,7 +2,9 @@
 layout: post
 title: How INFP Writers Can Nourish Their Writing Life in the Coming Year
 subtitle: ''
-tags: []
+tags:
+- Creative Life
+- INFP & HSP
 
 ---
 It's hard to believe that the year is almost over. How do you feel about your writing life over the past year?
@@ -45,7 +47,6 @@ Don't force yourself to write flowery descriptions if you prefer keeping things 
 
 This mindset also goes for the pressurized (and sometimes toxic) productivity advice that is often given to writers. Try to be more accepting of the way you actually want to approach your writing life while maintaining the quality of what you want to create.
 
-
 **What is naturally coming into your life as a writer?**
 
 This is one of those things that sounds perfectly logical in my brain but absolutely crazy when I write it, so be patient with me here.
@@ -60,7 +61,7 @@ The more you notice, the more lessons appear right when you need them.
 
 Hopefully these four mindset shifts will give you a starting point on setting next year's writing goals. I have one more mindset shift I want to share: Think about how you want to feel as a writer.
 
-My blog posts tend to run long (this one's over 1000 words!), and I end up having to cut them for ease of reading. But I've decided to start sharing the "deleted" scenes of my blog posts as exclusive extras on my Buy Me a Coffee page. So my last tip will be available $1 supporters.
+My blog posts tend to run long (this one's over 1000 words!), and I end up having to cut them for ease of reading. But I've decided to start sharing the "deleted" scenes of my blog posts as [exclusive posts on my Buy Me a Coffee page](https://www.buymeacoffee.com/arcadiapage/november-extra-think-about-how-you-want-feel-writer). So my last tip will be available $1 supporters.
 
 If you need some more inspiration for creating writing goals in the upcoming year, here are some other posts from this blog to check out:
 
@@ -70,38 +71,4 @@ If you need some more inspiration for creating writing goals in the upcoming yea
 * [Too Busy to Write? Here are 4 Flexible Writing Schedules to Try](https://arcadiapage.com/2019/11/too-busy-to-write-here-are-4-flexible.html)
 * [10 Tips on Working With Your Strengths as an INFP Writer](https://arcadiapage.com/2020/04/10-tips-on-working-with-your-strengths.html)
 
-
 If you would like some one-on-one help with this process of figuring out what you want to get out of your writing life, I'm available for [short consultation sessions](https://payhip.com/b/cpVP0). We can chat about these introspective questions and more to help you find your path as an INFP writer.
-
-***
-# Think about how you want to feel as a writer
-
-This year, putting more emphasis on how I would like to feel over what I would want to accomplish has benefitted me a lot.
-
-Have you ever strived to achieve a goal, but once you reach it, it doesn't create within you the feelings you expected? I think everyone has experienced this at some point. There are many reasons why this emotional dissonance can happen. But I've found focusing more on how I want to feel has made it possible for me to:
-
-* Curate my goals. I let go of goals that ultimately don't contribute to the emotions I want to create.
-* See that I already have the resources to build a writing practice and a life that supports the emotions I want to experience.
-* Not get thrown off by obstacles. I can always find a way to bring the kind of feelings I desire into my writing life, even if it's via a route that I didn't originally imagine.
-
-So how does one go about planning what they want to feel?
-
-First, ask yourself, "How do I want to feel as a writer?"
-
-Write down every word that comes to you. Then after that, try to narrowing the list down to three to five words. Pull out a thesaurus if you need help finding similar words, words that embrace a wider meaning, or words that more accurately hit the spot of what you want. Don't rush with your list. Give yourself a few days to work with it and change things. It's important to have a list of words that resonate with you. 
-
-However, if you don't have a time limit, you could be editing this list forever, so just give yourself three days or so to play with it and leave it alone. It's also fine if you let it rest for a day and then come back to it to make sure that the words you listed still hit the spot for you. 
-
-Once you have your words down, ask yourself this question:
-
-What can I do in my writing life today to create these feelings? 
-
-Take note of any ideas you have. 
-
-Then go wider. Ask yourself:
-
-What can I do in my writing life this year to create these feelings? 
-
-For example, one of the words on my list is "light." Some of the things I can do to make my writing feel lighter this year is not pressure myself, create projects that match with what I love and relax into enjoying the process. 
-
-Remember that this list is not set in stone. If you need to change it throughout the year, absolutely do so. This keeps your writing practice up with what you desire.
