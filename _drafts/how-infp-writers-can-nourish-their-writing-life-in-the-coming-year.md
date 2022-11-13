@@ -13,6 +13,8 @@ As I look back, I see that I had a lot of learning to do. I had to make signific
 
 So here is a short list of mindset shifts that have helped me to improve this year. I hope this helps you to nourish your writing life no matter where you are as an INFP writer, be it writing privately or sharing your work to the world. And maybe you'll get some ideas of what to work towards next year.
 
+![](/uploads/infp-writers-nourish-their-writing-in-the-upcoming-year.png){: .mx-auto.d-block :}
+
 # Take a moment to notice what's working with your writing right now.
 
 Even just a little bit.
