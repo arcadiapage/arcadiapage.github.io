@@ -42,7 +42,7 @@ As a side note, Mastodon is a very healthy community for writers and creatives. 
 
 Reality is a mood killer. And the reality is that to make a living as a self-published author, you need to have about 20 books in your catalog. I know without a doubt that I have 20 books within me, but it's going to take some time to let all of that out.
 
-Unfortunately, this reality forces many indie/self-published authors to work in unsustainable ways. You may have noticed that Amazon is cluttered with books on "How to plot your novel in a weekend” and ”How to write faster.” This is one reason why, besides trying to cater to the NanoWriMo crowd. Self-published authors know that to make a living, they need to write a lot fast.
+Unfortunately, this reality forces many indie/self-published authors to work in unsustainable ways. You may have noticed that Amazon is cluttered with books on "How to plot your novel in a weekend” and ”How to write faster.” This is one reason why, besides trying to cater to the NaNoWriMo crowd. Self-published authors know that to make a living, they need to write a lot fast.
 
 This pressure is unhealthy. It's one thing for a quickly written book to come out of you naturally. It's another to force yourself to write a book a month. This is damaging and only leads to [burnout](https://arcadiapage.com/2022-04-30-what-infps-can-do-when-feeling-burned-out-from-thoughts-and-emotions/).
 
