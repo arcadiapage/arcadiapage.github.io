@@ -3,19 +3,22 @@ layout: post
 title: 'I''m Now Available to Join You on Your INFP Writing Journey '
 subtitle: and other updates
 tags:
+- Book Announcements
 - On Writing
 - INFP & HSP
 
 ---
 I usually share updates in my emails, but right now I have so many updates to share that an email won't do them all justice!
 
+![Consulting sessions for INFP writers, INFP Writing, INFP Writing Style](/uploads/consulting-sessions-for-infp-writers.png "INFP Writers, INFP Writer, INFP Writing, INFP Writing Style"){: .mx-auto.d-block :}
+
 # Consulting Sessions for INFP Writers
 
 So to kick things off, I'm happy to let you know that I'm now available for writing consultations with INFP Writers. I've realized that I enjoy working one on one with people. The sessions are short--15 minutes. I like short sessions because they are focused and also leave room in my day to work on other writing and projects. And short sessions will take up little space in your day too. I know we're all busy.
 
-As explained on the page for [INFP Writer Consulting]( <https://payhip.com/b/cpVP0>), these sessions are more about addressing your writing process and the related feelings than the mechanics of writing. It's not for giving you criticism or technical feedback. It's more about helping you to create a sustainable and satisfying writing life.
+As explained on the page for [INFP Writer Consulting](https://payhip.com/b/cpVP0), these sessions are more about addressing your writing process and the related feelings than the mechanics of writing. It's not for giving you criticism or technical feedback. It's more about helping you to create a sustainable and satisfying writing life.
 
-[Click here to book an appointment.](<https://payhip.com/b/cpVP0> )
+[Click here to book an appointment.](https://payhip.com/b/cpVP0)
 
 Soon, I would also like to create similar sessions for those who need help with planning and time management.
 
@@ -23,18 +26,17 @@ Soon, I would also like to create similar sessions for those who need help with 
 
 I finally gave my Payhip store a much-needed update! You can now leave reviews on my books. If you have already purchased my books, [I would appreciate it if you could leave some reviews.](https://payhip.com/ArcadiaPage) Google algorithms love seeing reviews, and leaving a review will help my books reach others.
 
-
 # I've Left Twitter
 
 I wanted to leave for a long time, but I held on because back when I was a webcomic artist, that was one of the best places to build a following thirteen years ago before the algorithms came.
 
 But honestly, I used modern Twitter haphazardly, and I never truly enjoyed being there. I feel like my tweets kept getting buried, and interaction was non-existent.
 
-So if you would like to follow me, [subscribe to my email list](https://tinyletter.com/arcadiapage) or [look me up on Mastodon]( https://arcadiapage.com/aboutme/), where I am much more active. 
+So if you would like to follow me, [subscribe to my email list](https://tinyletter.com/arcadiapage) or [look me up on Mastodon](https://arcadiapage.com/aboutme/), where I am much more active.
 
-You can also follow this blog via RSS. I know it's a bit old school, but I think people are looking for ways to own the resources they follow, instead of leaving it all in the hands of businesses that may be here today but gone tomorrow. 
+You can also follow this blog via RSS. I know it's a bit old school, but I think people are looking for ways to own the resources they follow, instead of leaving it all in the hands of businesses that may be here today but gone tomorrow.
 
-As a side note, Mastodon is a very healthy community for writers and creatives. If you need any recommendations on which instances/servers to join, feel free to [reach out to me]( https://arcadiapage.com/aboutme/).
+As a side note, Mastodon is a very healthy community for writers and creatives. If you need any recommendations on which instances/servers to join, feel free to [reach out to me](https://arcadiapage.com/aboutme/).
 
 # Introducing Supporter Memberships
 
@@ -49,7 +51,6 @@ As a self-published author who shares advice with other writers, I want my work 
 So with this in mind, I've decided to start offering perks to those who support my blog via [Buy Me A Coffee](https://www.buymeacoffee.com/arcadiapage). My homepage has the details, but with your support, I can continue to create helpful books and blog posts in a way that is kind to my physical, mental and emotional health.
 
 Also with this shift, I can begin to help other writers find ways to break free of the treadmill and take care of themselves.
-
 
 # Updated Privacy Policy
 
