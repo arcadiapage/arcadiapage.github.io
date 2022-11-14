@@ -3,6 +3,7 @@ layout: post
 title: How INFP Writers Can Nourish Their Writing Life in the Coming Year
 subtitle: ''
 tags:
+- On Writing
 - Creative Life
 - INFP & HSP
 
