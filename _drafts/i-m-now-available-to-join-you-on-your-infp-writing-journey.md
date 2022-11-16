@@ -8,7 +8,7 @@ tags:
 - INFP & HSP
 
 ---
-I usually share updates in my emails, but right now I have so many updates to share that an email won't do them all justice!
+I usually share updates in my emails, but right now I have so many updates that an email won't do them all justice!
 
 ![Consulting sessions for INFP writers, INFP Writing, INFP Writing Style](/uploads/consulting-sessions-for-infp-writers.png "INFP Writers, INFP Writer, INFP Writing, INFP Writing Style"){: .mx-auto.d-block :}
 
@@ -34,7 +34,7 @@ But honestly, I used modern Twitter haphazardly, and I never truly enjoyed being
 
 So if you would like to follow me, [subscribe to my email list](https://tinyletter.com/arcadiapage) or [look me up on Mastodon](https://arcadiapage.com/aboutme/), where I am much more active.
 
-You can also follow this blog via RSS. I know it's a bit old school, but I think people are looking for ways to own the resources they follow, instead of leaving it all in the hands of businesses that may be here today but gone tomorrow.
+You can also follow this blog via RSS. I know it's a bit old school, but I think people are looking for ways to own the resources they follow, instead of leaving it all in the hands of businesses that may be here today but gone tomorrow. Using RSS is a good way to do that. 
 
 As a side note, Mastodon is a very healthy community for writers and creatives. If you need any recommendations on which instances/servers to join, feel free to [reach out to me](https://arcadiapage.com/aboutme/).
 
@@ -50,7 +50,7 @@ As a self-published author who shares advice with other writers, I want my work 
 
 So with this in mind, I've decided to start offering perks to those who support my blog via [Buy Me A Coffee](https://www.buymeacoffee.com/arcadiapage). My homepage has the details, but with your support, I can continue to create helpful books and blog posts in a way that is kind to my physical, mental and emotional health.
 
-Also with this shift, I can begin to help other writers find ways to break free of the treadmill and take care of themselves.
+Also with this shift, I can also begin to help other writers find ways to break free of the treadmill and take care of themselves.
 
 # Updated Privacy Policy
 
@@ -58,4 +58,4 @@ And I saved the most boring for last! My previous privacy policy was cut-and-pas
 
 So these are all of the major changes going on over here.
 
-**Any thoughts ?** ✨ **Feel free to let me know what you think via** [**chat or email!**](https://arcadiapage.com/coffee/)
+**Any thoughts ?** ✨ **Feel free to [let me know what you think](https://arcadiapage.com/aboutme/)**
