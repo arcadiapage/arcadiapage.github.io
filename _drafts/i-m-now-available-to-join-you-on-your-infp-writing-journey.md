@@ -57,3 +57,5 @@ Also with this shift, I can begin to help other writers find ways to break free 
 And I saved the most boring for last! My previous privacy policy was cut-and-paste mumbo-jumbo, so I updated it to be clear, readable, and more applicable to this blog and my Payhip store. [Click here to read it](https://payhip.com/ArcadiaPage/privacy-policy).
 
 So these are all of the major changes going on over here.
+
+**Any thoughts ?** ✨ **Feel free to let me know what you think via** [**chat or email!**](https://arcadiapage.com/coffee/)
