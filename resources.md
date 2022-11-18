@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Library
+title: Resources
 subtitle: Welcome to my library of resources! Try not to get lost!
 tags: []
 
