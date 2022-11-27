@@ -15,6 +15,8 @@ A short audio post about how connecting to my intuition has improved my life in 
 Your browser does not support the audio element.
 </audio>
 
+![self-reflection, self-discovery, highly sensitive person](/uploads/pastel-pink-minimalist-quote-pinterest-pin.png "Simple Questions that Will Help You Connect With Your Intuition "){: .mx-auto.d-block :}
+
 # Post Highlights
 
 * Have you ever felt deep down that something was not the best idea, but ignored that feeling anyways? Or have you ever felt that something would be really good for you but totally ignored it?
@@ -23,5 +25,3 @@ Your browser does not support the audio element.
 * So today, when you get the twinge that something is a good idea, try it and see what happens. And when you get the feeling that you shouldn't be doing something, or that something isn't the best for you, see what results you get when you try avoiding it.
 
 **Any thoughts on this audio post?** ✨ **Feel free to** [**let me know what you think**](https://arcadiapage.com/aboutme/)
-
-![self-reflection, self-discovery, highly sensitive person](/uploads/pastel-pink-minimalist-quote-pinterest-pin.png "Simple Questions that Will Help You Connect With Your Intuition "){: .mx-auto.d-block :}
