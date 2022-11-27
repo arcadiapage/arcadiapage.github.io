@@ -24,4 +24,4 @@ Your browser does not support the audio element.
 
 **Any thoughts on this audio post?** ✨ **Feel free to** [**let me know what you think**](https://arcadiapage.com/aboutme/)
 
-![self-reflection, self-discovery, highly sensitive person](/uploads/pastel-pink-minimalist-quote-pinterest-pin.png "Simple Questions that Will Help You Connect With Your Intuition ")
+![self-reflection, self-discovery, highly sensitive person](/uploads/pastel-pink-minimalist-quote-pinterest-pin.png "Simple Questions that Will Help You Connect With Your Intuition "){: .mx-auto.d-block :}
