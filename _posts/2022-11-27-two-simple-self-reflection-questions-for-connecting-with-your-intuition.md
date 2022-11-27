@@ -8,7 +8,7 @@ tags:
 - Creative Life
 
 ---
-A short audio post about how connecting to your intuition can improve your life in unexpected ways.
+A short audio post about how connecting to my intuition has improved my life in unexpected ways.
 
 <audio controls>
 <source src="/uploads/two-self-reflection-questions-for-connecting-with-intuition.mp3">
