@@ -15,7 +15,7 @@ A short audio post about how connecting to my intuition has improved my life in 
 Your browser does not support the audio element.
 </audio>
 
-![self-reflection, self-discovery, highly sensitive person](/uploads/pastel-pink-minimalist-quote-pinterest-pin.png "Simple Questions that Will Help You Connect With Your Intuition "){: .mx-auto.d-block :}
+![intuition self-discovery self-reflection highly sensitive person ](/uploads/two-simple-self-reflection-questions-connecting-with-intuition.png "Two simple self reflection questions for connecting with your intuition"){: .mx-auto.d-block :}
 
 # Post Highlights
 
