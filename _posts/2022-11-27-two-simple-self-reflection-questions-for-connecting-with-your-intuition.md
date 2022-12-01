@@ -25,3 +25,5 @@ Your browser does not support the audio element.
 * So today, when you get the twinge that something is a good idea, try it and see what happens. And when you get the feeling that you shouldn't be doing something, or that something isn't the best for you, see what results you get when you try avoiding it.
 
 **Any thoughts on this audio post?** ✨ **Feel free to** [**let me know what you think**](https://arcadiapage.com/aboutme/)
+
+If you enjoy what I do, also consider [supporting my blog](https://www.buymeacoffee.com/arcadiapage). Thank you for listening! 
