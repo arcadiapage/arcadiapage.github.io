@@ -3,7 +3,7 @@ layout: post
 title: As a Highly Sensitive Person, It's OK to Say "No" to Hustling
 subtitle: ''
 tags:
-- 'Productivity & Simplicity '
+- Productivity & Simplicity 
 - INFP & HSP
 
 ---
