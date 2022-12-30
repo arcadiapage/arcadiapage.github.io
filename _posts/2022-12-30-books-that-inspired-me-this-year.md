@@ -9,7 +9,7 @@ tags:
 ---
 An audio post about the top three three inspiring books that helped me to grow this year.
 
-<audio controls> <source src="three-books-that-inspired-me-this-year.mp3" type="audio/mpeg">
+<audio controls> <source src="/uploads/three-books-that-inspired-me-this-year.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
