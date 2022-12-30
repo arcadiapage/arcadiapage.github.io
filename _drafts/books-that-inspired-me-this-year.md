@@ -14,7 +14,7 @@ An audio post about the top three three inspiring books that helped me to grow t
 Your browser does not support the audio element.
 </audio>
 
-![](/uploads/three-inspiring-books-that-changed-my-life-this-year.png)
+![](/uploads/three-inspiring-books-that-changed-my-life-this-year.png){: .mx-auto.d-block :}
 
 # Post Highlights
 
