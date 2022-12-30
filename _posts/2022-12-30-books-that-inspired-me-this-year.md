@@ -9,8 +9,7 @@ tags:
 ---
 An audio post about the top three three inspiring books that helped me to grow this year.
 
-<audio controls>
-<source src="[three-books-that-inspired-me-this-year-audio-post.ogg](/uploads/three-books-that-inspired-me-this-year-audio-post.ogg "three-books-that-inspired-me-this-year-audio-post.ogg")">
+<audio controls> <source src="[three-books-that-inspired-me-this-year.mp3](/uploads/three-books-that-inspired-me-this-year.mp3 "three-books-that-inspired-me-this-year.mp3")">
 Your browser does not support the audio element.
 </audio>
 
