@@ -3,6 +3,7 @@ layout: post
 title: Books that Inspired Me This Year
 subtitle: Audio post
 tags:
+- INFP & HSP
 - Book Recommendations
 - Audio Post
 
