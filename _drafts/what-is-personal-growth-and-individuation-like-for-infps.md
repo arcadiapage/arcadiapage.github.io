@@ -13,9 +13,9 @@ The tendency INFPs have of working with their inner darkness shows up often in f
 
 What stands out to me about these stories is that as the INFP character honestly faces their inner darkness, their personality becomes more whole. They reaffirm their current gifts while reclaiming the abilities they had lost sight of while gaining loving awareness and acceptance of their deepest personal pitfalls.
 
-However, this intense inner growth isn't purely the stuff of fiction. It matches the process of psychological integration, which Carl Jung called [Individuation](https://en.m.wikipedia.org/wiki/Individuation). Individuation corresponds with the concept of [Self-Actualization](https://www.verywellmind.com/characteristics-of-self-actualized-people-2795963) introduced by Abraham Maslow.
+However, this intense inner growth isn't purely the stuff of fiction. It matches the process of psychological integration, which Carl Jung called [Individuation](https://en.m.wikipedia.org/wiki/Individuation). Individuation corresponds with the concept of [Self-Actualization](https://www.verywellmind.com/characteristics-of-self-actualized-people-2795963) introduced by psychologist Abraham Maslow.
 
-Individuation is important because it's through this process that we begin to see the flaws not only in the stories we've created about ourselves but also in the stories others have created about us. It's about no longer letting our fears and the shape-shifting opinions of others form our identity. It also involves approaching the rejected parts of our inner selves (AKA the Shadow) with love and care.
+Individuation is important because it's through this process that we begin to see the flaws not only in the stories we've created about ourselves but also in the stories others have created about us. It's about no longer letting our fears and the shape-shifting opinions of others form our identity. It also involves approaching the rejected parts of our inner selves (AKA [the Shadow](https://arcadiapage.com/2022-10-28-why-shadow-work-helped-me-to-find-healing-from-my-infp-burnout/) with love and care.
 
 Individuation is about becoming more of yourself and being intentional about which external influences and memories you will allow to mold who you are.
 
@@ -39,7 +39,7 @@ And each lesson learned moves us further along the process of individuation and 
 
 # So what does this process look like for the INFP?
 
-For a while I've been wondering if personal growth for INFPs had a plotline, what would that look like? So this month and next month, I'll be sharing a series of posts outlining how I imagine it, based on what I've learned about archetypes and the process of going into the darkness and coming out of it, which I've experienced many times myself.
+For a while I've been wondering if personal growth for INFPs had a plot-line, what would that look like? So this month and next month, I'll be sharing a series of posts outlining how I imagine it, based on what I've learned about archetypes and the process of going into the darkness and coming out of it, which I've experienced many times myself.
 
 In case you're wondering, archetypes are universal inborn models of people, behaviors, and personalities. Archetypes are the foundations for characters in movies, literature, and art. As humans, it's important to be aware of the stories we tell ourselves and the characters we play in those stories. So I use archetypes to illustrate the different roles we take on as we grow into self-acceptance.
 
@@ -72,6 +72,8 @@ By the way, you can embody these archetypes at any point in your life. The Innoc
 
 So what happens to the Innocent that rocks their view of the world? How does that ignite the personal growth of the INFP?  I'll answer that in my next post!
 
-Subscribe to my email list to get notified updates! In the meantime, check out some of the archetypes I mentioned here and see if they resonate with you. Pinterest is a great place to start your research. **How has the Innocent, Child, Maiden, or Explorer played a role in your life?**
+[Subscribe to my email list to get notified updates!](https://tinyletter.com/arcadiapage) In the meantime, check out some of the archetypes I mentioned here and see if they resonate with you. Pinterest is a great place to start your research. **How has the Innocent, Child, Maiden, or Explorer played a role in your life?**
 
 If you like what I do (and would like to get a peak at some of my blog posts early) also consider supporting me at [Buy Me a Coffee](https://www.buymeacoffee.com/arcadiapage).
+
+![](/uploads/infp-personal-growth-tips.png)
