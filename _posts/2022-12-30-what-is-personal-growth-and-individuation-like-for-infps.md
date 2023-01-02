@@ -76,4 +76,4 @@ So what happens to the Innocent that rocks their view of the world? How does tha
 
 If you like what I do (and would like to get a peak at some of my blog posts early) also consider supporting me at [Buy Me a Coffee](https://www.buymeacoffee.com/arcadiapage).
 
-![](/uploads/infp-personal-growth-tips.png){: .mx-auto.d-block :}
+![Healthy INFP, INFP Burnout, INFP Tips ](/uploads/infp-personal-growth-tips.png "4 Tips on How to Be a Healthy INFP"){: .mx-auto.d-block :}
