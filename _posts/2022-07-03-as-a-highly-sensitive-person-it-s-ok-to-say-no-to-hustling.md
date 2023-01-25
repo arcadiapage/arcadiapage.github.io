@@ -49,12 +49,12 @@ Overworking is not in the best interests of anyone--not for yourself or those ar
 
 So don't try to blend in, but stand out as having a more observant, reflective, and relaxed style of getting things done. Be an example of someone who is honest about when they cannot do anymore, knows when to take breaks, and prioritizes their health. Then when others see how much more energy and ability you have by taking care of yourself, maybe they will realize that they need to take more breaks too and that slowing down can do them some good.
 
-![](/uploads/how-hsps-can-avoid-hustling-list.png)
+![A list of tips for the highly senstive person that has already been brought out in this article](/uploads/how-hsps-can-avoid-hustling-list.png "highly sensitive person traits personality work HSP ")
 
 For more tips, check out the book ❤️
 
-[![](/uploads/highly-sensitive-person-love-your-sensitivity-630-x-500-px.png)](https://payhip.com/b/KI5eW)
+[![](/uploads/highly-sensitive-person-love-your-sensitivity-630-x-500-px.png)](https://payhip.com/b/KI5eW "Highly sensitive person book traits advice tips help HSP ")
 
 {: .mx-auto.d-block :}
 
-**Any thoughts?** ✨ **Feel free to let me know what you think via** [**chat or email!**](https://arcadiapage.com/coffee/)
+**Any thoughts?** ✨ **Feel free to let me know what you think via** [**email!**](https://arcadiapage.com/coffee/)
