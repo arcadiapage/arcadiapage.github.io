@@ -7,7 +7,7 @@ tags:
 - INFP & HSP
 
 ---
-**If the topic of this post resonates with you, you'll probably also appreciate my latest book,** [**Love Your Sensitivity: 7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person**](https://payhip.com/b/KI5eW) 
+**If the topic of this post resonates with you, you'll probably also appreciate my latest book,** [**Love Your Sensitivity: 7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person**](https://payhip.com/b/KI5eW)
 
 For highly sensitive people living in a world that encourages pushing through overstimulation is tough. When you feel tired, worn out, and overwhelmed, the general advice is to drink more coffee and work through it.
 
@@ -51,6 +51,10 @@ So don't try to blend in, but stand out as having a more observant, reflective, 
 
 ![](/uploads/how-hsps-can-avoid-hustling-list.png)
 
-![](/uploads/highly-sensitive-person-avoiding-overwork.png){: .mx-auto.d-block :}
+For more tips, check out the book ❤️
+
+[![](/uploads/highly-sensitive-person-love-your-sensitivity-630-x-500-px.png)](https://payhip.com/b/KI5eW)
+
+{: .mx-auto.d-block :}
 
 **Any thoughts?** ✨ **Feel free to let me know what you think via** [**chat or email!**](https://arcadiapage.com/coffee/)
