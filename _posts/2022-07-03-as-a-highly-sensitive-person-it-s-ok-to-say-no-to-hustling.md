@@ -3,10 +3,12 @@ layout: post
 title: As a Highly Sensitive Person, It's OK to Say "No" to Hustling
 subtitle: ''
 tags:
-- Productivity & Simplicity 
+- Productivity & Simplicity
 - INFP & HSP
 
 ---
+**If the topic of this post resonates with you, you'll probably also appreciate my latest book,** [**Love Your Sensitivity: 7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person**](https://payhip.com/b/KI5eW) 
+
 For highly sensitive people living in a world that encourages pushing through overstimulation is tough. When you feel tired, worn out, and overwhelmed, the general advice is to drink more coffee and work through it.
 
 We often hear, "No pain, no gain."
@@ -46,8 +48,6 @@ Of course, highly sensitive people are not beyond the pressure to be like everyo
 Overworking is not in the best interests of anyone--not for yourself or those around you. For highly sensitive people, it is better to push back against overwork and do the dance with your limits.
 
 So don't try to blend in, but stand out as having a more observant, reflective, and relaxed style of getting things done. Be an example of someone who is honest about when they cannot do anymore, knows when to take breaks, and prioritizes their health. Then when others see how much more energy and ability you have by taking care of yourself, maybe they will realize that they need to take more breaks too and that slowing down can do them some good.
-
-**Enjoyed this post? If so, you'll probably also appreciate my latest book, [Love Your Sensitivity:7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person ](https://payhip.com/b/KI5eW)**
 
 ![](/uploads/how-hsps-can-avoid-hustling-list.png)
 
