@@ -7,17 +7,17 @@ tags:
 - Creative Life
 
 ---
-Right now, I'm working on a book entitled "100 Days of Gentle Productivity."  I chose 100 days because I'm creating this book with Kickstarter's Make100 challenge in mind. 
+Right now, I'm working on a book entitled "100 Days of Gentle Productivity."  I chose 100 days because I'm creating this book with [Kickstarter's Make100 challenge](http://kck.st/3XRvREA) in mind.
 
-But...it doesn't have to take 100 days to feel the benefits of approaching each day with more care. So here I'm sharing the first seven prompts from my book so you can create a week of gently getting things done. I suggest having a notebook or a place where you can write your thoughts as you go through these. 
+But...it doesn't have to take 100 days to feel the benefits of approaching each day with more care. So here I'm sharing the first seven prompts from my book so you can create a week of gently getting things done. I suggest having a notebook or a place where you can write your thoughts as you go through these.
 
-You can approach these prompts in order, out of order, or by what resonates with you. Feel free to do whatever makes you feel the most comfortable. 
+You can approach these prompts in order, out of order, or by what resonates with you. Do whatever makes you feel the most comfortable.
 
 # Day One
 
 We all have things that we enjoy doing to slow down and relax.
 
-*How would you like to slow down today when you get a moment?*
+_How would you like to slow down today when you get a moment?_
 
 Remember that relaxing doesn't have to take a lot of time. Just five minutes is enough.
 
@@ -52,7 +52,7 @@ Set a timer for five to ten minutes and on a piece of paper, let out everything 
 
 Don't worry about being neat or making sense. Just release what's there. After the time is up, look at what you wrote.
 
-*Highlight the items that must be handled today and that are the most important to you.*
+_Highlight the items that must be handled today and that are the most important to you._
 
 # Day Six
 
@@ -71,4 +71,6 @@ At some point today, take a five-minute break to simply close your eyes.
 
 Don't worry about controlling your breathing or thinking about stuff. All of that is fine. Simply close your eyes and give them a rest for five minutes. Notice how you feel after time's up.
 
-So there you go! One week of creating space and reducing overwhelm.  You can learn more about this book in progress by checking it out on Kickstarter. 
+***
+
+So there you go! One week of creating space and reducing overwhelm.  You can learn more about this book in progress by checking it out on [Kickstarter](http://kck.st/3XRvREA).
