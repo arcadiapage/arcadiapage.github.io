@@ -13,7 +13,7 @@ But...it doesn't have to take 100 days to feel the benefits of approaching each 
 
 You can approach these prompts in order, out of order, or by what resonates with you. Do whatever makes you feel the most comfortable.
 
-![The words A Week of Gentle Productivity for Busy people on a background of pink fading into yellow. burnout selfcare ](/uploads/week-of-gentle-productivity.png "Gentle Productivity for Busy People, Burnout, self-care")
+![The words A Week of Gentle Productivity for Busy people on a background of pink fading into yellow. burnout selfcare ](/uploads/week-of-gentle-productivity.png "Gentle Productivity for Busy People, Burnout, self-care"){: .mx-auto.d-block :}
 
 # Day One
 
