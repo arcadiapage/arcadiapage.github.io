@@ -6,14 +6,12 @@ subtitle: ''
 tags: []
 
 ---
-# Facing the Dark
-
 [In my last post](https://arcadiapage.com/2022-12-30-what-is-personal-growth-and-individuation-like-for-infps/), I shared the beginning stage of personal growth for INFPs. Here I go deeper into how the difficulties that force the INFP to turn inwards can be a catalyst for change.
 
 The INFP could find themselves relating to these archetypes:
 
-- The Victim
-- The Shadow Martyr
+* The Victim
+* The Shadow Martyr
 
 The INFP is facing a situation where they are forced to confront their inner world. This can be from stress, burnout, or from the appearance of mental or physical health issues. Any negative event that sets off deep introspection is the start of this phase. Just as Persephone was kidnapped to the underworld against her will, the INFP is pushed to face the dark side of their inner world against their will. This can be extremely painful. There's a deep sense of loss and grief that sometimes feels like it can never be soothed. It can feel like all the things you worked so hard to maintain are being destroyed.
 
@@ -41,10 +39,9 @@ If you notice that you're acting like the Victim or the Shadow Martyr, don't be 
 
 **Watch out for using addictions to cope with difficult feelings and to disconnect from your body.** And when I say addictions, I mean more than just drugs and alcohol. Shopping, eating sugary foods, overuse of digital devices, and overworking also count.
 
-Addictions can seem like an easy way out, but they're not. In fact, they can distract you from the inner healing that must happen. Also, beware of falling into codependent relationships and friendships. [Codependency](https://arcadiapage.com/2022-12-30-books-that-inspired-me-this-year/) can cause you to get stuck as a Victim or Shadow Martyr for a very long time because it encourages a cycle of helplessness. 
+Addictions can seem like an easy way out, but they're not. In fact, they can distract you from the inner healing that must happen. Also, beware of falling into codependent relationships and friendships. [Codependency](https://arcadiapage.com/2022-12-30-books-that-inspired-me-this-year/) can cause you to get stuck as a Victim or Shadow Martyr for a very long time because it encourages a cycle of helplessness.
 
-
-*Reflections**
+_Reflections_*
 
 Can you think of any moments when the Victim archetype has had an impact on your life? What was the situation?
 
@@ -57,8 +54,9 @@ Once you accept your feelings of powerlessness and show them love,  you become m
 # Deciding to Fight
 
 At this point the INFP is embodying these archetypes:
-- The Warrior
-- The Hero
+
+* The Warrior
+* The Hero
 
 You may feel that you can't have a warrior inside of you, but believe me, it is.
 
@@ -80,7 +78,6 @@ Like the warrior archetype, you can become preoccupied with control in this phas
 
 I've found that when working through this stage, having a good sense of humor is invaluable. Taking the time to have a good laugh often gave me the needed strength to fight another day. However, unlike some other personality types, when the INFP starts to work with aspects of control--and by extension, power--that's when the unconscious contents of the shadow start to come into play once again.
 
-
 # Facing the Shadow of Control, Power, and Influence
 
 Extraverted thinking is intertwined with external control, and as the inferior function, INFPs struggle to use it consciously. Although INFPs can find ways to work with extraverted thinking positively, they can also end up using it in harmful ways without realizing it.
@@ -101,7 +98,7 @@ All of these pitfalls come from the INFP not understanding the real nature of th
 
 The real power of INFPs is integrating the dark and creating inner harmony. And at this moment, if the INFP has been approaching their life with clear-eyed observation, they'll see that they already have what they need to do just that.
 
-*Reflections*
+_Reflections_
 
 Do you feel like you're being overly swayed by the ideas of others? Take an information break. Log off of social media and put down the nonfiction reading for a day or two. Replace these activities with a journaling practice where you ask yourself questions, and then see what kinds of responses you come up with. You may not have a solution to every question, but digging into how you feel about them can make a difference.
 
