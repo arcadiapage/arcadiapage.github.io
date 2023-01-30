@@ -10,7 +10,7 @@ tags:
 ---
 [In my last post](https://arcadiapage.com/2022-12-30-what-is-personal-growth-and-individuation-like-for-infps/), I shared the beginning stage of personal growth for INFPs. Here I go deeper into how the difficulties that force the INFP to turn inwards can be a catalyst for change.
 
-![](/uploads/exploring-archetypes-within-infp-victim-martyr-warrior-hero.png)
+![](/uploads/exploring-archetypes-within-infp-victim-martyr-warrior-hero.png){: .mx-auto.d-block :}
 
 The INFP could find themselves relating to these archetypes:
 
