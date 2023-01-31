@@ -76,7 +76,7 @@ Like the hero, your actions become goal oriented. You also become aware of the s
 
 If possible, send these people a thank you note. Facing your inner darkness can feel extremely lonely. I've found that showing gratitude towards those who have inspired me can create connectedness to others despite all the hardships.
 
-**Write a list of what qualities, traits, practices, and relationships make you strong.** The [Clifton Strengths Finder]() and the [VIA Strengths]() assessments are also useful in getting a better view of your strengths. The [Redbull Wingfinder]() is also surprisingly good at getting a view of your gifts. Learning more about [introverted feeling](), [extraverted intuition](), and your [enneagram type]() can also help you to see what strengths and talents (aka weapons) you have at your disposal.
+**Write a list of what qualities, traits, practices, and relationships make you strong.** The [Clifton Strengths Finder](https://www.gallup.com/cliftonstrengths/en/home.aspx) and the [VIA Strengths](https://www.viacharacter.org/) assessments are also useful in getting a better view of your strengths. The [Redbull Wingfinder](https://www.redbull.com/int-en/wingfinder?slugSegments=) is also surprisingly good at getting a view of your gifts. Learning more about [introverted feeling](https://arcadiapage.com/2018/03/life-as-introverted-feeling-user.html), [extraverted intuition](https://arcadiapage.com/2022-02-27-how-i-handle-distracting-thoughts-as-an-infp/), and your [enneagram type](https://arcadiapage.com/2022-09-30-what-it-s-like-being-an-infp-enneagram-type-3/) can also help you to see what strengths and talents (aka weapons) you have at your disposal.
 
 Like the warrior archetype, you can become preoccupied with control in this phase. This ranges from self-control to even a desire to assert some control over others. This makes sense because you are taking your life back into your own hands. As a Victim and Martyr, you felt powerless and out of control. The Hero and Warrior are about winning it back.
 
@@ -115,3 +115,9 @@ Now read what you wrote. Do you see any of the traits you noticed in the celebri
 At another time, try this exercise again, but instead of using ENFJ celebrities, use people who you know personally.
 
 So how does the INFP change when they are successful at creating more inner harmony by integrating their shadow side? My next post will dig into that!
+
+Want to be alerted when I publish something new? [Subscribe to my blog](https://tinyletter.com/arcadiapage). 
+
+Enjoyed what you read and want to show your support?
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="arcadiapage" data-color="#BD5FFF" data-emoji=""  data-font="Poppins" data-text="Buy me a decaf coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
