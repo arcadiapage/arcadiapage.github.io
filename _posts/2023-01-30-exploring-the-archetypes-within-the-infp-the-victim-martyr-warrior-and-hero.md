@@ -119,5 +119,4 @@ So how does the INFP change when they are successful at creating more inner harm
 Want to be alerted when I publish something new? [Subscribe to my blog](https://tinyletter.com/arcadiapage). 
 
 Enjoyed what you read and want to show your support?
-
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="arcadiapage" data-color="#BD5FFF" data-emoji=""  data-font="Poppins" data-text="Buy me a decaf coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="arcadiapage" data-color="#5c3566" data-emoji=""  data-font="Poppins" data-text="Buy me a (decaf) coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
