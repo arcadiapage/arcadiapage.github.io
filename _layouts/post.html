@@ -15,11 +15,6 @@ layout: base
       </article>
       
     
-<div class="text-center py-10">
-    <p>Have some thoughts on this post?</p>
-    <a class="button" href="mailto:arcadiapage@gmail.com?subject=Re: {{ title }}">Reply with an email</a>
-</div>
-
 
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
@@ -33,6 +28,11 @@ layout: base
           {% endif %}
         </div>
       {% endif %}
+      
+      <div class="text-center py-10">
+    <p>Have some thoughts on this post?</p>
+    <a class="button" href="mailto:arcadiapage@gmail.com?subject=Re: {{ title }}">Reply with an email</a>
+</div>
 
       {% if page.social-share %}
         {% include social-share.html %}
