@@ -115,8 +115,3 @@ Now read what you wrote. Do you see any of the traits you noticed in the celebri
 At another time, try this exercise again, but instead of using ENFJ celebrities, use people who you know personally.
 
 So how does the INFP change when they are successful at creating more inner harmony by integrating their shadow side? My next post will dig into that!
-
-Want to be alerted when I publish something new? [Subscribe via email 💖](https://tinyletter.com/arcadiapage). 
-
-Enjoyed what you read and want to show your support?
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="arcadiapage" data-color="#5F7FFF" data-emoji=""  data-font="Poppins" data-text="Buy me a (decaf) coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
