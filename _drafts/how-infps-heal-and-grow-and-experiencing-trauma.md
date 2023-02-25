@@ -18,15 +18,13 @@ On the other hand, the INFP also knows their [unique strengths](https://arcadiap
 
 Psychological integration is giving loving awareness to your shadow without denying it's there. It's also about fully accepting your gifts and abilities, without ignoring their existence too. It's openly acknowledging the light and the dark. [You may not like some of what you see](https://arcadiapage.com/2022-09-30-what-it-s-like-being-an-infp-enneagram-type-3/), but you accept its presence. And as a bonus, you also start seeing how your shadow also holds amazing qualities that you've rejected to better blend in with your family or culture.
 
-Like for example, something that made me very self-conscious for a long time was my natural expressiveness. I've always been one of those people whose emotions clearly shows on their face. Unfortunately through my elementary and middle school years, I experienced some negativity surrounding that trait, and I got the message that maybe I expressed my emotions too easily.
+Like for example, something that made me very self-conscious for a long time is my natural expressiveness. I've always been one of those people who has their emotions clearly written on their face. Unfortunately through my elementary and middle school years, I experienced some negativity surrounding that trait, and I got the message that maybe I expressed my emotions too easily.
 
 My natural openness to people eventually became part of my shadow. It's a part of myself I ended up rejecting. I didn't disown these traits straight out. It's more like there was a voice in my head that said, "Keep a straight face. Hide how you feel," without much explanation. I began to believe that I was good at keeping my emotions hidden. However, when I started dating the guy who’s now my husband, I learned that I was totally wrong about that. 
 
-He's an ENFP, and what I love about ENFPs is that they're so honest. Anyways, one day he pointed out how terrible I am at hiding my emotions and that what I'm thinking usually shows on my face. From that incident,  I learned the truth of how the traits we disown and make part of our shadow are often still there for all to see. Other people can usually see our shadow better than we can.
+He's an ENFP, and what I love about ENFPs is that they're so honest. Anyways, one day he pointed out how terrible I am at hiding my emotions and that what I'm thinking usually shows on my face. From that incident,  I learned the truth of how the traits we disown and make part of our shadow are often still there for all to see. Other people can usually see our shadow better than ourselves.
 
-Over time, I’ve come to appreciate that my openness of expression is an important part of who I am, and I don’t reject that part of myself anymore.
-
-Acceptance doesn't mean that I'm now a social butterfly--I love solitude and it's how I recharge. But I've noticed that my interactions with others have changed. Since I approach conversations with openness, I've been surprised at the kinds of things people share with me. And as an adult, my expressiveness helps me build relationships because people know that what they see is what they get. And overall, I feel more at ease socially. I'm not doing much to maintain how others perceive me. I just am.
+Over time, I’ve come to appreciate that my openness of expression is an important part of who I am. And as an adult, my expressiveness helps me build relationships because people know that what they see is what they get. Since I approach conversations with openness, I've been surprised at the amazing things people share with me. And overall, I feel more at ease socially. I'm not doing much to maintain how others perceive me. I just am.
 
 When you see your strengths and your shadow at the same time, it becomes harder to deceive yourself. You can tell the difference between doing something because you truly care or doing it to get attention, control others, feel special, to blend in or any other tricks you used to play unconsciously to win the love of others. And even more importantly, you start seeing that you had what you needed all along.
 
@@ -36,7 +34,7 @@ You may even find that trying too hard to be influential only puts you at risk o
 
 For me, the need to receive admiration was replaced with realizing that those who love me will support me even if I'm too beat up and broken to do anything. My existence makes me worthy to receive love.
 
-All the insights you gain through this process is more than motivational fluff. Thanks to your inner journey, you've become intimately acquainted with how you truly are enough. The shadow stops being the alluring path to wholeness. You stop projecting the power and gifts you have on to others.
+All the insights you gain through this process is more than motivational fluff. Thanks to your inner journey, you've become intimately acquainted with the ways in which you are truly enough. 
 
 For INFPs, there's the realization that achieving strict external and/or internal control isn't really the goal. The goal is being deeply in touch with and having influence over one's inner world, and that isn't done by ruling with an iron fist but with observational patience, understanding, and compassion. It's also building trust in the workings of intuition and improvisation. Productive improvisation is daring to be out of control and in control at the same time.
 
@@ -44,7 +42,7 @@ For the INFP, inner mastery is going with the [flow of the here and now while ke
 
 # Returning Home
 
-The interesting thing about the Hero archetype is that it's transitory. The Hero eventually returns home with a renewed purpose. The person who you return home as is largely up to what you discover and how things unfold. There's no way to tell what you will identify with when you come back from this journey into your inner world.
+The interesting thing about the Hero archetype is that it's transitory. The Hero eventually returns home with renewed purpose. The person you are when you return is largely up to what you discover and how things unfold. There's no way to tell what you will identify with when you come back from this journey into your inner world.
 
 However with the INFP personality type in mind, here are eight archetypes you may end up embracing by the end of the journey. And remember, it's normal to resonate with more than one of them:
 
@@ -57,7 +55,7 @@ However with the INFP personality type in mind, here are eight archetypes you ma
 -  The Magician. You've become skilled at transforming your own life. And you now have the skills and knowledge to help others to transform just as you have.
 - The Child. Through your experience, you've seen the power of imagination, curiosity, and optimism. You have the ability to help others to navigate difficulties by showing them how staying curious, playful, and hopeful can lead to finding solutions.
 
-There are an endless number of archetypes out there and this list is in no way definitive. Do one of these resonate with you? If so, do research to find other archetypes related to the type that speaks to you. Looking at archetypes that remind you of yourself is a great way to figure out what to do after you start integrating your shadow.
+There are an endless number of archetypes out there, and this list is in no way definitive. Do one of these resonate with you? If so, do research to find other archetypes related to the type that speaks to you. Looking at archetypes that remind you of yourself is a great way to figure out what to do after you start integrating your shadow.
 
 Regardless of how you change though, there is one thing that you can do now that you couldn't before. You'll be able to assist others through their own darkness and maybe even through the deeper layers of their personality. You can help others to create inner harmony and discover what they are capable of. You are now a guide to the underworld of the inner-self.
 
@@ -73,11 +71,13 @@ However, I think the more daily awareness we have of the Victim and Martyr, the 
 
 It's important not to rush this process. It doesn't happen smoothly or all at once, and can take a very long time. I think this is part of why INFPs are "late bloomers.” It's through finding self-acceptance and internal harmony that we understand what jobs, relationships, and lifestyles we truly want, and that takes time. So it's important to enjoy the journey and let the path unfold.
 
-Take a break from chasing the whale and bring some focus to what's on the boat instead.
+This isn't a direct quote but a concept I really loved from a book I recently enjoyed entitled [Creative, Not Famous The Small Potato Manisfesto](https://www.etsy.com/listing/1184380714/creative-not-famous-the-small-potato?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=zines&ref=sc_gallery-1-5&cns=1&plkey=2051f3cf05aa703e98bbcbf658e86ef1d924f0cd%3A1184380714):
+
+*Take a break from chasing the whale and bring some focus to what's on the boat instead.*
 
 Accept where you are now and make the most of it. When the time is right, shifting from one role to the other will get easier. Even when trying to escape victimhood or martyrdom, be gentle with yourself and take your time. Feeling like the Victim is simply a reminder that it's time for you to be taken care of. And the Shadow Martyr is reminding you of how your suffering will impact your identity. Give both of those parts of yourself the compassion they need, but be ready to leave them behind the moment the time is right.
 
-It's okay if you notice that you are between phases or more than one of them sounds like you right now. There have been times when I've felt like both the Victim and the Innocent or the Victim and Hero. Sometimes I'm a Victim in one area of my life, but the Hero in another. 
+It's okay if you notice that you are between phases or more than one of them sounds like you right now. There have been times when I've felt like both the Victim and the Innocent. Sometimes I'm a Victim in one area of my life, but the Hero in another. 
 
 Once you get an idea of where you are, learn more about that archetype. Believe it or not, Pinterest is actually a great place to learn about and visualize archetypes. I've created quite a few boards exploring blends of archetypes. Check them out:
 
