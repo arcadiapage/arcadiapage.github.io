@@ -73,7 +73,7 @@ However, I think the more daily awareness we have of the Victim and Martyr, the 
 
 It's important not to rush this process. It doesn't happen smoothly or all at once, and can take a very long time. I think this is part of why INFPs are "late bloomers.” It's through finding self-acceptance and internal harmony that we understand what jobs, relationships, and lifestyles we truly want, and that takes time. So it's important to enjoy the journey and let the path unfold.
 
-This isn't a direct quote but a concept I really loved from a book I recently enjoyed entitled [Creative, Not Famous The Small Potato Manisfesto](https://www.etsy.com/listing/1184380714/creative-not-famous-the-small-potato?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=zines&ref=sc_gallery-1-5&cns=1&plkey=2051f3cf05aa703e98bbcbf658e86ef1d924f0cd%3A1184380714):
+This isn't a direct quote but a concept I really loved from a book I recently enjoyed entitled [Creative, Not Famous The Small Potato Manifesto](https://www.etsy.com/listing/1184380714/creative-not-famous-the-small-potato?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=zines&ref=sc_gallery-1-5&cns=1&plkey=2051f3cf05aa703e98bbcbf658e86ef1d924f0cd%3A1184380714):
 
 _Take a break from chasing the whale and bring some focus to what's on the boat instead._
 
