@@ -1,6 +1,6 @@
 ---
 title: As a Multipotentialite and Polymath, I Let My Creative Passions Build My Path
-date: 2023-02-28 08:34:08.658000000 -08:00
+date: 2023-02-28 08:34:08 -08:00
 tags:
 - Productivity & Simplicity
 - Creative Business
