@@ -18,7 +18,7 @@ At this point, the INFP can start to identify their shadow. This happens by:
 
 On the other hand, the INFP also knows their [unique strengths](https://arcadiapage.com/2018/03/life-as-introverted-feeling-user.html) and owns them. Through this whole journey, the INFP learns to observe both sides of themselves without rushing to judgment.
 
-![](/uploads/how-infps-heal-and-grow-from-truama.png)
+![](/uploads/how-infps-heal-and-grow-from-truama.png){: .mx-auto.d-block :}
 
 Psychological integration is giving loving awareness to your shadow without denying it's there. It's also about fully accepting your gifts and abilities, without ignoring their existence too. It's openly acknowledging the light and the dark. [You may not like some of what you see](https://arcadiapage.com/2022-09-30-what-it-s-like-being-an-infp-enneagram-type-3/), but you accept its presence. And as a bonus, you also start seeing how your shadow also holds amazing qualities that you've rejected to better blend in with your family or culture.
 
