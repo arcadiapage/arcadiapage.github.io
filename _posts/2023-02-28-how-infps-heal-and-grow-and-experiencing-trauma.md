@@ -1,11 +1,11 @@
 ---
-title: 'How INFPs Heal and Grow After Experiencing Trauma '
+title: How INFPs Heal and Grow After Experiencing Trauma
 date: 2023-02-28 00:00:00 -08:00
 tags:
 - Creative Life
-- 'INFP & HSP '
+- INFP & HSP
+subtitle: 
 layout: post
-subtitle: ''
 ---
 
 [Previously I explored how challenges and traumatic circumstances can force the INFP to act from the Victim, Shadow Martyr, Warrior, and Hero archetypes](https://arcadiapage.com/2023-01-30-exploring-the-archetypes-within-the-infp-the-victim-martyr-warrior-and-hero/). This struggle pushes the INFP not only to better understand their strengths, but to also come to terms with the limits, weakness, and traits they've ignored or disowned. This process, although difficult, can lead to so much inner healing and growth.
@@ -13,13 +13,16 @@ subtitle: ''
 At this point, the INFP can start to identify their shadow. This happens by:
 
 * Being able to see the influence of the Victim and Martyr.
+
 * Having an understanding of the positive and negative ways they relate to power, control, and influence.
+
 * Taking time to examine the individual childhood influences that contributed to the creation of the shadow.
+
 * Clearly seeing which negative qualities of their personality style applies to them without denial.
 
 On the other hand, the INFP also knows their [unique strengths](https://arcadiapage.com/2018/03/life-as-introverted-feeling-user.html) and owns them. Through this whole journey, the INFP learns to observe both sides of themselves without rushing to judgment.
 
-![INFP healer INFP healing growth trauma](/uploads/how-infps-heal-and-grow-from-truama.png "How INFPs Grow and Heal After Experiencing Truama"){: .mx-auto.d-block :}
+![How INFPs Heal and Grow From Truama.png](/uploads/How%20INFPs%20Heal%20and%20Grow%20From%20Truama.png){: .mx-auto.d-block :}
 
 Psychological integration is giving loving awareness to your shadow without denying it's there. It's also about fully accepting your gifts and abilities, without ignoring their existence too. It's openly acknowledging the light and the dark. [You may not like some of what you see](https://arcadiapage.com/2022-09-30-what-it-s-like-being-an-infp-enneagram-type-3/), but you accept its presence. And as a bonus, you also start seeing how your shadow also holds amazing qualities that you've rejected to better blend in with your family or culture.
 
@@ -52,12 +55,19 @@ The interesting thing about the Hero archetype is that it's transitory. The Hero
 However with the INFP personality type in mind, here are eight archetypes you may end up embracing by the end of the journey. And remember, it's normal to resonate with more than one of them:
 
 * **The Lover.** You've learned to approach life and others with love and care. You now know your boundaries and respect your limits. You're ready to help others build loving relationships with themselves, others, and/or their personal creativity.
+
 * **The Sage.** You've collected knowledge and wisdom that can aid others. You may decide to share that knowledge through teaching. People may even seek you out for what you know.
+
 * **The Wounded Healer.** You've learned to heal yourself emotionally and maybe even physically. Now you're ready to help others to walk the path of healing themselves.
+
 * **The Explorer.** After exploring your own inner landscape, you're now ready to help others explore their inner experiences. You are also open to sharing your own experiences of traveling through life.
+
 * **The Visionary.** From your journey you have learned the power of creativity and imagination. You know what it takes to dive into what's possible for you, and you can help others to gain awareness of all the possibilities that are open to them.
+
 * **The Caretaker.** What you've experienced has motivated you to assist those who are neglected, oppressed, and overlooked. You use what you've learned to aid and empower the powerless. You give love and care to the vulnerable and endangered.
+
 * **The Magician.** You've become skilled at transforming your own life. And you now have the skills and knowledge to help others to transform just as you have.
+
 * **The Child.** Through your experience, you've seen the power of imagination, curiosity, and optimism. You have the ability to help others to navigate difficulties by showing them how staying curious, playful, and hopeful can lead to finding solutions.
 
 There are an endless number of archetypes out there, and this list is in no way definitive. Do one of these resonate with you? If so, do research to find other archetypes related to the type that speaks to you. Looking at archetypes that remind you of yourself is a great way to figure out what to do after you start integrating your shadow.
@@ -78,7 +88,7 @@ It's important not to rush this process. It doesn't happen smoothly or all at on
 
 This isn't a direct quote but a concept I really loved from a book I recently enjoyed entitled [Creative, Not Famous The Small Potato Manifesto](https://www.etsy.com/listing/1184380714/creative-not-famous-the-small-potato?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=zines&ref=sc_gallery-1-5&cns=1&plkey=2051f3cf05aa703e98bbcbf658e86ef1d924f0cd%3A1184380714):
 
-_Take a break from chasing the whale and bring some focus to what's on the boat instead._
+*Take a break from chasing the whale and bring some focus to what's on the boat instead.*
 
 Accept where you are now and make the most of it. When the time is right, shifting from one role to the other will get easier. Even when trying to escape victimhood or martyrdom, be gentle with yourself and take your time. Feeling like the Victim is simply a reminder that it's time for you to be taken care of. And the Shadow Martyr is reminding you of how your suffering will impact your identity. Give both of those parts of yourself the compassion they need, but be ready to leave them behind the moment the time is right.
 
@@ -86,8 +96,8 @@ It's okay if you notice that you are between phases or more than one of them sou
 
 Once you get an idea of where you are, learn more about that archetype. Believe it or not, Pinterest is actually a great place to learn about and visualize archetypes. I've created quite a few boards exploring blends of archetypes. Check them out:
 
-[Explorer + Sage](https://pin.it/nSTL4k9)
-[Lover + Rebel + Sage](https://pin.it/5ZJrwGx)
-[Magician + Sage](https://pin.it/4XEdGqR)
+[Explorer \+ Sage](https://pin.it/nSTL4k9)
+[Lover \+ Rebel \+ Sage](https://pin.it/5ZJrwGx)
+[Magician \+ Sage](https://pin.it/4XEdGqR)
 
 Thanks for sticking with me through all of this! I know it’s a deep dive, but it was so rewarding to write.
