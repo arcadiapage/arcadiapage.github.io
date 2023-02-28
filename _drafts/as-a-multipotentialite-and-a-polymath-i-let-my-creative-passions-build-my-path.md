@@ -1,7 +1,6 @@
 ---
 layout: post
-title: As a Multipotentialite and a Polymath, I Let My Creative Passions Build My
-  Path
+title: As a Multipotentialite and Polymath, I Let My Creative Passions Build My Path
 subtitle: ''
 tags:
 - Productivity & Simplicity
