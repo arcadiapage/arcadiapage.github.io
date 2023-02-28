@@ -96,8 +96,10 @@ It's okay if you notice that you are between phases or more than one of them sou
 
 Once you get an idea of where you are, learn more about that archetype. Believe it or not, Pinterest is actually a great place to learn about and visualize archetypes. I've created quite a few boards exploring blends of archetypes. Check them out:
 
-[Explorer \+ Sage](https://pin.it/nSTL4k9)
-[Lover \+ Rebel \+ Sage](https://pin.it/5ZJrwGx)
-[Magician \+ Sage](https://pin.it/4XEdGqR)
+* [Explorer \+ Sage](https://pin.it/nSTL4k9)
+
+* [Lover \+ Rebel \+ Sage](https://pin.it/5ZJrwGx)
+
+* [Magician \+ Sage](https://pin.it/4XEdGqR)
 
 Thanks for sticking with me through all of this! I know it’s a deep dive, but it was so rewarding to write.
