@@ -1,12 +1,13 @@
 ---
-layout: post
 title: How to Decide on a Business Idea When You Want to Do Everything
-subtitle: ''
+date: 2021-03-26 00:00:00 -07:00
 tags:
 - Season 1 INFP Entrepreneur
 - Creative Business
-
+layout: post
+subtitle: ''
 ---
+
 Before deciding to focus on writing and creating books, I had tried making income from 15 different hobbies! Not all at the same time, thank goodness, but for about 3 years I bounced from one potential small business to another.
 
 After a month of uploading 10 different digital products to my Etsy shop, I realized that this scattershot approach needed to end. Not all of my interests can be (or should be) turned into a business.

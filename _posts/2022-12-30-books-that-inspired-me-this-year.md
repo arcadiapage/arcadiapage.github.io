@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Books that Inspired Me This Year
-subtitle: Audio post
+date: 2022-12-30 00:00:00 -08:00
 tags:
 - INFP & HSP
 - Book Recommendations
 - Audio Post
-
+layout: post
+subtitle: Audio post
 ---
+
 An audio post about the top three three inspiring books that helped me to grow this year.
 
 <audio controls> <source src="/uploads/three-books-that-inspired-me-this-year.mp3" type="audio/mpeg">

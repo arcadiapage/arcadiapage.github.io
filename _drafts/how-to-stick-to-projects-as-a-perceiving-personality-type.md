@@ -1,10 +1,11 @@
 ---
-layout: post
 title: How to Stick to Projects as a Perceiving Personality Type
-subtitle: 'Audio Post '
+date: 2023-02-28 08:34:08.688000000 -08:00
 tags:
 - INFP & HSP
 - Creative Life
-
+layout: post
+subtitle: 'Audio Post '
 ---
+
 Audio post 

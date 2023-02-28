@@ -1,12 +1,13 @@
 ---
-layout: post
 title: 'Eleven Traits that Show Up When You Ignore your Needs as a Highly Sensitive
   Person '
-subtitle: ''
+date: 2022-08-20 00:00:00 -07:00
 tags:
 - INFP & HSP
-
+layout: post
+subtitle: ''
 ---
+
 10/24/22 Update: This post inspired my latest book [Love Your Sensitivity:7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person](https://payhip.com/b/KI5eW).  You can find it now at your favorite ebook retailer.
 ***
 

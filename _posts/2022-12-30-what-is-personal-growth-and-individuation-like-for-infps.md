@@ -1,12 +1,13 @@
 ---
-layout: post
 title: What is Personal Growth and Individuation Like for INFPs?
-subtitle: It's quite the journey...
+date: 2022-12-30 00:00:00 -08:00
 tags:
 - Creative Life
 - INFP & HSP
-
+layout: post
+subtitle: It's quite the journey...
 ---
+
 The INFP, like all MBTI personality types, is full of fascinating contrasts. There is introversion that looks for quiet, comfort, and safety, mixed with a need for exploration. There is also emotional sensitivity paired with emotional grit. As an INFP, I realize that I regularly work with emotions within myself that others wouldn't dare touch.
 
 The tendency INFPs have of working with their inner darkness shows up often in fictional INFPs. I think of Luke Skywalker facing the dark side or Frodo dealing with his desire for the ring. Even in Greek mythology, Persephone is a female INFP who is kidnapped to the underworld and learns to be the queen of it all. She becomes a person who successfully unites light and dark.

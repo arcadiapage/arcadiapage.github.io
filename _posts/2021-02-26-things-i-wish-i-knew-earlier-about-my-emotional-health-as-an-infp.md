@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Things I Wish I Knew Earlier About My Emotional Health as an INFP
-subtitle: ''
+date: 2021-02-26 00:00:00 -08:00
 tags:
 - INFP & HSP
-
+layout: post
+subtitle: ''
 ---
+
 I was about 17 when I took a Myers-Briggs-inspired personality type test for the first time. It was an online test and getting the results was a major eye-opening moment. I wrote in my journal about how learning that I was an INFP would "change my life forever!"
 
 Then over the next few months, I forgot about it, and things went on as normal. Knowing my personality type failed to make a real impact in my life until I was dealing with another bout of depression 5 years ago.

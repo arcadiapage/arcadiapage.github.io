@@ -1,12 +1,13 @@
 ---
-layout: post
 title: How to Keep the Structure of Your Planner Simple
-subtitle: ''
+date: 2020-10-13 00:00:00 -07:00
 tags:
 - Goal Setting
 - Productivity & Simplicity
-
+layout: post
+subtitle: ''
 ---
+
 So [last month](https://arcadiapage.com/2020-09-19-how-to-build-a-planner-from-scratch/) I shared how I had to rebuild my planner from the ground up to accommodate some of the major changes in my life.
 
 Since that post, I've streamlined what I started with to the essentials.

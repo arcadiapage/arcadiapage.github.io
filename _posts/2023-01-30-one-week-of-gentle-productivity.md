@@ -1,12 +1,13 @@
 ---
-layout: post
 title: 'One Week of Gentle Productivity '
-subtitle: ''
+date: 2023-01-30 00:00:00 -08:00
 tags:
 - Productivity & Simplicity
 - Creative Life
-
+layout: post
+subtitle: ''
 ---
+
 Right now, I'm working on a book entitled "100 Days of Gentle Productivity."  I chose 100 days because I'm creating this book with [Kickstarter's Make100 challenge](http://kck.st/3XRvREA) in mind.
 
 But...it doesn't have to take 100 days to feel the benefits of approaching each day with more care. So here I'm sharing the first seven prompts from my book so you can create a week of gently getting things done. I suggest having a notebook or a place where you can write your thoughts as you go through these.

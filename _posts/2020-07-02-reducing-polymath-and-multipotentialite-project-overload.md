@@ -1,11 +1,12 @@
 ---
-layout: post
 title: 'Project Decluttering for Polymaths and Multipotentialites '
-subtitle: Finding Balance When Wanting to Do All the Things
+date: 2020-07-02 00:00:00 -07:00
 tags:
 - Creative Life
-
+layout: post
+subtitle: Finding Balance When Wanting to Do All the Things
 ---
+
 (7/31/20 I've recently published *I Want to Do All the Things*, a short ebook for polymaths. It includes this blog post and more! Learn more about it [here](https://arcadiapage.com/2020-07-24-i-want-to-do-all-the-things/), or buy it from [here](https://payhip.com/b/4ljG).)
 
 Not too long ago I read the book [**Goodbye Things** by Fumio Sasaki](https://bookshop.org/a/8232/9780393609035). This was a book that I procrastinated to read because on the surface it looked like extreme minimalism. However, when I finally got around to reading it, I was so inspired that I've read it twice and plan to read it again.

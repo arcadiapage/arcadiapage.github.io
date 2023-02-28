@@ -1,13 +1,14 @@
 ---
-layout: post
 title: What to Do When Your Day Doesn't Go as Planned
-subtitle: ''
+date: 2021-10-26 00:00:00 -07:00
 tags:
 - Productivity & Simplicity
 - Creative Life
 - Season 2 Thoughtful Planning
-
+layout: post
+subtitle: ''
 ---
+
 Bad days can come in different flavors.
 
 There's the "less than stellar" day that we simply shrug off and hope for something better tomorrow. And then there are those days that are a total train wreck, and we regret that we got out of bed.

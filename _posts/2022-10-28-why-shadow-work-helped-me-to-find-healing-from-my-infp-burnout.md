@@ -1,12 +1,13 @@
 ---
-layout: post
 title: Why Shadow Work Helped Me Find Healing From My INFP Burnout
-subtitle: ''
+date: 2022-10-28 00:00:00 -07:00
 tags:
 - Productivity & Simplicity
 - INFP & HSP
-
+layout: post
+subtitle: ''
 ---
+
 Looking back on my life so far, I see that I'm definitely the burnout queen. Or princess. I would rather be the princess.
 
 I experienced my first bout of burnout when I was in high school. I was taking college-level chemistry classes, and some days I was so depleted I did not have the energy to get out of bed. My mom had to take me to the doctor to make sure I wasn't sick.

@@ -1,13 +1,14 @@
 ---
-layout: post
 title: 25 Ways to Thrive as an INFP Writer
-subtitle: ''
+date: 2020-10-09 00:00:00 -07:00
 tags:
 - INFP & HSP
 - On Writing
 - Book Announcements
-
+layout: post
+subtitle: ''
 ---
+
 As an INFP, I love to write. It's such a natural extension of myself, that not a single day goes by without me doing some writing. I know this is not only true for me, but many other INFPs feel the same.
 
 Although I have followed through on many of my projects, I still face the pitfalls that are common for my personality type: losing focus, being disorganized, collecting a graveyard of abandoned projects, and so on.

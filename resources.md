@@ -1,10 +1,10 @@
 ---
-layout: page
 title: Resources
+layout: page
 subtitle: Welcome to my library of resources! Try not to get lost!
 tags: []
-
 ---
+
 ![](https://64.media.tumblr.com/460e90cbd60d50f37a59236acbd41a19/tumblr_orvdjmknOr1ucpx1qo2_r1_250.gif){: .mx-auto.d-block :}
 
 Note: This page is still very much a work in progress...

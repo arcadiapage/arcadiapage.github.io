@@ -1,12 +1,13 @@
 ---
-layout: post
 title: As a Highly Sensitive Person, It's OK to Say "No" to Hustling
-subtitle: ''
+date: 2022-07-03 00:00:00 -07:00
 tags:
 - Productivity & Simplicity
 - INFP & HSP
-
+layout: post
+subtitle: ''
 ---
+
 **If the topic of this post resonates with you, you'll probably also appreciate my latest book,** [**Love Your Sensitivity: 7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person**](https://payhip.com/b/KI5eW)
 
 For highly sensitive people living in a world that encourages pushing through overstimulation is tough. When you feel tired, worn out, and overwhelmed, the general advice is to drink more coffee and work through it.

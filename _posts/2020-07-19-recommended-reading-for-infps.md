@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Recommended Reading For INFPs
-subtitle: My Favorite Books for INFPs
+date: 2020-07-19 00:00:00 -07:00
 tags:
 - INFP & HSP
-
+layout: post
+subtitle: My Favorite Books for INFPs
 ---
+
 As an INFP, reading is one of my favorite ways to relax. Not only do I love enjoying fiction or a graphic novel, but I also enjoy reading things that help me to learn a little more about myself. Below are my favorite books that are about or are related to living life as an INFP.
 
 I've sort of listed these books in order. The first few books are about learning what it means to be an INFP. Next are a few more books about self-discovery that may appeal to INFPs, and the last few books are about creative and emotional challenges that INFPs may face. Then at the end, I mention some extra books.

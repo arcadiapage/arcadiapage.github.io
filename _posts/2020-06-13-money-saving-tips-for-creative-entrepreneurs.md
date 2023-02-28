@@ -1,14 +1,15 @@
 ---
-layout: post
 title: Money Saving Tips for Creative Entrepreneurs
-subtitle: ''
+date: 2020-06-13 00:00:00 -07:00
 tags:
 - Creative Life
 - Creative Business
 - Productivity & Simplicity
+layout: post
+subtitle: ''
 permalink_: money-saving-tips-creative-entrepreneurs
-
 ---
+
 As a writer, I've been engaged in a never-ending fight with the Day Job. Ever since the age of five, I've dreamed of being a working author. I could create stories and books for others and that would be my job.
 
 Despite the internal struggle, [having a day job has given me a wonderful amount of stability](https://personalityjunkie.com/10/day-job-artists-creative-types/). But because of changes to the economy due to the virus pandemic, many are clinging to that day job, myself included.

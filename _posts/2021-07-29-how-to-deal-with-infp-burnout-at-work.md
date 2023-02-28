@@ -1,12 +1,13 @@
 ---
-layout: post
 title: How to Deal With INFP Burnout at Work
-subtitle: ''
+date: 2021-07-29 00:00:00 -07:00
 tags:
 - INFP & HSP
 - Season 1 INFP Entrepreneur
-
+layout: post
+subtitle: ''
 ---
+
 Right now I'm dealing with the worst bout of burnout I've ever had in my life. Contributing factors include the emotional and financial effects of the pandemic and breaking free of caffeine addiction. I feel tired, scattered, and less creative.
 
 Recovering is tough, but I'm glad to say I'm getting better. Sometimes I try to think of what I could have done to avoid this. Some factors were unavoidable. We may dream of living a burnout free life, but circumstances may demand otherwise.

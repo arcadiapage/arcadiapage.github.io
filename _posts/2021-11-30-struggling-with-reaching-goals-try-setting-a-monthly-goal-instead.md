@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Struggling with Reaching Goals? Try Setting a Monthly Goal Instead
-subtitle: ''
+date: 2021-11-30 00:00:00 -08:00
 tags:
 - Productivity & Simplicity
 - Season 2 Thoughtful Planning
 - Goal Setting
-
+layout: post
+subtitle: ''
 ---
+
 When it comes to November, one of the first things I think of is Nanowrimo. It's inspiring how writers like Marissa Meyer found their start by participating in Nanowrimo. Despite my love of writing fiction, I have never done Nanowrimo, mainly because of my complicated feelings towards word count.
 
 Word count is great for documenting progress, and I value it for that. However, trying to reach a specific word count by the end of the month is too much stress for me. I'm much happier when I tell myself, "I'm going to finish this project by the end of the month, regardless of the word count."

@@ -1,12 +1,13 @@
 ---
-layout: post
 title: 4 Links - July 2021
-subtitle: Slow Down and Do Less
+date: 2021-07-26 00:00:00 -07:00
 tags:
 - Productivity & Simplicity
 - Helpful Links
-
+layout: post
+subtitle: Slow Down and Do Less
 ---
+
 This month I'm focusing on writing about burnout at work. Even if you're not experiencing full on burnout, we all can feel overwhelmed by stuff to do from time to time.
 
 Here are some other resources I've found helpful for slowing down and doing less.

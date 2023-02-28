@@ -1,12 +1,13 @@
 ---
-layout: post
 title: How to Tell if a Weekly Planner is for You
-subtitle: ''
+date: 2020-12-07 00:00:00 -08:00
 tags:
 - Creative Life
 - Productivity & Simplicity
-
+layout: post
+subtitle: ''
 ---
+
 When working with your planner, do you have a nagging feeling of not being able to see far enough into the future? Do you feel like although you are writing everything down on a monthly calendar, you still have no idea of what's going on?
 
 Then you may need to switch to a weekly layout or at least a larger monthly calendar that allows for more detail.

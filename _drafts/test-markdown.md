@@ -1,10 +1,16 @@
 ---
-layout: post
 title: Sample blog post
+date: 2020-02-28 00:00:00 -08:00
+tags:
+- test
+- books
+layout: post
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test, books]
+gh-badge:
+- star
+- fork
+- follow
 comments: true
 ---
 

@@ -1,15 +1,16 @@
 ---
-layout: post
 title: I Want to Do All the Things
-subtitle: Finding Balance as a Polymath, Multipotentialite & Renaissance Soul
+date: 2020-07-24 00:00:00 -07:00
 tags:
 - Productivity & Simplicity
 - Goal Setting
 - Creative Life
 - Creative Business
 - Book Announcements
-
+layout: post
+subtitle: Finding Balance as a Polymath, Multipotentialite & Renaissance Soul
 ---
+
 I'm happy to announce the publication of my new ebook, **I Want to Do All the Things: Finding Balance as a Polymath, Multipotentialite & Renaissance Soul.**
 
 [It's now available at your favorite ebook retailers!](https://payhip.com/b/4ljG)

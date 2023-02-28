@@ -1,12 +1,13 @@
 ---
-layout: post
 title: How INFPs Can Use Journaling for Healing
-subtitle: ''
+date: 2021-02-24 00:00:00 -08:00
 tags:
 - INFP & HSP
 - On Writing
-
+layout: post
+subtitle: ''
 ---
+
 It's been a fight keeping up with all the twists and turns in my life over the past year. From navigating being laid off from my job to helping my husband with his business, it has been a wild ride.
 
 Unfortunately, doing more than I'm capable of has left me feeling bruised all over. When you stretch yourself too thin, not only does your body ache, but there is also this ache on the inside that keeps repeating that things need to change. Holding on to the way things used to be (or "should" be) is not working.

@@ -1,12 +1,13 @@
 ---
-layout: post
 title: How to Build a Planner from Scratch
-subtitle: ''
+date: 2020-09-19 00:00:00 -07:00
 tags:
 - Creative Life
 - Productivity & Simplicity
-
+layout: post
+subtitle: ''
 ---
+
 Recently, I shared how my previous planning system totally collapsed in my post [How to Plan When Life is Chaotic](https://arcadiapage.com/2020-08-28-how-to-plan-when-life-is-chaotic/).
 
 My replacement method of using only a calendar and a daily "Must Do" list was great for getting myself back on track. But since I kept my emergency daily todo list in my composition notebook, it kept getting buried under all of the book notes and project ideas I would scribble into the same notebook.

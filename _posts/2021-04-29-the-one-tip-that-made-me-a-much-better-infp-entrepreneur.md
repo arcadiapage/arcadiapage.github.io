@@ -1,13 +1,14 @@
 ---
-layout: post
 title: The One Tip that Made Me a Much Better INFP Entrepreneur
-subtitle: ''
+date: 2021-04-29 00:00:00 -07:00
 tags:
 - INFP & HSP
 - Creative Business
 - Season 1 INFP Entrepreneur
-
+layout: post
+subtitle: ''
 ---
+
 Starting a business or even a small side hustle can involve facing a ton of confusing questions. When thinking about my entrepreneurship journey, I had to find answers to questions like,  "What are people willing to buy? Who is my audience and where can I find them? How can I make sure that I enjoy creating this business?"
 
 Back in January of 2020, I took the course [How to Create a Microbusiness that Matters](https://bemorewithless.com/micro/) by Courtney Carver. It's an inexpensive and easy course; it only cost me around $25. I'm a huge fan of the 333-Project, and I like how Carver approaches things, so I was happy to give her course a try.

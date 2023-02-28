@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Why Being a Life-Long Learner is the Best Thing Ever
-subtitle: ''
+date: 2020-08-24 00:00:00 -07:00
 tags:
 - Creative Life
-
+layout: post
+subtitle: ''
 ---
+
 I've spent most of my life acquiring new skills and improving them.
 
 I remember watching my mom draw when I was eight and begging her to teach me how to do it.

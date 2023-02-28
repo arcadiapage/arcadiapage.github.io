@@ -1,12 +1,13 @@
 ---
-layout: post
 title: Why Intuition is a Good Trait to Have as a Highly Sensitive Person
-subtitle: ''
+date: 2022-08-27 00:00:00 -07:00
 tags:
 - Creative Life
 - INFP & HSP
-
+layout: post
+subtitle: ''
 ---
+
 Intuition is one of the many good traits of highly sensitive people. My intuition is a huge part of who I am, and it is so powerful. The gentle hunches, tugs, and unexpected connections are welcome visitors that give my life a sense of direction and vibrancy. Being intuitive is exciting. Every day brings a chance to uncover subtle details that others miss.
 
 I like to think of intuition as enhanced pattern recognition fed by the information I absorb through my senses. This recognition happens so quickly, that it can be subconscious, showing up as a gut feeling, being tugged in a certain direction, or a sudden ah-ha moment. All humans are capable of intuition. However, highly sensitive people tend to be extra intuitive because they process more sensory information.

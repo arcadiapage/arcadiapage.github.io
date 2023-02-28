@@ -1,13 +1,14 @@
 ---
-layout: post
 title: How I Use Art to Process Emotional Pain as an INFP
-subtitle: ''
+date: 2022-05-30 00:00:00 -07:00
 tags:
 - INFP & HSP
 - Creative Life
 - On Art
-
+layout: post
+subtitle: ''
 ---
+
 Pain can be overwhelming, especially if experienced daily. After a year and a half of suffering from chronic physical pain, I'm glad to be seeing the end of the tunnel. Yet, the emotional trauma of being unwell for so long will stick with me for a while. It will take time for me to feel safe in my body again. Add to that the collective pain being experienced in society, and mentally processing pain suddenly becomes a big challenge and a necessity.
 
 I've relied on crying, talking, and journaling to deal with my pain. But because of experiencing so much pain, I often feel like there is only so much crying and talking one can do. Although relieving, crying can be draining, and sometimes I get tired of hearing myself talk about my problems.

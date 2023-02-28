@@ -1,12 +1,13 @@
 ---
-layout: post
 title: 'How INFPs Heal and Grow After Experiencing Trauma '
-subtitle: ''
+date: 2023-02-28 00:00:00 -08:00
 tags:
 - Creative Life
 - 'INFP & HSP '
-
+layout: post
+subtitle: ''
 ---
+
 [Previously I explored how challenges and traumatic circumstances can force the INFP to act from the Victim, Shadow Martyr, Warrior, and Hero archetypes](https://arcadiapage.com/2023-01-30-exploring-the-archetypes-within-the-infp-the-victim-martyr-warrior-and-hero/). This struggle pushes the INFP not only to better understand their strengths, but to also come to terms with the limits, weakness, and traits they've ignored or disowned. This process, although difficult, can lead to so much inner healing and growth.
 
 At this point, the INFP can start to identify their shadow. This happens by:

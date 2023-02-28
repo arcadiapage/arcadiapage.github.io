@@ -1,13 +1,14 @@
 ---
-layout: post
 title: 'The Advantage of Being a Highly Sensitive Entrepreneur '
-subtitle: ''
+date: 2021-05-27 00:00:00 -07:00
 tags:
 - Creative Business
 - INFP & HSP
 - Season 1 INFP Entrepreneur
-
+layout: post
+subtitle: ''
 ---
+
 When it comes to sensitivity, much of the focus is on reducing overstimulation from the environment. Often we view experiencing things so vividly as something to protect ourselves from. It's not unusual for me to find myself battling bright lights, visually busy environments, and grating sounds.
 
 But although sensitive people go through a lot to dial things down, there is an advantage to absorbing so much information from the external world, especially when it comes to business and doing entrepreneurship.

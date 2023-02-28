@@ -1,12 +1,13 @@
 ---
-layout: post
 title: 8 Ways INFPs Show Up at Work
-subtitle: ''
+date: 2021-08-26 00:00:00 -07:00
 tags:
 - INFP & HSP
 - Season 1 INFP Entrepreneur
-
+layout: post
+subtitle: ''
 ---
+
 INFPs are creative, imaginative, and have a lot to bring to their places of employment when in the right environment. In this post, I'm taking a deep dive into how INFPs show up at work.
 
 Not all INFPs are the same. Some of the observations I make are generalizations based on the MBTI framework. I also share some personal thoughts on how my typical actions on the job align with my personality type.

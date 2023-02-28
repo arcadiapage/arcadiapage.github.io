@@ -1,12 +1,13 @@
 ---
-layout: post
 title: How I Learned to Open Up as a Shy Introvert
-subtitle: ''
+date: 2021-07-20 00:00:00 -07:00
 tags:
 - Book Recommendations
 - Book Announcements
-
+layout: post
+subtitle: ''
 ---
+
 Lately, I've been writing about [_The INFP Entrepreneur_](https://arcadiapage.com/tags/#Season%201%20INFP%20Entrepreneur). In this post I'm taking a detour from that to share my newest project: **Inner Universe, Outer Worlds**.
 
 ![](/uploads/inneruniverse-cover-photo.png){: .mx-auto.d-block :}

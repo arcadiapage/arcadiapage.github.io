@@ -1,12 +1,13 @@
 ---
-layout: post
 title: What to Do When You Feel Like You're Always Chasing the Newest Idea
-subtitle: ''
+date: 2022-04-30 00:00:00 -07:00
 tags:
 - Productivity & Simplicity
 - Creative Life
-
+layout: post
+subtitle: ''
 ---
+
 Have you ever started a project thinking, "This (story, painting, song, book or whatever else you're trying to make) is the one I'm going to stick with until the end“? But then, days later, you get a new brilliant idea that makes the old one seem lame, so you ditch the old one to chase something new, and the cycle continues...
 
 I've been there so many times. Sometimes I'm okay with the chase, especially when new ideas bring some much-needed fresh energy to my creative life. But other times, the sensation of not being able to stick to anything is such a drag, and it gets tiresome.

@@ -1,12 +1,13 @@
 ---
-layout: post
 title: Read This When You Feel Like Social Media Is Doing Nothing for Your Business
-subtitle: August - 4 Links
+date: 2021-08-30 00:00:00 -07:00
 tags:
 - Season 1 INFP Entrepreneur
 - Creative Business
-
+layout: post
+subtitle: August - 4 Links
 ---
+
 One of the scariest things about giving birth to a business is starting from zero. Zero customers, zero money--just nothing but a hope that you can make something happen. Maybe.
 
 In modern society, starting from zero can feel even more stressful due to social media pressure.  Having a bunch of followers doesn't always translate to them buying from you. On top of that is the feeling that the exposure of your work is at the mercy of constantly changing algorithms.

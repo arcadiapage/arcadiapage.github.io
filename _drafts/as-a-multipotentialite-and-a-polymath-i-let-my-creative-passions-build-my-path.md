@@ -1,13 +1,14 @@
 ---
-layout: post
 title: As a Multipotentialite and Polymath, I Let My Creative Passions Build My Path
-subtitle: ''
+date: 2023-02-28 08:34:08.658000000 -08:00
 tags:
 - Productivity & Simplicity
 - Creative Business
 - Creative Life
-
+layout: post
+subtitle: ''
 ---
+
 When you're multipassionate or a multipotentialite, it's easy to get lost in your own mind. Often I think of so many options and possibilities, it's overwhelming, and I end up suffering from self-inflicted decision fatigue. I abandon my projects or I have a hard time getting started in the first place because I can't clearly see where I'm trying to go.
 
 There's no way to completely avoid this. It's part of the process. Sometimes letting go of a project can bring a huge sense of relief, but in general, feeling lost and directionless is stressful. However, I’ve found that one of my greatest gifts as a multipotentialite can help me navigate this problem.

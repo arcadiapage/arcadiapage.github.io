@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Two Simple Self-Reflection Questions for Connecting With Your Intuition
-subtitle: 'Audio Post '
+date: 2022-11-27 00:00:00 -08:00
 tags:
 - Audio Post
 - Productivity & Simplicity
 - Creative Life
-
+layout: post
+subtitle: 'Audio Post '
 ---
+
 A short audio post about how connecting to my intuition has improved my life in unexpected ways.
 
 <audio controls>

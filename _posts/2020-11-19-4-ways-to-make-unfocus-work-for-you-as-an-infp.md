@@ -1,13 +1,14 @@
 ---
-layout: post
 title: 4 Ways to Make Unfocus Work for You as an INFP
-subtitle: ''
+date: 2020-11-19 00:00:00 -08:00
 tags:
 - Productivity & Simplicity
 - INFP & HSP
 - Creative Life
-
+layout: post
+subtitle: ''
 ---
+
 Wandering days are confusing. I have something important to do, but I get distracted, drifting from one thing to another. Oh, I need to clean my desk. I need to text some people. I need to--
 
 Although I'm able to get a lot done, I'm still a drifter. There are times when I mentally beat myself up for not focusing. I think, "Why can't I just get it together?"

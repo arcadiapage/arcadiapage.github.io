@@ -1,11 +1,12 @@
 ---
-layout: post
 title: What It's Like Being an INFP Enneagram Type 3
-subtitle: "...And saying hello to my shadow"
+date: 2022-09-30 00:00:00 -07:00
 tags:
 - INFP & HSP
-
+layout: post
+subtitle: "...And saying hello to my shadow"
 ---
+
 After years of thinking I was a Type 4 on the Enneagram, I recently realized that I'm a Type 3. Okay, technically I am SX/SP 3w4.
 
 ( [This](https://personalitypath.com/enneagram/wings/enneagram-3w2-3w4/) site and [this site](https://psychologia.co/3w4/) have good descriptions of 3w4s. And [this site](https://enneagramexplained.com/the-27-enneagram-subtypes/) has a nice description of the subtypes for each type.)

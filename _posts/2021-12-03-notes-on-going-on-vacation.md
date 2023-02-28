@@ -1,12 +1,13 @@
 ---
-layout: post
 title: Notes About Going on Vacation
-subtitle: 'yay! '
+date: 2021-12-03 00:00:00 -08:00
 tags:
 - Book Announcements
 - Creative Life
-
+layout: post
+subtitle: 'yay! '
 ---
+
 In October I shared with blog subscribers that I will be taking a break from updating this blog from the start of December to the end of January.
 
 For some reason, the winter months tend to be creative dead zones for me. I have fewer ideas, the ideas I do have often suck, and burnout comes knocking at my door.

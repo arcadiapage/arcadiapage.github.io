@@ -1,11 +1,12 @@
 ---
-layout: post
 title: How to Plan When Life is Chaotic
-subtitle: ''
+date: 2020-08-28 00:00:00 -07:00
 tags:
 - Productivity & Simplicity
-
+layout: post
+subtitle: ''
 ---
+
 Like most people in these crazy pandemic times, I've found my life thrown into a constant state of flux.
 
 When I was laid off from my office job in July, I switched to helping my husband with his business. This threw me off track, and it set off a chain of changes that were hard to handle.

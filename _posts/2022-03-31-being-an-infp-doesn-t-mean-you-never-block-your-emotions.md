@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Why Being an INFP Doesn't Mean You Never Block Your Emotions
-subtitle: ''
+date: 2022-03-31 00:00:00 -07:00
 tags:
 - INFP & HSP
-
+layout: post
+subtitle: ''
 ---
+
 I wish that being an INFP meant that I am always in touch with my emotions and that they always make sense to me. And as a result of this emotional honesty and literacy, I would have a healthy and robust emotional life.
 
 Unfortunately, due to cultural, societal, and biological influences, I find that I'm more prone to the emotional blockages of anxiety and depression.

@@ -1,13 +1,14 @@
 ---
-layout: post
 title: 'Combine Productivity with Fulfillment: Three Prompts for Adding Meaning to
   Your Todo List'
-subtitle: ''
+date: 2021-09-30 00:00:00 -07:00
 tags:
 - Productivity & Simplicity
 - Season 2 Thoughtful Planning
-
+layout: post
+subtitle: ''
 ---
+
 Is your planner inspiring? Most people don't think of their calendar as a place to be inspired. It's usually full of duties: events, appointments, and things that can't be ignored. Sometimes it feels like we are constantly cramming things into our calendars and lives.
 
 The general view is that planning is for getting things done, not for daydreaming and reflection.

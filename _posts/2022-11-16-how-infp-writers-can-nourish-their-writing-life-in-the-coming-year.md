@@ -1,13 +1,14 @@
 ---
-layout: post
 title: How INFP Writers Can Nourish Their Writing Life in the Coming Year
-subtitle: ''
+date: 2022-11-16 00:00:00 -08:00
 tags:
 - On Writing
 - Creative Life
 - INFP & HSP
-
+layout: post
+subtitle: ''
 ---
+
 It's hard to believe that the year is almost over. How do you feel about your writing life over the past year?
 
 As I look back, I see that I had a lot of learning to do. I had to make significant changes to my writing practice, especially when it came to my mindset towards it. However these adjustments has made me much more satisfied with my writing.

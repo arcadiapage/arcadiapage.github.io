@@ -1,13 +1,14 @@
 ---
-layout: post
 title: 3 Lists that Have Improved My Wellbeing as an INFP
-subtitle: And it's not my to-do list
+date: 2020-11-30 00:00:00 -08:00
 tags:
 - Creative Business
 - Creative Life
 - INFP & HSP
-
+layout: post
+subtitle: And it's not my to-do list
 ---
+
 List making is a simple way to organize thoughts and ideas. I'm not an obsessive list creator, but I enjoy keeping lists of ideas and concepts that have an impact on my life. There are all kinds of lists that can be super useful, from a packing list for vacations to items you regularly purchase at the grocery store.
 
 However, for me, the most important lists in my collection (other than my list of regular grocery purchases) have to do with reorienting me when life gets overwhelming.

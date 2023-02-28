@@ -1,13 +1,14 @@
 ---
-layout: post
 title: '7 Ways to Balance High Sensitivity with Productivity '
-subtitle: ''
+date: 2020-09-30 00:00:00 -07:00
 tags:
 - Creative Life
 - Productivity & Simplicity
 - INFP & HSP
-
+layout: post
+subtitle: ''
 ---
+
 When my last period of depression was at its worst, I had this on-going feeling of lacking the ability to do what I wanted, no matter how hard I tried. And this wasn't about reaching life-long goals. This feeling extended to simple things like keeping up with chores and taking care of myself.
 
 Fortunately, I discovered that I am a Highly Sensitive Person, and I immediately took steps to reduce overstimulation. It was a slow healing process, but I owe much my productivity today to honoring my sensitivity.

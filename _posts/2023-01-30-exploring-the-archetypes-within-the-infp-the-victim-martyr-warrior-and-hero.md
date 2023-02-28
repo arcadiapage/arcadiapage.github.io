@@ -1,13 +1,14 @@
 ---
-layout: post
 title: 'Exploring the Archetypes Within the INFP: the Victim, Martyr, Warrior, and
   Hero'
-subtitle: ''
+date: 2023-01-30 00:00:00 -08:00
 tags:
 - Creative Life
 - INFP & HSP
-
+layout: post
+subtitle: ''
 ---
+
 [In my last post](https://arcadiapage.com/2022-12-30-what-is-personal-growth-and-individuation-like-for-infps/), I shared the beginning stage of personal growth for INFPs. Here I go deeper into how the difficulties that force the INFP to turn inwards can be a catalyst for change.
 
 ![The title of the post with a purple and orange background behind it. INFP wellbeing](/uploads/exploring-archetypes-within-infp-victim-martyr-warrior-hero.png "INFP Wellbeing INFP growth INFP archetypes INFP tips "){: .mx-auto.d-block :}

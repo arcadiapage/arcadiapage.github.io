@@ -1,12 +1,13 @@
 ---
-layout: post
 title: What INFPs Can Do When Feeling Burned Out From Thoughts and Emotions
-subtitle: ''
+date: 2022-04-30 00:00:00 -07:00
 tags:
 - Creative Life
 - INFP & HSP
-
+layout: post
+subtitle: ''
 ---
+
 As an intuitive introvert, I love spending time immersed in thoughts, ideas, and imagination. I am also emotionally sensitive, honing in on not only the emotional states of others, but also on the ever-changing landscape of my own emotions, even if I don't fully understand them.
 
 This is where I am the most comfortable, and generally it's a good place for me. But sometimes, I am overrun with ideas or have to deal with difficult feelings that sap the life out of me. And even worse, the overflowing repetitive thoughts can make it hard for me to rest, although that is what I desperately need.

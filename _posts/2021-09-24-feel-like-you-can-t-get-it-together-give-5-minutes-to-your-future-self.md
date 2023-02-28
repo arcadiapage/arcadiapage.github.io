@@ -1,13 +1,14 @@
 ---
-layout: post
 title: 'Feel Like You Can''t Get It Together? Give 5 Minutes to Your Future Self '
-subtitle: ''
+date: 2021-09-24 00:00:00 -07:00
 tags:
 - Season 2 Thoughtful Planning
 - Productivity & Simplicity
 - Book Announcements
-
+layout: post
+subtitle: ''
 ---
+
 For a long time I used to think  "Why can't I just get it together?" Every morning before going to work was chaos, and every evening after coming back was chaos as well. Have you ever felt that way? That no matter what you do, there are times of day that just feel rushed and totally out of control? 
 
 For a long time I thought that this was simply how things had to be. I thought that I couldn't help not being able to find my clothes in the morning or having zero clean dishes in the evening. 

@@ -1,14 +1,15 @@
 ---
-layout: post
 title: Why Breaks are Essential for Me as an INFP
-subtitle: ''
+date: 2020-12-29 00:00:00 -08:00
 tags:
 - Productivity & Simplicity
 - Creative Life
 - Creative Business
 - INFP & HSP
-
+layout: post
+subtitle: ''
 ---
+
 As an INFP,  I'm full of ideas and inspiration. I also deal with plenty of anxiety and worry because I can't help caring deeply about things.
 
 There is also pressure to keep going--to keep writing, sharing, and making. But unfortunately in a world where sharing is easy, there's the temptation to be always 'on.' This environment often causes me to blur the line between work and rest.

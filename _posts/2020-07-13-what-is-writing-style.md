@@ -1,11 +1,12 @@
 ---
-layout: post
 title: What is Writing Style?
-subtitle: And How to Find It...
+date: 2020-07-13 00:00:00 -07:00
 tags:
-- On Writing 
-
+- On Writing
+layout: post
+subtitle: And How to Find It...
 ---
+
 Recently, I've been running a [20 Minute 1-on-1 Writing Workshop](https://payhip.com/b/9pD0). Helping others to get in touch with their writing style has been an unexpected adventure! However, there's always that lingering question, "What is style?"
 
 The best advice I've ever read about writing style comes from the book **Wild Mind** by Natalie Goldberg.

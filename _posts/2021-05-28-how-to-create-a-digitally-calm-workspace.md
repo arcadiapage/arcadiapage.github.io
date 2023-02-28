@@ -1,14 +1,15 @@
 ---
-layout: post
 title: How to Create a Digitally Calm Workspace
-subtitle: ''
+date: 2021-05-28 00:00:00 -07:00
 tags:
 - Productivity & Simplicity
 - Creative Business
 - INFP & HSP
 - Season 1 INFP Entrepreneur
-
+layout: post
+subtitle: ''
 ---
+
 Over the past year, daily life has shifted to relying more on the internet. I've ordered more stuff from online retailers than ever. Also, I've been booked up with Zoom meetings for friends and family. As much as I appreciate the internet, the full-on digital life can be draining.
 
 As a highly sensitive person, I am prone to overstimulation, and spending a lot of time with digital devices can be overwhelming. But, I'm also a total computer nerd with a small obsession with making my digital spaces reflect my style and how I want to feel.

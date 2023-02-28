@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Using Lists to Be a More Organized INFP Writer
-subtitle: ''
+date: 2020-06-26 00:00:00 -07:00
 tags:
-- INFP & HSP 
+- INFP & HSP
 - Productivity & Simplicity
 - On Writing
-
+layout: post
+subtitle: ''
 ---
+
 Writers have to manage a ton of information. There's information for writing projects, research, and blog posts. There are our personal writing practice and journaling. There's our own habit of reading and the notes that creates. Plus we also want to hold on to ideas and observations--it can all become a crazy mess of stuff!
 
 And as an INFP, I have a ton of ideas that I don't want to lose in my notebooks or computer. By lose, I mean can't find ever again due to disorganization.

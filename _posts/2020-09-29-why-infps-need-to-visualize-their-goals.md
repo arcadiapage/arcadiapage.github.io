@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Why INFPs Need to Visualize Their Goals
-subtitle: ''
+date: 2020-09-29 00:00:00 -07:00
 tags:
 - Productivity & Simplicity
 - INFP & HSP
 - Goal Setting
-
+layout: post
+subtitle: ''
 ---
+
 Like most people who want to accomplish stuff in their life, INFPs have goals. However, one challenging thing about setting goals as an INFP is staying interested long enough to reach it.
 
 ![](/uploads/infp-visualize-goals.png){: .mx-auto.d-block :}

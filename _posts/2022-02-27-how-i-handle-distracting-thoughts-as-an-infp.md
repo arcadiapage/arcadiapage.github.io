@@ -1,12 +1,13 @@
 ---
-layout: post
 title: How I Handle Distracting Thoughts as an INFP
-subtitle: ''
+date: 2022-02-27 00:00:00 -08:00
 tags:
 - Productivity & Simplicity
 - INFP & HSP
-
+layout: post
+subtitle: ''
 ---
+
 I've written a lot about how INFPs tend to have [wandering minds](https://arcadiapage.com/2020-11-19-4-ways-to-make-unfocus-work-for-you-as-an-infp/). I appreciate this about myself because my ongoing desire to explore keeps me creative. Having a divergent thinking style and enjoying new ideas is part of what makes me who I am.
 
 However, there are times when I do need to focus. Unfortunately, that's when my brain is more likely to tempt me with new ideas, things that would be fun to look up online, or creative projects to try. My natural reaction is to get frustrated with myself. I'm all like, "Why am I getting all of these interesting random thoughts when I need to focus!"

@@ -1,12 +1,13 @@
 ---
-layout: post
 title: Keeping A Clean Home Between Creative Projects
-subtitle: It can be done...
+date: 2020-11-07 00:00:00 -08:00
 tags:
 - Creative Life
 - Productivity & Simplicity
-
+layout: post
+subtitle: It can be done...
 ---
+
 I have a long history of running from chores. They're generally not fun, and why should I spend my time on something that's going to be messy again tomorrow?
 
 Whenever I find the strength to buckle down and clean, I feel strong resentment. Cleaning cuts into time that I could use for working on something creative.

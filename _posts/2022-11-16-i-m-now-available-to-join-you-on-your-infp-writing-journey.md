@@ -1,13 +1,14 @@
 ---
-layout: post
 title: 'I''m Now Available to Join You on Your INFP Writing Journey '
-subtitle: and other updates
+date: 2022-11-16 00:00:00 -08:00
 tags:
 - Book Announcements
 - On Writing
 - INFP & HSP
-
+layout: post
+subtitle: and other updates
 ---
+
 I usually share updates in my emails, but right now I have so many updates that an email won't do them all justice!
 
 ![Consulting sessions for INFP writers, INFP Writing, INFP Writing Style](/uploads/consulting-sessions-for-infp-writers.png "INFP Writers, INFP Writer, INFP Writing, INFP Writing Style"){: .mx-auto.d-block :}

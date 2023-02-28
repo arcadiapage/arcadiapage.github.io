@@ -1,13 +1,14 @@
 ---
-layout: post
 title: 10 Tips for INFPs Who Struggle to Like the Day Job
-subtitle: ''
+date: 2021-04-25 00:00:00 -07:00
 tags:
 - Productivity & Simplicity
 - INFP & HSP
 - Season 1 INFP Entrepreneur
-
+layout: post
+subtitle: ''
 ---
+
 As an INFP, I have had the biggest struggle with loving my day job. Forget loving it. I've struggled with moderately liking the jobs that I've held.
 
 Even in workplaces that were overall nice to be in, I've had to fight to get myself to like my job.

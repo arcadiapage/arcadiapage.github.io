@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Why Emotional Sensitivity is a Good Trait to Have as a Highly Sensitive Person
-subtitle: ''
+date: 2022-10-01 00:00:00 -07:00
 tags:
 - INFP & HSP
-
+layout: post
+subtitle: ''
 ---
+
 As a highly sensitive person, my emotional sensitivity can be difficult to handle sometimes. However, I also realize that my trait of having strong emotions is what makes me dynamic and effective.
 
 For highly sensitive people, emotions can be a powerful force that can push them to accomplish amazing things. So here are some good things about having the trait of emotional sensitivity, especially for highly sensitive people.

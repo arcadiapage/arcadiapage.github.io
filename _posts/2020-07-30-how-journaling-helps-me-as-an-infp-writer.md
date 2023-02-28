@@ -1,12 +1,13 @@
 ---
-layout: post
 title: How Journaling Helps Me as an INFP Writer
-subtitle: ''
+date: 2020-07-30 00:00:00 -07:00
 tags:
 - INFP & HSP
 - On Writing
-
+layout: post
+subtitle: ''
 ---
+
 I've kept a journal since childhood. Although I made some attempts at journaling as young as the age of 6, I started keeping a journal for real when I was around 10 or 11.
 
 My desire to journal definitely met some headwinds. My mom was reluctant when she saw my determination to buy a diary and told me, "Never write anything that you don't want anyone else to read." I feel that kind of mindset totally misses the point of journaling. Plus you can always write stuff and destroy it after the fact.
