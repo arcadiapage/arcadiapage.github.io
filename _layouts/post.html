@@ -1,0 +1,101 @@
+---
+layout: base
+---
+
+{% include header.html type="post" %}
+
+<div class="container-md">
+  <div class="row">
+    <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+     
+     
+
+      <article role="main" class="blog-post">
+        {{ content }}
+      </article>
+      
+    
+
+      {% if page.tags.size > 0 %}
+        <div class="blog-tags">
+          Tags:
+          {% if site.link-tags %}
+          {% for tag in page.tags %}
+            <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
+          {% endfor %}
+          {% else %}
+            {{ page.tags | join: ", " }}
+          {% endif %}
+        </div>
+      {% endif %}
+          
+<div class="text-center py-10">
+    <p>✨Thank you so much for taking a moment for this post. I truly appreciate it!</p> 
+    <p><a class="button" href="mailto:arcadia@arcadiapage.com?subject=Re:{{ page.title }}">Reply to this post with an email </a>| Buy me a <a href="https://www.buymeacoffee.com/arcadiapage">decaff coffee ☕</a></p>
+</div>
+      <div style="text-align: center;"><font size="4">Would you like to be notified monthly of future posts? <a href="https://tinyletter.com/arcadiapage">Subscribe</a> </font><font size="4">💌</font></div><br />   <form action="https://tinyletter.com/arcadiapage" data-myki-checked-cc="2" method="post" onsubmit="window.open('https://tinyletter.com/arcadiapage', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" style="border: 1px solid rgb(204, 204, 204); padding: 3px; text-align: center;" target="popupwindow"><p><label>Enter your email address</label></p><p><input id="tlemail" name="email" style="width: 140px;" type="text" /></p><input name="embed" type="hidden" value="1" /><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
+
+      {% if page.social-share %}
+        {% include social-share.html %}
+      {% endif %}
+
+
+      <ul class="pagination blog-pager">
+        {% if page.previous.url %}
+        <li class="page-item previous">
+          <a class="page-link" href="{{ page.previous.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+        </li>
+        {% endif %}
+        {% if page.next.url %}
+        <li class="page-item next">
+          <a class="page-link" href="{{ page.next.url | relative_url }}" data-toggle="tooltip" data-placement="top"
+ 
+ title="{{page.next.title}}">Next Post &rarr;</a>
+        </li>
+        {% endif %}
+      </ul>
+    
+
+<div class="related">
+  <h4>You May Also Enjoy: </h4>
+  <br/>
+
+{% assign maxRelated = 4 %}
+{% assign minCommonTags =  2 %}
+{% assign maxRelatedCounter = 0 %}
+
+  {% for post in site.posts %}
+
+    {% assign sameTagCount = 0 %}
+    {% assign commonTags = '' %}
+
+    {% for tag in post.tags %}
+      {% if post.url != page.url %}
+        {% if page.tags contains tag %}
+          {% assign sameTagCount = sameTagCount | plus: 1 %}
+          {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+          {% assign commonTags = commonTags | append: tagmarkup %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    {% if sameTagCount >= minCommonTags %}
+      <div>
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+      </div>
+      {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+      {% if maxRelatedCounter >= maxRelated %}
+        {% break %}
+      {% endif %}
+    {% endif %}
+
+  {% endfor %}
+
+  {% include comments.html %} 
+         
+
+     </div>
+  </div>
+</div>
+
+</div>

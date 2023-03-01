@@ -1,0 +1,83 @@
+---
+---
+
+---
+label: Blog Post
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: list
+  name: tags
+  label: tags
+pages:
+- _posts/2020-06-13-money-saving-tips-for-creative-entrepreneurs.md
+- _posts/2020-06-26-using-lists-to-be-a-more-organized-infp-writer.md
+- _posts/2020-07-02-reducing-polymath-and-multipotentialite-project-overload.md
+- _posts/2020-07-13-what-is-writing-style.md
+- _posts/2020-07-19-recommended-reading-for-infps.md
+- _posts/2020-07-24-i-want-to-do-all-the-things.md
+- _posts/2020-07-30-how-journaling-helps-me-as-an-infp-writer.md
+- _posts/2020-08-24-why-being-a-life-long-learner-is-the-best-thing-ever.md
+- _posts/2020-08-28-how-to-plan-when-life-is-chaotic.md
+- _posts/2020-09-19-how-to-build-a-planner-from-scratch.md
+- _posts/2020-09-29-why-infps-need-to-visualize-their-goals.md
+- _posts/2020-09-30-7-ways-to-balance-high-sensitivity-with-productivity.md
+- _posts/2020-10-09-25-ways-to-thrive-as-an-infp-writer.md
+- _posts/2020-10-13-how-to-keep-the-structure-of-your-planner-simple.md
+- _posts/2020-11-07-keeping-a-clean-home-between-creative-projects.md
+- _posts/2020-11-19-4-ways-to-make-unfocus-work-for-you-as-an-infp.md
+- _posts/2020-11-30-3-lists-that-have-improved-my-wellbeing-as-an-infp.md
+- _posts/2020-12-07-how-to-tell-if-a-weekly-planner-is-for-you.md
+- _posts/2020-12-29-how-to-use-breaks-to-reduce-infp-stress.md
+- _posts/2021-02-24-how-infps-can-use-writing-for-healing.md
+- _posts/2021-02-26-things-i-wish-i-knew-earlier-about-my-emotional-health-as-an-infp.md
+- _posts/2021-03-23-as-an-infp-business-is-about-more-than-the-paycheck.md
+- _posts/2021-03-26-how-to-decide-on-a-business-idea-when-you-want-to-do-everything.md
+- _posts/2021-04-25-how-infps-can-learn-to-love-the-day-job.md
+- _posts/2021-04-29-the-one-tip-that-made-me-a-much-better-infp-entrepreneur.md
+- _posts/2021-05-27-the-advantage-of-being-a-highly-sensitive-entrepreneur.md
+- _posts/2021-05-28-how-to-create-a-digitally-calm-workspace.md
+- _posts/2021-06-22-4-links-june-2021.md
+- _posts/2021-07-20-how-i-learned-to-open-up-as-a-shy-introvert.md
+- _posts/2021-07-26-four-links-july-2021.md
+- _posts/2021-07-29-how-to-deal-with-infp-burnout-at-work.md
+- _posts/2021-08-19-simple-self-care-tips-for-busy-entreprenuers.md
+- _posts/2021-08-26-8-ways-infps-show-up-at-work.md
+- _posts/2021-08-30-read-this-when-you-feel-like-social-media-is-doing-nothing-for-your-business.md
+- _posts/2021-09-24-feel-like-you-can-t-get-it-together-give-5-minutes-to-your-future-self.md
+- _posts/2021-09-30-combine-productivity-with-fulfillment-three-prompts-for-adding-meaning-to-your-todo-list.md
+- _posts/2021-10-27-i-totally-revamped-my-bullet-journal-here-s-what-i-did-to-make-it-better.md
+- _posts/2021-11-30-struggling-with-reaching-goals-try-setting-a-monthly-goal-instead.md
+- _posts/2021-12-03-notes-on-going-on-vacation.md
+- _posts/2022-02-27-how-i-handle-distracting-thoughts-as-an-infp.md
+- _posts/2022-02-27-how-infps-can-turn-emotional-crisis-into-an-opportunity.md
+- _posts/2022-03-31-being-an-infp-doesn-t-mean-you-never-block-your-emotions.md
+- _posts/2022-04-30-what-infps-can-do-when-feeling-burned-out-from-thoughts-and-emotions.md
+- _posts/2022-04-30-what-to-do-when-you-feel-like-you-re-always-chasing-the-newest-idea.md
+- _posts/2022-05-30-the-power-of-transforming-pain-into-art-for-infps.md
+- _posts/2022-07-03-as-a-highly-sensitive-person-it-s-ok-to-say-no-to-hustling.md
+- _posts/2022-08-20-rethink-your-sensitivity-8-important-life-changes-to-make-after-learning-you-re-an-hsp.md
+- _posts/2022-08-27-why-intuition-is-a-good-highly-sensitive-person-trait.md
+- _posts/2022-09-30-what-it-s-like-being-an-infp-enneagram-type-3.md
+- _posts/2022-10-01-why-emotional-sensitivity-is-a-good-trait-to-have-as-a-highly-sensitive-person.md
+- _posts/2022-10-28-why-shadow-work-helped-me-to-find-healing-from-my-infp-burnout.md
+- _posts/2022-11-16-how-infp-writers-can-nourish-their-writing-life-in-the-coming-year.md
+- _posts/2022-11-16-i-m-now-available-to-join-you-on-your-infp-writing-journey.md
+- _posts/2022-11-27-two-simple-self-reflection-questions-for-connecting-with-your-intuition.md
+- _posts/2022-12-30-books-that-inspired-me-this-year.md
+- _posts/2022-12-30-what-is-personal-growth-and-individuation-like-for-infps.md
+- _posts/2023-01-30-exploring-the-archetypes-within-the-infp-the-victim-martyr-warrior-and-hero.md
+- _posts/2023-01-30-one-week-of-gentle-productivity.md
+- _posts/2023-02-28-how-infps-heal-and-grow-and-experiencing-trauma.md
+- _posts/as-a-multipotentialite-and-a-polymath-i-let-my-creative-passions-build-my-path.md
+- _posts/how-to-stick-to-projects-as-a-perceiving-personality-type.md
+- coffee.md
+- resources.md
