@@ -1,6 +1,6 @@
 ---
 title: How INFPs Can Turn Soul Sucking Routines into Rituals
-date: 2023-03-25 00:00:00 -08:00
+date: 2023-03-25 04:00:00 -04:00
 tags:
 - Productivity & Simplicity
 - Creative Life
