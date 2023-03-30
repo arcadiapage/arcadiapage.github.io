@@ -1,13 +1,8 @@
 ---
-title:How to Overcome Failure as an INFP Writer
-date: 2023-03-30 00:00:00 -08:00
-tags:
-- On Writing
-- Creative Life
-- INFP & HSP
-layout: post
-subtitle: ''
+title: 2023 03 30 How To Overcome Failure As An Infp Writer
+date: 2023-03-30 08:49:41.820000000 -04:00
 ---
+
 I appreciate those who are always pointing out the benefits of failure. Failing truly is a chance to learn and grow.
 
 Still all this optimistic thinking around failure doesn't remove the fact that failing hurts. It makes you question if you're doing the right thing. It makes you wonder if you're a victim of your idealism or if you simply don't have what it takes to do what you want.
