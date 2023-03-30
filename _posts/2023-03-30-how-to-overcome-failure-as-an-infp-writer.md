@@ -1,6 +1,12 @@
 ---
 title: 2023 03 30 How To Overcome Failure As An Infp Writer
 date: 2023-03-30 08:49:41.820000000 -04:00
+tags:
+- On Writing
+- Creative Life
+- INFP & HSP
+layout: post
+subtitle: ''
 ---
 
 I appreciate those who are always pointing out the benefits of failure. Failing truly is a chance to learn and grow.
@@ -17,7 +23,7 @@ Then my psycho [Enneagram 3](https://arcadiapage.com/2022-09-30-what-it-s-like-b
 
 Neither one of these views are completely honest.
 
-![How to Overcome Failure as an INFP Writer](/uploads/how-to-overcome-failure-infp-writer.png  "INFP Writing INFP Writer"){: .mx-auto.d-block :}
+![How to Overcome Failure as an INFP Writer](/uploads/how-to-overcome-failure-infp-writer.png  "INFP Writing INFP Writer INFP Personal Growth"){: .mx-auto.d-block :}
 
 # Talk to People You Trust About Your Failures
 
