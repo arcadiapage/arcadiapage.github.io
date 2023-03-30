@@ -1,5 +1,5 @@
 ---
-title: 2023 03 30 How To Overcome Failure As An Infp Writer
+title: How To Overcome Failure As An Infp Writer
 date: 2023-03-30 08:49:41 -04:00
 tags:
 - On Writing
