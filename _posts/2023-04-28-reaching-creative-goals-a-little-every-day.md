@@ -22,7 +22,7 @@ I like asking myself which projects would I like to give the honor of showing up
 
 **What projects do you have that you wish you can show up for consistently?**
 
-![How to Reach Your Creative Goals a Little Every Day](/uploads/finishing-creative-projects-daily.png "creative goals INFP goals Creative Goal Ideas")(/uploads/infp-writers-nourish-their-writing-in-the-upcoming-year.png "INFP Writers INFP Writing INFP Writer"){: .mx-auto.d-block :}
+![How to Reach Your Creative Goals a Little Every Day](/uploads/finishing-creative-projects-daily.png "creative goals INFP goals Creative Goal Ideas"){: .mx-auto.d-block :}
 
 
 # It's Easy and Not Easy
