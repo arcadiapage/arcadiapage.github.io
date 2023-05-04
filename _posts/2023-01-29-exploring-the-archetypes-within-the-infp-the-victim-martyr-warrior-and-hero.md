@@ -1,7 +1,7 @@
 ---
 title: 'Exploring the Archetypes Within the INFP: the Victim, Martyr, Warrior, and
   Hero'
-date: 2023-01-30 00:00:00 -08:00
+date: 2023-01-29 00:00:00 -08:00
 tags:
 - Creative Life
 - INFP & HSP
