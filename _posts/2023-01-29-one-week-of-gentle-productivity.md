@@ -1,6 +1,6 @@
 ---
 title: 'One Week of Gentle Productivity '
-date: 2023-01-30 00:00:00 -08:00
+date: 2023-01-29 00:00:00 -08:00
 tags:
 - Productivity & Simplicity
 - Creative Life
