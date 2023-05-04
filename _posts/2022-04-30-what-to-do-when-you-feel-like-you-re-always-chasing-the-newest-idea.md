@@ -1,6 +1,6 @@
 ---
 title: What to Do When You Feel Like You're Always Chasing the Newest Idea
-date: 2022-04-29 00:00:00 -07:00
+date: 2022-04-30 00:00:00 -07:00
 tags:
 - Productivity & Simplicity
 - Creative Life
