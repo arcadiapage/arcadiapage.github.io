@@ -1,6 +1,6 @@
 ---
 title: 'I''m Now Available to Join You on Your INFP Writing Journey '
-date: 2022-11-16 00:00:00 -08:00
+date: 2022-11-15 00:00:00 -08:00
 tags:
 - Book Announcements
 - On Writing
