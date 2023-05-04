@@ -1,6 +1,6 @@
 ---
 title: Two Simple Self-Reflection Questions for Connecting With Your Intuition
-date: 2022-11-27 00:00:00 -08:00
+date: 2022-11-26 00:00:00 -08:00
 tags:
 - Audio Post
 - Productivity & Simplicity
