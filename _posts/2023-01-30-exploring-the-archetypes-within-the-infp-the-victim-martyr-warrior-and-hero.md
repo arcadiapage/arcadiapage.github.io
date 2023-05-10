@@ -46,7 +46,7 @@ If you notice that you're acting like the Victim or the Shadow Martyr, don't be 
 
 Addictions can seem like an easy way out, but they're not. In fact, they can distract you from the inner healing that must happen. Also, beware of falling into codependent relationships and friendships. [Codependency](https://arcadiapage.com/2022-12-30-books-that-inspired-me-this-year/) can cause you to get stuck as a Victim or Shadow Martyr for a very long time because it encourages a cycle of helplessness.
 
-_Reflections_*
+_Reflections_
 
 Can you think of any moments when the Victim archetype has had an impact on your life? What was the situation?
 
