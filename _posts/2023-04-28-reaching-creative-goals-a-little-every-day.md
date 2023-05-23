@@ -22,6 +22,8 @@ I like asking myself which projects would I like to give the honor of showing up
 
 **What projects do you have that you wish you can show up for consistently?**
 
+*(P.S. For more about showing up daily in little ways, check out my book [The Little Book of Tiny Tasks: Make Your Life More Calm While Getting Things Done 5 Minutes at a Time](https://payhip.com/b/e32lr))*
+
 ![How to Reach Your Creative Goals a Little Every Day](/uploads/finishing-creative-projects-daily.png "creative goals INFP goals Creative Goal Ideas"){: .mx-auto.d-block :}
 
 
