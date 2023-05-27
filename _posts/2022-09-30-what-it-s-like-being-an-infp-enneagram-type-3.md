@@ -61,6 +61,8 @@ The most difficult thing about being a Type 3 INFP is that I often fall into the
 
 But since extraverted thinking is my inferior function, I'm attracted to finding effective shortcuts for accomplishing things much like the typical Enneagram Type 3, since I don't want to waste a lot of effort on Te stuff.
 
+*(P.S. If you would like to know more about some of my favorite productivity shortcuts, check out [The Little Book of Tiny Tasks: Make Your Life More Calm While Getting Things Done 5 Minutes at a Time](https://payhip.com/b/e32lr))*
+
 Somehow I came to believe that wearing the mask of an extraverted thinker and relentlessly striving is the way to win admiration and love. It's a message from my childhood and society. I feel that in some ways I'm more fragile than Type 3s that have different MBTI types since I'm more prone to burnout due to overuse of extraverted thinking.
 
 However, the amazing thing is that being a healthy INFP means being a healthy Enneagram Type 3. A healthy INFP is in touch with [introverted](https://arcadiapage.com/2018/03/life-as-introverted-feeling-user.html) feeling. They are deeply aware of their values and what's important to them. This makes INFPs authentic.
