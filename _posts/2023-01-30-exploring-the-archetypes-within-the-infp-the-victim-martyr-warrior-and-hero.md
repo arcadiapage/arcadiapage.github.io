@@ -9,7 +9,7 @@ layout: post
 subtitle: ''
 ---
 
-[In my last post](https://arcadiapage.com/2022-12-30-what-is-personal-growth-and-individuation-like-for-infps/), I shared the beginning stage of personal growth for INFPs. Here I go deeper into how the difficulties that force the INFP to turn inwards can be a catalyst for change.
+[In my last post](https://arcadiapage.com/2022-12-29-what-is-personal-growth-and-individuation-like-for-infps/), I shared the beginning stage of personal growth for INFPs. Here I go deeper into how the difficulties that force the INFP to turn inwards can be a catalyst for change.
 
 ![The title of the post with a purple and orange background behind it. INFP wellbeing](/uploads/exploring-archetypes-within-infp-victim-martyr-warrior-hero.png "INFP Wellbeing INFP growth INFP archetypes INFP tips "){: .mx-auto.d-block :}
 
@@ -115,4 +115,4 @@ Now read what you wrote. Do you see any of the traits you noticed in the celebri
 
 At another time, try this exercise again, but instead of using ENFJ celebrities, use people who you know personally.
 
-So how does the INFP change when they are successful at creating more inner harmony by integrating their shadow side? My next post will dig into that!
+So how does the INFP change when they are successful at creating more inner harmony by integrating their shadow side? [My next post will dig into that!](https://arcadiapage.com/2023-02-27-how-infps-heal-and-grow-and-experiencing-trauma/)
