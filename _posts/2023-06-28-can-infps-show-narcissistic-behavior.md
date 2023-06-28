@@ -1,11 +1,11 @@
 ---
-title: From Empathy to Ego: Can INFPs Exhibit Narcissistic Behavior?
+title: From Empathy to Ego
 date: 2023-06-28 00:00:00 -08:00
 tags:
 - INFP & HSP
 - Inner Work
 layout: post
-subtitle: ''
+subtitle: 'Can INFPs Exhibit Narcissistic Behavior?'
 ---
 
 Any of the 16 personality types can be narcissistic, including INFPs. Unfortunately, I've had real-life observational experience to back up what I'm sharing in this post.
