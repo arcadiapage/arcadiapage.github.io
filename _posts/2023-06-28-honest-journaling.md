@@ -19,7 +19,7 @@ I've found that even when I try my best to be authentic in my journals, at times
 
 To be clear, it's okay to write about the light stuff sometimes. The problem is when that's all you write about. I've noticed that when my journal entries start to center around what's easy for me to write, journaling loses its cathartic power.
 
-![Honest and Authentic Journaling for Personal Growth](/uploads/honest-journaling-for-personal-growth-pin.png "Self-care journaling Honest journaling Reflective journaling Introspective journaling Authentic journaling Meaningful journaling Empathetic self-care") {: .mx-auto.d-block :}
+![Honest and Authentic Journaling for Personal Growth](/uploads/honest-journaling-for-personal-growth-pin.png "Self-care journaling Honest journaling Reflective journaling Introspective journaling Authentic journaling Meaningful journaling Empathetic self-care"){: .mx-auto.d-block :}
 
 So when I start feeling like my journal entries aren't addressing what is truly bothering me, I ask myself this question:
 
