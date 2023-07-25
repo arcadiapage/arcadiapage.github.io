@@ -12,7 +12,7 @@ I think it's about time that I share a major update! I'm glad to announce that I
 
 It's such a miracle considering how I [used to buy planners just to abandon them after a couple of months](https://arcadiapage.com/2018/06/how-i-learned-to-plan-as-infp.html). Knowing what I need and experimenting with that has finally paid off.
 
-![INFP planning and finding planner peace](/uploads/How-I-learned-to-plan-infp-planner-peace-pin.png" INFP planning Planner peace holistic planning intuitive planning methods"){: .mx-auto.d-block :}
+![INFP planning and finding planner peace](/uploads/How-I-learned-to-plan-infp-planner-peace-pin.png" INFP planning Planner peace holistic planning intuitive planning methods") {: .mx-auto.d-block :}
 
 My planner is basically a notebook that uses a layout similar to this beautifully functional weekly planner from [Wisdom Co](https://www.wisdomsupplyco.com/collections/best-sellers/products/2024-zero-waste-weekly-planner?al_pg_id=67716419-531f-41c4-a282-71c7d0ecd622). I have four days of the week on the left hand pages and space for notes on the right. I also borrowed various elements from the Bullet Journal system, such as the future log, index, page numbers, signifiers, and collections. I describe this set up in more detail in my post [I Totally Revamped My Bullet Journal] (https://arcadiapage.com/2021-10-27-i-totally-revamped-my-bullet-journal-here-s-what-i-did-to-make-it-better/). 
 
