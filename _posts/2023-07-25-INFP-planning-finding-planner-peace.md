@@ -1,5 +1,5 @@
 ---
-title: How I Finally Learned to Plan as an INFP and Found Planner Feace
+title: How I Finally Learned to Plan as an INFP and Found Planner Peace
 date: 2023-07-25 00:00:00 -08:00
 tags:
 - INFP & HSP
