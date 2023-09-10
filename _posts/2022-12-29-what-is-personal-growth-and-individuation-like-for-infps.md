@@ -55,6 +55,8 @@ At the start, the INFP will most likely embody these archetypes:
 * The Explorer
 * The Child
 
+(UPDATE: If you would like to get a better idea of which of these archetypes are you right now, there's a test for that! Check out the free [Discover Your INFP Archetypes Test and Workbook](https://payhip.com/b/Di7wb))
+
 There is an emotional naivete, and maybe even blindness not only towards the negative intentions of others, but also the negative aspects of oneself. At this stage the INFP may also be the Explorer, feeling like something is missing in their life, but having no clue what. There is the sensation of looking for something that's out of reach.
 
 The common description of INFPs being "gooey cinnamon rolls" really fits here. This makes me think of how back in middle school, there was a girl who was always making fun of me, and I would laugh along with her. But then one day, one of my friends was like, "Hey, do you like it when that girl treats you like that?"
@@ -71,10 +73,9 @@ The Innocent archetype also tends to think that life should always go the way th
 
 By the way, you can embody these archetypes at any point in your life. The Innocent archetype was me two years ago before my life-altering experience with chronic pain.  You can embody multiple archetypes at the same time as well.
 
-So what happens to the Innocent that rocks their view of the world? How does that ignite the personal growth of the INFP?  I'll answer that in my next post!
+So what happens to the Innocent that rocks their view of the world? How does that ignite the personal growth of the INFP?  [I'll answer that in my next post!](https://arcadiapage.com/2023-01-30-exploring-the-archetypes-within-the-infp-the-victim-martyr-warrior-and-hero/)
 
-[Subscribe to my email list to get notified updates!](https://tinyletter.com/arcadiapage) In the meantime, check out some of the archetypes I mentioned here and see if they resonate with you. Pinterest is a great place to start your research. **How has the Innocent, Child, Maiden, or Explorer played a role in your life?**
+Also, you may want to check out some of the archetypes I mentioned here and see if they resonate with you. Pinterest is a great place to start your research. **How has the Innocent, Child, Maiden, or Explorer played a role in your life?**
 
-If you like what I do (and would like to get a peak at some of my blog posts early) also consider supporting me at [Buy Me a Coffee](https://www.buymeacoffee.com/arcadiapage).
 
 ![Healthy INFP, INFP Burnout, INFP Tips ](/uploads/infp-personal-growth-tips.png "4 Tips on How to Be a Healthy INFP"){: .mx-auto.d-block :}
