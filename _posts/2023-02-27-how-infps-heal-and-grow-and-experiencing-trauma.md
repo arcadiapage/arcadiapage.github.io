@@ -54,6 +54,8 @@ The interesting thing about the Hero archetype is that it's transitory. The Hero
 
 However with the INFP personality type in mind, here are eight archetypes you may end up embracing by the end of the journey. And remember, it's normal to resonate with more than one of them:
 
+(UPDATE: If you would like to get a better idea of which of these archetypes are you right now, there's a test for that! Check out the free [Discover Your INFP Archetypes Test and Workbook](https://payhip.com/b/Di7wb))
+
 * **The Lover.** You've learned to approach life and others with love and care. You now know your boundaries and respect your limits. You're ready to help others build loving relationships with themselves, others, and/or their personal creativity.
 
 * **The Sage.** You've collected knowledge and wisdom that can aid others. You may decide to share that knowledge through teaching. People may even seek you out for what you know.
