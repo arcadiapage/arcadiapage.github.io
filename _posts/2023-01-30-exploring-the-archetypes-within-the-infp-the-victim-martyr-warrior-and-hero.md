@@ -9,6 +9,8 @@ layout: post
 subtitle: ''
 ---
 
+(UPDATE: If you would like to get a better idea of which of these archetypes are you right now, there's a test for that! Check out the free [Discover Your INFP Archetypes Test and Workbook](https://payhip.com/b/Di7wb))
+
 [In my last post](https://arcadiapage.com/2022-12-29-what-is-personal-growth-and-individuation-like-for-infps/), I shared the beginning stage of personal growth for INFPs. Here I go deeper into how the difficulties that force the INFP to turn inwards can be a catalyst for change.
 
 ![The title of the post with a purple and orange background behind it. INFP wellbeing](/uploads/exploring-archetypes-within-infp-victim-martyr-warrior-hero.png "INFP Wellbeing INFP growth INFP archetypes INFP tips "){: .mx-auto.d-block :}
