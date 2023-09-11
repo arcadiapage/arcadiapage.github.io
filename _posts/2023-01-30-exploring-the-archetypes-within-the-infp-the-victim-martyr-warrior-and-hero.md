@@ -65,7 +65,7 @@ At this point the INFP is embodying these archetypes:
 * The Warrior
 * The Hero
 
-You may feel that you can't have a warrior inside of you, but believe me, it is.
+You may feel that you can't have a warrior inside of you, but believe me, you can.
 
 Once the INFP takes responsibility for their well-being, they are now positioning themselves to not be controlled by fear of their inner darkness. The anger, jealousy, and other negative emotions aren't gone, but instead of being threatened by them, you're ready to work with them from a place of compassion. You've decided to move past playing the guilt and blame game and focus on taking actions that will make your life better. You step into being a protector and healer of yourself.
 
