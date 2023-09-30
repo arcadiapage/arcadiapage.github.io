@@ -1,6 +1,6 @@
 ---
 title: Overthinking Your Goals? It May Be Time to Change Your Definition of Success
-date: 2023-06-28 00:00:00 -08:00
+date: 2023-09-30 00:00:00 -08:00
 tags:
 - Goal Setting
 - Productivity & Simplicity
