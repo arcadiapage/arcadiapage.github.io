@@ -18,6 +18,8 @@ I've done the coloring thing in the past. About eight years ago, coloring books 
 
 But after learning some new things, I tried coloring again with some minor, but important changes. And I found that yes, coloring can be really effective for overthinking and more. So here's what I learned:
 
+![Coloring books can relieve anxiety and stress](/uploads/Coloring-Books-Can-Relieve-Stress.png "anxiety burnout relief worry overthinking coloring books"){: .mx-auto.d-block :}
+
 # Your choice of coloring book matters
 
 This was the most important change. Back when I tried jumping onto the coloring trend, I just picked any random coloring book that looked interesting. And the results were meh. I couldn't stick with it.
