@@ -9,9 +9,6 @@ tags:
 layout: post
 subtitle: ''
 ---
-How changing my definition of success helped me to stop overthinking
-
-Overthinking your goals? It may be time to change your definition of success.
 
 For the longest time, success to me was always about reaching The Goals. I believed that if I don't reach my goals, I'm not successful. The end.
 
@@ -28,6 +25,8 @@ In the midst of all of that, I came across this quote from Maya Angelou that cha
 (This quote inspired me so much that I also created an audio note about it. [Click here](https://arcadiapage.bandcamp.com/track/authentic-success) to listen)
 
 This quote opened my awareness to the fact that success is about feeling good about who you are right now and what you're doing. 
+
+![Overthinking your goals creates stress](/uploads/Over-Thinking-Your-Goals.png "overthinking goals overachiever stress burnout relief"){: .mx-auto.d-block :}
 
 When you're chasing solely after goal oriented success, it often slips through your fingers. Your life in general could be going well,  but if you don't reach that one goal, you're suddenly not "successful" anymore. This is how the typical view of success feels.
 
