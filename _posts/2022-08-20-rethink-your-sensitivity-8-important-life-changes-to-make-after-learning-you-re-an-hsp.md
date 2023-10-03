@@ -18,7 +18,8 @@ Making these shallow gestures towards my sensitivity distracted me from the deep
 
 ![highly sensitive person trait traits of highly sensitive person](/uploads/eleven-traits-highly-sensitive-person.png "Eleven traits that show up when you ignore your needs as a highly sensitive person"){: .mx-auto.d-block :}
 
-**(If you like this post, you may also like my latest book: [Love Your Sensitivity:7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person](https://payhip.com/b/KI5eW).  You can find it now at your favorite ebook retailer.)**
+
+**(If you like this post, you may also like my latest book: [Love Your Sensitivity:7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person](https://payhip.com/b/KI5eW).  You can find it now at your favorite ebook retailer!)**
 
 ## Know the Signs
 
