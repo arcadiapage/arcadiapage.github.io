@@ -17,7 +17,6 @@ I also have faced situations that have made writing difficult, such as working a
 
 This post is in many ways a celebration of my latest book, [I Can't Help Being an INFP Writer: 100+ Tips to Help INFP Writers Capture Ideas, Stay Motivated, and Overcome Problems](https://payhip.com/b/4tWM).
 
-UPDATE Nov 2022: And if my book isn't enough, you may also enjoy my simple and affordable [INFP Writer Consulting Session](https://payhip.com/b/cpVP0).
 
 So here are 25 Ways to Thrive as an INFP Writer:
 
@@ -49,8 +48,12 @@ So here are 25 Ways to Thrive as an INFP Writer:
 24. Maintain your love of reading.
 25. Always be ready to take note of what inspires you.
 
-Want to learn more about how your personality type impacts your writing?  Discover more in my latest book [I Can't Help Being an INFP Writer: 100+ Tips to Help INFP Writers Capture Ideas, Stay Motivated, and Overcome Writing Problems](https://payhip.com/b/4tWM).
+## How to Thrive Even More as an INFP Writer
+
+If this list resonates with you, here are two more things you can do to discover your unique way of flourishing as an INFP Writer:
+
+1. Read my book [I Can't Help Being an INFP Writer: 100+ Tips to Help INFP Writers Capture Ideas, Stay Motivated, and Overcome Writing Problems](https://payhip.com/b/4tWM). This book is full of tips on how to align your writing process with your personality type.
+2. Learn with me! I've created a tiny course especially to [help you boost your motivation and overcome writing blocks as an INFP Writer.](https://payhip.com/b/l30Wi).
 
 ![](/uploads/infp-writer-cover.jpg){: .mx-auto.d-block :}
 
-Have any thoughts or comments on this article? [Let's talk!](https://arcadiapage.com/talk/)
