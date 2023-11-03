@@ -21,6 +21,9 @@ So here are the three:
 
 So why are all these important?
 
+![three essential steps to better productivity as an HSP](/uploads/Read-more-for-tips-and-tricks-for-high-sensitivity.png "computer books and coffee resting on a bed"){: .mx-auto.d-block :}
+
+
 # First of all, emotions.
 
 It's really easy to undervalue the impact emotions have on your productivity. I’ve found that not addressing my mood before trying to get things done can undermine my focus. Being moody is a warning signal from my mind and body that I'm working on the wrong things. I'm trying to work on external demands when I really need to work on the way I feel within myself. 
