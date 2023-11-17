@@ -24,4 +24,5 @@ You can also follow me on Mastodon at [@arcadiapage@writing.exchange](https://wr
 # Other Blogs
 
 [Arcadia's Thoughts](https://arcadia.thoughts.page/)
+
 [Manga & Mascara](https://manga-arcadia.blogspot.com/) (No longer updated)
