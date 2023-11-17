@@ -9,7 +9,9 @@ subtitle: All that you need to know...
 My name is Arcadia Page, and I'm a writer/artist. I write about the simple things that bring love and self-compassion into my life. As a highly sensitive empath (and an INFP) I feel more empowered when I work from a place of joy instead of stress.
 
 
-I've written many books, and they are [available for purchase](https://payhip.com/ArcadiaPage/collection/books) if they resonate with you. I'm best known for [The Little Book of Tiny Tasks: Make Your Life More Calm While Getting Things Done 5 Minutes at a Time](https://payhip.com/b/e32lr), [Idealist Dreams: How I Learned to Plan as an INFP](https://payhip.com/b/KrBh), and my ancient yet finished webcomic, [Mascara](https://ia801806.us.archive.org/33/items/smackjeeves-59912/59912/index.html#1) (It was saved from the sinking ship that was Smackjeeves to the Internet Archives by some awesome people. Thank you ❤️ Creating this comic was a lovely learning process that I'll never forget).
+I've written many books, and they are [available for purchase](https://payhip.com/ArcadiaPage/collection/books) if they resonate with you. 
+
+I'm best known for [The Little Book of Tiny Tasks: Make Your Life More Calm While Getting Things Done 5 Minutes at a Time](https://payhip.com/b/e32lr), [Idealist Dreams: How I Learned to Plan as an INFP](https://payhip.com/b/KrBh), and my ancient yet finished webcomic, [Mascara](https://ia801806.us.archive.org/33/items/smackjeeves-59912/59912/index.html#1) (It was saved from the sinking ship that was Smackjeeves to the Internet Archives by some awesome people. Thank you ❤️ Creating this comic was a lovely learning process that I'll never forget).
 
 I am also an Asian culture addict, an aspiring minimalist, and have this hopelessly nerdy side that's not afraid to play with code and enjoys tinkering with technology.
 
