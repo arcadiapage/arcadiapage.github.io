@@ -1,0 +1,24 @@
+---
+title: Search
+layout: page
+subtitle: What are you looking for today?
+---
+
+<!-- Html Elements for Search -->
+<div id="search-container">
+<input type="text" id="search-input" placeholder="search...">
+<ul id="results-container"></ul>
+</div>
+
+<!-- Script pointing to search-script.js -->
+<script src="/path/to/search-script.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json'
+})
+noResultsText ("No result found!")
+</script>
