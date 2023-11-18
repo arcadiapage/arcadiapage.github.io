@@ -20,5 +20,4 @@ SimpleJekyllSearch({
   resultsContainer: document.getElementById('results-container'),
   json: '/search.json'
 })
-noResultsText ("No result found!")
 </script>
