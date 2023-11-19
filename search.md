@@ -1,9 +1,3 @@
----
-title: Search
-layout: page
-subtitle: What are you looking for today?
----
-
 <!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="search...">
