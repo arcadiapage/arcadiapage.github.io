@@ -3,9 +3,7 @@
 <input type="text" id="search-input" placeholder="search...">
 <ul id="results-container"></ul>
 </div>
-<!-- Script pointing to search-script.js -->
 <script src="/search-script.js" type="text/javascript"></script>
-<!-- Configuration -->
 <script>
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
