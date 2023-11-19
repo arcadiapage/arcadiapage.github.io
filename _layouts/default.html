@@ -7,3 +7,12 @@ layout: base
 <div role="main" class="container-md">
   {{ content }}
 </div>
+
+<script src="https://raw.githubusercontent.com/DataMcFly/jquery.camelhunter/master/jquery.camelhunter.min.js"></script>
+<script type="text/javascript">
+	$("#search-field").camelHunter({
+		onKeyUp 			: true,
+		rss: "/feed.xml",
+		results   : "#results"
+	});
+</script>
