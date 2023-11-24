@@ -6,7 +6,7 @@ subtitle: All that you need to know...
 
 [![Blog-profile-pic.png](https://i.postimg.cc/0ytyY9N1/Blog-profile-pic.png)](https://postimg.cc/sMhzydST)
 
-My name is Arcadia Page, and I'm a writer/artist. I write about the simple things that bring love and self-compassion into my life. As a highly sensitive empath (and an INFP) I feel more empowered when I work from a place of joy instead of stress.
+My name is Arcadia Page, and I'm a writer/artist. I enjoy writing about the simple things that help me build a loving relationship with life and myself. As a highly sensitive empath (and an INFP) I feel more empowered when I work from a place of joy instead of stress.
 
 
 I've written many books, and they are [available for purchase](https://payhip.com/ArcadiaPage/collection/books) if they resonate with you. 
