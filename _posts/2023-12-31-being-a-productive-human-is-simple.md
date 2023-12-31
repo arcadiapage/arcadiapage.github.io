@@ -1,7 +1,3 @@
-2023-12-31-being-a-productive-human-is-simple
-
-Sun 31 Dec 2023
-
 ---
 title: Being a Productive Human is Simple. Working Like a Machine is Complicated.
 date: 2023-12-31 00:00:00 -08:00
