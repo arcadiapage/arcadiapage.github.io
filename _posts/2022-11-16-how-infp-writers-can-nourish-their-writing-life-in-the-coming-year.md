@@ -43,8 +43,6 @@ I faced this back when I was trying to do all of the social media. Honesty, I'm 
 
 Which social media sites did I feel like I was pushing myself to use? Facebook and Instagram. So I deleted those. Which social media accounts did I enjoy using or at least didn't feel a crushing amount of pressure while trying to use them? Pinterest. So although I may dabble in other social media sites, Pinterest is what I use the most, and it has served me well.
 
-(Update: I've recently joined Mastadon, and it really fits what I want out of a social media site. I see it even eclipsing my use of Pinterest. You can follow me at [@arcadiapage@writing.exchange](https://writing.exchange/web/@arcadiapage).)
-
 Pushing is a sign that maybe something isn't working. It's time to step back, reanalyze the situation, and see what truly fits you.
 
 Don't force yourself to write flowery descriptions if you prefer keeping things to the point. Don't use huge words if they have no meaning to you. Conversely, don't push too hard to completely whittle down your writing if you enjoy lush descriptions.
@@ -63,11 +61,11 @@ So what things related to writing are coming into your life right now? What book
 
 The more you notice, the more lessons appear right when you need them.
 
-Hopefully these four mindset shifts will give you a starting point on setting next year's writing goals. I have one more mindset shift I want to share: Think about how you want to feel as a writer.
+Hopefully these four mindset shifts will give you a starting point on setting next year's writing goals. I have one more mindset shift I want to share: **Think about how you want to feel as a writer.**
 
-My blog posts tend to run long (this one's over 1000 words!), and I end up having to cut them for ease of reading. But I've decided to start sharing the "deleted" scenes of my blog posts as [exclusive posts on my Buy Me a Coffee page](https://www.buymeacoffee.com/arcadiapage/november-extra-think-about-how-you-want-feel-writer). So my last tip will be available $1 supporters.
+If you are looking to create an easy, compassionate writing practice that resonates with you as an INFP, you might also like [Love Your Writing Life - A Self-coaching Course for INFP Writers.](https://payhip.com/b/l30Wi)
 
-If you need some more inspiration for creating writing goals in the upcoming year, here are some other posts from this blog to check out:
+And if you need some more inspiration for creating writing goals in the upcoming year, here are some other posts from this blog to check out:
 
 * [25 Ways to Thrive as an INFP Writer](https://arcadiapage.com/2020-10-09-25-ways-to-thrive-as-an-infp-writer/)
 * [How Journaling Helps Me as an INFP Writer](https://arcadiapage.com/2020-07-30-how-journaling-helps-me-as-an-infp-writer/)
