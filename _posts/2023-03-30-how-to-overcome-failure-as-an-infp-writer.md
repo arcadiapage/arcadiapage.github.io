@@ -111,6 +111,8 @@ When looking at your failed projects, take note of the big idea that runs throug
 
 This is the fuel that will keep you going. Do all you can to hold on to that.
 
+(P.S. If you are looking to create an easy, compassionate writing practice that resonates with you, you may also enjoy [Love Your Writing Life - A Self-coaching Course for INFP Writers.](https://payhip.com/b/l30Wi)
+
 
 
 
