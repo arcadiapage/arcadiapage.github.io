@@ -20,7 +20,7 @@ If you're an INFP with a burning desire to journal, don't ignore that. I highly 
 
 Many INFP's care deeply about journaling, so here I'm sharing some of the reasons why I like to journal and how that relates to my personality type.
 
-(Need more writing inspiration? Discover my latest book, [I Can't Help Being an INFP Writer: 100+ Tips to Help INFP Writers Capture Ideas, Stay Motivated, and Overcome Problems](https://payhip.com/b/4tWM). And if my book isn't enough, you may also enjoy my simple and affordable [INFP Writer Consulting Session](https://payhip.com/b/cpVP0).)
+(Need more writing inspiration? Discover my latest book, [I Can't Help Being an INFP Writer: 100+ Tips to Help INFP Writers Capture Ideas, Stay Motivated, and Overcome Problems](https://payhip.com/b/4tWM). And if you are looking to create an easy, compassionate writing practice that resonates with you, you may also enjoy [Love Your Writing Life - A Self-coaching Course for INFP Writers](https://payhip.com/b/l30Wi).)
 
 ![INFP Writer INFP Writers INFP Writing ](/uploads/journaling-helps-me-as-an-infp-writer.png "INFP Writer Journaling"){: .mx-auto.d-block :}
 
