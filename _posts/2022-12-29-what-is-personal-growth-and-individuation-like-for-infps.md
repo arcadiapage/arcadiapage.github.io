@@ -75,7 +75,11 @@ By the way, you can embody these archetypes at any point in your life. The Innoc
 
 So what happens to the Innocent that rocks their view of the world? How does that ignite the personal growth of the INFP?  [I'll answer that in my next post!](https://arcadiapage.com/2023-01-30-exploring-the-archetypes-within-the-infp-the-victim-martyr-warrior-and-hero/)
 
-Also, you may want to check out some of the archetypes I mentioned here and see if they resonate with you. Pinterest is a great place to start your research. **How has the Innocent, Child, Maiden, or Explorer played a role in your life?**
+Also, you may want to check out some of the archetypes I mentioned here and see if they resonate with you. Pinterest is a great place to start your research. 
+
+And if you feel ready to go even deeper into the magic of working with your archetypes you may also enjoy taking my simple, yet insightful [INFP Archetype Connection Workshop.](https://payhip.com/b/1q4ld) 
+
+**How has the Innocent, Child, Maiden, or Explorer played a role in your life?**
 
 
 ![Healthy INFP, INFP Burnout, INFP Tips ](/uploads/infp-personal-growth-tips.png "4 Tips on How to Be a Healthy INFP"){: .mx-auto.d-block :}
