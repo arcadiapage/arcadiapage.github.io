@@ -4,7 +4,7 @@ layout: page
 subtitle: All that you need to know...
 ---
 
-[![Blog-profile-pic.png](https://i.postimg.cc/0ytyY9N1/Blog-profile-pic.png)](https://postimg.cc/sMhzydST)
+[![Red-Gradient-Profile-Photo-Instagram-Post.png](https://i.postimg.cc/Rht0npW1/Red-Gradient-Profile-Photo-Instagram-Post.png)](https://postimg.cc/dZqFbBmD)
 
 My name is Arcadia Page, and I'm a writer/artist. I enjoy writing about the simple things that help me build a loving relationship with life and myself. It's all about living with creativity and compassion. As a highly sensitive empath (and an INFP) I feel more empowered when I work from a place of joy instead of stress.
 
