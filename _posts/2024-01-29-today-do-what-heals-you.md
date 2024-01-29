@@ -1,7 +1,3 @@
-2024-01-29-today-do-what-heals-you
-
-Mon 29 Jan 2024
-
 ---
 title: Today, Do What Heals You 
 date: 2024-01-29 00:00:00 -08:00
