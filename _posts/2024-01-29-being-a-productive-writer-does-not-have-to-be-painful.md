@@ -1,7 +1,3 @@
-2024-01-29-being-a-productive-writer-doesn't-have-to-be-painful
-
-Mon 29 Jan 2024
-
 ---
 title: Being a Productive Writer Doesn't Have to Be Painful
 date: 2024-01-29  00:00:00 -08:00
