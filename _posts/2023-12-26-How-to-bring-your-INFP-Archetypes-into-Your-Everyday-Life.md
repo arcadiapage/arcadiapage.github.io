@@ -13,7 +13,8 @@ So you may have read my [INFP archetype articles and even taken my INFP Archetyp
 
 Making use of archetypes in daily life can be challenging because it involves more than simply knowing which archetypes are active in your life right now. The head knowledge alone isn't quite enough to make it practical.
 
-This is why archetype work often involves getting to know each archetype intimately. There's learning to understand their motivations, desires, and challenges. But even more important is understanding in what ways that specific archetype is a part of YOU.
+This is why archetype work often involves getting to know each archetype intimately. There's learning to understand their motivations, desires, and challenges. But even more important is understanding in what ways that specific archetype is a part of YOU. With this in mind, that's why I decided to create [the INFP Archetype Connection Workshop](https://payhip.com/b/1q4ld)
+
 
 For example, the Lover archetype can look totally different in another person than it does in yourself. This is because everyone’s way of expressing that archetype is a little different, just like how everyone has a different voice.
 
@@ -45,6 +46,5 @@ You have to take the time to meet with these inner parts of yourself by asking t
 
 The key is not to overthink it. Pull out a journal, ask a specific archetype about themselves, and see what comes back. 
 
-All it takes is asking your archetypes the right questions and listening with compassion to get impactful insights. 
+[All it takes is asking your archetypes the right questions and listening with compassion to get impactful insights.](https://payhip.com/b/1q4ld)
 
-(P.S. If you feel ready to learn more about interacting with your archetypes, you may enjoy [this](https://payhip.com/b/1q4ld))
