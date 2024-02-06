@@ -6,14 +6,20 @@ subtitle: All that you need to know...
 
 [![Red-Gradient-Profile-Photo-Instagram-Post.png](https://i.postimg.cc/0yPNbfPm/Red-Gradient-Profile-Photo-Instagram-Post.png)](https://postimg.cc/w74zrDtT)
 
-My name is Arcadia Page, and I'm a writer/artist. I enjoy writing about the simple things that help me build a loving relationship with life and myself. It's all about living with creativity and compassion. As a highly sensitive empath (and an INFP) I feel more empowered when I work from a place of joy instead of stress.
+My name is Arcadia Page, and I'm a writer/artist. Here's what you can learn from me:
 
+- How to be [productive with less stress and burnout and celebrate little wins.](https://arcadiapage.com/2023-10-31-Three-Essential-Steps-to-Better-Productivity-Highly-Sensitive-Person/) I'm all about [reaching goals the easy and fun way.](https://arcadiapage.com/2023-09-30-What-To-Do-When-Overthinking-Your-Goals/)
+- How to work with [scattered thinking, inspiration and creative chaos.](https://arcadiapage.com/2023-10-31-Multipotentialite-You're-Not-As-Lost-As-You-Think/)
+- How to add [self-care and healing](https://arcadiapage.com/2024-01-29-today-do-what-heals-you/) to your day, especially if you're sensitive and intuitive.
+- If you're an INFP, [how to make the most of your personality type.](https://arcadiapage.com/2023-12-26-How-to-bring-your-INFP-Archetypes-into-Your-Everyday-Life/)
+- If you're a writer, [how to create a writing practice that is fun, gentle, and productive.](https://arcadiapage.com/2024-01-29-being-a-productive-writer-does-not-have-to-be-painful/)
+
+I enjoy writing about the simple things that help me build a loving relationship with life and myself. As a highly sensitive empath (and an INFP) I feel more empowered when I work from a place of compassion instead of stress.
 
 I've written many books, and they are [available for purchase](https://payhip.com/ArcadiaPage/collection/books) if they resonate with you. 
 
 I'm best known for [The Little Book of Tiny Tasks: Make Your Life More Calm While Getting Things Done 5 Minutes at a Time](https://payhip.com/b/e32lr), [Idealist Dreams: How I Learned to Plan as an INFP](https://payhip.com/b/KrBh), and my ancient yet finished webcomic, [Mascara](https://ia801806.us.archive.org/33/items/smackjeeves-59912/59912/index.html#1) (It was saved from the sinking ship that was Smackjeeves to the Internet Archives by some awesome people. Thank you ❤️ Creating this comic was a lovely learning process that I'll never forget).
 
-I am also an Asian culture addict, an aspiring minimalist, and have this hopelessly nerdy side that's not afraid to play with code and enjoys tinkering with technology.
 
 # Where to find me/contact me
 
