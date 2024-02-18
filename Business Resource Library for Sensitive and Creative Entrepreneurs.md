@@ -1,20 +1,9 @@
-Resource List Writer and Creative Friendly Business Help
-
-Fri 16 Feb 2024
-
-# Start Here!
-
-
-[8 Sacred Money Archetypes®: What are they and how to use them] (https://www.denisedt.com/blog/8-sacred-money-archetypes-what-are-they-how-to-use-them)
-
-[Your Sacred Money Archetypes® 
-Cheat Sheet] (https://www.denisedt.com/cheat)
-
-[How to Create a Microbusiness that Matters] (https://bemorewithless.com/micro/)
-
-[Ruth Poundwhite. All the free & Paid Stuff I Do]
-(https://ruthpoundwhite.com/everything/)
-
+---
+title: Creative Intuitive Introvert Business Resources
+layout: page
+subtitle: 
+tags: []
+---
 
 # Blog Posts
 
