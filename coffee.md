@@ -10,8 +10,8 @@ tags: []
 Sit and relax for a while! What would you like to do?
 
 * Explore the ever-growing [resource library](https://arcadiapage.com/resources/). There’s all kinds of general stuff that I think you’ll enjoy, and any affiliate or referral links indicated are to products that I have used and have found helpful.
-* Chat! I really appreciate hearing from you. Feel free to leave a note in the chatbox below about whatever. You can also contact me by [email and social media](https://arcadiapage.com/aboutme/).
-* All pixel art is from [Pixel Soup](https://pixel-soup.tumblr.com/) and credit belongs to the original artists.
+* Chat! I really appreciate hearing from you. Feel free to leave a note in the chatbox below about whatever. I also drop into the chat once in awhile myself to leave notes on updates to The Library. You can also contact me by [email and social media](https://arcadiapage.com/aboutme/).
+* All pixel art found in the library is from [Pixel Soup](https://pixel-soup.tumblr.com/) and credit belongs to the original artists.
 
 ![](https://64.media.tumblr.com/0796361c903bbe4e8000bb1b932096bf/7cf915f60095705b-fb/s250x400/d543a435469cd128d04a18183c8620edeb5c06fd.gif)
 
