@@ -19,6 +19,7 @@ Note: This page is still very much a work in progress...
 * <a href="#Graphics"> Graphics </a>
 * <a href="#Website-Blog-Making"> DIY Website & Blog Making </a>
 * <a href="#Digital-Freedom"> Digital Freedom </a>
+* <a href="#Creative-Sensitive-Intuitive-Business-Basics">Business Basics for Sensitive Intuitive Creatives</a>
 
 ![](http://fc02.deviantart.net/fs71/f/2013/172/3/a/heart_border__purple_black__by_revpixy-d6a0gve.gif)
 
@@ -68,5 +69,14 @@ Note: This page is still very much a work in progress...
 * [Pop!_OS by System76](https://pop.system76.com/)
 * [Linux Mint](https://linuxmint.com/)
 * [F-Droid - Free and Open Source Android App Repository](https://f-droid.org/)
+
+<a href="#Index"> Back to Top </a>
+
+<h2><a id="Creative-Sensitive-Intuitive-Business-Basics">Business Basics for Sensitive Intuitive Creatives</a></h2>
+
+* [8 Sacred Money Archetypes®: What are they and how to use them](https://www.denisedt.com/blog/8-sacred-money-archetypes-what-are-they-how-to-use-them)
+* [Your Sacred Money Archetypes® Cheat Sheet](https://www.denisedt.com/cheat)
+* [How to Create a Microbusiness that Matters](https://bemorewithless.com/micro/)
+* [Ruth Poundwhite. All the free & Paid Stuff I Do](https://ruthpoundwhite.com/everything/)
 
 <a href="#Index"> Back to Top </a>
