@@ -7,7 +7,7 @@ tags: []
 
 ![](https://64.media.tumblr.com/460e90cbd60d50f37a59236acbd41a19/tumblr_orvdjmknOr1ucpx1qo2_r1_250.gif){: .mx-auto.d-block :}
 
-✨This page is a living library that will grow and change over time. It will forever be a work in progress...If you notice any broken links, please[email me](mailto:arcadia@arcadiapage.com)so I can fix it!
+✨This page is a living library that will grow and change over time. It will forever be a work in progress...If you notice any broken links, please [email me](mailto:arcadia@arcadiapage.com) so I can fix it!
 
 ✨ This page is very different from the [Topics](https://arcadiapage.com/tags/) page on my blog. The [Topics](https://arcadiapage.com/tags/) page only lists articles that I've written on specific subjects. This library is a curated collection of favorite resources I've discovered across the Internet. I only include articles and books I've created if they're relevant to the topic.
 
@@ -21,7 +21,7 @@ tags: []
 
 _CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2027/th_hello-1.gif)_
 
-<iframe src="https://www3.cbox.ws/box/?boxid=3516103&boxtag=1nWV3Y" width="100%" height="450" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>
+<iframe src="https://www3.cbox.ws/box/?boxid=3516103&boxtag=1nWV3Y" width="100%" height="250" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>
 
 <h1><a id="Index">Index</a></h1>
 
