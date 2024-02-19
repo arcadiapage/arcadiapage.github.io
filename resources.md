@@ -1,17 +1,27 @@
 ---
-title: Resources
+title: Universe of Dreams Library
 layout: page
-subtitle: Welcome to my library of resources! Try not to get lost!
+subtitle: Giving Empowerment to Sensitive Intuitive Creatives
 tags: []
 ---
 
 ![](https://64.media.tumblr.com/460e90cbd60d50f37a59236acbd41a19/tumblr_orvdjmknOr1ucpx1qo2_r1_250.gif){: .mx-auto.d-block :}
 
-✨This page is a living library that will grow and change over time. It will forever be a work in progress...If you notice any broken links, please let me know in the chat so I can fix it!
+✨This page is a living library that will grow and change over time. It will forever be a work in progress...If you notice any broken links, please[email me](mailto:arcadia@arcadiapage.com)so I can fix it!
 
-✨ This page is very different from the Topics page on my blog. The Topics page only lists articles that I have written on a specific subject. This Library is a curated collection of favorite resources I've discovered across the Internet. I only include articles and books I've created if they're relevant to the topic.
+✨ This page is very different from the [Topics](https://arcadiapage.com/tags/) page on my blog. The [Topics](https://arcadiapage.com/tags/) page only lists articles that I've written on specific subjects. This library is a curated collection of favorite resources I've discovered across the Internet. I only include articles and books I've created if they're relevant to the topic.
 
-✨ Your librarian (That's me...) will leave annotations marked with the 💖 symbol on various resources. Enjoy!
+✨ Your librarian (That's me...) will leave annotations marked with the heart 💖 symbol on various resources. 
+
+✨ This index page is focused on listing the resouces that I view as **the most essential**. But for categories where I've decided to go more in depth, there is the galaxy 🌌 symbol next to a link for a full page dedicated to that topic. 
+
+✨ As a library visitor, feel free to leave a comment in the chatbox. If you have more in-depth inquires, sending me an [email me](mailto:arcadia@arcadiapage.com) would be better.
+
+![](https://64.media.tumblr.com/0796361c903bbe4e8000bb1b932096bf/7cf915f60095705b-fb/s250x400/d543a435469cd128d04a18183c8620edeb5c06fd.gif)
+
+_CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2027/th_hello-1.gif)_
+
+<iframe src="https://www3.cbox.ws/box/?boxid=3516103&boxtag=1nWV3Y" width="100%" height="450" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>
 
 <h1><a id="Index">Index</a></h1>
 
