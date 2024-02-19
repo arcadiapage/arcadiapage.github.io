@@ -27,13 +27,14 @@ _CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2
 
 ![](http://fc02.deviantart.net/fs71/f/2013/172/3/a/heart_border__purple_black__by_revpixy-d6a0gve.gif)
 
-* <a href ="#Personality-Articles">Personality Type</a>
-* <a href="#Writing-Advice"> Writing Advice </a>
-* <a href="#Simple-Living"> Simple Living </a>
-* <a href="#Graphics"> Graphics </a>
+* <a href="#Creative-Sensitive-Intuitive-Business-Basics">Business Basics for Sensitive Intuitive Creatives</a>
 * <a href="#Website-Blog-Making"> DIY Website & Blog Making </a>
 * <a href="#Digital-Freedom"> Digital Freedom </a>
-* <a href="#Creative-Sensitive-Intuitive-Business-Basics">Business Basics for Sensitive Intuitive Creatives</a>
+* <a href="#Graphics"> Graphics </a>
+* <a href ="#Personality-Articles">Personality Type</a>
+* <a href="#Simple-Living"> Simple Living </a>
+* <a href="#Writing-Advice"> Writing Advice </a>
+
 
 ![](http://fc02.deviantart.net/fs71/f/2013/172/3/a/heart_border__purple_black__by_revpixy-d6a0gve.gif)
 
