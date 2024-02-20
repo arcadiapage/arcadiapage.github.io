@@ -15,7 +15,7 @@ tags: []
 
 ✨ This index page is focused on listing the resouces that I view as **the most essential**. But for categories where I've decided to go more in depth, there is the galaxy 🌌 symbol next to a link for a full page dedicated to that topic. 
 
-✨ As a library visitor, feel free to leave a comment in the chatbox. If you have more in-depth inquires, sending me an [email me](mailto:arcadia@arcadiapage.com) would be better.
+✨ As a library visitor, feel free to leave a comment in the chatbox. If you have more in-depth inquires, sending me an [email](mailto:arcadia@arcadiapage.com) would be better.
 
 ![](https://64.media.tumblr.com/0796361c903bbe4e8000bb1b932096bf/7cf915f60095705b-fb/s250x400/d543a435469cd128d04a18183c8620edeb5c06fd.gif)
 
@@ -40,16 +40,16 @@ _CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2
 
 <h2><a id="Personality-Articles">Personality Type</a></h2>
 
-* [Here's Why INFPs and INTPs Get Misunderstood](https://www.psychologyjunkie.com/2018/10/06/heres-why-infps-and-intps-get-misunderstood/)
-* [If You’re Confused About Your Myers-Briggs Personality Type, Read This: An Intro To Cognitive Functions](http://thoughtcatalog.com/heidi-priebe/2015/06/if-youre-confused-about-your-myers-briggs-personality-type-read-this-an-intro-to-cognitive-functions/) 💖 On my blog I mention cognitive functions quite often because they're my favorite lens for understanding the MBTI in depth. If cognitive functions confuse you, this is where to start.
-* [Function Roles The Core Purpose of Jung’s 8 Functions](https://personalityjunkie.com/02/function-roles-8-jungian-functions/)
-* [Five Signs that You May Be a Divergent Thinker](https://www.linkedin.com/pulse/five-signs-you-may-divergent-thinker-dorian-simpson)
-* [Extraverted Intuition (Ne): An Inside Look](https://personalityjunkie.com/10/extraverted-intuition-ne/) 💖 I also write a ton on extraverted thinking. Hopefully this article will shed some more light on why having Ne is my favorite part of being an INFP.
+* [Here's Why INFPs and INTPs Get Misunderstood - PsychologyJunkie](https://www.psychologyjunkie.com/2018/10/06/heres-why-infps-and-intps-get-misunderstood/) 
+* [If You’re Confused About Your Myers-Briggs Personality Type, Read This: An Intro To Cognitive Functions - Thought Catalog](http://thoughtcatalog.com/heidi-priebe/2015/06/if-youre-confused-about-your-myers-briggs-personality-type-read-this-an-intro-to-cognitive-functions/) 💖 On my blog I mention cognitive functions quite often because they're my favorite lens for understanding the MBTI in depth. If cognitive functions confuse you, this is where to start.
+* [Function Roles The Core Purpose of Jung’s 8 Functions - PersonalityJunkie](https://personalityjunkie.com/02/function-roles-8-jungian-functions/)
+* [Five Signs that You May Be a Divergent Thinker - Linkedin](https://www.linkedin.com/pulse/five-signs-you-may-divergent-thinker-dorian-simpson)
+* [Extraverted Intuition (Ne): An Inside Look - PersonalityJunkie](https://personalityjunkie.com/10/extraverted-intuition-ne/) 💖 I also write a ton on extraverted thinking. Hopefully this article will shed some more light on why having Ne is my favorite part of being an INFP.
 * [Understanding INFP Feeling - Psychology Junkie](https://www.psychologyjunkie.com/2017/02/20/understanding-infp-feeling/)
 * [INFPs, ISFPs and Empathic Mirroring - Psychology Junkie](https://www.psychologyjunkie.com/2016/12/28/infps-isfps-empathic-mirroring/)
 * [How Each Myers-Briggs® Type Uses Their Tertiary Function - Psychology Junkie](https://www.psychologyjunkie.com/2017/11/20/myers-briggs-type-uses-tertiary-function/) 💖 Knowing your tertiary function is essential for crafting self-care that fits your type.
-* [Cognitive Processes and Idea Generation](http://www.cognitiveprocesses.com/UsesOfType/Cognitive-Processes-And-Idea-Generation.cfm)
-* [Cognitive Processes and Problem Solving*](http://www.cognitiveprocesses.com/UsesOfType/Cognitive-Processes-And-Problem-Solving.cfm)
+* [Cognitive Processes and Idea Generation - Cognitiveprocesses.com](http://www.cognitiveprocesses.com/UsesOfType/Cognitive-Processes-And-Idea-Generation.cfm)
+* [Cognitive Processes and Problem Solving - Cognitiveprocesses.com](http://www.cognitiveprocesses.com/UsesOfType/Cognitive-Processes-And-Problem-Solving.cfm)
 
 <a href="#Index"> Back to Top </a>
 
