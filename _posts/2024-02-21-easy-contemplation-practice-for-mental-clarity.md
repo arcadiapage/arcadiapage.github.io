@@ -74,4 +74,4 @@ So if you want to add a little something extra, feel free to go for it, but it d
 
 The goal is to simply create 5 to 10 minutes of quiet space and time to think.This is a nice practice for starting or even ending your day.
 
-If you're looking for more questions to add to your contemplation practice, you may also like my book,[Thoughtful Planning:How to Use Questions for Self-reflection to Design Your Day](https://payhip.com/b/YSucT).
+If you're looking for more questions to add to your contemplation practice, you may also like my book, [Thoughtful Planning:How to Use Questions for Self-reflection to Design Your Day](https://payhip.com/b/YSucT).
