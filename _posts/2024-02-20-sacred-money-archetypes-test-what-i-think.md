@@ -55,7 +55,7 @@ They like to look for ways to get things done proficiently without stress so the
 
 # How have I gotten creative with my archetypes?
 
-I like fusing the information about my SMA archetypes with other personality type frameworks that I'm familiar with.  For example, I'm an INFP, and I like the MBTI. I'm especially fascinated with MBTI cognitive functions. So the function stack for INFPs is introverted feeling (Fi), extraverted thinking (Ne), introverted sensing (Si), and extraverted thinking (Te). If I mapped my SMA archetypes to my MBTI functions with similar traits, it's like this:
+I like fusing the information about my SMA archetypes with other personality type frameworks that I'm familiar with.  For example, I'm an INFP, and I like the MBTI. I'm especially fascinated with MBTI cognitive functions. So the function stack for INFPs is introverted feeling (Fi), extraverted intuition (Ne), introverted sensing (Si), and extraverted thinking (Te). If I mapped my SMA archetypes to my MBTI functions with similar traits, it's like this:
 
 Fi = Romantic
 
