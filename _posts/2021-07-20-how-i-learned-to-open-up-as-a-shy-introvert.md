@@ -22,6 +22,6 @@ As I was putting together this journal, I realized it would be good if I did the
 
 I hope this journal helps introverts to reflect on what's great about their private lives and how to share parts of that with the outside world.
 
-You can buy this journal [here on my website](https://payhip.com/b/3JsxQ). You can also find it on [Etsy](https://www.etsy.com/listing/1051447311/inner-universe-outer-worlds?ref=listings_manager_grid), [Itch.io](https://arcadiapage.itch.io/inner-universe-outer-worlds), and [Buy Me a Coffee](https://www.buymeacoffee.com/arcadiapage/extras?new-extra=37541&extra-title=Inner%20Universe,%20Outer%20Worlds%20(Ebook))!
+You can buy this journal [here on my website](https://payhip.com/b/3JsxQ). You can also find it on [Etsy](https://www.etsy.com/listing/1051447311/inner-universe-outer-worlds?ref=listings_manager_grid) and [Itch.io](https://arcadiapage.itch.io/inner-universe-outer-worlds)!
 
 ![](/uploads/shyintrovert22.png){: .mx-auto.d-block :}
