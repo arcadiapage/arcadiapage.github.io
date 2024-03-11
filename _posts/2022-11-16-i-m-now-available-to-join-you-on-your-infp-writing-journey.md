@@ -51,6 +51,8 @@ As a self-published author who shares advice with other writers, I want my work 
 
 So with this in mind, I've decided to start offering perks to those who support my blog via [Buy Me A Coffee](https://www.buymeacoffee.com/arcadiapage). My homepage has the details, but with your support, I can continue to create helpful books and blog posts in a way that is kind to my physical, mental and emotional health.
 
+3/11/2024 Update: Trying to keep up a Buy Me a Coffee page became a little bit too much for me so I've decided to switch to Paypal. You can support my work (and still buy me a coffee 🙂) by using my [Paypal donation page](https://www.paypal.com/donate/?hosted_button_id=9J588XN8BJKUW).
+
 Also with this shift, I can also begin to help other writers find ways to break free of the treadmill and take care of themselves.
 
 # Updated Privacy Policy
