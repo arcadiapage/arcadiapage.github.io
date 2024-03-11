@@ -27,4 +27,4 @@ Your browser does not support the audio element.
 
 **Any thoughts on this audio post?** ✨ **Feel free to** [**let me know what you think**](https://arcadiapage.com/aboutme/)
 
-If you enjoy what I do, also consider [supporting my blog](https://www.buymeacoffee.com/arcadiapage). Thank you for listening! 
+If you enjoy what I do, also consider [supporting my blog](https://www.paypal.com/donate/?hosted_button_id=9J588XN8BJKUW). Thank you for listening! 
