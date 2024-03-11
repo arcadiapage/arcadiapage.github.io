@@ -82,6 +82,6 @@ Burnout can be terrible, but it doesn't last forever. You can and will recover, 
 
 **tl;dr? No problem! Watch the related** [**TikTok video**](https://pin.it/6ztyZH6) **via Pinterest**
 
-Enjoyed this post? Please consider sharing it with your friends! This blog is entirely self-funded and relies on the generosity of readers. If you would like to support my work, [you can make a one-time or recurring donation](https://www.buymeacoffee.com/arcadiapage) or [purchase one of my books](https://payhip.com/ArcadiaPage). Also, I love hearing what you think. Feel free to reach out to me via [Twitter or Email](https://arcadiapage.com/talk/)!
+Enjoyed this post? Please consider sharing it with your friends! This blog is entirely self-funded and relies on the generosity of readers. If you would like to support my work, [you can make a one-time or recurring donation](https://www.paypal.com/donate/?hosted_button_id=9J588XN8BJKUW) or [purchase one of my books](https://payhip.com/ArcadiaPage). Also, I love hearing what you think. Feel free to reach out to me via [Twitter or Email](https://arcadiapage.com/talk/)!
 
 ![](/uploads/infp-burnout-at-work-pin.png){: .mx-auto.d-block :}
