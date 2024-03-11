@@ -88,6 +88,6 @@ So these are the eight-plus ways that INFPs show up at work, and how I've experi
 
 Do you know someone who could be helped by knowing how INFPs show up at work? Share this article with them!
 
-This blog is entirely self-funded and relies on the generosity of readers. If you would like to support my work, you can make [a one-time or recurring donation](https://www.buymeacoffee.com/arcadiapage) or [purchase one of my books](https://arcadiapage.com/books/). Also, I love hearing what you think. Feel free to reach out to me via [Twitter or Email](https://arcadiapage.com/talk/)!
+This blog is entirely self-funded and relies on the generosity of readers. If you would like to support my work, you can make [a one-time or recurring donation](https://www.paypal.com/donate/?hosted_button_id=9J588XN8BJKUW) or [purchase one of my books](https://payhip.com/ArcadiaPage). Also, I love hearing what you think. Feel free to reach out to me via [Twitter or Email](https://arcadiapage.com/talk/)!
 
 ![](/uploads/infp-at-work.png "8 Ways INFPs Show Up at Work"){: .mx-auto.d-block :}
