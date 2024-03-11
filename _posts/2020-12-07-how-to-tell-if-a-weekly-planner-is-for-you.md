@@ -66,7 +66,6 @@ The only notes I don't save in my planner are my extensive notes from books and 
 
 I know that now about everyone is running sales on planners. And if you want to see if a weekly planner could work for you without paying up, doing a search on "Weekly Planner Printables" will also give you a ton of options. Hopefully, this post provides some help with picking out a planner that works for you.
 
-Any thoughts? Feel free to [leave a comment](https://www.buymeacoffee.com/arcadiapage/how-tell-weekly-planner-you)!
 
 _The artwork for this post is also by Arcadia Page_
 
