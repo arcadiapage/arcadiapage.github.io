@@ -62,7 +62,6 @@ So what mental and physical activities drain you? What feels like work to you? I
 
 Plus, if you are prone to burnout that comes out of the blue like I am, then you'll have a better idea of who the culprit could have been. In our busy world, make your breaks count.
 
-Any thoughts on this article? Feel free to [leave a comment](https://www.buymeacoffee.com/arcadiapage/why-breaks-essential-me-infp) or [get in touch](https://arcadiapage.com/talk/)!
 
 _The artwork for this post is also by Arcadia Page_
 
