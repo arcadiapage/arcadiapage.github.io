@@ -30,7 +30,7 @@ This line of thought made me curious about revisiting archetypes for business in
 
 Having such a clear view of how I save, spend, and earn money is just mind-blowing.
 
-The way financial mindset mentor Denise Duffield Thomas](https://www.denisedt.com/blog/8-sacred-money-archetypes-what-are-they-how-to-use-them) covers the information is especially in-depth. I've watched her videos multiple times, and I always learn something new or gain a new insight.
+The way financial mindset mentor [Denise Duffield Thomas](https://www.denisedt.com/blog/8-sacred-money-archetypes-what-are-they-how-to-use-them) covers the information is especially in-depth. I've watched her videos multiple times, and I always learn something new or gain a new insight.
 
 My number one money archetype is the Accumulator aka the Banker. The Alchemist and the Romantic are my second and third. All of my top three archetypes are pretty close to each other--only one point apart.
 
