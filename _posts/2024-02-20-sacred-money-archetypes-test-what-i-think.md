@@ -30,9 +30,9 @@ This line of thought made me curious about revisiting archetypes for business in
 
 Having such a clear view of how I save, spend, and earn money is just mind-blowing.
 
-The way financial advisor [Denise Duffield Thomas](https://www.denisedt.com/blog/8-sacred-money-archetypes-what-are-they-how-to-use-them) covers the information is especially in-depth. I've watched her videos multiple times, and I always learn something new or gain a new insight.
+The way financial mindset mentor Denise Duffield Thomas](https://www.denisedt.com/blog/8-sacred-money-archetypes-what-are-they-how-to-use-them) covers the information is especially in-depth. I've watched her videos multiple times, and I always learn something new or gain a new insight.
 
-My number one SMA archetype is the Accumulator aka the Banker. The Alchemist and the Romantic are my second and third. All of my top three archetypes are pretty close to each other--only one point apart.
+My number one money archetype is the Accumulator aka the Banker. The Alchemist and the Romantic are my second and third. All of my top three archetypes are pretty close to each other--only one point apart.
 
 Just a quick description of my SMA archetypes for context:
 
@@ -55,7 +55,7 @@ They like to look for ways to get things done proficiently without stress so the
 
 # How have I gotten creative with my archetypes?
 
-I like fusing the information about my SMA archetypes with other personality type frameworks that I'm familiar with.  For example, I'm an INFP, and I like the MBTI. I'm especially fascinated with MBTI cognitive functions. So the function stack for INFPs is introverted feeling (Fi), extraverted intuition (Ne), introverted sensing (Si), and extraverted thinking (Te). If I mapped my SMA archetypes to my MBTI functions with similar traits, it's like this:
+I like fusing the information about my money archetypes with other personality type frameworks that I'm familiar with.  For example, I'm an INFP, and I like the MBTI. I'm especially fascinated with MBTI cognitive functions. So the function stack for INFPs is introverted feeling (Fi), extraverted intuition (Ne), introverted sensing (Si), and extraverted thinking (Te). If I mapped my SMA archetypes to my MBTI functions with similar traits, it's like this:
 
 Fi = Romantic
 
@@ -69,7 +69,7 @@ This actually gives me a lot of information. For one thing, when it comes to bus
 
 And if I'm tired of working on my business, then falling back into the Romantic archetype and doing what I find pleasurable and easy is the best way to recharge (Si). And when I'm stressed out, I'm most likely to fall into intense Accumulator mode, obsessing over numbers, trying to make strict plans, getting frustrated from not finding answers and refusing to spend money on anything (Te).
 
-Of course, this list reflects me personally. You may have totally different SMA Archetypes from me, even if we share MBTI types. If you would like for me to map your top three SMA archetypes to your MBTI type, I'd be glad to do it. Just reach out to me via [email](https://arcadiapage.com/aboutme/).
+Of course, this list reflects me personally. You may have totally different money archetypes from me, even if we share MBTI types. If you would like for me to map your top three SMA archetypes to your MBTI type, I'd be glad to do it. Just reach out to me via [email](https://arcadiapage.com/aboutme/).
 
 I've also mapped my archetypes with my Strength's Finder results, and that has brought me some interesting insights as well.
 
