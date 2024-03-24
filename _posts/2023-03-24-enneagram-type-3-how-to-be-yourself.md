@@ -1,5 +1,5 @@
 ---
-title:My Guide to NOT Keeping Up Appearances as an Enneagram Type 3  
+title: My Guide to NOT Keeping Up Appearances as an Enneagram Type 3 
 date: 2024-03-24 00:00:00 -08:00
 tags:
 - Productivity & Simplicity 
