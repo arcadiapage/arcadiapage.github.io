@@ -89,7 +89,7 @@ If so, consider doing one of them before starting your routine.
 
 I've found that starting my routines from a place of relaxation instead of stress helps me to feel more calm and focused as I take on what I need to do.
 
-
+And if you're looking for more tips on how to create routines you can stick to and how to plan your day as an INFP, you may enjoy my book [Idealist Dreams: How I Learned to Plan as an INFP](https://payhip.com/b/KrBh)
 
 
 
