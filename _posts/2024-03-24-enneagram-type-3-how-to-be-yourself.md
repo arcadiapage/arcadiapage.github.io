@@ -128,12 +128,15 @@ So as an Enneagram Type 3, try to find a place where you can use your authentic 
 The important thing is to have a place where you can express what you truly feel, desire, and dream of with as little influence from others as possible. This is the key to learning to truly see yourself as an Enneagram Type 3. 
 
 
-## Free Stuff You Might Like 
-
-[From Overwhelmed to Calm:A Journal for Creating Calm and Recovering from Stress for Highly Sensitive People](https://payhip.com/b/bZUmK)  
+°•°•°•°•
 
 
-## Paid Resources You May Like 
+## Free Stuff You Might Like... 
 
-[Love Your Sensitivity:7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person](https://payhip.com/b/KI5eW)
+[From Overwhelmed to Calm: A Journal for Creating Calm and Recovering from Stress for Highly Sensitive People](https://payhip.com/b/bZUmK)  
+
+
+## Paid Resources You May Like... 
+
+[Love Your Sensitivity: 7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person](https://payhip.com/b/KI5eW)
 
