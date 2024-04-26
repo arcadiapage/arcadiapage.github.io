@@ -11,7 +11,7 @@ subtitle: ''
 
 Often the Enneagram Type 3 is described as a chameleon, shape shifting to be whatever wins admiration and success.
 
-And as an Enneagram Type 3 myself, I've found that this shape shifting can happen quickly and on a subconscious level. I can walk up to someone to have a conversation, and the next thing I know, I'm feeling my energy shift. I've read their mood and intuited what it is they want from me. I can even sense what could possibly impress them.
+And as an Enneagram 3 myself, I've found that this shape shifting can happen quickly and on a subconscious level. I can walk up to someone to have a conversation, and the next thing I know, I'm feeling my energy shift. I've read their mood and intuited what it is they want from me. I can even sense what could possibly impress them.
 
 The next thing I know, I may be smiling and bubbly to match their energy. Or I may be cool and aloof if they come off that way to me. I find myself borrowing their language and gestures, and when all is done, they think that we get along quite well. 
 
@@ -21,9 +21,9 @@ This effect is way worse when people don't like themselves very much. Combative 
 
 The way my energy shifts is very quick, and the only reason why I sense the change is due to the awareness I've built up over the years. My mind goes, “Oh, no. You're trying to match this person's energy right now!” And then I have to take a quick moment to check in with how I'm actually feeling to ground myself back into my identity. But even still, I don't always catch the shift before it happens.
 
-As a Type 3 Enneagram the question always comes up, “With all of this mask wearing and energy matching going on, how do I know what's REALLY me?”
+For Type 3's the question always comes up, “With all of this mask wearing and energy matching going on, how do I know what's REALLY me?”
 
-For Enneagram Type 3s, it's really important to find the answers to this because doing so is the only way to live the life you want, and not the life that others want for you, or the life that will give you achievements that you don't truly care about.
+It's really important to find the answers to this because doing so is the only way to live the life you want, and not the life that others want for you, or the life that will give you achievements that you don't truly care about.
 
 I am constantly connected to what others want from me and what others are doing, so it's challenging for me to remember what works best for myself.
 
@@ -42,7 +42,7 @@ Type 2s can intuitively pick up on what others need physically and emotionally, 
 
 Type 4s can naturally pick up on the emotions around them and use those emotions for insightful creative expression. 
 
-Enneagram Type 3s can sense the emotional desires of others, and as a result, they try to become the best of what others want.
+Type 3s can sense the emotional desires of others, and as a result, they try to become the best of what others want.
 
 Knowing the needs, desires, and emotions of others before they are fully aware of it themselves puts these types into the realm of emotional sensitivity.
 
@@ -50,15 +50,13 @@ I am sure that there are some Type 3s reading this who feel like, “Sensitivity
 
 When thinking about the Enneagram Type 3, I often reflect on Richard Rohr's thoughts in [this lecture on YouTube](https://youtu.be/mt-7uAHpTSQ?si=lJ5rIi5SIAk0Kppi). Both of the wings for the Type 3 are heart centered. It's like being heart, heart, heart. Of all the types in the Enneagram, Type 3s process life through their emotions the most. 
 
-Also the Type 3 Enneagram Type is extremely burnout prone. You can be going hard on all the things you want to accomplish, when suddenly you're hit with a wave of exhaustion, to the point that all you want to do is sleep or veg out. Or even worse, you may get hit with a physical illness that stems from chronic stress.
+Also the Type 3 Enneagram is extremely burnout prone. You can be going hard on all the things you want to accomplish, when suddenly you're hit with a wave of exhaustion, to the point that all you want to do is sleep or veg out. Or even worse, you may get hit with a physical illness that stems from chronic stress.
 
 Often it's these moments of burnout and rock bottom that drives many Enneagram Type 3s on a journey to find their true selves and their soul. But you don't have to wait until you hit the wall to do that. It's better to make discovering yourself part of your daily life, not just a concept you turn to in times of desperation.
 
 Part of that involves owning up to your sensitivity and how that affects the way you navigate life. My emotional sensitivity is tied to my sensory processing sensitivity (SPS). You may or may not have the trait of SPS, but it's good to know if you do. Here's a [free test you can take to see if you have it or not](https://hsperson.com/test/highly-sensitive-test/). 
 
 But even if you're not a highly sensitive person with sensory processing sensitivity, you are still an emotional empath. Figuring out what emotions and desires truly belong to you is essential to living a life that you love.
-
-For more thoughts on living in alignment with sensitivity, you may enjoy my book, [Love Your Sensitivity: 7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person](https://payhip.com/b/KI5eW)
 
 Overall, I try to remember that my ability to sense what others desire isn’t there so I can shape myself into what other people want. It’s there so that I can encourage others to do their best to achieve what they want out of life. My purpose is to tap into the desires of others and help them to be successful, and also to share how I’m living up to my [own definition of success](https://arcadiapage.com/2023-09-30-What-To-Do-When-Overthinking-Your-Goals/).
 
@@ -88,8 +86,6 @@ Real success is a dance between doing what brings you joy and doing what fulfill
 
 When feeling overwhelmed and like there is too much stuff going on, that’s the time to step back and ask yourself, “What do I need right now?”
 
-If doing this is a struggle for you, I recommend checking out [this free journal](https://payhip.com/b/bZUmK) I created with some simple questions that have helped me to return to a space of taking care of my needs and flourishing as a sensitive person. 
-
 
 # Spend Time Alone
 
@@ -97,7 +93,7 @@ When you're around other people, you are in shape-shifter mode. You are taking o
 
 But when you are alone, that’s when you are truly you. This is the time to see what your own authentic energy and personality feels like.
 
-As a sx/sp 3w4, alone time is my jam, but those with a two wing or social type are probably freaking out right now. I think the thing that Enneagram Type 3s dislike the most about being alone is that the personality mask is off, and they have no clue of what’s under there. Some fear that they may not have a personality at all—that there’s only a blank space where a true identity should be. 
+As a sx/sp 3w4, alone time is my jam, but those with a two wing or social type are probably freaking out right now. I think the thing that Enneagram 3s dislike the most about being alone is that the personality mask is off, and they have no clue of what’s under there. Some fear that they may not have a personality at all—that there’s only a blank space where a true identity should be. 
 
 If you are a Type 3, do not let this sensation of no identity scare you. It’s telling you the story that you are not enough to figure out who you are. But the truth is that you are enough to figure out what fits you.
 
@@ -105,7 +101,7 @@ You are more than capable of honing in on what truly works for you.
 
 And that feeling of nothing-ness points to a truth about our self perception: it’s something that can be easily changed. 
 
-So when you spend time alone, do so without your phone so that you can be fully in your own energy. Then reflect on the personal strengths you have learned about through your personality research. Then ask, “What feels the most authentic to me right now?”
+When you spend time alone, try doing so without your phone so that you can be fully in your own energy. Then reflect on the personal strengths you have learned about through your personality research. Then ask, “What feels the most authentic to me right now?”
 
 Whatever feels the most authentic to you in the moment is who you are. Don't overthink it. Accept whatever deeply resonates with you. [Don't be afraid of stillness](https://arcadiapage.com/2023-11-27-Learning-to-appreciate-stillness/). In stillness is where you connect with what's possible and your true creative potential. 
 
@@ -132,11 +128,12 @@ So as an Enneagram Type 3, try to find a place where you can use your authentic 
 The important thing is to have a place where you can express what you truly feel, desire, and dream of with as little influence from others as possible. This is the key to learning to truly see yourself as an Enneagram Type 3. 
 
 
+## Free Stuff You Might Like 
+
+[From Overwhelmed to Calm:A Journal for Creating Calm and Recovering from Stress for Highly Sensitive People](https://payhip.com/b/bZUmK)  
 
 
+## Paid Resources You May Like 
 
-
-
-
-
+[Love Your Sensitivity:7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person](https://payhip.com/b/KI5eW)
 
