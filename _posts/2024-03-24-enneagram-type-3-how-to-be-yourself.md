@@ -131,12 +131,12 @@ The important thing is to have a place where you can express what you truly feel
 °•°•°•°•
 
 
-## Free Stuff You Might Like... 
+## Free Resources... 
 
 [From Overwhelmed to Calm: A Journal for Creating Calm and Recovering from Stress for Highly Sensitive People](https://payhip.com/b/bZUmK)  
 
 
-## Paid Resources You May Like... 
+## Paid Resources... 
 
 [Love Your Sensitivity: 7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person](https://payhip.com/b/KI5eW)
 
