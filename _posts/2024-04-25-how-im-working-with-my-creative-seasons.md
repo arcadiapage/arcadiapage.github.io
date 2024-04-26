@@ -34,8 +34,18 @@ And depending on where you are, what do you want to experience in the season tha
 
 Experiment with setting an intention of what you want for your current creative season. Setting an intention doesn't have to be complicated. Simply focus on one thing that what you want. 
 
-*Considering the creative season you’re currently in, what do you want for the month?*
+*Considering the creative season you’re currently in, what do you want for this month?*
 
-And if you need more help with achieving your creative goals, you may like my [I Want to Do All the Things Project Planner](https://payhip.com/b/XbNVL)
+Trying to work with where I am has definitely improved my productivity overall. For example, in the past I used to try to push myself to make things during my creative winter and ended up frustrated and confused when nothing was coming together. Now I'm able to recognize when I'm in that season of creativity, so instead of pushing myself to make things, I accept it and use it as a time to relax and look for inspiration.
 
-Also if you're feeling a bit squirrely like I am right now, you may also appreciate my book, [I Want to Do All the Things: Finding Balance as a Polymath, Multipotentialite & Renaissance Soul.](https://payhip.com/b/4ljG)
+It just so happens that my creative cycles match perfectly with naturally occurring seasonal cycles, but that may not be the case for you! Take some time to observe yourself and see what kind of creative rhythm you naturally have.
+
+•°•°•°•°
+
+## Paid Resources...
+
+[I Want to Do All the Things Project Planner](https://payhip.com/b/XbNVL)
+
+[I'm Not Lost. I'm an Explorer: A Guide to Seeing Your Path as a Polymath, Multipotentialite, and Renaissance Soul](https://payhip.com/b/THgfD)
+
+[I Want to Do All the Things: Finding Balance as a Polymath, Multipotentialite & Renaissance Soul.](https://payhip.com/b/4ljG)
