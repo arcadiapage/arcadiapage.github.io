@@ -56,7 +56,6 @@ Talking about yourself creates the human contact people crave. They want to hear
 
 However, doing this isn't easy. To let your work bloom from your life experiences, you will have to detach yourself from performance metrics. It's no longer the numbers and algorithms that are dictating what you should create but the rhythm of your life and your heart.
 
-If you want to go deeper into letting your life inspire you as an INFP, you may like this free workbook into [how to publicly share your personal stories.](https://payhip.com/b/NeotK)
 
 # It’s Okay to Have a Niche, but It Doesn’t Really Matter if You Don’t
 
@@ -97,7 +96,7 @@ Also this is another skill that will give you an edge in a world where AI is eve
 This is special. Take advantage of it.
 
 
-# Embrace Spontaneity and Improvise
+# Embrace Spontaneity and Improvision
 
 INFPs are Perceivers, which means that we are always open to new experiences and information. I like to imagine all the information in my life as a flowing river and my mind as a sieve dipped into the waters. I am always analyzing and sifting through the flow of information: from what happened to me today to what I'm reading. This is an ongoing process, impossible to turn off.
 
@@ -129,7 +128,7 @@ If you're stuck in analysis paralysis, just deciding to be a little spontaneous 
 
 # Keep Your Inner Vision Clear
 
-Another point made in **Creative You** that really resonated with me is the observation that INFPs create from their inner vision. We imagine, daydream, and contemplate,  and what we create comes from that mysterious place of nothingness. INFPs excel at creating things that are new, unexpected and that don't exist yet because our inner vision is what brings things into being. 
+Another point made in **Creative You** that really resonated with me is the observation that INFPs create from their inner vision. We imagine, daydream, and contemplate,  and what we create comes from that mysterious place of nothingness. INFPs excel at creating things that are new, unexpected and that don't exist yet because we tend to create directly from our imagination and the mental images we see.
 
 And as I shared in my post on [why I don't share my projects in progress](https://arcadiapage.com/2023-05-28-INFP-Keep-Your-Goals-to-Yourself/), I highly value keeping my vision clear.
 
@@ -150,5 +149,15 @@ INFPs are Feeling Precievers, and FPs tend to hop from style to style. So if you
 So this is a general overview of the insights I've had about doing online business in a way that uses my strengths as an INFP. There are still many nuances and details that I wasn't able to cover here.
 
 This research has made me aware of how much potential I have, and how much I’ve been missing out on! And honestly, I feel a deep sense of relief. I've never seen an autobiographical business before, but the title fits so well with what I actually do. I create from my life experiences. I feel like now, I can create from a place of more clarity and confidence.
+
+°•°•°•°•
+
+## Free Resources...
+
+[So...What's Your Story? A Guide to Creating Powerful Personal Essays as an INFP Writer](https://payhip.com/b/NeotK)
+
+[Discover Your INFP Archetypes Test and Workbook](https://payhip.com/b/Di7wb)
+
+[Hush Zine Issue 1: Crying is Awesome](https://payhip.com/b/5SHwg) Free to listen 🎧
 
 
