@@ -4,9 +4,9 @@ layout: page
 subtitle: All that you need to know...
 ---
 
-[![Red-Gradient-Profile-Photo-Instagram-Post.png](https://i.postimg.cc/0yPNbfPm/Red-Gradient-Profile-Photo-Instagram-Post.png)](https://postimg.cc/w74zrDtT)
+[![Blog-profile-pic.png](https://i.postimg.cc/0ytyY9N1/Blog-profile-pic.png)](https://postimg.cc/sMhzydST)
 
-My name is Arcadia Page, and I'm a writer/artist. Here's what you can learn from me:
+My name is Arcadia Page, and I'm a artist/personal growth blogger who writes about productivity, mental and emotional health, creativity, simplicity and what it's like being an online entreprenuer. Here's what you can learn from me:
 
 - How to be [productive with less stress and burnout and celebrate little wins.](https://arcadiapage.com/2023-10-31-Three-Essential-Steps-to-Better-Productivity-Highly-Sensitive-Person/) I'm all about [reaching goals the easy and fun way.](https://arcadiapage.com/2023-09-30-What-To-Do-When-Overthinking-Your-Goals/)
 - How to work with [scattered thinking, inspiration and creative chaos.](https://arcadiapage.com/2023-10-31-Multipotentialite-You're-Not-As-Lost-As-You-Think/)
@@ -14,7 +14,7 @@ My name is Arcadia Page, and I'm a writer/artist. Here's what you can learn from
 - If you're an INFP, [how to make the most of your personality type.](https://arcadiapage.com/2023-12-26-How-to-bring-your-INFP-Archetypes-into-Your-Everyday-Life/)
 - If you're a writer, [how to create a writing practice that is fun, gentle, and productive.](https://arcadiapage.com/2024-01-29-being-a-productive-writer-does-not-have-to-be-painful/)
 
-I enjoy writing about the simple things that help me build a loving relationship with life and myself. As a highly sensitive empath (and an INFP) I feel more empowered when I work from a place of compassion instead of stress.
+I love the process of building a creative, simple, healthy, and introspective life because I believe that is what leads to growth and joy. As a highly sensitive empath (and an INFP) I feel more empowered when I work from a place of compassion instead of stress.
 
 I've written many books, and they are [available for purchase](https://payhip.com/ArcadiaPage/collection/books) if they resonate with you. 
 
@@ -25,7 +25,7 @@ I'm best known for [The Little Book of Tiny Tasks: Make Your Life More Calm Whil
 
 [![mail-40px.png](https://i.postimg.cc/yxz84Qmx/mail-40px.png)](mailto:arcadiapage@gmail.com) [![pinterest-40px.png](https://i.postimg.cc/gJh27F61/pinterest-40px.png)](https://www.pinterest.com/arcadiapage/) 
 
-You can also follow me on Mastodon at [@arcadiapage@writing.exchange](https://writing.exchange/web/@arcadiapage).
+You can also follow me on Mastodon at [@arcadiapage@mastodon.art](https://mastodon.art/web/@arcadiapage) and on [Instagram](https://www.instagram.com/arcadiapage?igsh=emR6a2R0ZzNpanJx)
 
 # Other Blogs
 
