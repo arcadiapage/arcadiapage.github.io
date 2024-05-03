@@ -70,5 +70,7 @@ Not quite the same, but it has a similar effect as the prompts in this post when
 
 ## Paid Resources…
 
-I enjoyed these 20 questions so much I’ve  decided to make a printable mini journal out of them. 
 [From Fear to Action Printable Journal](https://payhip.com/b/0QpnM)
+
+I enjoyed these 20 questions so much I’ve  decided to make a printable mini journal out of them. 
+
