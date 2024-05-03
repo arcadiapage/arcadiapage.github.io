@@ -1,7 +1,7 @@
 ---
-title: Universe of Dreams Library
+title: List Library
 layout: page
-subtitle: Giving Empowerment to Sensitive Intuitive Creatives
+subtitle: My favorite things...
 tags: []
 ---
 
