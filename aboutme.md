@@ -4,7 +4,7 @@ layout: page
 subtitle: All that you need to know...
 ---
 
-[![profilepic.png](https://i.postimg.cc/gjR4vKwG/profilepic.png)]
+![profilepic.png](https://i.postimg.cc/gjR4vKwG/profilepic.png)
 
 My name is Arcadia Page, and I'm a artist/personal growth blogger who shares ideas on productivity, mental and emotional health, creativity, simplicity and what it's like being an online entreprenuer. Here's what you can learn from me:
 
