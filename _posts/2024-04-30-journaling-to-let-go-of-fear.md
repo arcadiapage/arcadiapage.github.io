@@ -20,6 +20,8 @@ So this past month I did a series of journaling exercises, not only to help me t
 
 My goal with these journaling prompts was to go from being stuck in these negative emotional states to transforming them into a feeling of aliveness. Being stuck in fear and anger is the opposite of feeling truly alive. 
 
+![Journaling to transform fear into action ](/uploads/feartofreedom.png "white text on red paper background journaling to transform fear into freedom journal prompts"){: .mx-auto.d-block :}
+
 I thought about the areas of my life and business where I am struggling with motivation. I also asked myself, what areas of my life feel the most alive? What feels alive to me? 
 I used about 20 questions in all to explore this in depth. 
 
@@ -27,7 +29,7 @@ One question that struck me was, "Where in my life do I feel a state of stagnati
 
 Thinking about this made me reflect on where I am trying to make progress in my life, but where I’m stuck in a pattern that causes me to keep doing things the same ineffective way. 
 
-Another question I asked myself is, "In what areas of my life do I feel the most motivated?nIn what areas of my online business do I feel the most motivated?" 
+Another question I asked myself is, "In what areas of my life do I feel the most motivated? In what areas of my online business do I feel the most motivated?" 
 When I looked at the areas where I feel the most motivated, it made me realize that the most motivating things are the things that are most important to me right now. 
 So it's okay if I’m feeling unmotivated in some parts of my life. The parts where I do feel motivated are the most meaningful. You might find something different for yourself, but that's what I found.
 
