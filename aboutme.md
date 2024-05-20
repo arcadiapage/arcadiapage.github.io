@@ -6,7 +6,7 @@ subtitle: All that you need to know...
 
 ![profilepic.png](https://i.postimg.cc/gjR4vKwG/profilepic.png)
 
-My name is Arcadia Page, and I'm a artist/personal growth blogger who shares ideas on productivity, mental and emotional health, creativity, simplicity and what it's like being an online entreprenuer. Here's what you can learn from me:
+My name is Arcadia Page, and I'm a artist/personal growth blogger who shares ideas on emotional health, creativity, simplicity and what it's like being an online entreprenuer. Here's what you can learn from me:
 
 - How to be [productive with less stress and burnout and celebrate little wins.](https://arcadiapage.com/2023-10-31-Three-Essential-Steps-to-Better-Productivity-Highly-Sensitive-Person/) I'm all about [reaching goals the easy and fun way.](https://arcadiapage.com/2023-09-30-What-To-Do-When-Overthinking-Your-Goals/)
 - How to work with [scattered thinking, inspiration and creative chaos.](https://arcadiapage.com/2023-10-31-Multipotentialite-You're-Not-As-Lost-As-You-Think/)
