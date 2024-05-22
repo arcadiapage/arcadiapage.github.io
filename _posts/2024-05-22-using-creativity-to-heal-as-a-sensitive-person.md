@@ -30,6 +30,8 @@ On the other hand Your Brain on Art is a full on scientific exploration of the h
 
 The arts can be unbelievably healing. 
 
+![As a sensitive person I use creativity for self care](/uploads/sensitive-people-use-creativity-to-heal.png "white text on background of red rose petals as a highly sensitive person I use creativity to heal"){: .mx-auto.d-block :}
+
 And you don’t have to be an artist or spend an entire day creating a painting to feel the effect. In fact, according to Your Brain on Art, all it takes is around 20 minutes a day of exploring art and aesthetics to experience improvements in your health. 
 
 # My Creative Self-care Plan
