@@ -40,6 +40,9 @@ But besides learning some valuable lessons about mindset, I also learned some im
 
 ## Share your work where it will be supported
 
+![Introverted writer marketing share your work](/uploads/introverted-writer-marketing.png "white text on background of red that says As an Introverted writer I share my work where ever it will be supported"){: .mx-auto.d-block :}
+
+
 Before I share my work somewhere online, I ask myself, “Is this a place where what I have to share will be supported?”
 
 For example, when I first started working on my webcomic, I posted it to Deviant Art. I knew that it was a community that would not only accept my beginner level comic-making skills, but also support my growth and improvement.
