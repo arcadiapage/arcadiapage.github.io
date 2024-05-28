@@ -1,5 +1,5 @@
 ---
-title: As An Introverted Writer, I Share My Work Wherever I Feel Supported 
+title: As an Introverted Writer, I Share My Work Where Ever I Feel Supported 
 date: 2024-05-22 00:00:00 -08:00
 tags:
 - Creative Life 
