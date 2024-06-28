@@ -22,6 +22,9 @@ Literally.
 
 And serendipitously.
 
+![Creative Introvert Creating Calm](/uploads/creative-introvert-creating-calm.png "light tangarine orange text on ivory cream background as a creative introvert clearing my space clears my mind"){: .mx-auto.d-block :}
+
+
 At that same time I discovered minimalism and essentialism and all the things about simplifying, 
 
 Getting serious about cleaning up when things were chaotic changed my life. Not only was I rewarded with mental clarity, but I unexpectedly stumbled into all kinds of amazing ideas surrounding simplicity and creating space--ideas that still serve me well.
