@@ -65,7 +65,17 @@ My favorite idea from **Refuse to Choose** is the Scanner Daybook. I've never wr
 [**The Clutter Connection**](https://bookshop.org/a/8232/9781633538566) by Cassandra Aarssen
 
 And of course, a moment of shameless self-promo...
-[**Idealist Dreams: How I Learned to Plan as an INFP**](https://payhip.com/b/KrBh) by Arcadia Page
+
+# Books and Resources for INFPs by Arcadia Page
+
+[**Idealist Dreams: How I Learned to Plan as an INFP**](https://payhip.com/b/KrBh) 
+
+[**I Can't Help Being an INFP Writer: 100+ Tips to Help INFP Writers Capture Ideas, Stay Motivated, and Overcome Problems**](https://payhip.com/b/4tWM)
+
+[**Discover Your INFP Archetypes Test and Workbook**](https://payhip.com/b/Di7wb) (Free!)
+
+
+
 
 # Follow the Rabbit Holes!
 
