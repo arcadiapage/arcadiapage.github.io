@@ -32,7 +32,7 @@ After learning about inferior functions, this book is a good follow up. It's sho
 
 Not all INFPs are highly sensitive, but many are. If you're often overwhelmed by sounds, smells, or textures, or you are often deeply moved by art and nature, you may be highly sensitive. [Take the HSP questionnaire to see if this book is for you](http://hsperson.com/test/). Finding out about my high sensitivity has helped me to make my environment less draining, and I've learned that half of what I thought was social anxiety was actually over-stimulation. As a high sensation-seeking HSP, I also learned why is so important for me to add more peace and quiet space to my day.
 
-If you are an HSP, you may also want to check out [**Your Rainforest Mind**](https://bookshop.org/a/8232/9780692713105) by Paula Prober and [**Emotional Sensitivity and Intensity**](https://bookshop.org/a/8232/9781473656031) by Imi Lo.
+If you are an HSP, you may also want to check out [**Your Rainforest Mind**](https://bookshop.org/a/8232/9780692713105) by Paula Prober and [**Emotional Sensitivity and Intensity**](https://bookshop.org/a/8232/9781473656031) by Imi Lo. You may also enjoy reading my book on living with sensitivity, [**Love Your Sensitivity:7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person**](https://payhip.com/b/KI5eW)
 
 # [Start Where You Are by Meera Lee Patel ](https://bookshop.org/a/8232/9780399174827)
 
@@ -50,6 +50,8 @@ INFPs also use extroverted intuition which means our minds are always coming up 
 
 This book is also for those who are overwhelmed with ideas. **How to Be Everything** and **Refuse to Choose** are similar but different. One covers information that the other doesn't, and that amazes me. Between these two books, you will be finding your way to personal project peace.
 
+Both of these books are so powerful, that they inspired me to write two books: [I Want to Do All the Things: Finding Balance as a Polymath, Multipotentialite & Renaissance Soul](https://payhip.com/b/4ljG) and [I'm Not Lost. I'm an Explorer: A Guide to Seeing Your Path as a Polymath, Multipotentialite, and Renaissance Soul.](https://payhip.com/b/THgfD)
+
 My favorite idea from **Refuse to Choose** is the Scanner Daybook. I've never written down all of my ideas until I got myself a Daybook. The act of writing down my ideas and growing them has been so helpful. Not only do I avoid starting on meaningless projects, but it also gives me a place to play with my ideas until I'm like, "I'm ready to really do something with this!"
 
 # Other Reading
@@ -66,14 +68,17 @@ My favorite idea from **Refuse to Choose** is the Scanner Daybook. I've never wr
 
 And of course, a moment of shameless self-promo...
 
-# Books and Resources for INFPs by Arcadia Page
+# INFP Books and Resources by Arcadia Page
 
 [**Idealist Dreams: How I Learned to Plan as an INFP**](https://payhip.com/b/KrBh) 
 
 [**I Can't Help Being an INFP Writer: 100+ Tips to Help INFP Writers Capture Ideas, Stay Motivated, and Overcome Problems**](https://payhip.com/b/4tWM)
 
+[**The Focused Dreamer Planner: INFP Planning**](https://payhip.com/b/LZQNK)
+
 [**Discover Your INFP Archetypes Test and Workbook**](https://payhip.com/b/Di7wb) (Free!)
 
+[**So...What's Your Story? A Guide to Creating Powerful Personal Essays as an INFP Writer**](https://payhip.com/b/NeotK) (Also free!)
 
 
 
