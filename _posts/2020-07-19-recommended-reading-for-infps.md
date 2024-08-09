@@ -2,8 +2,8 @@
 title: Recommended Reading For INFPs
 date: 2020-07-19 00:00:00 -07:00
 tags:
-- INFP & HSP
-- Book Recommendations 
+- Personality Type
+- Well-being
 layout: post
 subtitle: My Favorite Books for INFPs
 ---
