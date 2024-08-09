@@ -2,9 +2,8 @@
 title: Books that Inspired Me This Year
 date: 2022-12-29 00:00:00 -08:00
 tags:
-- INFP & HSP
-- Book Recommendations
-- Audio Post
+- Well-being 
+- Personality Type
 layout: post
 subtitle: Audio post
 ---
