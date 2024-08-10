@@ -2,7 +2,7 @@
 title: Books that Inspired Me This Year
 date: 2022-12-29 00:00:00 -08:00
 tags:
-- Well-being 
+- Mindful Living 
 - Personality Type
 layout: post
 subtitle: Audio post
