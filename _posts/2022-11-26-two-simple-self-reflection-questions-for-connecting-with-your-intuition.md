@@ -2,7 +2,7 @@
 title: Two Simple Self-Reflection Questions for Connecting With Your Intuition
 date: 2022-11-26 00:00:00 -08:00
 tags:
-- Well-being
+- Mindful Living 
 - Productivity
 layout: post
 subtitle: 'Audio Post '
