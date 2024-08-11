@@ -2,10 +2,10 @@
 title: Journaling to Let Go of Fear and Feel Aliveness 
 date: 2024-04-30 00:00:00 -08:00
 tags:
-- Creative Life 
+- On Writing 
 - Creative Business
-- Emotional Healing
-- Innerwork
+- Productivity 
+- Mindful Living 
 layout: post
 subtitle: ''
 ---
