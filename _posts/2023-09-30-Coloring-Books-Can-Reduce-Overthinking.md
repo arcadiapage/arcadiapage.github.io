@@ -2,9 +2,8 @@
 title: Are You Overwhelmed With Overthinking? How Coloring Books Can Help
 date: 2023-09-30 00:00:00 -08:00
 tags:
-- Creative Living
+- Mindful Living 
 - On Art
-- Inner Work
 layout: post
 subtitle: ''
 ---
