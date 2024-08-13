@@ -2,10 +2,8 @@
 Title: Four Resources for Creating a Safe Space to Understand Your Sensitive Nature 
 date: 2024-07-28 00:00:00 -08:00
 tags:
-- Emotional Healing 
-- Inner Work
-- INFP & HSP
-- Introversion 
+- Mindful Living
+- Personality Type 
 layout: post
 subtitle: ''
 ---
