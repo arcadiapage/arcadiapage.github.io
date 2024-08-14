@@ -2,9 +2,9 @@
 title: 4 Ways to Make Unfocus Work for You as an INFP
 date: 2020-11-19 00:00:00 -08:00
 tags:
-- Productivity & Simplicity
-- INFP & HSP
-- Creative Life
+- Productivity
+- Personality Type
+- Mindful Living 
 layout: post
 subtitle: ''
 ---
