@@ -2,8 +2,8 @@
 title: 4 Links - July 2021
 date: 2021-07-26 00:00:00 -07:00
 tags:
-- Productivity & Simplicity
-- Helpful Links
+- Productivity 
+- Mindful Living 
 layout: post
 subtitle: Slow Down and Do Less
 ---
