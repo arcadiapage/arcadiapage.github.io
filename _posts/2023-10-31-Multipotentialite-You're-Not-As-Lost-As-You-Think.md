@@ -2,8 +2,8 @@
 title: Dear Multipotentialite, You're Not as Lost as You Think You Are
 date: 2023-10-31 00:00:00 -08:00
 tags:
-- Multipassionate
-- Creative Life
+- Productivity 
+- Mindful Living
 - Inner Work
 layout: post
 subtitle: ''
