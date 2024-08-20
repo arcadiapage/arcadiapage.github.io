@@ -3,9 +3,7 @@ title: How Knowing How to Start Can Help You Finish Creative Projects
 date: 2023-05-30 00:00:00 -08:00
 tags:
 - On Writing
-- Creative Life
-- Multipassionate
-- Productivity & Simplicity
+- Productivity
 layout: post
 subtitle: ''
 ---
