@@ -2,9 +2,8 @@
 title: Is Trying to Be Your Best Self Stressing You Out?
 date: 2023-07-25 00:00:00 -08:00
 tags:
-- INFP & HSP
 - Inner Work
-- Multipassionate
+- Mindful Living 
 layout: post
 subtitle: ''
 ---
