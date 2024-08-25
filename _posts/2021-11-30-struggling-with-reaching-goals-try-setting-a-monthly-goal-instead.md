@@ -2,9 +2,8 @@
 title: Struggling with Reaching Goals? Try Setting a Monthly Goal Instead
 date: 2021-11-30 00:00:00 -08:00
 tags:
-- Productivity & Simplicity
-- Season 2 Thoughtful Planning
-- Goal Setting
+- Productivity
+- Mindful Living 
 layout: post
 subtitle: ''
 ---
