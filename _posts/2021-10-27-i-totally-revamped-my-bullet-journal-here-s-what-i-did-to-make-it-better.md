@@ -2,8 +2,7 @@
 title: I've Totally Revamped My Bullet Journal! Here's What I Did to Make It Better.
 date: 2021-10-27 00:00:00 -07:00
 tags:
-- Productivity & Simplicity
-- Season 2 Thoughtful Planning
+- Productivity
 layout: post
 subtitle: ''
 ---
