@@ -2,10 +2,9 @@
 title: As a Creative Introvert, a Clear Space Equals a Clear Mind 
 date: 2024-06-27 00:00:00 -08:00
 tags:
-- Creative Life 
 - Creative Business 
-- INFP & HSP
-- Productivity & Simplicity 
+- Personality Type 
+- Productivity
 layout: post
 subtitle: ''
 ---
