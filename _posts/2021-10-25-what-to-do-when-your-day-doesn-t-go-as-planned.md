@@ -2,9 +2,8 @@
 title: What to Do When Your Day Doesn't Go as Planned
 date: 2021-10-25 00:00:00 -07:00
 tags:
-- Productivity & Simplicity
-- Creative Life
-- Season 2 Thoughtful Planning
+- Productivity
+- Mindful Living
 layout: post
 subtitle: ''
 ---
