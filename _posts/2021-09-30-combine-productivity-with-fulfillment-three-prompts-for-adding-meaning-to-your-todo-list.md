@@ -3,8 +3,8 @@ title: 'Combine Productivity with Fulfillment: Three Prompts for Adding Meaning 
   Your Todo List'
 date: 2021-09-30 00:00:00 -07:00
 tags:
-- Productivity & Simplicity
-- Season 2 Thoughtful Planning
+- Productivity
+- Mindful Living 
 layout: post
 subtitle: ''
 ---
