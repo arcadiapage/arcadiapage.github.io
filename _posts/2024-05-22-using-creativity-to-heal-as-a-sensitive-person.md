@@ -2,9 +2,8 @@
 title: How I Use My Creative Gifts to Heal Myself as a Sensitive Person
 date: 2024-05-22 00:00:00 -08:00
 tags:
-- Creative Life 
 - Emotional Healing 
-- INFP & HSP
+- Personality Type 
 layout: post
 subtitle: ''
 ---
