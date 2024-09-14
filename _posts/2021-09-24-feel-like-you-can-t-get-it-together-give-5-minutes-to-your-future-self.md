@@ -2,9 +2,8 @@
 title: 'Feel Like You Can''t Get It Together? Give 5 Minutes to Your Future Self '
 date: 2021-09-24 00:00:00 -07:00
 tags:
-- Season 2 Thoughtful Planning
-- Productivity & Simplicity
-- Book Announcements
+- Productivity
+- Mindful Living 
 layout: post
 subtitle: ''
 ---
