@@ -2,7 +2,8 @@
 title: How I'm Learning to Work With My Creative Seasons 
 date: 2024-04-25 00:00:00 -08:00
 tags:
-- Creative Life 
+- Mindful Living
+- Productivity 
 - Creative Business 
 layout: post
 subtitle: ''
