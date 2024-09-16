@@ -2,9 +2,8 @@
 title: As an Introverted Writer, I Share My Work Where Ever I Feel Supported 
 date: 2024-05-22 00:00:00 -08:00
 tags:
-- Creative Life 
+- Personality Type 
 - Creative Business 
-- INFP & HSP
 - On Writing 
 layout: post
 subtitle: ''
