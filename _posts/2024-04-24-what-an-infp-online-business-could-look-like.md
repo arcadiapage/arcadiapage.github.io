@@ -2,10 +2,8 @@
 title: What Running an Online Business Could Look Like For INFPs
 date: 2024-04-24 00:00:00 -08:00
 tags:
-- Season 1 INFP Entrepreneur
-- Creative Life 
 - Creative Business 
-- INFP & HSP 
+- Personality Type
 layout: post
 subtitle: ''
 ---
