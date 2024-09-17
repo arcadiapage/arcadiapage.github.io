@@ -2,9 +2,8 @@
 title: On Coming Back Home to Creating Fiction 
 date: 2024-03-31 00:00:00 -08:00
 tags:
-- Productivity & Simplicity 
 - On Writing 
-- Creative Life 
+- Creative Business 
 layout: post
 subtitle: ''
 ---
