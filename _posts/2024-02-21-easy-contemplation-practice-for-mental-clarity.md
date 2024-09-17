@@ -2,9 +2,8 @@
 title: Here's My Easy Contemplation Practice for Improving Mental Clarity 
 date: 2024-02-21  00:00:00 -08:00
 tags:
-- Productivity & Simplicity 
-- Goal Setting 
-- Creative Life
+- Productivity
+- Mindful Living
 layout: post
 subtitle: ''
 ---
