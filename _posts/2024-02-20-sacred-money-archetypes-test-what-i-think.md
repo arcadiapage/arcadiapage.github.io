@@ -2,10 +2,9 @@
 title: I Took the Sacred Money Archetypes® Test—Here's What I Think of It
 date: 2024-02-20  00:00:00 -08:00
 tags:
-- Productivity & Simplicity 
-- Goal Setting 
-- On Writing 
-- Creative Life 
+- Productivity 
+- Mindful Living 
+- Creative Business 
 layout: post
 subtitle: ''
 ---
