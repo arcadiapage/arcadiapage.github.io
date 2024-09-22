@@ -2,10 +2,9 @@
 title: Being a Productive Human is Simple. Working Like a Machine is Complicated.
 date: 2023-12-31 00:00:00 -08:00
 tags:
-- Productivity & Simplicity 
-- Goal Setting 
-- Inner Work
-- Creative Life 
+- Productivity
+- Mindful Living
+- Emotional Healing 
 layout: post
 subtitle: ''
 ---
