@@ -2,10 +2,8 @@
 title: Being a Productive Writer Doesn't Have to Be Painful
 date: 2024-01-29  00:00:00 -08:00
 tags:
-- Productivity & Simplicity 
-- Goal Setting 
+- Productivity
 - On Writing 
-- Creative Life 
 layout: post
 subtitle: ''
 ---
