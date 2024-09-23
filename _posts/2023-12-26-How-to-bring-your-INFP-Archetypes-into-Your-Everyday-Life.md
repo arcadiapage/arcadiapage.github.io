@@ -3,8 +3,8 @@ title: The Art of Bringing Your INFP Archetypes into Your Everyday Life
 date: 2023-12-26 00:00:00 -08:00
 tags:
 - Emotional Healing
-- INFP & HSP
-- Inner Work
+- Personality Type
+- Inner Work 
 layout: post
 subtitle: ''
 ---
