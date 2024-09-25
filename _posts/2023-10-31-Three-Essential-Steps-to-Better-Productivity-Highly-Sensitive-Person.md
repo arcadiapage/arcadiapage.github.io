@@ -2,8 +2,8 @@
 title: My Three Essential Steps to Better Productivity as a Highly Sensitive Person
 date: 2023-10-31 00:00:00 -08:00
 tags:
-- Productivity & Simplicity
-- INFP & HSP
+- Productivity
+- Personality Type 
 - Inner Work
 layout: post
 subtitle: ''
