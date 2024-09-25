@@ -3,7 +3,7 @@ title: Finding Opportunities in Brokenness
 date: 2023-11-26 00:00:00 -08:00
 tags:
 - Emotional Healing
-- Creative Life
+- Mindful Living 
 - Inner Work
 layout: post
 subtitle: ''
