@@ -3,7 +3,7 @@ title: How I'm Learning to Appreciate Stillness
 date: 2023-11-27 00:00:00 -08:00
 tags:
 - Emotional Healing
-- INFP & HSP
+- Personality Type 
 - Inner Work
 layout: post
 subtitle: ''
