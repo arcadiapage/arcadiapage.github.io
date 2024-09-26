@@ -2,9 +2,8 @@
 title: How I Finally Learned to Plan as an INFP and Found Planner Peace
 date: 2023-07-25 00:00:00 -08:00
 tags:
-- INFP & HSP
-- Productivity & Simplicity
-- Goal Setting
+- Personality Type
+- Productivity
 layout: post
 subtitle: ''
 ---
