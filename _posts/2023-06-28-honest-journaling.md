@@ -3,7 +3,7 @@ title: The One Question That is Keeping Me Honest in My Journaling Practice
 date: 2023-06-28 00:00:00 -08:00
 tags:
 - On Writing
-- INFP & HSP
+- Personality Type 
 - Inner Work
 layout: post
 subtitle: ''
