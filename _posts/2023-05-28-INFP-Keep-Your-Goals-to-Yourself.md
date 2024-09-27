@@ -3,9 +3,8 @@ title: Why as an INFP, You May Like Keeping Your Goals to Yourself
 date: 2023-05-28 00:00:00 -08:00
 tags:
 - On Writing
-- Creative Life
-- Productivity & Simplicity
-- INFP & HSP
+- Productivity
+- Personality Type 
 layout: post
 subtitle: ''
 ---
