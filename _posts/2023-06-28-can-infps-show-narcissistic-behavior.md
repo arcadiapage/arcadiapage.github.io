@@ -2,7 +2,7 @@
 title: From Empathy to Ego
 date: 2023-06-28 00:00:00 -08:00
 tags:
-- INFP & HSP
+- Personality Type 
 - Inner Work
 layout: post
 subtitle: 'Can INFPs Exhibit Narcissistic Behavior?'
