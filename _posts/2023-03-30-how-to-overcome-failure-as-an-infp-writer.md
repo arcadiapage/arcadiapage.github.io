@@ -3,8 +3,7 @@ title: How to Overcome Failure as an INFP Writer
 date: 2023-03-30 08:49:41 -04:00
 tags:
 - On Writing
-- Creative Life
-- INFP & HSP
+- Personality Type 
 layout: post
 subtitle: ''
 ---
