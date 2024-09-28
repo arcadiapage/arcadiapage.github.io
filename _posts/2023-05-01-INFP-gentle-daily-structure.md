@@ -2,8 +2,8 @@
 title: How I Create Gentle Daily Structure as an INFP
 date: 2023-05-01 00:00:00 -08:00
 tags:
-- Productivity & Simplicity
-- INFP & HSP
+- Productivity
+- Personality Type 
 layout: post
 subtitle: ''
 ---
