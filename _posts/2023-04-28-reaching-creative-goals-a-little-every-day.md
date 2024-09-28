@@ -3,7 +3,7 @@ title: How to Work Towards Finishing Your Creative Projects a Little Every Day
 date: 2023-04-28 00:00:00 -08:00
 tags:
 - On Writing
-- Creative Life
+- Productivity
 layout: post
 subtitle: ''
 ---
