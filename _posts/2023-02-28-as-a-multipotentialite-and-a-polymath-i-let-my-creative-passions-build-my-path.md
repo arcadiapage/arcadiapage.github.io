@@ -2,9 +2,10 @@
 title: As a Multipotentialite and Polymath, I Let My Creative Passions Build My Path
 date: 2023-02-28 11:34:00 -05:00
 tags:
-- Productivity & Simplicity
+- Productivity
 - Creative Business
-- Creative Life
+- Personality Type
+- Mindful Living 
 subtitle: 
 layout: post
 ---
