@@ -2,8 +2,8 @@
 title: How INFPs Heal and Grow After Experiencing Trauma
 date: 2023-02-27 00:00:00 -08:00
 tags:
-- Creative Life
-- INFP & HSP
+- Emotional Healing 
+- Personality Type 
 subtitle: 
 layout: post
 ---
