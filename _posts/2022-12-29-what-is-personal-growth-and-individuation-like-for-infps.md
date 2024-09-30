@@ -2,8 +2,9 @@
 title: What is Personal Growth and Individuation Like for INFPs?
 date: 2022-12-29 00:00:00 -08:00
 tags:
-- Creative Life
-- INFP & HSP
+- Inner Work
+- Emotional Healing
+- Personality Type 
 layout: post
 subtitle: It's quite the journey...
 ---
