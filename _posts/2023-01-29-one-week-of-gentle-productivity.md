@@ -2,8 +2,9 @@
 title: 'One Week of Gentle Productivity '
 date: 2023-01-29 00:00:00 -08:00
 tags:
-- Productivity & Simplicity
-- Creative Life
+- Productivity
+- Mindful Living
+- Emotional Healing 
 layout: post
 subtitle: ''
 ---
