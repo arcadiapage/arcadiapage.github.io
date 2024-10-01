@@ -2,9 +2,8 @@
 title: 'I''m Now Available to Join You on Your INFP Writing Journey '
 date: 2022-11-16 00:00:00 -08:00
 tags:
-- Book Announcements
 - On Writing
-- INFP & HSP
+- Personality Type 
 layout: post
 subtitle: and other updates
 ---
