@@ -2,8 +2,9 @@
 title: Why Shadow Work Helped Me Find Healing From My INFP Burnout
 date: 2022-10-28 00:00:00 -07:00
 tags:
-- Productivity & Simplicity
-- INFP & HSP
+- Inner Work
+- Emotional Healing 
+- Personality Type 
 layout: post
 subtitle: ''
 ---
