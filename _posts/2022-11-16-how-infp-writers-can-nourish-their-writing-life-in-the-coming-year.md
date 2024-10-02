@@ -3,8 +3,7 @@ title: How INFP Writers Can Nourish Their Writing Life in the Coming Year
 date: 2022-11-16 00:00:00 -08:00
 tags:
 - On Writing
-- Creative Life
-- INFP & HSP
+- Personality Type 
 layout: post
 subtitle: ''
 ---
