@@ -2,7 +2,8 @@
 title: Why Emotional Sensitivity is a Good Trait to Have as a Highly Sensitive Person
 date: 2022-10-01 00:00:00 -07:00
 tags:
-- INFP & HSP
+- Personality Type
+- Emotional Healing 
 layout: post
 subtitle: ''
 ---
