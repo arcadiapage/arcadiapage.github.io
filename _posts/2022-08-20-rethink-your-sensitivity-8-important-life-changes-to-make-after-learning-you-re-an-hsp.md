@@ -3,7 +3,9 @@ title: 'Eleven Traits that Show Up When You Ignore your Needs as a Highly Sensit
   Person '
 date: 2022-08-20 00:00:00 -07:00
 tags:
-- INFP & HSP
+- Personality Type
+- Emotional Healing
+- Inner Work
 layout: post
 subtitle: ''
 ---
