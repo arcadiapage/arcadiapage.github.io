@@ -2,7 +2,9 @@
 title: What It's Like Being an INFP Enneagram Type 3
 date: 2022-09-30 00:00:00 -07:00
 tags:
-- INFP & HSP
+- Personality Type
+- Inner Work
+- Emotional Healing 
 layout: post
 subtitle: "...And saying hello to my shadow"
 ---
