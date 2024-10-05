@@ -2,8 +2,8 @@
 title: Why Intuition is a Good Trait to Have as a Highly Sensitive Person
 date: 2022-08-27 00:00:00 -07:00
 tags:
-- Creative Life
-- INFP & HSP
+- Personality Type 
+- Inner Work
 layout: post
 subtitle: ''
 ---
