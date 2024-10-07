@@ -2,8 +2,8 @@
 title: How I Use Art to Process Emotional Pain as an INFP
 date: 2022-05-30 00:00:00 -07:00
 tags:
-- INFP & HSP
-- Creative Life
+- Personality Type 
+- Emotional Healing
 - On Art
 layout: post
 subtitle: ''
