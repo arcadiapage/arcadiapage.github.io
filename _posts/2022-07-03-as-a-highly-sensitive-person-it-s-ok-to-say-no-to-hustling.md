@@ -2,8 +2,9 @@
 title: As a Highly Sensitive Person, It's OK to Say "No" to Hustling
 date: 2022-07-03 00:00:00 -07:00
 tags:
-- Productivity & Simplicity
-- INFP & HSP
+- Productivity
+- Personality Type
+- Mindful Living 
 layout: post
 subtitle: ''
 ---
