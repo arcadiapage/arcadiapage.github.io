@@ -149,6 +149,9 @@ How can you use the spaces and mediums in which your authentic voice loves to pl
 
 No matter what it is, I believe that there is a way to use your authentic voice to make things easier for you in business. Start with where your authentic voice likes to show up the most. Then let everything flow out from there. 
 
-If the idea of finding more flow in your day resonates with you, you're invited to explore my latest book, [44 Days of No Pressure Productivity](https://payhip.com/b/g8wOI).
+If my journey of finding more flow in my business process is speaking to your heart, there’s more to discover. Check out my latest book, [44 Days of No Pressure Productivity](https://payhip.com/b/g8wOI)—it may be the next step in your journey too.
 
-There's one more round of the Rule Breaking Entrepreneur Summit coming up, so if you missed my [Love Your Tiny Business presentation](https://arcadiapage--catgriffin.thrivecart.com/fast-action-pass/) (This is an affiliate link! I will get paid a commission if you upgrade) the first time around, you can get the replay on the weekend of November 2nd-3rd. And if you want to learn more about this subject, you may also enjoy my [Love Your Tiny Business](https://payhip.com/b/7b08l) Journal.
+
+By the way, there's one more round of the Rule Breaking Entrepreneur Summit coming up, so if you missed my [Love Your Tiny Business presentation](https://arcadiapage--catgriffin.thrivecart.com/fast-action-pass/) (This is an affiliate link! I will get paid a commission if you upgrade) the first time around, you can get the replay on the weekend of November 2nd-3rd. 
+
+If this subject seems intriguing to you, you may also enjoy my [Love Your Tiny Business](https://payhip.com/b/7b08l) Journal.
