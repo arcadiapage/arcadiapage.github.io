@@ -11,7 +11,7 @@ subtitle: ''
 
 Right now, I'm working on a book entitled "100 Days of Gentle Productivity."  I chose 100 days because I'm creating this book with Kickstarter's Make100 challenge in mind.
 
-(Update: This book has been updated and reimagined as [44 Days of Gentle Productivity: A Workbook for Building Balance into How You Get Things Done](https://payhip.com/b/g8wOI). It's now available at your favorite ebook retailer.)
+(Update: This book has been updated and reimagined as [44 Days of Pressure Free Productivity: A Workbook for Building Balance into How You Get Things Done](https://payhip.com/b/g8wOI). It's now available at your favorite ebook retailer.)
 
 But...it doesn't have to take 100 days to feel the benefits of approaching each day with more care. So here I'm sharing the first seven prompts from my book so you can create a week of gently getting things done. I suggest having a notebook or a place where you can write your thoughts as you go through these.
 
