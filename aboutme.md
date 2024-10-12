@@ -6,7 +6,9 @@ subtitle: All that you need to know...
 
 ![profilepic.png](https://i.postimg.cc/gjR4vKwG/profilepic.png)
 
-My name is Arcadia Page, and I'm a artist/writer. I help creative and intuitive individuals align their personal growth with their professional goals through mindful living, emotional healing, and holistic productivity. Here's what you can learn from me:
+My name is Arcadia Page, and I'm an intuitive artist/writer. I create  stories, art, and reflections that mirrors the subtle intuitive wisdom of the collective, helping others to see things from new perspectives.
+
+My work invites people to reflect, grow, and discover new insights about themselves and the world around them. Here's what you can learn from me:
 
 - How to be [productive with less stress and burnout and celebrate little wins.](https://arcadiapage.com/2023-10-31-Three-Essential-Steps-to-Better-Productivity-Highly-Sensitive-Person/) I'm all about [reaching goals the easy and fun way.](https://arcadiapage.com/2023-09-30-What-To-Do-When-Overthinking-Your-Goals/)
 - How to work with [scattered thinking, inspiration and creative chaos.](https://arcadiapage.com/2023-10-31-Multipotentialite-You're-Not-As-Lost-As-You-Think/)
