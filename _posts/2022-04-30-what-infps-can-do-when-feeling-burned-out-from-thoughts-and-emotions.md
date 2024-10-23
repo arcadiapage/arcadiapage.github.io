@@ -2,8 +2,8 @@
 title: What INFPs Can Do When Feeling Burned Out From Thoughts and Emotions
 date: 2022-04-30 00:00:00 -07:00
 tags:
-- Creative Life
-- INFP & HSP
+- Emotional Healing 
+- Personality Type 
 layout: post
 subtitle: ''
 ---
