@@ -2,7 +2,8 @@
 title: Why Being an INFP Doesn't Mean You Never Block Your Emotions
 date: 2022-03-31 00:00:00 -07:00
 tags:
-- INFP & HSP
+- Personality Type
+- Emotional Healing 
 layout: post
 subtitle: ''
 ---
