@@ -6,7 +6,7 @@ subtitle: All that you need to know...
 
 ![profilepic.png](https://i.postimg.cc/gjR4vKwG/profilepic.png)
 
-My name is Arcadia Page, and I'm an intuitive artist/writer. I create  stories, art, and reflections that mirrors the subtle intuitive wisdom of the collective, helping others to see things from new perspectives.
+My name is Arcadia Page, and I'm an intuitive artist/writer. I create  stories, art, and reflections that bubble up from my intuition, helping others to see things from new perspectives.
 
 My work invites people to reflect, grow, and discover new insights about themselves and the world around them. Here's what you can learn from me:
 
@@ -18,7 +18,7 @@ My work invites people to reflect, grow, and discover new insights about themsel
 
 You can also learn more about what I do by reading this interview I did with [Canvas Rebel](https://canvasrebel.com/meet-arcadia-page/). 
 
-I love the process of building a creative, simple, healthy, and introspective life because I believe that is what leads to growth and joy. As a neurodivergent empath living with chronic pain, I feel more empowered when I work from a place of compassion instead of stress.
+I love the process of building a creative, simple, healthy, and introspective life because I believe that is what leads to growth and joy. As a neurodivergent writer living with chronic pain, I feel more empowered when I work from a place of compassion instead of stress.
 
 I've written many books, and they are [available for purchase](https://payhip.com/ArcadiaPage/collection/books) if they resonate with you. 
 
