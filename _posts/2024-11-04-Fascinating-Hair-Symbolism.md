@@ -17,6 +17,8 @@ subtitle: 'Your hair could be saying things about your personal growth'
 
 So I’m currently writing a fanfic, and out of all the crazy stuff I’ve written so far, I feel like this move was the most controversial. That’s because when you change a character’s hair, it drastically alters how they are perceived, and I’m actually a little embarrassed by how much I write about hair in this story. 
 
+![Hair symbolism](/uploads/The-fascinating-symbolism-of-hair.png "a variety of different hair colors, red, blond, black and brown"){: .mx-auto.d-block :}
+
 # Hair Symbolism 
 
 Hair in general represents the way we present ourselves to the world. It’s how others see us, and how we want to be seen. I think it’s fascinating how in stories, major changes in a character’s hair can carry a lot of meaning. I love digging into stuff like this, especially how it presents itself in my own creative work. 
