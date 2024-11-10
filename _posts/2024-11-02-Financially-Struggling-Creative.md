@@ -15,6 +15,8 @@ I believe that artists absolutely should live lives of having what they need mat
 
 For much of that time, the biggest payment you may receive is your own personal fulfillment.
 
+![financially struggling creative](/uploads/On-being-a-financially-struggling-creative.png) {: .mx-auto.d-block :}
+
 I know fulfillment doesn't pay the bills and give you food to eat, but I want you to know that, it's okay to live a life that is simple. It's okay to forego the traditional housing/transportation/technology/furniture/family/ways of finding food to do your work, if you're up to the challenge.
 
 And this isn't coming from some rich person who decided to let go of their material things. No. I'm actually a normal financially strapped person with only $100 in the bank and about the same amount in savings this week. I'm also a minimalist, and I know my life is much better by having a creative minimalist mindset.
