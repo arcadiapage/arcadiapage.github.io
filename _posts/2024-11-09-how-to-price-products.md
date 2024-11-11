@@ -21,6 +21,9 @@ These changes in pricing have helped move my work towards being more sustainable
 
 So here I'm sharing some thoughts and observations in hopes of creating a balance between building financial sustainability for me and accessibility for you.
 
+![How I Price My Digital Products](/uploads/how-i-price-my-books-and-other-products.png){: .mx-auto.d-block :}
+
+
 # Pay What You Want 
 
 All of the products in my shop are set to Pay-What-You-Want. However, over time all **non-book** products will be set to a **minimum** price, and will also have a higher, **recommended** price point. 
