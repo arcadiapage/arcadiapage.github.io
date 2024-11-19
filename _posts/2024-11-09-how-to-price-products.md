@@ -26,7 +26,7 @@ So here I'm sharing some thoughts and observations in hopes of creating a balanc
 
 # Pay What You Want 
 
-All of the products in my shop are set to Pay-What-You-Want. However, over time all **non-book** products will be set to a **minimum** price, and will also have a higher, **recommended** price point. 
+All of the products in my shop are set to Pay-What-You-Want. However, over time some of my **non-book** products will be set to a **minimum** price, and will also have a higher, **recommended** price point. 
 
 The recommended price is what I need to run a sustainable business, but if you currently can't pay that, it's totally okay. That's why I'm setting it to Pay-What-You-Want in the first place.
 
