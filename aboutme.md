@@ -10,9 +10,7 @@ My name is Arcadia Page, and I'm an intuitive artist/writer.
 
 In a world that is always pressuring us to conform, I believe that fulfillment comes from trusting in your intuition and quirks. When we stop people-pleasing and create from the heart, that's when we become empowered and resourceful. 
 
-I've found that whenever I create  stories, art, and reflections that bubble up from my heart and intuition, I help others to see things from new perspectives. 
-
-So this is my journey—and I hope it inspires yours. Here's what you can learn from me:
+I've found that whenever I create the stories, art, and reflections that bubble up from my heart and intuition, I help others to see things from a new perspective. So this is my journey—and I hope it inspires yours. Here's what you can learn from me:
 
 - How to be [productive with less stress and burnout and celebrate little wins.](https://arcadiapage.com/2023-10-31-Three-Essential-Steps-to-Better-Productivity-Highly-Sensitive-Person/) I'm all about [reaching goals the easy and fun way.](https://arcadiapage.com/2023-09-30-What-To-Do-When-Overthinking-Your-Goals/)
 - How to work with [scattered thinking, inspiration and creative chaos.](https://arcadiapage.com/2023-10-31-Multipotentialite-You're-Not-As-Lost-As-You-Think/)
