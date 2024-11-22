@@ -4,7 +4,7 @@ layout: page
 subtitle: All that you need to know...
 ---
 
-![Blog-profile-pic.png](https://i.postimg.cc/SsWR0JsC/Blog-profile-pic.png)
+![Blog-profile-pic.png](https://i.postimg.cc/SsWR0JsC/Blog-profile-pic.png) {: .mx-auto.d-block :}
 
 My name is Arcadia Page, and I'm an intuitive artist/writer.
 
