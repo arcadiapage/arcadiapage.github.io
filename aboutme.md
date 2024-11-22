@@ -4,7 +4,7 @@ layout: page
 subtitle: All that you need to know...
 ---
 
-![profilepic.png](https://i.postimg.cc/gjR4vKwG/profilepic.png)
+![Blog-profile-pic.png](https://i.postimg.cc/SsWR0JsC/Blog-profile-pic.png)
 
 My name is Arcadia Page, and I'm an intuitive artist/writer.
 
@@ -33,9 +33,10 @@ I'm best known for:
 
 # Where to find me/contact me
 
-[![mail-40px.png](https://i.postimg.cc/yxz84Qmx/mail-40px.png)](mailto:arcadiapage@gmail.com) [![pinterest-40px.png](https://i.postimg.cc/gJh27F61/pinterest-40px.png)](https://www.pinterest.com/arcadiapage/) 
-
-You can also follow me on Instagram [@arcadiapage](https://www.instagram.com/arcadiapage?igsh=emR6a2R0ZzNpanJx) and on Mastodon at [@arcadiapage@mastodon.art](https://mastodon.art/web/@arcadiapage).
+- [Email](mailto:arcadiapage@gmail.com)
+- [Pinterest](https://www.pinterest.com/arcadiapage/)
+- [Instagram](https://www.instagram.com/arcadiapage?igsh=emR6a2R0ZzNpanJx)
+- [Mastodon.art](https://mastodon.art/web/@arcadiapage)
 
 # Other Blogs
 
