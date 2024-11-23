@@ -33,7 +33,7 @@ navbar-links:
   - About Me: aboutme
   - Thoughts: https://arcadia.thoughts.page
   - Disclosure: https://payhip.com/ArcadiaPage/privacy-policy
-avatar: "/assets/img/avatar_icon2.png"
+avatar: "assets/img/Blog-heading-avatar.png"
 round-avatar: true
 social-network-links:
   email: arcadia@arcadiapage.com
