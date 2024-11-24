@@ -6,7 +6,7 @@ subtitle: All that you need to know...
 
 ![Blog-profile-pic.png](https://i.postimg.cc/SsWR0JsC/Blog-profile-pic.png){: .mx-auto.d-block :}
 
-My name is Arcadia Page, and I'm an intuitive artist/writer.
+My name is Arcadia Page, and I'm an intuitive artist & writer.
 
 In a world that is always pressuring us to conform, I believe that fulfillment comes from trusting in your intuition and quirks. When we stop people-pleasing and create from the heart, that's when we become empowered and resourceful. 
 
@@ -29,7 +29,9 @@ I'm best known for:
 - [Idealist Dreams: How I Learned to Plan as an INFP](https://payhip.com/b/KrBh)
 - And my ancient yet finished webcomic, [Mascara](https://ia801806.us.archive.org/33/items/smackjeeves-59912/59912/index.html#1) (It was saved from the sinking ship that was Smackjeeves to the Internet Archives by some awesome people. Thank you ❤️ Creating this comic was a lovely learning process that I'll never forget).
 
-[To see ALL of my products, click here](https://payhip.com/ArcadiaPage)
+[To see ALL of my products, click here](https://payhip.com/ArcadiaPage).
+
+**Feel inspired to follow your inner creative compass?** Let’s connect and explore the messy, authentic magic of your vision.
 
 # Where to find me/contact me
 
