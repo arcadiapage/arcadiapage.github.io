@@ -49,3 +49,15 @@ Being aware of my personality type also helps me to value my intuition. I'm an I
 With the [Money Archetypes](https://arcadiapage.com/2024-02-20-sacred-money-archetypes-test-what-i-think/), I'm a Accumulator/Alchemist/Romantic. The Accumulator is the logic side of things, but the Alchemist and Romantic are both very intuitive. Also my neurodivergent traits as a highly sensitive person and ADHDer speak to my sharp intuition.
 
 I clearly know that my intuition is my superpower. All I need to do is to trust it, and the unique voice that doing so gives me. So do you consider yourself an intuitive writer or artist? How has your feelings towards being intuitive (or not!) impacted your creative process?
+
+If you feel like learning more about my process as an intuitive writer and artist, you may also enjoy my upcoming book, **Traveling by Starlight: How I Learned to Trust My Inner Creative Compass**. 
+
+This book is a collection of posts from my blog that share how I've learned to trust my intuition in my creative process and beyond.
+
+While these posts can be read for free on my blog, to be honest, my blog can be overwhelming! I've shared so many tips and tricks that I've learned over the past ten-plus years. 
+
+So with that in mind, I've thoughtfully curated this ebook that outlines the basics of my process for creatives who want to learn how to have more trust in their process and intuitive judgement as well.
+
+This book is also for those who wish to enjoy my work offline and support me while I create. 
+
+If you would like to be notified of when it's available, you can do so by [signing up for my email list.](https://arcadiapage.substack.com/)
