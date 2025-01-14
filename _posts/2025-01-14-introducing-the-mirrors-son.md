@@ -35,6 +35,9 @@ I'm not creating these flash fiction stories in chronological order, and it's ki
 **So are you ready to read the first story of this flash fiction collection? Here it is:**
 
 
+---
+
+
 # A Father's Promise
 
 Mr. Aldemar Thornfield believed it was impossible to apologize enough. 
