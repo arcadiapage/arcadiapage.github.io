@@ -24,7 +24,7 @@ Overall, I believe the changes have been good. However, there are also things th
 
 So yes, there is a lot of fiery destruction going on around here, and I'm all for it. **Let's destroy all of the out-of-date and fake ideas about ourselves, shall we?** 
 
-I feel like doing so and letting all of this stuff go is making my work feel more aligned what I actually care about. I believe in the power of intuition and creativity. I love resourcefulness and facing challenges with resilience. I'm still suffering from chronic pain, and although it isn't nearly as bad as before, I still have to face the reality of it. I may have to straight up write about it sometimes. 
+I feel like doing so and letting all of this stuff go is making my work feel more aligned with what I actually care about. I believe in the power of intuition and creativity. I love resourcefulness and facing challenges with resilience. I'm still suffering from chronic pain, and although it isn't nearly as bad as before, I still have to face the reality of it. I may have to straight up write about it sometimes. 
 
 Honestly, I've been avoiding doing so out of fear that others won't appreciate hearing about that aspect of my life, but overall I don't feel like that matters so much. I'm not ashamed of my humanity. Fully honoring my experience is the strongest and most creative thing I can do. I know sharing this part of myself diverges some from the productivity and personality type topics that I've been sticking to for so long, but I'm just not... 
 
