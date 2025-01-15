@@ -26,6 +26,8 @@ The nice thing about this being a collection of flash fiction is that each story
 
 I will be posting selected pieces of flash fiction for this collection here on my blog, but the entire collection of stories will be available though a Substack newsletter that I'm dedicating to this project. And I hope that over time, as this collection grows, I can publish it to ebook retailers, but we'll see how it goes.
 
+(UPDATE: The Substack is now live! Sign up to get this flash fiction collection in your email by [clicking here](https://themirrorsson.substack.com/))
+
 # Is this project done?
 
 No, it's a serialized work in progress. I'll be sharing each part of this project to Substack as I create it. Currently, I don't have a set schedule for updates, but I'm thinking it may end up being biweekly. One important thing I want to point out is that I am pulling material from my almost 80,000 word fanfic to create these stories, so it's very likely that I'll be updating this project for a while.
@@ -65,4 +67,9 @@ He gave his father an encouraging smile. Aldemar sighed and gave the boy a gentl
 He looked into his son's soft, ocean green eyes and saw too much of her--his forever lost wife. Her optimism had blinded her. Her innocence had ruined her. A deep ache bloomed in his chest.
 
 Naivety was the enemy, and Aldemar would drive it out of his son, even if it cost him the boy's love. He would not let his son fall victim to the same fate. 
+
+
+---
+
+Thanks for reading! To get notified of new stories and to recieve them in your email, [click here](https://themirrorsson.substack.com/).
 
