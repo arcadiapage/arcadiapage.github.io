@@ -28,6 +28,8 @@ I will be posting selected pieces of flash fiction for this collection here on m
 
 (UPDATE: The Substack is now live! Sign up to get this flash fiction collection in your email by [clicking here](https://themirrorsson.substack.com/))
 
+(AND ANOTHER UPDATE 1/22: Variety is the spice of life? I've decided to also make this entire collection available to read on [Panoddessy](https://panodyssey.com/en/creative/room/the-mirror-s-son-love-shadows-in-the-glass-whnwaacmafa5). I really like the reading experience there. Enjoy!)
+
 # Is this project done?
 
 No, it's a serialized work in progress. I'll be sharing each part of this project to Substack as I create it. Currently, I don't have a set schedule for updates, but I'm thinking it may end up being biweekly. One important thing I want to point out is that I am pulling material from my almost 80,000 word fanfic to create these stories, so it's very likely that I'll be updating this project for a while.
