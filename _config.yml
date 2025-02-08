@@ -42,14 +42,14 @@ url-pretty: www.arcadiapage.com
 link-tags: true
 excerpt_length: 50
 navbar-col: "#4F3685"
-navbar-text-col: "#D0A215"
+navbar-text-col: "#DFB431"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFFCF0"
 link-col: "#B22222"
 hover-col: "#A58DE5"
 footer-col: "#CDD597"
 footer-text-col: "#4F3685"
-footer-link-col: "#D0A215"
+footer-link-col: "#DFB431"
 page-img: ""
 title-separator: "-"
 date_format: "%B %-d, %Y"
