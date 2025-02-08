@@ -41,14 +41,14 @@ social-network-links:
 url-pretty: www.arcadiapage.com
 link-tags: true
 excerpt_length: 50
-navbar-col: "#31234E"
+navbar-col: "#3C2A62"
 navbar-text-col: "#E8B500"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFFCF0"
 link-col: "#B22222"
 hover-col: "#A58DE5"
 footer-col: "#3DAF6B"
-footer-text-col: "#31234E"
+footer-text-col: "#3C2A62"
 footer-link-col: "#E8B500"
 page-img: ""
 title-separator: "-"
