@@ -22,7 +22,7 @@ defaults:
   values:
     layout: page
     show-avatar: true
-description: I’m an HSP INFP writer/artist, and I enjoy sharing what is helping me build a loving relationship with life and myself. 
+description: I’m an HSP INFP intuitive writer/artist, and I enjoy sharing what is helping me build a loving relationship with life and myself. 
 author: Arcadia Page
 show_related_posts: true
 navbar-links:
@@ -47,7 +47,7 @@ navbar-border-col: "#EAEAEA"
 page-col: "#FFFCF0"
 link-col: "#AF3029"
 hover-col: "#8B7EC8"
-footer-col: "#536907"
+footer-col: "#879A39"
 footer-text-col: "#8B7EC8"
 footer-link-col: "#DFB431"
 page-img: ""
