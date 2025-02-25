@@ -66,7 +66,7 @@ For me, social media feels like being locked in a room full of people who want m
 
 However, the problem is that I'm only one person. So not only am I overwhelmed by the idea of giving my attention to so many people, but also this is something that I need too. I need to be seen too. And being stuck in a room where everyone wants me to see them, only makes me wonder if anyone cares about seeing me in return. In that kind of space, it's easy to doubt if anyone does.
 
-But when I leave that room and close the door behind me, I finally do have the space to be seen. Because instead of being forced to look at everyone else, I finally have the space to see and recognize myself. It's so easy to see other people. But it's hard to see myself.
+But when I leave that room and close the door behind me, I finally do have the space to be seen. Because instead of being forced to look at everyone else, I finally have the space to see and recognize myself. It's so easy to see other people. [But it's hard to see myself.](https://arcadiapage.com/2024-03-24-enneagram-type-3-how-to-be-yourself/)
 
 Social media platforms are designed to be spaces of perpetual desperation, almost in reflection of the companies that own them. At times, I've felt embarrassed that my social media presence is so low, but at the same time I know that it's a protection.
 
