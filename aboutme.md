@@ -8,7 +8,9 @@ subtitle: All that you need to know...
 
 My name is Arcadia Page, and I'm an intuitive artist, writer & creative rebel.
 
-In a world full of pressure to conform, I believe that fulfillment comes from trusting in my intuition and quirks. When we stop people-pleasing and create from the heart, that's when we become empowered and resourceful. This blog is my personal space for documenting and sharing my creative and intuitive life in a way that feels natural and unpressured. It's my goal for this to grow into a space where I can post whatever feels alive for me—be it thoughts on my creative process, raw moments of intuition, or snapshots of my day (even if they're messy or "ugly" by Instagram standards).
+In a world full of pressure to conform, I believe that fulfillment comes from trusting in my intuition and quirks. When we stop people-pleasing and create from the heart, that's when we become empowered and resourceful. 
+
+This blog is my personal space for documenting and sharing my creative and intuitive life in a way that feels natural and unpressured. It's my goal for this to grow into a space where I can post whatever feels alive for me—be it thoughts on my creative process, raw moments of intuition, or snapshots of my day (even if they're messy or "ugly" by Instagram standards).
 
 I'm following my inner creative compass and this is my journey—and I hope it inspires you. Here's what you can learn from me:
 
