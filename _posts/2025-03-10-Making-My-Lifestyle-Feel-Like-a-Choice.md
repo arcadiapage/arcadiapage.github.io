@@ -9,17 +9,33 @@ layout: post
 subtitle: ''
 ---
 
-It's too bad that people tend to snub the best overlooked resources. Diamonds in the rough. Right now my husband and I don't have much money, so I've been dividing our shopping between Target and the Dollar Tree. At Target I can find vegetables, fruits, etc... for around a dollar or less for each item. At the Dollar Tree, most items are $1.25, so that has been a great resource for getting basic household items and pantry supplies.
+It's too bad that people tend to snub the best overlooked resources. 
 
-I've always had a knack for finding good stuff in the midst of what a lot of people would just ignore or assume is just a bunch of crap. I think it's so cool how I can buy whole milk for like a dollar at the Dollar Tree and use that to enjoy my gluten free breakfast cereal from Amazon which I load up with sliced banana and apple that I picked up at Target. There is so much certified gluten free stuff at the Dollar Tree, but people don't typically think of looking there for those kinds of items. And although the food amounts are smaller than what's at the typical grocery store, in general it's true that people in "developed" countries waste so much food. Food waste is so common it makes me think that maybe, especially in the US where I live, maybe...we should be buying less anyways?
+Right now my husband and I don't have much money, so I've been dividing our shopping between Target and the Dollar Tree. At Target I can find vegetables, fruits, etc... for around a dollar or less for each item. At the Dollar Tree, most items are $1.25, so that has been a great resource for getting basic household items and pantry supplies.
 
-My favorite thing about making the most of what I have is how it makes me feel. On one end, it makes me frustrated because I'm always trying to solve problems and manage the flow of resources all the time. But on the flip side, when I find a good solution to an issue, I feel like I can handle anything. So what if I don't have any money this week? There is a way to make what I already have work and things have a way of working themselves out anyways. 
+I've always had a knack for finding good stuff in the midst of what a lot of people would just ignore or assume is just a bunch of crap. Diamonds in the rough.
 
-Lately, I've been thinking deeply about how I can create a minimalist lifestyle that I can stick with for the long term. Maybe minimalist isn't quite the right word for it. And I don't care for the word frugal either, although what I'm aiming for is that. The best word for what I want is economical. I want to build a lifestyle that is permanently economical that fits my needs and the way I function in the world.
+I think it's so cool how I can buy whole milk for like a dollar at the Dollar Tree and use that to enjoy my gluten free breakfast cereal from Amazon which I load up with sliced banana and apple that I picked up at Target. There is actually a good amount of certified gluten free stuff at the Dollar Tree, but people don't typically think of looking there for those kinds of items. 
 
-As I was bouncing ideas around in my head to figure out what this lifestyle could look like, I couldn't help hitting up ChatGPT to add some scope to my brainstorming. I thought about the aesthetics I enjoy, what I love doing, and what I actually need to feel fulfilled. In the end, I came up with something that's cozy, streamlined, and eclectic.
+Although the food amounts there are smaller than what's at the typical grocery store, in general it's true that people in "developed" countries waste so much food. Food waste is so common it makes me think that maybe, especially in the US where I live, maybe...we should be buying less anyways?
+
+My favorite thing about making the most of what I have is how it makes me feel. To be real, sometimes it does make me frustrated because I'm always trying to solve problems and manage the flow of resources all the time. But on the flip side, when I find a good solution to an issue, I feel like I can handle anything. So what if I don't have any money this week? There is a way to make the most of what I already have and things have a way of working themselves out anyways. 
+
+# Long Term Minimalism
+
+Lately, I've been thinking deeply about how I can create a minimalist lifestyle that I can stick with for the long term. 
+
+Maybe "minimalist" isn't quite the right word for it. And I don't care for the word "frugal" either, although what I'm aiming for is that. The best word for what I want is "economical". I want to build a lifestyle that is permanently economical that fits my needs and the way I function in the world.
+
+As I was bouncing ideas around in my head to figure out what this lifestyle could look like, I couldn't help hitting up ChatGPT to add some scope to my brainstorming. I thought about the aesthetics I enjoy, what I love doing, and what I actually need to feel fulfilled. 
+
+In the end, I came up with something that's cozy, streamlined, and eclectic.
 
 Here are some elements of my ideal minimalist lifestyle, going from physical aesthetics to lifestyle pillars, courtesy of ChatGPT. And this has been a great way to see that I can have very little money and still create a life that makes me fulfilled.
+
+Since I'm high-sensation seeking, having a typical minimalist lifestyle won't have enough variety for me. I need things to be eclectic. Which is also why I call my ideal lifestyle economical--not exactly minimalist.
+
+From ChatGPT:
 
 *Core Elements:*
 
@@ -33,8 +49,6 @@ Here are some elements of my ideal minimalist lifestyle, going from physical aes
 
 *DIY personal touches – Handmade items, thrift flips, upcycled elements that give character without clutter.*
 
-**Since I'm high sensation seeking, having a typical minimalist lifestyle won't have enough variety for me. I need things to be eclectic. Which is also why I call my ideal lifestyle economical--not exactly minimalist.**
-
 Since novelty fuels you, your minimalism must be flexible and refreshing, not rigid and boring.
 
 How to build novelty into your life naturally:
@@ -47,9 +61,11 @@ How to build novelty into your life naturally:
 
 📷 Instant Photography & Journaling: Since you love instant photography, create a minimalist way to display & rotate your photos—like a string light display or a rotating gallery wall.
 
-**And of course, having a vision for spending and lifestyle is essential:**
+**My thoughts: And of course, having a vision for spending and lifestyle is essential...**
 
-Spending Priorities:
+ChatGPT cont:
+
+Spending Priorities
 
 ✔ Essential Stability First: Rent, utilities, AIP-friendly food, self-care essentials.
 
