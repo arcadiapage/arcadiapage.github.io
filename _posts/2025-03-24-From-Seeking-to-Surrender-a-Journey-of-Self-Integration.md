@@ -86,7 +86,9 @@ So besides being a vibrant exploration of my subconscious, what is the point of 
 
 Practically, this new dynamic shows up in my life in many ways. First, I just don't feel the same urgency to try and do all the things. 
 
-I still love exploring and learning, but the energy behind it all just doesn't feel the same. Before it was like I was trying to find something beyond my grasp. Exploring felt like work, and honestly I felt rushed and overwhelmed sometimes—like I always had to keep moving, but I didn't know why. It was like I had something to prove. I used to have a lot of restless energy, but now that's just…gone. As the Wandering Explorer, I was desperately looking for excitement and validation outside of myself, and it was tiring. As pointed out in my archetypes test, I was looking for the excitement of growth. I just didn't know where to find it. But now I explore to follow my curiosity and do what I love, all of the excitement is already within…me. 
+I still love exploring and learning, but the energy behind it all just doesn't feel the same. Before it was like I was trying to find something beyond my grasp. Exploring felt like work, and honestly I felt rushed and overwhelmed sometimes—like I always had to keep moving, but I didn't know why. It was like I had something to prove. I used to have a lot of restless energy, but now that's just…gone. 
+
+As the Wandering Explorer, I was desperately looking for excitement and validation outside of myself, and it was tiring. As pointed out in my archetypes test, I was looking for the excitement of growth. I just didn't know where to find it. But now I explore to follow my curiosity and do what I love, all of the excitement is already within…me. 
 
 I already feel alive. My exhilaration, aliveness and joy is intrinsic and self-sustaining. I don't need to seek it outside of myself. The spark of joy lives in me. 
 
