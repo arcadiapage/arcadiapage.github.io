@@ -18,9 +18,7 @@ However lately, I've discovered some concepts for structuring my day that don't 
 
 I'm not obsessive about following my chronotype perfectly (I'm a Dolphin, BTW), but learning more about chronotypes and natural cycles has helped me to build a simple, three part structure for my day that is flexible, enjoyable, and helps me to [show up daily](https://arcadiapage.com/2023-04-28-reaching-creative-goals-a-little-every-day/) for what's important to me.
 
-*(P.S. If you would like to learn more about planning and organizing your day as an INFP, check out my book [Idealist Dreams: How I Learned to Plan as an INFP](https://payhip.com/b/KrBh))*
 
-Picture:
 ![How I Create Gentle Daily Structure as an INFP](/uploads/create-gentle-daily-structure-infp.png "INFP organization INFP planner INFP Personal Growth INFP Organized"){: .mx-auto.d-block :}
 
 # Here's My Current Daily Structure
@@ -144,5 +142,6 @@ I'm very fortunate right now to have pretty much total control over my day. This
 
 This can be especially powerful if you include meaningful activities that you would like to show up for every day, even if for a little while. Although your schedule is mostly out of your hands, you can still do what it takes to nourish yourself.
 
+If you would like to learn more about planning and organizing your day as an INFP, you may also appreciate my books, [Idealist Dreams: How I Learned to Plan as an INFP](https://payhip.com/b/KrBh) and [Wildly Flexible: Routines for Neurodivergent Rebels](https://payhip.com/b/ai65M), which are currently available at your favorite ebook store or digital library. 
 
 
