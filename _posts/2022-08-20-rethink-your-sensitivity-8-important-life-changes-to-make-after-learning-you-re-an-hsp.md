@@ -21,7 +21,7 @@ Making these shallow gestures towards my sensitivity distracted me from the deep
 ![highly sensitive person trait traits of highly sensitive person](/uploads/eleven-traits-highly-sensitive-person.png "Eleven traits that show up when you ignore your needs as a highly sensitive person"){: .mx-auto.d-block :}
 
 
-**(If you like this post, you may also like my latest book: [Love Your Sensitivity:7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person](https://payhip.com/b/KI5eW).  You can find it now at your favorite ebook retailer!)**
+**(If you like this post, you may also like my latest book: [Love Your Sensitivity:7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person](https://payhip.com/b/KI5eW).  You can find it at your favorite ebook retailer or library.)**
 
 ## Know the Signs
 
@@ -50,6 +50,8 @@ Reacquainting myself with my sensitive nature has been both difficult and exhila
 If you are an HSS HSP, like I am, you have to approach being sensitive differently from someone who is not. For one thing, **under-stimulation** can end up being as much of a problem as **overstimulation.** As a high sensation seeker, I have to watch out for instigating my overstimulation, especially when facing boredom. I like action, movement, noise, and stimulation. However, I have to be aware of my thresholds. Sometimes when I listen to music, I start playing it loud, but as time goes on, I have to lower the volume and lower it some more, and then I reach a point where listening to it is irritating. I often jump into things with full intensity, but then have to slow down my pace or "lower the volume."
 
 If you're an HSS HSP, pay attention to how you deal with quiet and boredom. Find ways to deal with under-stimulation without pushing yourself into overstimulation. You can take [this test](https://hsperson.com/test/high-sensation-seeking-test/) to see if you are High Sensation Seeking at Elaine Aaron's website.
+
+(2025 UPDATE: It's been a very long journey, but it's totally possible to go from high sensation seeking to surrender. Read more in my post, [From Seeking to Surrender – A Journey of Self-Integration](https://arcadiapage.com/2025-03-24-From-Seeking-to-Surrender-a-Journey-of-Self-Integration/))
 
 **Take an honest look at your diet.**
 
@@ -93,13 +95,6 @@ If so, you may need to readjust your feelings towards resting. Instead of thinki
 
 Also, don't forget to take moments to get in touch with how you feel. This counts as rest as well.
 
-I've written quite a few posts on the importance of rest; here they are if you would like to check them out:
-
-* [Why Breaks are Essential for Me as an INFP](https://arcadiapage.com/2020-12-29-how-to-use-breaks-to-reduce-infp-stress/)
-* [How to Deal With INFP Burnout at Work](https://arcadiapage.com/2021-07-29-how-to-deal-with-infp-burnout-at-work/)
-* [What INFPs Can Do When Feeling Burned Out From Thoughts and Emotions](https://arcadiapage.com/2022-04-30-what-infps-can-do-when-feeling-burned-out-from-thoughts-and-emotions/)
-* [How I Plan to Slow Down Today](https://arcadiapage.com/2018/09/how-i-plan-to-slow-down-today.html)
-
 **Find a bodyworker ASAP.**
 
 I used to think that getting a massage was only for wealthy people who didn't know what to do with their time. But, after getting my first massage, all I could say was, "Why didn't I do this earlier???"
@@ -125,5 +120,3 @@ My favorite letting go practices are forgiveness, decluttering, saying goodbye, 
 Forgiveness and letting go aren't about forgetting what happened -- They're about releasing the grip of the things that keep you stuck from moving forward. You move from a place of blame to a place of finding comfort, peace, and actual solutions.
 
 So this is my super list of things I think highly sensitive people need in their lives. I so wish I knew I needed these things a long time ago.
-
-**Any thoughts on this post?** ✨ **Feel free to let me know what you think via** [**chat or email!**](https://arcadiapage.com/coffee/)
