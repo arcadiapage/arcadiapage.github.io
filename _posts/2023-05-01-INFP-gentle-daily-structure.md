@@ -8,6 +8,8 @@ layout: post
 subtitle: ''
 ---
 
+*(If you would like to learn more about planning and organizing your day as an INFP, you may also appreciate my books, [Idealist Dreams: How I Learned to Plan as an INFP](https://payhip.com/b/KrBh) and [Wildly Flexible: Routines for Neurodivergent Rebels](https://payhip.com/b/ai65M), which are currently available at your favorite ebook store or digital library.)*
+
 Nooo! It's the "S" word!
 
 Seriously though, I've never hated the idea of structure. In my mind, structure is a way to regularly show up for what is important to me.
@@ -141,7 +143,4 @@ I'm very fortunate right now to have pretty much total control over my day. This
 *Can you take 10 minutes to journal before bed?*
 
 This can be especially powerful if you include meaningful activities that you would like to show up for every day, even if for a little while. Although your schedule is mostly out of your hands, you can still do what it takes to nourish yourself.
-
-If you would like to learn more about planning and organizing your day as an INFP, you may also appreciate my books, [Idealist Dreams: How I Learned to Plan as an INFP](https://payhip.com/b/KrBh) and [Wildly Flexible: Routines for Neurodivergent Rebels](https://payhip.com/b/ai65M), which are currently available at your favorite ebook store or digital library. 
-
 
