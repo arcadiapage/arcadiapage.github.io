@@ -111,3 +111,7 @@ Like the pulse of a poem.
 Like the hush before a masterpiece.
 
 Like the music of my own soul.
+
+---
+
+*Of course there's an [ever evolving Pinterest board](https://pin.it/2QHjJcuRv) for this story...*
