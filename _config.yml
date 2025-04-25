@@ -41,8 +41,8 @@ social-network-links:
 url-pretty: www.arcadiapage.com
 link-tags: true
 excerpt_length: 50
-navbar-col: "#4F3685"
-navbar-text-col: "#DFB431"
+navbar-col: "#205EA6"
+navbar-text-col: "#E1ECEB"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFFCF0"
 link-col: "#AF3029"
