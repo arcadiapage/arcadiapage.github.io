@@ -41,16 +41,16 @@ social-network-links:
 url-pretty: www.arcadiapage.com
 link-tags: true
 excerpt_length: 50
-navbar-col: "#66A0C8"
-navbar-text-col: "#E1ECEB"
+navbar-col: "#92BFDB"
+navbar-text-col: "#FFFCF0"
 navbar-border-col: "#EAEAEA"
-page-col: "#F2F0E5"
+page-col: "#FFFCF0"
 link-col: "#205EA6"
 hover-col: "#ABCFE2"
 footer-col: "#66A0C8"
 footer-text-col: "#163B66"
 footer-link-col: "#3171B2"
-page-img: "assets/img/ricepaper2.png"
+page-img: ""
 title-separator: "-"
 date_format: "%B %-d, %Y"
 markdown: kramdown
