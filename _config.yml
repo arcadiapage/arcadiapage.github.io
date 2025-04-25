@@ -50,7 +50,7 @@ hover-col: "#ABCFE2"
 footer-col: "#E1ECEB"
 footer-text-col: "#4F3685"
 footer-link-col: "#DFB431"
-page-img: "assets/img/so-white.png"
+page-img: "assets/img/ricepaper2.png"
 title-separator: "-"
 date_format: "%B %-d, %Y"
 markdown: kramdown
