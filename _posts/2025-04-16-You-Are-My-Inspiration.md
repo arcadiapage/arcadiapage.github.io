@@ -9,7 +9,7 @@ layout: post
 subtitle: ''
 ---
 
-This is a completely fictional story! 
+This is a completely fictional story. Sort of...
 
 ---
 
@@ -204,3 +204,5 @@ Morning light.
 I could still hear him in my mind. 
 
 There would be no chance of us ever meeting like that again. All of this was just my mind diving into illusion. I was sure of it.
+
+[*Story continues with The Garden...*](https://arcadiapage.com/2025-04-19-the-garden/)
