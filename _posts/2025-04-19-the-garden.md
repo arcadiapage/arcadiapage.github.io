@@ -8,7 +8,7 @@ tags:
 layout: post
 subtitle: ''
 ---
-*You're My Inspiration continued...*
+[*You're My Inspiration continued...*](https://arcadiapage.com/2025-04-16-You-Are-My-Inspiration/)
 
 Weeks went by after my meeting on the lake with that shape-shifting man.  Part of me wanted to obsess over it—to attempt to draw him with pencils and write down his words, just so I could make more sense of what exactly he was to me.
 
