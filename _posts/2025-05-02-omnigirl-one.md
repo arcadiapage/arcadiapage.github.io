@@ -258,4 +258,6 @@ I heard the constant pit-pat of her shoes as she continued to run down the stree
 
 That was so weird. I couldn’t even begin trying to understand it. I shrugged and continued picking up the papers.
 
+![Inneruniverse-Icon.png](https://i.postimg.cc/3Jb3kZhP/Inneruniverse-Icon.png)
+
 🔹[Table of Contents](https://arcadiapage.com/2025-05-02-Omnigirl-Collection-Index/)
