@@ -8,12 +8,11 @@ tags:
 layout: post
 subtitle: 'The girl who carries the whole universe inside of her'
 ---
-  
 The girl who is becoming everything she truly is. 
 
-Main Story Title: Omnigirl
+**Main Story Title:** Omnigirl
 
-Alternative Title: The Five
+**Alternative Title:** The Five
 
 Originally written in 2001/2002 💿
 
