@@ -4,7 +4,7 @@ layout: page
 subtitle: All that you need to know...
 ---
 
-![Red-Gradient-Profile-Photo-Instagram-Post.png](https://i.postimg.cc/0yPNbfPm/Red-Gradient-Profile-Photo-Instagram-Post.png) {: .mx-auto.d-block :}
+![Red-Gradient-Profile-Photo-Instagram-Post.png](https://i.postimg.cc/0yPNbfPm/Red-Gradient-Profile-Photo-Instagram-Post.png){: .mx-auto.d-block :}
 
 My name is Arcadia Page, and I'm an intuitive artist, writer & creative rebel.
 
