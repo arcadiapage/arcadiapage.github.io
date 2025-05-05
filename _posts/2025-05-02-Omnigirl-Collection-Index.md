@@ -17,10 +17,11 @@ The girl who is becoming everything she truly is.
 Originally written in 2001/2002 💿
 
 # Chapter List/TOC 
-(Upadated serially. A more formal introduction follows
+(Updated serially. A more formal introduction follows
 💙 )
 
-[Chapter One](https://arcadiapage.com/2025-05-02-omnigirl-one/)
+- [Chapter One](https://arcadiapage.com/2025-05-02-omnigirl-one/)
+- Chapter Two (Coming soon) 
   
   
 
