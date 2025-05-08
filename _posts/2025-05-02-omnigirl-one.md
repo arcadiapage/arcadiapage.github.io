@@ -261,3 +261,9 @@ That was so weird. I couldn’t even begin trying to understand it. I shrugged a
 ![Inneruniverse-Icon.png](https://i.postimg.cc/3Jb3kZhP/Inneruniverse-Icon.png)
 
 🔹[Table of Contents](https://arcadiapage.com/2025-05-02-Omnigirl-Collection-Index/)
+
+---
+
+[Starlight Library](https://payhip.com/b/ROPCQ) Omnigirl Symbol Key Excerpt:
+
+***Lila:** (Lee-la is how I say it) Means Divine Play or Cosmic Play (looks lovely in Sanskrit! लीला). In this story, she is the embodiment of creativity—the cosmic dance of creation. I also think it's fascinating how this name is also interpreted as dark beauty. This fits perfectly with the literal physical description of this female character in this story as well. She is a black girl of Hispanic origin.*
