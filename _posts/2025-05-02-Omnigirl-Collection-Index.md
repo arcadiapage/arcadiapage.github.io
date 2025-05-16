@@ -21,7 +21,8 @@ Originally written in 2001/2002 💿
 💙 )
 
 - [Chapter One](https://arcadiapage.com/2025-05-02-omnigirl-one/)
-- Chapter Two (Coming soon) 
+- [Chapter Two](https://arcadiapage.com/2025-05-16-omnigirl-two/)
+- Chapter Three (Coming Soon!) 
   
   
 
