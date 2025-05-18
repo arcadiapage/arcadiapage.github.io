@@ -427,3 +427,11 @@ Why did that question even cross my mind?
 Of course I am. I was born to be an Omnigirl.
 
 🔹[Table of Contents](https://arcadiapage.com/2025-05-02-Omnigirl-Collection-Index/)
+
+---
+
+[Starlight Library](https://payhip.com/b/ROPCQ) Omnigirl Symbol Key Excerpt:
+
+***The Argument with Jamie:** Jamie is a symbol of what Lila thinks she needs to be to be accepted, liked, and seen. Less cosmic creativity and more follow the rules productivity and achievement. However, Dr. Sterling comes along and makes it clear that he sees Lila exactly as she is, and she goes for it, and in doing so she expresses her bitterness towards the societal expectations (Jamie), and how they fail to make her feel worthy.*
+
+*Lila is looking for self-worth, and Omni High School, the school where girls can be all of themselves, seems to hold the key. From a purely symbolic viewpoint, this is where Lila goes to start regathering the lost pieces of herself.*
