@@ -1,49 +1,178 @@
 ---
-title: About me
+title: The Guide to the Blue Forest 
 layout: page
-subtitle: All that you need to know...
+subtitle: Here's where to start...
 ---
+My body of work is a forest full of all kinds of twisted paths, turns, and forks in the road. So dear explorer, here's your map. 
 
-![profilepic-Original.png](https://i.postimg.cc/L8qDnVSb/profilepic-Original.png){: .mx-auto.d-block :}
+Go through this guide in order or run towards whatever calls to you, because this space is for wandering. 
 
-My name is Arcadia Page, and I'm an intuitive artist, writer & creative rebel.
+Take your time. Start any where you want, any way you want. 
 
-In a world full of pressure to conform, I believe that fulfillment comes from trusting in my intuition and quirks. When we stop people-pleasing and create from the heart, that's when we become empowered and resourceful. 
+# Places and Spaces
 
-This blog is my personal space for documenting and sharing my creative and intuitive life in a way that feels natural and unpressured. It's my goal for this to grow into a space where I can post whatever feels alive for me—be it thoughts on my creative process, raw moments of intuition, or snapshots of my day (even if they're messy or "ugly" by Instagram standards).
+- [Fount White Butterfly](# Fount White Butterfly)
 
-I'm following my inner creative compass and this is my journey—and I hope it inspires you. Here's what you can learn from me:
+- [The Starlight Library](# The Starlight Library)
 
-- How to be [productive with less stress and burnout and celebrate little wins.](https://arcadiapage.com/2023-10-31-Three-Essential-Steps-to-Better-Productivity-Highly-Sensitive-Person/) I'm all about [reaching goals the easy and fun way.](https://arcadiapage.com/2023-09-30-What-To-Do-When-Overthinking-Your-Goals/)
-- How to work with [scattered thinking, inspiration and creative chaos.](https://arcadiapage.com/2023-10-31-Multipotentialite-You're-Not-As-Lost-As-You-Think/)
-- How to add [self-care and healing](https://arcadiapage.com/2024-01-29-today-do-what-heals-you/) to your day, especially if you're sensitive and intuitive.
-- If you're an INFP, [how to make the most of your personality type.](https://arcadiapage.com/2023-12-26-How-to-bring-your-INFP-Archetypes-into-Your-Everyday-Life/)
-- If you're a writer, [how to create a writing practice that is fun, gentle, and productive.](https://arcadiapage.com/2024-01-29-being-a-productive-writer-does-not-have-to-be-painful/)
+- [The Avila Room](# The Avila Room)
 
-You can also learn more about what I do by reading this interview I did with [Canvas Rebel](https://canvasrebel.com/meet-arcadia-page/). 
+- [The Avila Room: The Hall of Fluttering Leaves](# The Avila Room: The Hall of Fluttering Leaves)
 
-I've written many books, and they are [available for purchase](https://payhip.com/ArcadiaPage/collection/books) if they resonate with you. 
+- [Endless Sky Canopy](# Endless Sky Canopy)
 
-I'm best known for:
+- [Collector's Cove Atelier](# Collector's Cove Atelier)
 
-- [The Little Book of Tiny Tasks: Make Your Life More Calm While Getting Things Done 5 Minutes at a Time](https://payhip.com/b/e32lr)
-- [I Want to Do All the Things: Finding Balance as a Polymath, Multipotentialite & Renaissance Soul](https://payhip.com/b/4ljG)
-- [Idealist Dreams: How I Learned to Plan as an INFP](https://payhip.com/b/KrBh)
-- And my ancient yet finished webcomic, [Mascara](https://ia801806.us.archive.org/33/items/smackjeeves-59912/59912/index.html#1) (It was saved from the sinking ship that was Smackjeeves to the Internet Archives by some awesome people. Thank you ❤️ Creating this comic was a lovely learning process that I'll never forget).
+- [The Studio at Blue Pearl Lake](# The Studio at Blue Pearl Lake)
 
-[To see ALL of my products, click here](https://payhip.com/ArcadiaPage).
+- [The Dreamline](# The Dreamline)~Contact me here💖
 
-**Feel inspired to follow your inner creative compass?** Let’s connect and explore the messy, authentic magic of your vision.
 
-# Where to find me/contact me
 
-- [Email](mailto:arcadiapage@gmail.com)
+# Fount White Butterfly
+
+For me, creativity arrives in an endless flow.
+
+Making with my hands energizes, refreshes, and transforms me.
+
+🦋[Not Everything Has to Be Seen: The Power of Creating for Yourself](https://arcadiapage.com/2025-02-25-create-for-yourself/)
+
+Quiet is necessary if I really want to hear. Quiet is also necessary if I want to see. 
+
+Anyone who I can sit with comfortably in quiet is a potential friend.
+
+{: .mx-auto.d-block :}
+
+
+# The Starlight Library
+
+This is my deeper archive and supporter space where I share some of my audio journals and wanderings before they land on my blog. 
+
+If you wish to take some of my more unexpected and spontaneous creations with you, then give the [Starlight Library](https://payhip.com/b/ROPCQ) a look.
+
+💿Here are some audio excerpts from the library:
+
+- [Sometimes I Have No Clue What I'm Writing](https://voca.ro/1fSPwzEvnhKK)
+
+<div><iframe width="300" height="60" src="https://vocaroo.com/embed/1fSPwzEvnhKK?autoplay=0" frameborder="0" allow="autoplay"></iframe><br><a href="https://voca.ro/1fSPwzEvnhKK" title="Vocaroo Voice Recorder" target="_blank">View on Vocaroo &gt;&gt;</a></div>
+
+- [Crying is Awesome](https://arcadiapage.bandcamp.com/track/crying-is-awesome)
+
+- [Tranquility and Pleasure](https://arcadiapage.bandcamp.com/track/tranquility-and-pleasure)
+
+# The Avila Room
+
+A room of blue and white with inviting tables and cozy chairs. Here is stored my blog writing. My posts have spanned many topics over the years, from creativity and art, to productivity, personality type and nocturnal dreams.
+
+🌌Here's a curated constellation of posts to get started with. Let them sink into you. 
+
+- [From Seeking to Surrender: A Journey of Self-Integration](https://arcadiapage.com/2025-03-24-From-Seeking-to-Surrender-a-Journey-of-Self-Integration/)~Grabbing hold of my true-self and finding my soul.
+- [How I Learned that the Standard Definition of Success is Not for Me](https://arcadiapage.com/2025-04-14-how-I-learned-that-the-standard-definition-of-success-is-not-for-me/)~Let's end the delusions.
+- [How I Got the Most Out of My Myers-Briggs Test Results](https://arcadiapage.com/2017/12/how-i-got-most-out-of-my-myers-briggs.html)~How I started searching for my true self.
+- [Being a Productive Human is Simple. Working Like a Machine is Complicated](https://arcadiapage.com/2023-12-31-being-a-productive-human-is-simple/)~Loving the reality of my organic nature.
+- [I Want to Do All the Things](https://arcadiapage.com/2020-07-24-i-want-to-do-all-the-things/)~Obviously, I do what I want. 
+
+[For the full collection of my posts, click here](https://arcadiapage.com/tags/). If you wish to see even older posts, visit my archived blog, [Manga & Mascara](https://manga-arcadia.blogspot.com/).
+
+# The Avila Room: The Hall of Fluttering Leaves
+
+Within the Avila Room is a deeper space. Here my thoughts fly and flutter unhindered and even a bit unhinged--like newly released butterflies.
+
+🍃Hear their random whispers...
+
+> Sometimes during my writing sessions, I don't write much at all. Instead I simply sit and daydream, totally enraptured.
+
+> The mirror is used to seeing the reflections of everyone else within itself. But what happens when the mirror finally sees and recognizes its own reflection in truth? It vibrates. It resonates. It sings. 
+
+> I just realized that sometimes deciding to relax is the bravest thing I can do. So crazy. 
+
+> When I'm feeling overwhelmed by options, it helps to remember that my inner child knows exactly what she wants--and doesn't want.
+
+Gather more of these shorter writings from my [Thoughts Page](https://arcadia.thoughts.page/).
+
+
+# Endless Sky Canopy 
+
+Fictional dreams and imaginings live here. The lines between myth and reality blur within the words. Or...maybe not. 
+
+👑**Novels**
+
+[Omnigirl](https://arcadiapage.com/2025-05-02-Omnigirl-Collection-Index/)~Discovering the universe within.
+
+[Can the Son of a Villainess Ever Be Happy?--Miraculous Fanfic](https://archiveofourown.org/works/55811806/chapters/141698656)~Alchemizing pain into love.
+
+⚡**Short Fiction**
+
+[You Are My Inspiration](https://arcadiapage.com/2025-04-16-You-Are-My-Inspiration/)~Being reminded of what's been forgotten.
+
+[The Mirror's Son](https://arcadiapage.com/2025-01-14-introducing-the-mirrors-son/)~The echo of past reflections. Original works inspired by *Can the Son of a Villainess Ever Be Happy.*
+
+[Cat Text--Miraculous Fanfic](https://archiveofourown.org/works/58220569/chapters/148252144)~Love makes us show who we truly are.
+
+
+💭**Web Comics**
+
+[Mascara Webcomic Collection 1](https://payhip.com/b/XtCk7) and [Mascara Webcomic Collection 2](https://payhip.com/b/Crg04)~Hiding the true self behind masks and makeup.
+
+# Collector's Cove Atelier
+
+Have you enjoyed wandering this forest so much that you wish to carry it's memory home with you? Then take a moment to see what's calling to be adopted.
+
+You're not always the one choosing the items to take here. Sometimes, my creative artifacts choose you. They know their true owners. 
+
+🧭**Navigating the Seas of Exploration**
+
+[I Want to Do All the Things: Finding Balance as a Polymath, Multipotentialite & Renaissance Soul](https://payhip.com/b/4ljG)
+
+[I'm Not Lost. I'm an Explorer: A Guide to Seeing Your Path as a Polymath, Multipotentialite, and Renaissance Soul](https://payhip.com/b/THgfD)
+
+[Traveling by Starlight: Learning to Trust My Intuition as an Empathic Creative](https://payhip.com/b/gxAZ5)
+
+✒️**Writing Wonders**
+
+[Mini-Masterclass: Authentic Blogging](https://payhip.com/b/1qOci)
+
+[Thoughtful Planning:How to Use Questions for Self-reflection to Design Your Day](https://payhip.com/b/YSucT) 
+
+[I Can't Help Being an INFP Writer: 100+ Tips to Help INFP Writers Capture Ideas, Stay Motivated, and Overcome Problems](https://payhip.com/b/4tWM)
+
+[To see my entire atelier/shop, click here.](https://payhip.com/ArcadiaPage)
+
+# The Studio at Blue Pearl Lake 
+
+The red lotus blossoms.
+
+I sit before the fire. Or maybe the fire is in me. In any case, I create before it. 
+
+I create to remember. I remember, to create. My favorite CDs are on repeat. 
+
+I don't fear strangeness. It is my blanket and my sword. I laugh as I wear my paper crown made of finest gold. 
+
+💎**Charms on my Bracelet**
+
+- Interview I did with [Canvas Rebel](https://canvasrebel.com/meet-arcadia-page/)
+
+- [How to create a writing practice that is fun, gentle, and productive.](https://arcadiapage.com/2024-01-29-being-a-productive-writer-does-not-have-to-be-painful/)
+
+- [Learning to love my sensitive, empathic nature.](https://payhip.com/b/KI5eW)
+
+
+
+# The Dreamline 
+
+If something here dances in your heart, send me a [digital letter](mailto:arcadia@arcadiapage.com). I can be a bit slow sometimes, but I write back.
+
+If you would prefer to give me a soft shout-out, you can do so below: 
+
+_CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2027/th_hello-1.gif)_
+
+<iframe src="https://www3.cbox.ws/box/?boxid=3516103&boxtag=1nWV3Y" width="100%" height="450" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>
+
+
+💌**Where else you can find me**
+
 - [Pinterest](https://www.pinterest.com/arcadiapage/)
 - [Instagram](https://www.instagram.com/arcadiapage?igsh=emR6a2R0ZzNpanJx)
-- [Mastodon.art](https://mastodon.art/web/@arcadiapage)
+- [Mastodon.art](https://mastodon.art/web/@arcadiapage) 
 
-# Other Blogs
 
-[Arcadia's Thoughts](https://arcadia.thoughts.page/)
-
-[Manga & Mascara](https://manga-arcadia.blogspot.com/) (No longer updated)
