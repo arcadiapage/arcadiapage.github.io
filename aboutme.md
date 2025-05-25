@@ -69,6 +69,8 @@ Return to [Places and Spaces](# Places and Spaces)
 
 # The Avila Room
 
+![20250525-174910-0000.png](https://i.postimg.cc/K8Wf45rs/20250525-174910-0000.png){: .mx-auto.d-block :}
+
 A room of blue and white with inviting tables and cozy chairs. Here is stored my blog writing. My posts have spanned many topics over the years, from creativity and art, to productivity, personality type and nocturnal dreams.
 
 🌌Here's a curated constellation of posts to get started with. Let them sink into you. 
