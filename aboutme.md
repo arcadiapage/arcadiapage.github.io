@@ -12,27 +12,20 @@ Go through this guide in order or run towards whatever calls to you, because thi
 
 Take your time. Start any where you want, any way you want. 
 
-# Places and Spaces
+<h1><a id="places-and-spaces">Places and Spaces</a></h1>
 
-- [Fount White Butterfly](# Fount White Butterfly)
-
-- [The Starlight Library](# The Starlight Library)
-
-- [The Avila Room](# The Avila Room)
-
-- [The Avila Room: The Hall of Fluttering Leaves](# The Avila Room: The Hall of Fluttering Leaves)
-
-- [Endless Sky Canopy](# Endless Sky Canopy)
-
-- [Collector's Cove Atelier](# Collector's Cove Atelier)
-
-- [The Studio at Blue Pearl Lake](# The Studio at Blue Pearl Lake)
-
-- [The Dreamline](# The Dreamline)~Contact me here💖
+* <a href="#fount-white-butterfly">Fount White Butterfly</a>
+* <a href="#the-starlight-library">The Starlight Library</a>
+* <a href="#the-avila-room">The Avila Room</a>
+* <a href="#hall-of-fluttering">The Avila Room: Hall of Fluttering Leaves</a>
+* <a href ="#endless-sky-canopy">Endless Sky Canopy</a>
+* <a href="#collectors-cove">Collector's Cove Atelier</a>
+* <a href="the-studio-at-blue-perl-lake">The Studio at Blue Pearl Lake</a>
+* <a href="dreamline">The Dreamline</a>-contact me here 💖 
 
 ---
 
-# Fount White Butterfly
+<h1><a id="fount-white-butterfly">Fount White Butterfly</a></h1>
 
 For me, creativity arrives in an endless flow.
 
@@ -47,7 +40,7 @@ Anyone who I can sit with comfortably in quiet is a potential friend.
 
 ---
 
-# The Starlight Library
+<h1><a id="the-starlight-library">The Starlight Library</a></h1>
 
 This is my deeper archive and supporter space where I share some of my audio journals and wanderings before they land on my blog. 
 
@@ -63,11 +56,11 @@ If you wish to take some of my more unexpected and spontaneous creations with yo
 
 - [Tranquility and Pleasure](https://arcadiapage.bandcamp.com/track/tranquility-and-pleasure)
 
-Return to [Places and Spaces](# Places and Spaces) 
+Return to <a href="places-and-spaces">Places and Spaces</a>
 
 ---
 
-# The Avila Room
+<h1><a id="the-avila-room">The Avila Room</a></h1>
 
 ![20250525-174910-0000.png](https://i.postimg.cc/K8Wf45rs/20250525-174910-0000.png){: .mx-auto.d-block :}
 
@@ -83,11 +76,11 @@ A room of blue and white with inviting tables and cozy chairs. Here is stored my
 
 [For the full collection of my posts, click here](https://arcadiapage.com/tags/). If you wish to see even older posts, visit my archived blog, [Manga & Mascara](https://manga-arcadia.blogspot.com/).
 
-Return to [Places and Spaces](# Places and Spaces) 
+Return to <a href="places-and-spaces">Places and Spaces</a>
 
 ---
 
-# The Avila Room: The Hall of Fluttering Leaves
+<h1><a id="hall-of-fluttering">The Avila Room: The Hall of Fluttering Leaves</a></h1>
 
 Within the Avila Room is a deeper space. Here my thoughts fly and flutter unhindered and even a bit unhinged--like newly released butterflies.
 
@@ -103,11 +96,11 @@ Within the Avila Room is a deeper space. Here my thoughts fly and flutter unhind
 
 Gather more of these shorter writings from my [Thoughts Page](https://arcadia.thoughts.page/).
 
-Return to [Places and Spaces](# Places and Spaces) 
+Return to <a href="places-and-spaces">Places and Spaces</a>
 
 ---
 
-# Endless Sky Canopy 
+<h1><a id="endless-sky-canopy">Endless Sky Canopy</a></h1>
 
 Fictional dreams and imaginings live here. The lines between myth and reality blur within the words. Or...maybe not. 
 
@@ -130,11 +123,11 @@ Fictional dreams and imaginings live here. The lines between myth and reality bl
 
 [Mascara Webcomic Collection 1](https://payhip.com/b/XtCk7) and [Mascara Webcomic Collection 2](https://payhip.com/b/Crg04)~Hiding the true self behind masks and makeup.
 
-Return to [Places and Spaces](# Places and Spaces) 
+Return to <a href="places-and-spaces">Places and Spaces</a>
 
 ---
 
-# Collector's Cove Atelier
+<h1><a id="collectors-cove">The Collector's Cove Atelier</a></h1>
 
 Have you enjoyed wandering this forest so much that you wish to carry it's memory home with you? Then take a moment to see what's calling to be adopted.
 
@@ -158,11 +151,13 @@ You're not always the one choosing the items to take here. Sometimes, my creativ
 
 [To see my entire atelier/shop, click here.](https://payhip.com/ArcadiaPage)
 
-Return to [Places and Spaces](# Places and Spaces) 
+Return to <a href="places-and-spaces">Places and Spaces</a>
 
 ---
 
-# The Studio at Blue Pearl Lake 
+<h1><a id="the-studio-at-blue-pearl-lake">The Studio at Blue Pearl Lake</a></h1> 
+
+![20250525-173928-0000.png](https://i.postimg.cc/NGb154Q7/20250525-173928-0000.png){: .mx-auto.d-block :}
 
 The red lotus blossoms.
 
@@ -180,11 +175,11 @@ I don't fear strangeness. It is my blanket and my sword. I laugh as I wear my pa
 
 - [Learning to love my sensitive, empathic nature.](https://payhip.com/b/KI5eW)
 
-Return to [Places and Spaces](# Places and Spaces) 
+Return to <a href="places-and-spaces">Places and Spaces</a>
 
 ---
 
-# The Dreamline 
+<h1><a id="dreamline">The Dreamline</a></h1>
 
 If something here dances in your heart, send me a [digital letter](mailto:arcadia@arcadiapage.com). I can be a bit slow sometimes, but I write back.
 
@@ -202,4 +197,4 @@ _CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2
 - [Mastodon.art](https://mastodon.art/web/@arcadiapage) 
 
 
-Return to [Places and Spaces](# Places and Spaces) 
+Return to <a href="places-and-spaces">Places and Spaces</a>
