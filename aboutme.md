@@ -3,6 +3,9 @@ title: The Guide to the Blue Forest
 layout: page
 subtitle: Here's where to start...
 ---
+
+![20250525-175027-0000.png](https://i.postimg.cc/QMh05MKR/20250525-175027-0000.png){: .mx-auto.d-block :}
+
 My body of work is a forest full of all kinds of twisted paths, turns, and forks in the road. So dear explorer, here's your map. 
 
 Go through this guide in order or run towards whatever calls to you, because this space is for wandering. 
@@ -41,7 +44,6 @@ Quiet is necessary if I really want to hear. Quiet is also necessary if I want t
 
 Anyone who I can sit with comfortably in quiet is a potential friend.
 
-{: .mx-auto.d-block :}
 
 ---
 
