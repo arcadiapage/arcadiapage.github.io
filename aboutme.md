@@ -20,8 +20,8 @@ Take your time. Start any where you want, any way you want.
 * <a href="#hall-of-fluttering">The Avila Room: Hall of Fluttering Leaves</a>
 * <a href ="#endless-sky-canopy">Endless Sky Canopy</a>
 * <a href="#collectors-cove">Collector's Cove Atelier</a>
-* <a href="the-studio-at-blue-perl-lake">The Studio at Blue Pearl Lake</a>
-* <a href="dreamline">The Dreamline</a>-contact me here 💖 
+* <a href="#the-studio-at-blue-perl-lake">The Studio at Blue Pearl Lake</a>
+* <a href="#dreamline">The Dreamline</a>-contact me here 💖 
 
 ---
 
@@ -37,6 +37,7 @@ Quiet is necessary if I really want to hear. Quiet is also necessary if I want t
 
 Anyone who I can sit with comfortably in quiet is a potential friend.
 
+Return to <a href="#places-and-spaces">Places and Spaces</a>
 
 ---
 
@@ -56,7 +57,7 @@ If you wish to take some of my more unexpected and spontaneous creations with yo
 
 - [Tranquility and Pleasure](https://arcadiapage.bandcamp.com/track/tranquility-and-pleasure)
 
-Return to <a href="places-and-spaces">Places and Spaces</a>
+Return to <a href="#places-and-spaces">Places and Spaces</a>
 
 ---
 
@@ -76,7 +77,7 @@ A room of blue and white with inviting tables and cozy chairs. Here is stored my
 
 [For the full collection of my posts, click here](https://arcadiapage.com/tags/). If you wish to see even older posts, visit my archived blog, [Manga & Mascara](https://manga-arcadia.blogspot.com/).
 
-Return to <a href="places-and-spaces">Places and Spaces</a>
+Return to <a href="#places-and-spaces">Places and Spaces</a>
 
 ---
 
@@ -96,7 +97,7 @@ Within the Avila Room is a deeper space. Here my thoughts fly and flutter unhind
 
 Gather more of these shorter writings from my [Thoughts Page](https://arcadia.thoughts.page/).
 
-Return to <a href="places-and-spaces">Places and Spaces</a>
+Return to <a href="#places-and-spaces">Places and Spaces</a>
 
 ---
 
@@ -123,7 +124,7 @@ Fictional dreams and imaginings live here. The lines between myth and reality bl
 
 [Mascara Webcomic Collection 1](https://payhip.com/b/XtCk7) and [Mascara Webcomic Collection 2](https://payhip.com/b/Crg04)~Hiding the true self behind masks and makeup.
 
-Return to <a href="places-and-spaces">Places and Spaces</a>
+Return to <a href="#places-and-spaces">Places and Spaces</a>
 
 ---
 
@@ -151,7 +152,7 @@ You're not always the one choosing the items to take here. Sometimes, my creativ
 
 [To see my entire atelier/shop, click here.](https://payhip.com/ArcadiaPage)
 
-Return to <a href="places-and-spaces">Places and Spaces</a>
+Return to <a href="#places-and-spaces">Places and Spaces</a>
 
 ---
 
@@ -175,7 +176,7 @@ I don't fear strangeness. It is my blanket and my sword. I laugh as I wear my pa
 
 - [Learning to love my sensitive, empathic nature.](https://payhip.com/b/KI5eW)
 
-Return to <a href="places-and-spaces">Places and Spaces</a>
+Return to <a href="#places-and-spaces">Places and Spaces</a>
 
 ---
 
@@ -197,4 +198,4 @@ _CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2
 - [Mastodon.art](https://mastodon.art/web/@arcadiapage) 
 
 
-Return to <a href="places-and-spaces">Places and Spaces</a>
+Return to <a href="#places-and-spaces">Places and Spaces</a>
