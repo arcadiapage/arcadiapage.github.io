@@ -1,6 +1,6 @@
 ---
 title: Omnigirl Chapter Three
-date: 2025-05-16 00:00:00 -07:00
+date: 2025-05-28 00:00:00 -07:00
 tags:
 - Fiction 
 - Emotional Healing 
