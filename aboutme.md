@@ -43,7 +43,7 @@ Return to <a href="#places-and-spaces">Places and Spaces</a>
 
 <h1><a id="the-starlight-library">The Starlight Library</a></h1>
 
-[![Creative-Library-20250528-200500-0000.png](https://i.postimg.cc/hPV7jwKp/Creative-Library-20250528-200500-0000.png)](https://payhip.com/b/ROPCQ)
+[![Creative-Library-20250528-200500-0000.png](https://i.postimg.cc/jdVFSR9m/Creative-Library-20250528-200500-0000.png)](https://payhip.com/b/ROPCQ)
 
 This is my deeper archive and supporter space where I share some of my audio journals and wanderings before they land on my blog. 
 
