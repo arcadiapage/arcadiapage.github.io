@@ -82,12 +82,12 @@ In the weeks following this, I showed up as a young man once again in a dream. I
 
 I've never dreamed of being a man in a modern setting. I'm guessing that I'm usually in the 1940’s or early 1950’s. In any case, I was simply standing outside taking in the day, when a little old man in a wrinkled light gray suit approached me. He was carrying a brown leather jacket.
 
-He said,”I wanted to give your jacket back to you.”  
+He said,"I wanted to give your jacket back to you.”
 
 I took it in my hands, actually a bit confused, surprised and speechless. But the old man felt my appreciation, and after giving me a little smile, he shuffled away. 
 
 Later, this jacket appears again in my dream about [escaping the house of the six-figure business coach](https://arcadiapage.com/2025-04-14-how-I-learned-that-the-standard-definition-of-success-is-not-for-me/). In fact, in that dream, I have multiple brown leather jackets that I’m packing into a suitcase—and I’m doing so as my usual feminine self. 
 
-So as much as I like to joke about stealing the body of some poor young man, in the wild world of my subconscious, he is just another version of me. When my husband and I reminisce about the time when we were dating, he always says that the hardest thing about dating me is that I didn’t feel like I needed anyone. And that’s true. I didn’t need him—I loved him simply for being. 
+So as much as I like to joke about stealing the body of some poor young man, in the wild world of my subconscious, he is just another version of me. When my husband and I reminisce about the time when we were dating, he always says that the hardest thing about dating me was that I didn’t feel like I needed anyone. And that’s true. I didn’t need him—I loved him simply for being. 
 
 Of course, I love my husband with all that I have, but internally and psychologically, the man of my dreams is no one else but…me. Most likely even before I found love in the external world, the man that meets my “needs” has existed inside of myself.
