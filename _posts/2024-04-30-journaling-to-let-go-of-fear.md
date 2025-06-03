@@ -62,6 +62,10 @@ In the past, I’ve succeeded in turning my feelings of anger, jealousy, and unh
 To become truly alive.
 
 
+If you enjoyed this post and would like to take a piece of it with you, then don't hesistate to pick your [Pocket Full of Flowers.](https://payhip.com/b/IJcrT) 
+
+
+
 °•°•°•°•
 
 ## Free Resources… 
