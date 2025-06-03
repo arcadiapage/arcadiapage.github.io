@@ -195,9 +195,11 @@ _CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2
 
 💌**Where else you can find me**
 
+- [Substack](https://substack.com/@arcadiapage?r=682i4&utm_campaign=profile&utm_medium=profile-page)
 - [Pinterest](https://www.pinterest.com/arcadiapage/)
 - [Instagram](https://www.instagram.com/arcadiapage?igsh=emR6a2R0ZzNpanJx)
-- [Mastodon.art](https://mastodon.art/web/@arcadiapage) 
+- [YouTube](https://www.youtube.com/@ArcadiaPage)
+
 
 
 Return to <a href="#places-and-spaces">Places and Spaces</a>
