@@ -59,8 +59,12 @@ So if you're feeling overwhelmed by the chase, slow down, focus on what's alread
 
 It's okay not to rush with your ideas because you're really not missing out.  There's plenty more where that came from.❤️
 
+
 Just for fun, I've also created a printable to go along with this post. Hopefully, it'll help you to see what's great about what you're already working on. 
 
 ![](/uploads/projectlove-screenshot.png)
 
 Download [project-love.pdf](/uploads/project-love.pdf "project-love.pdf")
+
+Also if you enjoyed this post and would like to take a piece of it with you, then don't hesistate to pick your [Pocket Full of Flowers.](https://payhip.com/b/IJcrT) 
+
