@@ -66,3 +66,5 @@ Overall this list contains all the activities, places, and things that help me t
 All of these lists involve reflecting the good times, which is important for INFPs in moderation since it uses the function of [Introverted Sensing](https://infpinsights.wordpress.com/2017/04/16/introverted-sensing-si-in-infps/). But what I also like about these lists is that they encourage looking back at the past without getting stuck there.
 
 By going through the activities on my Fun List, I learned new and fascinating things about the [Japonisme](https://en.wikipedia.org/wiki/Japonisme) art movement and how that led to the [Art Nouveau](https://en.wikipedia.org/wiki/Art_Nouveau) movement, which I am falling head-over-heels for.  Returning to old pleasures can result in uncovering something new. I hope these lists will lead you to discover the unexpected as well.
+
+If you enjoyed this post and would like to take a piece of it with you, then go ahead and pick your [Pocket Full of Flowers.](https://payhip.com/b/IJcrT) 
