@@ -50,7 +50,7 @@ My experience has been that a messy studio keeps me from wanting to work in it. 
 
 Actually, I get ideas when I'm actively cleaning my space and putting things back where they belong. In fact, there have been times where I've had to stop cleaning to jot down my ideas because categorizing things makes me aware of connections that I didn't think of before. 
 
-So I guess in a round about way, being messy is good for me because then I have to clean, and cleaning sparks my creativity. 
+So I guess in a round about way, being messy is good for me because then I have to clean, and cleaning sparks my creativity. If you enjoyed this post and would like to take a piece of it with you, then don't hesistate to pick your [Pocket Full of Flowers.](https://payhip.com/b/IJcrT) 
 
 °•°•°•°•
 
