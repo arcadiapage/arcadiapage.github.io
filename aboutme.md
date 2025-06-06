@@ -10,7 +10,7 @@ My body of work is a forest full of all kinds of twisted paths, turns, and forks
 
 Go through this guide in order or run towards whatever calls to you, because this space is for wandering. 
 
-Take your time. Start any where you want, any way you want. 
+Take your time. Start any where you want, anyway you want. 
 
 <h1><a id="places-and-spaces">Places and Spaces</a></h1>
 
@@ -71,11 +71,11 @@ A room of blue and white with inviting tables and cozy chairs. Here is stored my
 
 🌌Here's a curated constellation of posts to get started with. Let them sink into you. 
 
-- [From Seeking to Surrender: A Journey of Self-Integration](https://arcadiapage.com/2025-03-24-From-Seeking-to-Surrender-a-Journey-of-Self-Integration/)~Grabbing hold of my true-self and finding my soul.
-- [How I Learned that the Standard Definition of Success is Not for Me](https://arcadiapage.com/2025-04-14-how-I-learned-that-the-standard-definition-of-success-is-not-for-me/)~Let's end the delusions.
-- [How I Got the Most Out of My Myers-Briggs Test Results](https://arcadiapage.com/2017/12/how-i-got-most-out-of-my-myers-briggs.html)~How I started searching for my true self.
-- [Being a Productive Human is Simple. Working Like a Machine is Complicated](https://arcadiapage.com/2023-12-31-being-a-productive-human-is-simple/)~Loving the reality of my organic nature.
-- [I Want to Do All the Things](https://arcadiapage.com/2020-07-24-i-want-to-do-all-the-things/)~Obviously, I do what I want. 
+- [From Seeking to Surrender: A Journey of Self-Integration](https://arcadiapage.com/2025-03-24-From-Seeking-to-Surrender-a-Journey-of-Self-Integration/)~On grabbing hold of the true-self and finding soul.
+- [How I Learned that the Standard Definition of Success is Not for Me](https://arcadiapage.com/2025-04-14-how-I-learned-that-the-standard-definition-of-success-is-not-for-me/)~For those struggling to connect with common narratives surrounding success.
+- [How I Got the Most Out of My Myers-Briggs Test Results](https://arcadiapage.com/2017/12/how-i-got-most-out-of-my-myers-briggs.html)~For explorers who are trying to uncover the true self.
+- [Being a Productive Human is Simple. Working Like a Machine is Complicated](https://arcadiapage.com/2023-12-31-being-a-productive-human-is-simple/)~For the hustle culture weary.
+- [I Want to Do All the Things](https://arcadiapage.com/2020-07-24-i-want-to-do-all-the-things/)~For anyone who loves having a treasure trove of interests.
 
 [For the full collection of my posts, click here](https://arcadiapage.com/tags/). If you wish to see even older posts, visit my archived blog, [Manga & Mascara](https://manga-arcadia.blogspot.com/).
 
@@ -196,9 +196,7 @@ _CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2
 💌**Where else you can find me**
 
 - [Substack](https://substack.com/@arcadiapage?r=682i4&utm_campaign=profile&utm_medium=profile-page)
-- [Pinterest](https://www.pinterest.com/arcadiapage/)
-- [Instagram](https://www.instagram.com/arcadiapage?igsh=emR6a2R0ZzNpanJx)
-- [YouTube](https://www.youtube.com/@ArcadiaPage)
+- Getting lost in the forest of my imagination.
 
 
 
