@@ -37,6 +37,8 @@ Quiet is necessary if I really want to hear. Quiet is also necessary if I want t
 
 Anyone who I can sit with comfortably in quiet is a potential friend.
 
+Feel free to whisper quiet dreams to [the wall of wishes.](https://arcadiapage.com/the-wishing-wall/) 
+
 Return to <a href="#places-and-spaces">Places and Spaces</a>
 
 ---
