@@ -10,4 +10,7 @@ subtitle: A chamber of sacred dreams
 Hear what's floating in the deep waters...
 
 
+Return to [The Wishing Wall.](https://arcadiapage.com/the-wishing-wall/) 
+
+
 
