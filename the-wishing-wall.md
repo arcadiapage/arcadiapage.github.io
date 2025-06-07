@@ -14,6 +14,6 @@ Maybe putting it all in words will make things feel more real.
 
 And maybe, you'll find yourself getting a little closer to where you wish to be. 
 
-Use this space to send it out. 
+Use this space to send it out. If you have dreams that feel fragile, as if they're broken and grasping for wholeness, then you may want to visit [The Hidden Well.](https://arcadiapage.com/the-hidden-well/) 
 
 
