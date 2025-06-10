@@ -154,7 +154,7 @@ You're not always the one choosing the items to take here. Sometimes, my creativ
 
 [I Can't Help Being an INFP Writer: 100+ Tips to Help INFP Writers Capture Ideas, Stay Motivated, and Overcome Problems](https://payhip.com/b/4tWM)
 
-[To see my entire atelier/shop, click here.](https://payhip.com/ArcadiaPage)
+[To see and collect all of the gems, click here.](https://payhip.com/ArcadiaPage)
 
 Return to <a href="#places-and-spaces">Places and Spaces</a>
 
