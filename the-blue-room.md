@@ -42,4 +42,14 @@ At first, I didn’t pay much attention to you. You were wearing a dark blue apr
 
 You tucked your shoulder length black hair behind one of your ears. Your golden eyes sparkled as you smiled at us. I think it’s interesting how you have a thing for unusual contact lenses. Then gripping the microphone even tighter, with your neon yellow and black nails clashing against the silver, you began to sing.
 
+uploads/kawaii-doughnuts_9.jpg
+
+uploads/jellyfish-storm_5.jpg
+
+uploads/snooze-alarm_14.jpg
+
+I have to say Amelie, you’renot a real singer. Still, you have so much energy and honesty when you're in front of everyone; I want to believe that you are. 
+
+The moment I saw you singing, I wished I could live as truthfully as you. I wanted to slip into your cocoa brown skin and live as you for awhile. I wanted to escape the glass vault I was trapped in.
+
 
