@@ -14,6 +14,13 @@ Although the café was modern and casual, it carried a classy vintage feel. The 
 
 One of the sitting areas also doubled as a temporary stage. The first time I saw Kami, she was standing there playing a mellow coffee shop song on her guitar and singing into an old style microphone. You know which one I’m talking about, the one molded out of metal.
 
+[Coffee Shop Song](https://voca.ro/1nPv2hEmsBPT
+)
+
 <div><iframe width="300" height="60" src="https://vocaroo.com/embed/1nPv2hEmsBPT?autoplay=0" frameborder="0" allow="autoplay"></iframe></div>
 
-[Coffee Shop Song](https://voca.ro/1nPv2hEmsBPT)
+![flower tea](uploads/Flower-tea_12.jpg "anime style woman drinking tea with flowers"){: .mx-auto.d-block :}
+
+![sugar drink](uploads/sugar-drink_6.jpg "colorful coffee cup with a tea bag tag"){: .mx-auto.d-block :}
+
+![flower buds](uploads/flower-buds_8.jpg "blossoming unknown flowers"){: .mx-auto.d-block :}
