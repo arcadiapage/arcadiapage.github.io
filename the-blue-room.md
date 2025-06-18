@@ -48,10 +48,10 @@ You tucked your shoulder length black hair behind one of your ears. Your golden 
 💿[Daydreamers](https://voca.ro/1et46LSkMmYL)
 
 
-<div><iframe width="300" height="60" src="https://vocaroo.com/embed/1et46LSkMmYL?autoplay=0" frameborder="0" allow="autoplay"></div>
+<div><iframe width="300" height="60" src="https://vocaroo.com/embed/1et46LSkMmYL?autoplay=0" frameborder="0" allow="autoplay"></iframe></div>
 
 
-![storm of spiders](uploads/jellyfish-storm_5.jpg){: .mx-auto.d-block :}
+![](uploads/jellyfish-storm_5.jpg){: .mx-auto.d-block :}
 
 ![pressing the snooze button](uploads/snooze-alarm_14.jpg){: .mx-auto.d-block :}
 
