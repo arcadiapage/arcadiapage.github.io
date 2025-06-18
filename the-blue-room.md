@@ -51,9 +51,9 @@ You tucked your shoulder length black hair behind one of your ears. Your golden 
 <div><iframe width="300" height="60" src="https://vocaroo.com/embed/1et46LSkMmYL?autoplay=0" frameborder="0" allow="autoplay"></div>
 
 
-![storm of spiders and jellyfish](uploads/jellyfish-storm_5.jpg){: .mx-auto.d-block :}
+![storm of spiders](uploads/jellyfish-storm_5.jpg){: .mx-auto.d-block :}
 
-![a long hand pressing the snooze button](uploads/snooze-alarm_14.jpg){: .mx-auto.d-block :}
+![pressing the snooze button](uploads/snooze-alarm_14.jpg){: .mx-auto.d-block :}
 
 I have to say Amelie, you’re not a real singer. Still, you have so much energy and honesty when you're in front of everyone; I want to believe that you are. 
 
