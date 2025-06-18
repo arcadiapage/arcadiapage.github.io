@@ -174,7 +174,9 @@ I don't fear strangeness. It is my blanket and my sword. I laugh as I wear my pa
 
 💎**Charms on my Bracelet**
 
-- Interview I did with [Canvas Rebel](https://canvasrebel.com/meet-arcadia-page/)
+- My [Blue Room Studio Lounge](https://arcadiapage.com/the-blue-room/)
+
+-  Interview I did with [Canvas Rebel](https://canvasrebel.com/meet-arcadia-page/)
 
 - [How to create a writing practice that is fun, gentle, and productive.](https://arcadiapage.com/2024-01-29-being-a-productive-writer-does-not-have-to-be-painful/)
 
