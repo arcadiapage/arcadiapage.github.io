@@ -28,7 +28,7 @@ But this year, I'm doing something different. I'm stepping away from the numbers
 
 I don't need to crunch data and analyze trends to find the answer. My inner creative compass knows EXACTLY what I want from myself. So instead of deferring to people-pleasing and [machine-pleasing](https://arcadiapage.com/2023-12-31-being-a-productive-human-is-simple/), I'm going for it. 
 
-I'm doing whatever I care about and pursuing fulfillment instead.
+[I'm doing whatever I care about and pursuing fulfillment instead.](https://arcadiapage.com/the-blue-room/)
 
 Back when I was wrapped up in writing my fanfic, my mind often went back to the criticism people sometimes throw around about how a certain piece of work is "self-indulgent."
 
