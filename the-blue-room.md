@@ -4,9 +4,9 @@ layout: page
 subtitle: A Studio Lounge Full of the Weird Crap That I Make
 ---
 
-Although the café was modern and casual, it carried a classy vintage feel. The walls were a comforting shade of dark blue. Elaborate white molding and eclectic pieces of art made the color fade into the general background.
+Although the café was modern and casual, it carried a classy vintage feel. [The walls](https://arcadiapage.com/the-wishing-wall/) were a comforting shade of dark blue. Elaborate white molding and eclectic pieces of art made the color fade into the general background.
 
-*All media on this page has been created by [me](https://arcadiapage.com/aboutme/#the-studio-at-blue-pearl-lake). Please use appropriate attribution when sharing. Thank you 💙*
+(*This is a space for the odd pieces of work that I no longer want to hide. All media on this page has been created by [me](https://arcadiapage.com/aboutme/#the-studio-at-blue-pearl-lake). If this space speaks to you, welcome home. If not, no worries. I made this with love, and I want to share it with those who want it, even if that’s just me.💙*)
 
 ![I'm alive](uploads/I-am-alive_19.jpg){: .mx-auto.d-block :}
 
