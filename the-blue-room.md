@@ -1,7 +1,7 @@
 ---
 title: The Blue Room
 layout: page
-subtitle: A Studio Lounge 
+subtitle: A Studio Lounge Full of the Weird Crap That I Make
 ---
 
 Although the café was modern and casual, it carried a classy vintage feel. The walls were a comforting shade of dark blue. Elaborate white molding and eclectic pieces of art made the color fade into the general background.
