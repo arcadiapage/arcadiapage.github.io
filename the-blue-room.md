@@ -12,6 +12,18 @@ Although the café was modern and casual, it carried a classy vintage feel. [The
 
 ![black and white thoughts](uploads/black-and-white-thoughts_18.jpg){: .mx-auto.d-block :}
 
+See the artwork on the walls? All that art was made here. See that bookshelf over there? All those are books that have been written here...
+
+[The Red Rose Garden.](https://payhip.com/b/6DqyO)
+
+[Mascara.](https://payhip.com/b/XtCk7)
+
+[Hush.](https://payhip.com/b/5SHwg)
+
+[Omnigirl.](https://arcadiapage.com/2025-05-02-Omnigirl-Collection-Index/)
+
+[The Mirror's Son.](https://arcadiapage.com/2025-01-14-introducing-the-mirrors-son/)
+
 One of the sitting areas also doubled as a temporary stage. The first time I saw Kami, she was standing there playing a mellow coffee shop song on her guitar and singing into an old style microphone. You know which one I’m talking about, the one molded out of metal.🎙️
 
 [Coffee Shop Song](https://voca.ro/1nPv2hEmsBPT
