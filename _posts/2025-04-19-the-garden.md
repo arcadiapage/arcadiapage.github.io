@@ -24,7 +24,7 @@ I read a little bit, but I found myself getting distracted. The occasional yello
 
 And then I found myself reliving what felt like a memory. 
 
-I wandered into a garden without meaning to. The sky was that quiet blue-gray of late afternoon, where time stretches like a lazy yawn. I didn't remember how I got to that garden. I remembered no roads and no gate.
+I wandered into a garden without meaning to. The sky was that quiet blue-gray of late afternoon, where time stretches like a lazy yawn. [I didn't remember how I got to that garden. I remembered no roads and no gate.](https://payhip.com/b/6DqyO)
 
 And then I realized, this was no memory. 
 
