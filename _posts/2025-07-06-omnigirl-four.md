@@ -8,12 +8,6 @@ tags:
 layout: post
 subtitle: 'New School. New Rules.'
 ---
-
-# Omnigirl Chapter Four 
-
-  
-  
-
 Summary: The girl of cosmic play is not about to be pushed around.
 
   
