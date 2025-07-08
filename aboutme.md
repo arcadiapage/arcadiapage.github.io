@@ -200,6 +200,7 @@ _CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2
 💌**Where else you can find me**
 
 - [Substack](https://substack.com/@arcadiapage?r=682i4&utm_campaign=profile&utm_medium=profile-page)
+- [Pinterest](https://www.pinterest.com/arcadiapage/)
 - Getting lost in the forest of my imagination.
 
 
