@@ -144,4 +144,10 @@ My rawest self is an intuitive writer and artist. While working from that space,
 
 However I do appreciate how the parts of myself that I decide to let go of are never truly gone. Those things still shape and influence who I am growing into. 
 
-So how has your hair or your relationship with hair impacted the way that you see yourself?
+And if you're feeling adventurous, here are some of my other posts about my dreams and their meanings:
+
+- [How I Learned that the Standard Definition of Success Is Not for Me](https://arcadiapage.com/2025-04-14-how-I-learned-that-the-standard-definition-of-success-is-not-for-me/)
+- [From Seeking to Surrender – A Journey of Self-Integration](https://arcadiapage.com/2025-03-24-From-Seeking-to-Surrender-a-Journey-of-Self-Integration/)
+- [That One Time I Stole the Body of Some Random Guy](https://arcadiapage.com/2025-05-29-that-time-I-stole-some-guys-body/)
+- [Creative Fire is Classic. Just Don't Get Burned.](https://arcadiapage.com/2025-06-11-creative-fire-is-classic-do-not-get-burned/)
+
