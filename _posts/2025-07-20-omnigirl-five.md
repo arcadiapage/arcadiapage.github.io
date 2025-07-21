@@ -583,6 +583,7 @@ They whooped, yelled, and even hugged me. I was in. At that moment, I realized t
 
 Now I’m no longer Lila Collins, the weird new girl. I’m Lila Collins, a student at Omni High and one of The Five. I am now a true Omnigirl.
 
-  
+![Inneruniverse-Icon.png](https://i.postimg.cc/3Jb3kZhP/Inneruniverse-Icon.png)
+
 
 🔹[Table of Contents](https://arcadiapage.com/2025-05-02-Omnigirl-Collection-Index/)
