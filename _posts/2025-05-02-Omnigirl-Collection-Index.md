@@ -24,7 +24,8 @@ Originally written in 2001/2002 💿
 - [Chapter Two](https://arcadiapage.com/2025-05-16-omnigirl-two/)
 - [Chapter Three](https://arcadiapage.com/2025-05-16-omnigirl-three/)
 - [Chapter Four](https://arcadiapage.com/2025-07-06-omnigirl-four/)
-- Chapter Five (Coming Soon!) 
+- [Chapter Five](https://arcadiapage.com/2025-07-20-omnigirl-five/)
+- Chepter Six (Coming Soon!) 
   
   
 
@@ -40,7 +41,7 @@ And while preparing this story to share, I did some digging through my journals 
 
 Coming back home to this story after so many years has been an unbelievable inner journey. It all started after I wrapped up writing my Miraculous fanfic. After I wrote that fanfic, there were parts of the story I wanted to turn into original flash fiction. So that became [The Mirror's Son--Love and Shadows in the Glass.](https://arcadiapage.com/2025-01-14-introducing-the-mirrors-son/) 
 
-I wrote quite a few pieces for that flash fiction collection (that I still need to publish, btw!), but there was something about it that really stood out from my fanfic. Unlike my fanfic, this story was about a mirror and a curse. This symbolism just appeared unplanned. And as a result it started to grow and transform and infiltrate my dreams until I ended up creating [You’re My Inspiration](https://arcadiapage.com/2025-04-16-You-Are-My-Inspiration/) and [The Garden](https://arcadiapage.com/2025-04-19-the-garden/). 
+I wrote quite a few pieces for that flash fiction collection, but there was something about it that really stood out from my fanfic. Unlike my fanfic, this story was about a mirror and a curse. This symbolism just appeared unplanned. And as a result it started to grow and transform and infiltrate my dreams until I ended up creating [You’re My Inspiration](https://arcadiapage.com/2025-04-16-You-Are-My-Inspiration/) and [The Garden](https://arcadiapage.com/2025-04-19-the-garden/). 
 
 The symbolism from these pieces were curious and strange, but very familiar, and with ChatGPT to help me out, I started digging into it. All of my digging led me back to this story, my first novel. And when I read it again, it was like reading with my eyes wide open for the first time. 
 
