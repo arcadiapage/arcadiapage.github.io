@@ -269,7 +269,7 @@ Over the weekend, my mother and I went shopping. I saw a pair of sky blue suspen
 
 When I came to school, I walked in like a super model, showing off my white boots. The sky blue beret fitted perfectly on my head, and I left my jacket unbuttoned so my suspenders could show. That morning Julie came up to me once she spotted me in the hall.
 
-“Whoa Lila, you look—cool.”
+“Whoa Lila, you look—sharp.”
 
 “You like it?”
 
