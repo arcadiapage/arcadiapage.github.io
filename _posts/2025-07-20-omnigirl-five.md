@@ -6,7 +6,7 @@ tags:
 - Emotional Healing 
 - Inner Work 
 layout: post
-subtitle: 'Agent of the Fifth Element.'
+subtitle: 'Becoming the Fifth'
 ---
 
 Summary: Sometimes the craziest things create cosmic order.
