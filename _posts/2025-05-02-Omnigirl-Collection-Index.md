@@ -101,7 +101,7 @@ If any imagery or plot lines from it sticks with you, positive or negative, I st
 
   
 
-Here on my blog, my main focus is on sharing the story. Although it has symbolism that crosses collective themes, what matters most is what it brings up for you. So to leave space for that and to keep from cluttering things up, I'll be sharing my deeper insights and reflections related to this story separately in [The Starlight Library.](https://payhip.com/b/ROPCQ)
+Here on my blog, my main focus is on sharing the story. Although it has symbolism that crosses collective themes, what matters most is what it brings up for you. So to leave space for that and to keep from cluttering things up, I'll be sharing my deeper insights and reflections related to this story separately in [The Listening Room.](https://payhip.com/b/ROPCQ)
 
   
 
