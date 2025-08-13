@@ -15,7 +15,7 @@ Take your time. Start any where you want, anyway you want.
 <h1><a id="places-and-spaces">Places and Spaces</a></h1>
 
 * <a href="#fount-white-butterfly">Fount White Butterfly</a>
-* <a href="#the-starlight-library">The Starlight Library</a>
+* <a href="#the-listening-room">The Listening Room</a>
 * <a href="#the-avila-room">The Avila Room</a>
 * <a href="#hall-of-fluttering">The Avila Room: Hall of Fluttering Leaves</a>
 * <a href ="#endless-sky-canopy">Endless Sky Canopy</a>
@@ -43,15 +43,15 @@ Return to <a href="#places-and-spaces">Places and Spaces</a>
 
 ---
 
-<h1><a id="the-starlight-library">The Starlight Library</a></h1>
+<h1><a id="the-listening-room">The Listening Room</a></h1>
 
-[![Starlight-Library-light.png](https://i.postimg.cc/y8Rkr5z3/Starlight-Library-light.png)](https://payhip.com/b/ROPCQ)
+![The-Listening-Room.png](https://i.postimg.cc/28Crjr5j/The-Listening-Room.png)
 
-This is my deeper archive and supporter space where I share some of my audio journals and wanderings before they land on my blog. 
+This is my deeper archive and supporter space where I share what doesn't fit anywhere else—not quite behind-the-scenes, not quite a journal, but designed for story-lovers, curious followers, and imaginative creators.
 
-If you wish to take some of my more unexpected and spontaneous creations with you, then give the [Starlight Library](https://payhip.com/b/ROPCQ) a look.
+If you wish to eavesdrop on the frequencies behind my work, then give [The Listening Room](https://payhip.com/b/ROPCQ) a look.
 
-💿Here are some audio excerpts from the library:
+💿Here are some audio excerpts:
 
 - [Sometimes I Have No Clue What I'm Writing](https://voca.ro/1fSPwzEvnhKK)
 
