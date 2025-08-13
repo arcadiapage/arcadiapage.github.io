@@ -1,7 +1,7 @@
 ---
-title: Support this starry-eyed writer ✨
+title: Support 
 layout: page
-subtitle: 
+subtitle: this starry-eyed writer ✨
 ---
 
 Every bit of support — big or small — helps me to keep creating work that inspires reflection, joy, and self-acceptance. Here’s how you can help:
