@@ -148,8 +148,6 @@ You're not always the one choosing the items to take here. Sometimes, my creativ
 
 ✒️**Writing Wonders**
 
-[Mini-Masterclass: Authentic Blogging](https://payhip.com/b/1qOci)
-
 [Thoughtful Planning:How to Use Questions for Self-reflection to Design Your Day](https://payhip.com/b/YSucT) 
 
 [I Can't Help Being an INFP Writer: 100+ Tips to Help INFP Writers Capture Ideas, Stay Motivated, and Overcome Problems](https://payhip.com/b/4tWM)
