@@ -68,7 +68,7 @@ It's Calm + Do + Calm.
 
 By the way, make sure to keep your project and the materials easy to access. I like keeping my art on a table in my office so I can work on it often. Also, don't try picking up a new hobby to express your pain. Doing an activity you're comfortable with makes it easier to focus on what you're expressing instead of figuring out the technique.
 
-So this is how I've been making art from my pain lately. I'm not quite ready to post pictures of my paintings yet, but I think it would be cool to do so eventually. And remember, although you may want to share the art you make, first and foremost, it's for you. The main audience for this kind of work is always yourself.
+So this is how I've been making art from my pain lately. I'm not quite ready to post pictures of my paintings yet, but I think it would be cool to do so eventually. And remember, although you may want to share the art you make, first and foremost, it's for you. The main audience for this kind of work is always yourself. If you would like to go deeper into creating healing as in INFP, you can find more in my book [Discover Your INFP Archetypes](https://payhip.com/b/vWmjS)
 
 **Update 6/7/22**
 
