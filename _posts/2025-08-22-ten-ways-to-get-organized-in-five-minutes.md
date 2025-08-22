@@ -12,6 +12,8 @@ For a long time I used to think  "Why can't I just get it together?" When I used
 
 However, I eventually realized that I was allowing this to happen. True, there are chaotic parts of life that are beyond our control. But at the same time, I was totally ignoring the small steps I could take to make tomorrow a little better for my future self. 
 
+![](/uploads/10-Ways-to-Get-More-Organized-in-Five-Minutes.png){: .mx-auto.d-block :}
+
 ## Getting it together can be simple, and taking the time to do so can be so worth it. 
 
 Honestly, the idea of putting time into cleaning and preparing myself for tomorrow scared me. I imagined hours of food prep, cleaning, and putting things in order. It was not only daunting, but totally unappealing. I can think of a million other things I'd rather be doing.
