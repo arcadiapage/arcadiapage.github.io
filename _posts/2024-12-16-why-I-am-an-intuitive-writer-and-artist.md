@@ -1,5 +1,5 @@
 ---
-title: Why I Consider Myself an Intuitive Writer and Artist 
+title: How to be an Intuitive Writer and Artist 
 date: 2024-12-16 00:00:00 -07:00
 tags:
 - Creative Business
@@ -50,14 +50,8 @@ With the [Money Archetypes](https://arcadiapage.com/2024-02-20-sacred-money-arch
 
 I clearly know that my intuition is my superpower. All I need to do is to trust it, and the unique voice that doing so gives me. So do you consider yourself an intuitive writer or artist? How has your feelings towards being intuitive (or not!) impacted your creative process?
 
-If you feel like learning more about my process as an intuitive writer and artist, you may also enjoy my upcoming book, **Traveling by Starlight: How I Learned to Trust My Inner Creative Compass**. 
+If you'd like to go deeper into what means to be an intuitive writer and artist, you can find more in my book, [**Traveling by Starlight: How I Learned to Trust My Inner Creative Compass**.](https://payhip.com/b/gxAZ5)
 
-This book is a collection of posts from my blog that share how I've learned to trust my intuition in my creative process and beyond.
+Because there is so much advice out there about creating this way or that way, that it can be really hard to trust your inner voice. I've stuggled with that so much! However, I've learned that as a creative, trusting my intuition and creating from it is the key to making my work sound like me. Doing so puts my unique essence back into my work. Dear intuitive writer/artist, your work needs *you*. It needs your voice and your intuition. 
 
-While these posts can be read for free on my blog, to be honest, my blog can be overwhelming! I've shared so many tips and tricks that I've learned over the past ten-plus years. 
-
-So with that in mind, I've thoughtfully curated this ebook that outlines the basics of my process for creatives who want to learn how to have more trust in their process and intuitive judgement as well.
-
-This book is also for those who wish to enjoy my work offline and support me while I create. 
-
-If you would like to be notified of when it's available, you can do so by [signing up for my email list.](https://arcadiapage.substack.com/)
+With that in mind, I've thoughtfully curated this ebook that outlines the basics of my process for creatives who want to learn how to have more trust in their process and intuitive judgement as well. While the posts contained in the this book can be read for free on my blog, to be honest, my blog can be overwhelming! Over the past ten years, I've shared so many tips and tricks that I've learned. So this book is also for those who wish to enjoy my work offline, and who would prefer to have a more focused reading experience. 
