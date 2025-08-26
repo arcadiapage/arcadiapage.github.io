@@ -1,5 +1,5 @@
 ---
-title: Remembering to Honor My Authentic Voice as a Creative Entrepreneur 
+title: How to Own Your Authentic Voice as a Creative Entrepreneur 
 date: 2024-10-08 00:00:00 -07:00
 tags:
 - Inner Work 
@@ -149,9 +149,4 @@ How can you use the spaces and mediums in which your authentic voice loves to pl
 
 No matter what it is, I believe that there is a way to use your authentic voice to make things easier for you in business. Start with where your authentic voice likes to show up the most. Then let everything flow out from there. 
 
-If my journey of finding more flow in my business process is speaking to your heart, there’s more to discover. Check out my latest book, [44 Days of No Pressure Productivity](https://payhip.com/b/g8wOI)—it may be the next step in your journey too.
-
-
-By the way, there's one more round of the Rule Breaking Entrepreneur Summit coming up, so if you missed my [Love Your Tiny Business presentation](https://arcadiapage--catgriffin.thrivecart.com/fast-action-pass/) (This is an affiliate link! I will get paid a commission if you upgrade) the first time around, you can get the replay on the weekend of November 2nd-3rd. 
-
-If this subject seems intriguing to you, you may also enjoy my [Love Your Tiny Business](https://payhip.com/b/7b08l) Journal.
+If you wish to go deeper into exploring this idea of being comfortable with your own voice, you can find more in [Hush Zine Issue 1: Crying is Awesome](https://payhip.com/b/5SHwg). This is my first audio collection, and it's centered on the concept of building trust in one's own voice and process. 
