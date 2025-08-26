@@ -9,6 +9,7 @@ subtitle: Audio post
 ---
 
 An audio post about the top three three inspiring books that helped me to grow this year.
+By the way, this audio note is just a glimpse--more audio reflections can be found inside of [The Listening Room](https://payhip.com/b/ROPCQ).
 
 <audio controls> <source src="/uploads/three-books-that-inspired-me-this-year.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
@@ -22,6 +23,3 @@ Your browser does not support the audio element.
 * Self-care is less effective when you don't know who you are.
 * You don't have to come from a super dysfunctional family to have co-dependent tendencies.
 
-**Any thoughts on this audio post?** ✨ **Feel free to** [**let me know what you think**](https://arcadiapage.com/aboutme/)
-
-If you enjoy what I do, also consider [supporting my blog](https://www.paypal.com/donate/?hosted_button_id=9J588XN8BJKUW). Thank you for listening!
