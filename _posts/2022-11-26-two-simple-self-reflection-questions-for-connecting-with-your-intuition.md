@@ -24,6 +24,3 @@ Your browser does not support the audio element.
 * As I've been making my snail-like recovery from chronic pain, listening to my inner signals has played a major role in my healing.
 * So today, when you get the twinge that something is a good idea, try it and see what happens. And when you get the feeling that you shouldn't be doing something, or that something isn't the best for you, see what results you get when you try avoiding it.
 
-**Any thoughts on this audio post?** ✨ **Feel free to** [**let me know what you think**](https://arcadiapage.com/aboutme/)
-
-If you enjoy what I do, also consider [supporting my blog](https://www.paypal.com/donate/?hosted_button_id=9J588XN8BJKUW). Thank you for listening! 
