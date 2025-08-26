@@ -8,7 +8,7 @@ layout: post
 subtitle: 'Audio Post '
 ---
 
-A short audio post about how connecting to my intuition has improved my life in unexpected ways.
+This is a short audio post about how connecting to my intuition has improved my life in unexpected ways. If you'd like to go deeper into how I've used my intuitition in my creative work, you can find more inside [The Listening Room](https://payhip.com/b/ROPCQ).
 
 <audio controls>
 <source src="/uploads/two-self-reflection-questions-for-connecting-with-intuition.mp3">
