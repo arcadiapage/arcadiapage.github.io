@@ -70,10 +70,7 @@ Yet working on this fanfic project has reminded me of how attractive my authenti
 
 I believe at the end of the day, that is what honoring my inner creative compass is all about. When I follow where my creativity naturally wants to flow and the way it naturally wants to express itself, that's when I free myself from pressure and expectations and experience what is really me. This week, what could you do to give more attention to your own inner creative compass?
 
-Like my other post from this month, this post is also part of my upcoming book project, **Traveling by Starlight: How I Learned to Trust My Inner Creative Compass**. 
+If you’d like to go deeper into what it means to trust your voice and creative rhythm, you can find more in my book, [**Traveling by Starlight: How I Learned to Trust My Inner Creative Compass**](https://payhip.com/b/gxAZ5). 
 
-This book is a thoughtfully curated collection of posts from my blog that share how I've learned to trust my intuition in my creative process and beyond. I've also designed it for creatives who want to learn how to have more trust in their process and intuitive judgement as well.
+This book is a thoughtfully curated collection of posts from my blog that share how I've learned to trust my intuition in my creative process and beyond, and its also for those who wish to enjoy my work offline and who would prefer to have a more focused reading experience.
 
-This book is also for those who wish to enjoy my work offline and support me while I create. 
-
-If you would like to be notified of when it's available, you can do so by [signing up for my email list.](https://arcadiapage.substack.com/)
