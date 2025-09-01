@@ -20,9 +20,6 @@ Making these shallow gestures towards my sensitivity distracted me from the deep
 
 ![highly sensitive person trait traits of highly sensitive person](/uploads/eleven-traits-highly-sensitive-person.png "Eleven traits that show up when you ignore your needs as a highly sensitive person"){: .mx-auto.d-block :}
 
-
-**(If you like this post, you may also like my latest book: [Love Your Sensitivity:7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person](https://payhip.com/b/KI5eW).  You can find it at your favorite ebook retailer or library.)**
-
 ## Know the Signs
 
 If you're highly sensitive, here are some traits and signs to look out for that show you may not fully understand your sensitivity. All of these don't have to be present at the same time. Just a few may be a signal that you need to step back and re-evaluate how you're handling being an HSP:
@@ -39,7 +36,7 @@ If you're highly sensitive, here are some traits and signs to look out for that 
 * At the edge of your mind is a sense of panic. Panic that everything may go wrong, and you don't have the resources to handle it.
 * The emotional energy of others hits you hard. You easily take on the pain and anxiety of others. The emotional walls between you and other people feel very thin.
 
-Looking at this list, I better understand why HSPs often decide to work for themselves. As an HSP, it's essential to structure your life so that you can work at your own speed instead of having others dictate that pace for you. My book, [Thoughtful Planning: How to Use Questions for Self-reflection to Design Your Day](https://payhip.com/b/YSucT), is all about tuning into your natural pace. I learned the hard way that if you don't honor your natural pacing, your body will force you to. You may also be [disconnected from your intuition](https://arcadiapage.com/2022-08-27-why-intuition-is-a-good-highly-sensitive-person-trait/) and have a hard time making decisions and separating your needs from those of others.
+Looking at this list, I better understand why HSPs often decide to work for themselves. As an HSP, it's essential to structure your life so that you can work at your own speed [instead of having others dictate that pace for you](https://payhip.com/b/YSucT). I learned the hard way that if you don't honor your natural pacing, your body will force you to. You may also be [disconnected from your intuition](https://arcadiapage.com/2022-08-27-why-intuition-is-a-good-highly-sensitive-person-trait/) and have a hard time making decisions and separating your needs from those of others.
 
 ## My Top HSP Life Changes
 
@@ -51,7 +48,6 @@ If you are an HSS HSP, like I am, you have to approach being sensitive different
 
 If you're an HSS HSP, pay attention to how you deal with quiet and boredom. Find ways to deal with under-stimulation without pushing yourself into overstimulation. You can take [this test](https://hsperson.com/test/high-sensation-seeking-test/) to see if you are High Sensation Seeking at Elaine Aaron's website.
 
-(2025 UPDATE: It's been a very long journey, but it's totally possible to go from high sensation seeking to surrender. Read more in my post, [From Seeking to Surrender – A Journey of Self-Integration](https://arcadiapage.com/2025-03-24-From-Seeking-to-Surrender-a-Journey-of-Self-Integration/))
 
 **Take an honest look at your diet.**
 
@@ -119,4 +115,4 @@ My favorite letting go practices are forgiveness, decluttering, saying goodbye, 
 
 Forgiveness and letting go aren't about forgetting what happened -- They're about releasing the grip of the things that keep you stuck from moving forward. You move from a place of blame to a place of finding comfort, peace, and actual solutions.
 
-So this is my super list of things I think highly sensitive people need in their lives. I so wish I knew I needed these things a long time ago.
+So this is my super list of things I think highly sensitive people need in their lives. I so wish I knew I needed these things a long time ago. If you feel ready to go deeper, you can find more in my book [Love Your Sensitivity:7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person](https://payhip.com/b/KI5eW). 
