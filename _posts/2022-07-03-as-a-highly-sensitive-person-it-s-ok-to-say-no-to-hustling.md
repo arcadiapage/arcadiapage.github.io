@@ -9,8 +9,6 @@ layout: post
 subtitle: ''
 ---
 
-**If the topic of this post resonates with you, you'll probably also appreciate my latest book,** [**Love Your Sensitivity: 7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person**](https://payhip.com/b/KI5eW)
-
 For highly sensitive people living in a world that encourages pushing through overstimulation is tough. When you feel tired, worn out, and overwhelmed, the general advice is to drink more coffee and work through it.
 
 We often hear, "No pain, no gain."
@@ -28,8 +26,6 @@ I want to stress the importance of not pushing through overstimulation if you ca
 One way you can be more sustainable with your energy is pretty clear: get more rest. When we feel overstimulated, it can be tempting to take in more stimulation, be it by drinking more caffeinated drinks, eating more sugar, scrolling online, or whatever it takes to keep awake so we can keep on pushing. Sometimes our reliance on a stimulant causes us to deny that we are tired in the first place. There is a reason why tiredness and sugar cravings often go hand in hand.
 
 However, the real reason our bodies are shutting down is not that we need to squeeze in more stuff but because we need to rest. Unfortunately, honoring that is not always possible, but knowing that there is nothing wrong with you for being unable to push through tasks and activities can forever change how you approach overstimulation when it hits you. When going through this, it is okay to take a break, step back, or go to the restroom to hang out for a moment. Give yourself space instead of trying to do more.
-
-If you are used to using your diet to deal with overstimulation, I recommend checking out this post, [A Creative Person’s Guide to Feeling Healthy](https://thecreativeindependent.com/guides/a-creative-persons-guide-to-feeling-healthy/) from The Creative Independent. I appreciate this article because it gives clear advice on how to add food to your diet that gives you energy, along with other practical lifestyle advice.
 
 ## Do Less
 
@@ -51,12 +47,8 @@ Overworking is not in the best interests of anyone--not for yourself or those ar
 
 So don't try to blend in, but stand out as having a more observant, reflective, and relaxed style of getting things done. Be an example of someone who is honest about when they cannot do anymore, knows when to take breaks, and prioritizes their health. Then when others see how much more energy and ability you have by taking care of yourself, maybe they will realize that they need to take more breaks too and that slowing down can do them some good.
 
+If you wish to go deeper into exploring what life changes to make to better support your sensitivity, you can find more tips in my book [**Love Your Sensitivity: 7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person**](https://payhip.com/b/KI5eW).
+
 ![A list of tips for the highly senstive person that has already been brought out in this article](/uploads/how-hsps-can-avoid-hustling-list.png "highly sensitive person traits personality work HSP ")
 
-For more tips, check out the book ❤️
 
-[![](/uploads/highly-sensitive-person-love-your-sensitivity-630-x-500-px.png)](https://payhip.com/b/KI5eW "Highly sensitive person book traits advice tips help HSP ")
-
-{: .mx-auto.d-block :}
-
-**Any thoughts?** ✨ **Feel free to let me know what you think via** [**email!**](https://arcadiapage.com/coffee/)
