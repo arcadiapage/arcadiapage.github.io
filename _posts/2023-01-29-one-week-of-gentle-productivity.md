@@ -79,4 +79,4 @@ Don't worry about controlling your breathing or thinking about stuff. All of tha
 
 ***
 
-So there you go! One week of creating space and reducing overwhelm.  You can learn more about this book in progress by checking it out on [Kickstarter](http://kck.st/3XRvREA).
+So there you go! One week of creating space and reducing overwhelm. Let this list be like a space creating personal assistant for you. If you feel like going deeper into exploring more ways to introduce gentle productivity into your life, you can find more in my book, [44 Days of Pressure Free Productivity](https://payhip.com/b/g8wOI)
