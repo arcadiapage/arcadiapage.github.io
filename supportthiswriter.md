@@ -12,7 +12,7 @@ Every bit of support — big or small — helps me to keep creating work that in
 
   💌 Share a post – you never know who might need it today
 
-  💖 [Pledge on Substack – help me grow a sustainable creative space](https://arcadiapage.substack.com/pledge) 
+  💖 [Subscribe on Substack — and if you feel moved, you’ll have the option to pledge support there, too.](https://arcadiapage.substack.com) 
 
   ✨ [Send me an email – I love hearing your thoughts and stories](mailto:arcadia@arcadiapage.com)
 
