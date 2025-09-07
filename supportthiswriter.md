@@ -12,7 +12,7 @@ Every bit of support — big or small — helps me to keep creating work that in
 
   💌 Share a post – you never know who might need it today
 
-  ☕ [Tip me on Ko-fi – fuel for words, art, and ideas](https://ko-fi.com/arcadiapage)
+  💖 [Pledge on Substack – help me grow a sustainable creative space](https://arcadiapage.substack.com/pledge) 
 
   ✨ [Send me an email – I love hearing your thoughts and stories](mailto:arcadia@arcadiapage.com)
 
