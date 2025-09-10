@@ -62,14 +62,11 @@ The more you notice, the more lessons appear right when you need them.
 
 Hopefully these four mindset shifts will give you a starting point on setting next year's writing goals. I have one more mindset shift I want to share: **Think about how you want to feel as a writer.**
 
-If you are looking to create an easy, compassionate writing practice that resonates with you as an INFP, you might also like [Love Your Writing Life - A Self-coaching Course for INFP Writers.](https://payhip.com/b/l30Wi)
+If you are looking to go deeper into creating an easy, compassionate writing practice that resonates with you as an INFP, you can find more in my book [I Can't Help Being an INFP Writer: 100 Tips to Help INFP Writers Capture Ideas, Stay Motivated, and Overcome Problems](https://payhip.com/b/4tWM)
 
-And if you need some more inspiration for creating writing goals in the upcoming year, here are some other posts from this blog to check out:
+And if you need some more inspiration for creating writing goals in the upcoming year, here are a few other posts from this blog to check out:
 
 * [25 Ways to Thrive as an INFP Writer](https://arcadiapage.com/2020-10-09-25-ways-to-thrive-as-an-infp-writer/)
 * [How Journaling Helps Me as an INFP Writer](https://arcadiapage.com/2020-07-30-how-journaling-helps-me-as-an-infp-writer/)
-* [Using Lists to Be a More Organized INFP Writer](https://arcadiapage.com/2020-06-26-using-lists-to-be-a-more-organized-infp-writer/)
-* [Too Busy to Write? Here are 4 Flexible Writing Schedules to Try](https://arcadiapage.com/2019/11/too-busy-to-write-here-are-4-flexible.html)
 * [10 Tips on Working With Your Strengths as an INFP Writer](https://arcadiapage.com/2020/04/10-tips-on-working-with-your-strengths.html)
 
-If you would like some one-on-one help with this process of figuring out what you want to get out of your writing life, I'm available for [short consultation sessions](https://payhip.com/b/cpVP0). We can chat about these introspective questions and more to help you find your path as an INFP writer.
