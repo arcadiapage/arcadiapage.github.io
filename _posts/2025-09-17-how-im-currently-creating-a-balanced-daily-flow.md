@@ -32,7 +32,7 @@ When I do this schedule, I'm not strict with myself at all:
 - I use a time tracker app (specifically [Simple Time Tracker](https://play.google.com/store/apps/details?id=com.razeeman.util.simpletimetracker&hl=en-US&pli=1) to track each of the blocks.
 - I don't pause the timer for breaks (bathroom, water, snacks, tea, using my massage gun, etc...). 
 
-I allow the short breaks I take to be a part of the time, and doing so keeps my day light and relaxed even with these time boundaries. However, I do stop the timer for meal times. I also want to note that it's totally unnecessary to jump from one thing to the next with this schedule. Like I don't feel pressure to clean all the things today, because I know that I'll be doing more cleaning tomorrow.
+I allow the short breaks I take to be a part of the time and doing so keeps my day light and relaxed even with these time boundaries. I also include the time it takes for me to get set up and prepared. However, I do stop the timer for meal times. I also want to note that it's totally unnecessary to jump from one thing to the next with this schedule. Like I don't feel pressure to clean all the things today, because I know that I'll be doing more cleaning tomorrow.
 
 So as a result, this isn't really a schedule in the typical sense. It's more like the shore that surrounds a lake or the banks of a river. It gently outlines and limits how much time to spend without dictating when the time is spent.
 
