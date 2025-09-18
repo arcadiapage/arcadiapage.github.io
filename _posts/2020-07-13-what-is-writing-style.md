@@ -7,7 +7,7 @@ layout: post
 subtitle: And How to Find It...
 ---
 
-Recently, I've been running a [20 Minute 1-on-1 Writing Workshop](https://payhip.com/b/9pD0). Helping others to get in touch with their writing style has been an unexpected adventure! However, there's always that lingering question, "What is style?"
+I've been running a 20 Minute 1-on-1 Writing Workshop and helping others to get in touch with their writing style has been an unexpected adventure! However, there's always that lingering question, "What is style?"
 
 The best advice I've ever read about writing style comes from the book **Wild Mind** by Natalie Goldberg.
 
@@ -47,5 +47,3 @@ Don't be surprised if your natural writing voice is a little different from your
 As a side-note, sharing your work with kind friends or a supportive online audience can also help you to hone in on your writing style through feedback.
 
 I hope this short post helps you on your journey to finding your writing identity! I wish it could have been longer, but really, the subject of writing style isn't as complex as people make it to be.
-
-And if you would like to work with me, [please click here for more information about my 1-on-1 Writing Workshop.](https://payhip.com/b/9pD0)
