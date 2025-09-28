@@ -29,7 +29,8 @@ Originally written in 2001/2002 💿
 - [Chapter Seven](https://arcadiapage.com/2025-09-07-omnigirl-seven/)
 
 **Part Two**
-- Chapter Eight (Coming soon!)
+- [Chapter Eight](https://arcadiapage.com/2025-09-28-omnigirl-eight/)
+- Chapter Nine (Coming soon!)
   
   
 
