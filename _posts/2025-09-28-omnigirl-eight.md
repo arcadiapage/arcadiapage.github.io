@@ -173,11 +173,11 @@ I walked into the crowded airport. People were walking everywhere with suitcases
 
 I walked briskly fighting my way through the crowd to the bathroom. Once I was there, I set my suitcase on the tile floor and my laptop on the counter. I opened it up and began to type an E-mail to Cheryl.
 
-I’m inside of the airport. Where are you?
+_I’m inside of the airport. Where are you?_
 
 I clicked send, not sure of when I would get a reply, but after two or three minutes, I got something back. It wasn’t from Cheryl, but Linzie. It said:
 
-Lila, what are you doing in the airport? Come back outside. You’ll see all of us waiting in a limo.
+_Lila, what are you doing in the airport? Come back outside. You’ll see all of us waiting in a limo._
 
 A limo?
 
