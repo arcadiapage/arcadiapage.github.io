@@ -122,7 +122,7 @@ Then at that moment, I heard music. Some other woman had set up her electric gui
 
 *I am exactly what I'm meant to be.*
 
-*I am me.
+*I am me.*
 
 *I am me.*
 
