@@ -108,19 +108,23 @@ But the woman gave a dismissive wave of her hand and was like, "Don't worry abou
 
 Then at that moment, I heard music. Some other woman had set up her electric guitar nearby, and she was singing a country pop/rock song. She was like:
 
-*I was thirteen and
-All I wanted to do was to party.*
+*I was thirteen and*
 
-*I was thirteen
-And I didn't know much about me.*
+*All I wanted to do was to party.*
+
+*I was thirteen*
+
+*And I didn't know much about me.*
 
 *Or who I was supposed to be.* 
 
 (After singing some other indescript lines of verse she came to the chorus.)
 
-*I am exactly what I'm meant to be.
-I am me.
-I am me.*
+*I am exactly what I'm meant to be.*
+
+*I am me.
+
+*I am me.*
 
 The tune of the song was literally a smash up of [“Why Can't I?” by Liz Phair](https://youtu.be/qUALb0sGdto?si=ebD-1ztRjaqIfWs3) and [“This is Me” from The Greatest Showman](https://youtu.be/CjxugyZCfuw?si=kAmGHkF5yR1NEMZu) (Way to be original, my crazy subconscious).
 
