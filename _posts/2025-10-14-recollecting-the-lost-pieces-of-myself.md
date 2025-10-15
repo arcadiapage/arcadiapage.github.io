@@ -150,7 +150,7 @@ Letting go of this fear puts me in the driver's seat and connects me with the fu
 
 ***
 
-Accepting the invitation to reclaim my lost self and my voice got very emotional and very weird—very fast. But I'm glad that I didn't dismiss this experience as losing my mind or going crazy. I just know that I have to trust the way that my brain and subconscious naturally wants to piece things back together. 
+Accepting the invitation to reclaim my lost self and my voice got very emotional and very weird—very fast. Honestly , it's still weird. But I'm glad that I didn't dismiss this experience as losing my mind or going crazy. I just know that I have to trust the way that my brain and subconscious naturally wants to piece things back together. 
 
 When we get a cut or a bruise, the body’s first urge is to try to heal it. Like many people, my inner self was deeply damaged and was constantly looking for ways to heal and repair—even if the process was bizarre, strange, and mind-bendingly mythic. On top of that people kept coming into my life to reflect the unhealed parts of myself back to me, so this has been an unavoidable process. 
 
