@@ -58,7 +58,7 @@ And I just knew.
 
 I knew that this part of myself that I had “lost” was no stranger. 
 
-In fact, it wasn't that much of a mystery at all, and over the past year I had become extremely familiar with it as it danced through my fiction and dreams. I took notes every time it appeared—every time he appeared, teasing and guiding. The lore is extensive.
+In fact, it wasn't that much of a mystery at all, and over the past year I had become extremely familiar with it as it danced through my fiction and dreams. I took notes every time it appeared—[every time he appeared](https://arcadiapage.com/2025-09-28-omnigirl-eight/), teasing and guiding. The lore is extensive.
 
 At that moment, I said to this part of myself, “You need to come back. This body, this life, is yours. You need to come back to it.”
 
