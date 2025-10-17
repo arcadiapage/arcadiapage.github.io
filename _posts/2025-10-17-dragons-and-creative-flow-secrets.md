@@ -73,4 +73,4 @@ He replied with a little shrug, "I just didn't know what to say."
 
 And then I said, "But you should have told me..." 
 
-Then I continued to comfortably complain at him, like we’re an old couple—a strange inner marriage of opposites between me and the muse that lives within me and [that strangely is me.](https://arcadiapage.com/2025-10-14-recollecting-the-lost-pieces-of-myself/) He knows that without my more conscious self coming around to give him a hard time, life in that heavenly sky palace [would be totally boring.](https://arcadiapage.com/2025-03-24-From-Seeking-to-Surrender-a-Journey-of-Self-Integration/)
+Then I continued to comfortably complain, like we’re an old couple—a strange inner marriage of opposites between me and the muse that lives within me and [that strangely is me.](https://arcadiapage.com/2025-10-14-recollecting-the-lost-pieces-of-myself/) He knows that without my more conscious self coming around to give him a hard time, life in that heavenly sky palace [would be totally boring.](https://arcadiapage.com/2025-03-24-From-Seeking-to-Surrender-a-Journey-of-Self-Integration/)
