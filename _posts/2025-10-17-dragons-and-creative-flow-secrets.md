@@ -21,13 +21,13 @@ I immediately sat up and asked, “What is going on?”
 
 I immediately got angry. She knew people were watching me, but didn’t try to do anything about it herself? Why did she allow these strangers in this random house to stalk me or whatever?
 
-“You don’t understand!” I yelled at her. “Why didn’t you tell me! Why didn’t you do something!”
+“You don’t understand!” I yelled at her. “Why didn’t you tell me? Why didn’t you do something!”
 
-Then she came back with,"No! You don't understand!" 
+Then she came back with,"No, you don't understand!" 
 
 And then she started singing.
 
-Even if we're far apart, I'll always love you…
+*Even if we're far apart, I'll always love you…*
 
 It was a [Whitney Houston](https://youtu.be/3JWTaaS7LdU?si=KYbbjQ76h5JkcBk_) meets Mariah Cary style ballad that felt like it could have been popular in the mid to late 90's or early 2000's. Songs aren't common in my dreams, [but they happen](https://arcadiapage.com/2025-03-24-From-Seeking-to-Surrender-a-Journey-of-Self-Integration/). 
 
@@ -45,7 +45,7 @@ It felt like she was crushed out of existence. Just gone. And I couldn't help fe
 
 ***
 
-It had been a busy day, and I wanted to feel as peaceful as possible. As I crawled into bed and drifted to sleep, I imagined myself as a dragon, half green and half black with golden accents and golden wings, coiled and resting peacefully. Dragon woman, you are protected. You are safe. You are loved…
+It had been a busy day, and I wanted to feel as peaceful as possible. As I crawled into bed and drifted to sleep, I imagined myself as a dragon, half green and half black with golden accents and golden wings, coiled and resting peacefully. *Dragon woman, you are protected. You are safe. You are loved…*
 
 I met [Levi](https://arcadiapage.com/2025-09-28-omnigirl-eight/) in dream space. This time, his [white hair was short](https://arcadiapage.com/2025-04-16-You-Are-My-Inspiration/), but long enough to sweep over his forehead. He wore a white robe like some Greek statue, [golden ornaments in his hair](https://arcadiapage.com/2024-11-04-Fascinating-Hair-Symbolism/), and had the most intricate and ornate dragon wings I had ever seen, made of pure shining gold. 
 
