@@ -15,20 +15,19 @@ Over the course of this year, I've been shedding [more and more the need to push
 
 Sometimes, I worry that I’m not doing enough. But at the same time from this space, I’m feeling like I’m doing exactly what I should be. Instead of pushing to do more, I’ve been rediscovering what has been lost. 
 
-Ever since I was eight, I knew I had lost an essential part of myself. Something that I needed to bring back, but didn’t know how. Even more annoying, I had a classmate who was with me from elementary school to highschool, who would not stop reminding me of it. She was like, “In kindergarten, you had so much to share, and you had all of these stories—you’re so different from how you used to be.”
+Ever since I was eight, I knew I had lost an essential part of myself. Something that I needed to bring back, but didn’t know how. Even more annoying, I had a classmate who was with me from elementary school to high school, who would not stop reminding me of it. She was like, “In kindergarten, you had so much to share, and you had all of these stories—you’re so different from how you used to be.”
 
 Part of me wanted to be like, “Of course, I'm different. I’m not five anymore.”
 
-But we both knew what she was talking about went beyond age—or even my ability to tell stories, which is what she often pointed to. It was about the force of my expression in general, and the other more intangible qualities that were bundled along with it. I almost remember the day when I was seven years old and decided that my voice wasn't worth hearing or sharing. I shut myself down.
+But we both knew what she was talking about went beyond age—or even my ability to tell stories, which is what she often pointed to. It was about the force of my expression in general, and the other more intangible qualities that were bundled along with it. I almost remember the day when I was seven and decided that my voice wasn't worth hearing or sharing. I shut myself down.
 
-I still loved to write and create art, but something essential slipped away from me at that moment—so much so that in my preteen journals, I often wrote about finding or returning to what I had, although the exact dimensions of what that was eluded me. I knew confidence was a part of it—an inner belief in my expression—but yet that alone didn't capture the fullness of what I struggled to reclaim.
-
+I still loved to write and create art, but something essential slipped away from me at that moment—so much so that in my preteen journals, I often wrote about finding or returning to what I had before, although the exact dimensions of what that was eluded me. I knew confidence was a part of it—an inner belief in my expression—but yet that alone didn't capture the fullness of what I struggled to reclaim.
 
 I just knew that something was missing. 
 
 There were times when I could grasp it for a moment, but then it would just melt away like seafoam, revealing that I didn't really hold that part of myself as truthfully as I thought I did. At times I found that I simply wore [confidence as a mask](https://payhip.com/b/XtCk7). It wasn't truly coming from me standing in who I was. I only felt confident when others were taking notice. 
 
-Recently, I dreamed of the house I lived in when I was around thirteen years old. In my dream, I needed to get back into the house because inside was a binder I needed to recover. However, it was being guarded by large coiled snakes and an unusually threatening looking, humanish salamander who was sitting on the porch and holding what I needed—the red and black binder I was looking for in the first place.
+Recently, I dreamed of the house I lived in when I was around thirteen. In my dream, I needed to get back into the house because inside was a binder I needed to recover. However, it was being guarded by large coiled snakes and an unusually threatening looking, humanish salamander who sat on the porch and held exactly what I needed—the red and black binder I was looking for in the first place.
 
 I wouldn't dare fight him for it. I hoped that maybe if I waited, I could get the binder whenever he was done with it.
 
@@ -58,7 +57,7 @@ And I just knew.
 
 I knew that this part of myself that I had “lost” was no stranger. 
 
-In fact, it wasn't that much of a mystery at all, and over the past year I had become extremely familiar with it as it danced through my fiction and dreams. I took notes every time it appeared—[every time he appeared](https://arcadiapage.com/2025-09-28-omnigirl-eight/), teasing and guiding. The lore is extensive.
+In fact, it wasn't that much of a mystery at all, and over the past year I had become extremely familiar with it as it danced through my fiction and dreams. I took notes every time it appeared—[every time he appeared](https://arcadiapage.com/2025-09-28-omnigirl-eight/), teasing and guiding. [The lore is extensive.](https://arcadiapage.com/2025-10-17-dragons-and-creative-flow-secrets/)
 
 At that moment, I said to this part of myself, “You need to come back. This body, this life, is yours. You need to come back to it.”
 
