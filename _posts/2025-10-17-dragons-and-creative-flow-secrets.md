@@ -15,11 +15,11 @@ I was sleeping on the living room floor of an unfamiliar house. While laying the
 
 Then within the dream, I dozed off once more, and when I opened my eyes again, I saw a woman sitting on a nearby couch watching me. 
 
-I immediately sat up and asked, “What is going on?” 
+I immediately sat up and asked, almost gasping, “What is going on?” 
 
 “Some old man was watching you sleep,” she said. “And an old lady was sitting on this couch watching you too.”
 
-I immediately got angry. She knew people were watching me, but didn’t try to do anything about it herself? Why did she allow these strangers in this random house to stalk me or whatever?
+I immediately got angry. She knew people were watching me, but didn’t try to do anything about it herself? Why did she allow these strangers into this random house to stalk me or whatever?
 
 “You don’t understand!” I yelled at her. “Why didn’t you tell me? Why didn’t you do something!”
 
@@ -39,7 +39,7 @@ Once she was done, the dream ended, but the reverb of her voice kept ringing in 
 
 There was this woman who transformed into a dragon. The moment she transformed, I felt like I was her—like I had transformed too. But afterwards she became a creature that was totally separate from me, and I was just watching her. 
 
-She was fearsome with a dragon body, a long tail and human woman face. One half of her body was green and the other half was black. She let out a scream and a roar before disappearing in a blink. The dream ended with her disappearance.
+She was fearsome with a dragon body, a long tail, and human woman face. One half of her body was green and the other half was black. She let out a scream and a roar before disappearing in a blink. The dream ended with her disappearance.
 
 It felt like she was crushed out of existence. Just gone. And I couldn't help feeling a little bit sad as I awoke. Maybe all she needed was a little more love?
 
@@ -55,13 +55,11 @@ His lovely face looked at me in wide-eyed shock. He didn’t say a word as I con
 
 ***
 
-The following night, while still awake, I had an epiphany about my creative process. I was reflecting on how over the past month, I had been growing lemon balm to make tea. When it’s time for me to pick the leaves, I go for the larger, more mature leaves and collect them together in a glass jar filled with water to store in the fridge. I realized that the same process applies to my ideas. 
+The following night, while still awake, I had an epiphany about my creative process. I was reflecting on how over the past month, I had been growing lemon balm plants to make tea. When it’s time for me to pick the leaves, I go for the larger, more mature leaves and collect them together to store in the fridge. I realized that the same process applies to my ideas. 
 
 When picking from my ideas, I need to periodically review the "leaves" of my notes and journals, and feel out what is the most mature and ready to be made into “tea”--more complete writings and projects. 
 
-Understanding that I can approach my work this way, relieves so much pressure because I don't have to be overwhelmed by my ideas or force projects into being.
-
-I don't have to demand an idea to become something. I only need to collect whatever comes and pay attention to what feels ready to be something more.
+I don't have to demand an idea to become something. I only need to collect whatever comes and pay attention to what feels ready to be something more. Understanding that I can approach my work this way relieves so much pressure because I don't have to be overwhelmed by my ideas or force projects into being.
 
 My ideas need time to ferment, like fine wine. I've explored the concept of collecting ideas more in-depth in my book, [I Want to Do All the Things: Finding Balance as a Multipotentalite, Polymath, and Renaissance Soul,](https://payhip.com/b/4ljG) but still this approach is totally new for me. It’s such a clear and simple way to handle my creative overflow, that I wondered why this took so long to click for me. Anyways, the same night of having that realization, I had this dream again:
 
