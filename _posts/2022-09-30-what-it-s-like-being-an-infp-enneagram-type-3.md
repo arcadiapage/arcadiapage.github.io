@@ -97,6 +97,8 @@ He shines the most when he brings out the beauty of the work of others. When hel
 
 [This meme of him pretty much explains it all.](https://pin.it/1GGW2ZU)
 
+Personally, I've also found this Enneagram 3 archetype of mine showing up as a specific character in my dreams. In many ways, he feels like my shadow. I share what that's like in my posts [That One Time I Stole the Body of Some Random Guy](https://arcadiapage.com/2025-05-29-that-time-I-stole-some-guys-body/) and [Note-taking Apps and Organizing My Mind Palace](https://arcadiapage.com/2025-11-05-note-taking-apps-and-organizing-mind-palace/).
+
 # Moving Forward
 
 Coming to grips with my Enneagram personality type is going to take some time.
@@ -107,7 +109,7 @@ As an INFP Enneagram 3, I need to regularly slow down to notice what I want, eve
 
 It is weird getting used to the idea that I don't need to achieve to receive love, but I don't need to shrink myself down either. I'm fine the way I am when I'm not striving but also when I'm not holding back.
 
-Lastly, I need to feel free to laugh at myself. Honestly, being an INFP Enneagram Type 3w4 is weird, especially with the bouncing between overconfidence, humiliation, striving, and crashing. I'm deeply grateful that being an INFP gives me the capacity to deeply introspect and to tease apart the way I operate in the world and how I feel.
+Lastly, I need to feel free to laugh at myself. Honestly, being an INFP Enneagram Type 3w4 is weird, especially with the bouncing between overconfidence, humiliation, striving, and [crashing](https://arcadiapage.com/2025-05-29-that-time-I-stole-some-guys-body/). I'm deeply grateful that being an INFP gives me the capacity to deeply introspect and to tease apart the way I operate in the world and how I feel.
 
 I think this all highlights how important it is that we hold on to our concept of self lightly because sometimes, we're not exactly who we think are. Sometimes we are who we deny being.
 
