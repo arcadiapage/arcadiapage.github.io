@@ -68,14 +68,8 @@ The last two years have been very difficult for everyone. 2020 and 2021 are enti
 
 I hope that the prompts and suggestions in this post will help you to rethink bad days when they show up and find ways to appreciate the little things.
 
-If you're looking for more inspiration on how small steps can make a difference, you will like my latest book, **The Little Book of Tiny Tasks: Make your life more calm while getting things done five minutes at a time,**
+If you're looking for more inspiration on how small steps can make a difference, I recommend checking out my latest book, **The Little Book of Tiny Tasks: Make your life more calm while getting things done five minutes at a time,**
 which is now available at your [favorite retailer](https://payhip.com/b/e32lr).
 
 And if you know anyone who could benefit from this post, feel free to share it with them. I'm sure they'll appreciate it!
 
-***
-
-Have thoughts about this post?
-
-* Reply via [email](https://arcadiapage.com/talk/)
-* Reply via [Twitter](https://twitter.com/arcadiapage/status/1453024720065110016?s=20)
