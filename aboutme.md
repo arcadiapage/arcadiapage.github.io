@@ -6,7 +6,7 @@ subtitle: Here's where to start...
 
 ![20250525-175027-0000.png](https://i.postimg.cc/QMh05MKR/20250525-175027-0000.png){: .mx-auto.d-block :}
 
-Hello! I'm Arcadia Page, an intuitive writer, artist, and creative rebel⚡. I help creative people find motivation and inspiration by providing a window into my own life as a highly sensitive intuitive creative through my [blog](https://arcadiapage.com/), [email newsletter](https://arcadiapage.substack.com/), [nonfiction](https://payhip.com/ArcadiaPage), [fiction](https://arcadiapage.com/2025-05-02-Omnigirl-Collection-Index/), and [art](https://arcadiapage.com/the-blue-room). I also like inviting readers to enjoy ongoing studio access through my membership, The [Listening Room](https://payhip.com/b/ROPCQ).
+Hello! I'm Arcadia Page, an intuitive writer, artist, and creative rebel⚡. Through sharing my dreams, intuitive insights, and daily creative life, I help others to reconnect to their inner creative voice and universe. In this space I invite readers to slow down enough to feel their imagination again and remember their own creative depth.
 
 Overall, my body of work is a forest full of all kinds of twisted paths, turns, and forks in the road. So dear explorer, here's your map. 
 
