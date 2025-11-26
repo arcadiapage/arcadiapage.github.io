@@ -183,7 +183,7 @@ He rested a hand over his heart and lowered his head.
 
 "I’m the one who protects and carries your magic when you forget you have it.”
 
-Then he carefully lifted his eyes to me and added, "I'm everything that you've forgotten about yourself."
+Then he carefully lifted his eyes to me and added, "[I'm everything that you've forgotten about yourself.](https://arcadiapage.com/2025-10-14-recollecting-the-lost-pieces-of-myself/)"
 
 At that moment, I felt pure heartbreak. Like discovering a favorite mug full of nostalgia and meaning had been smashed to the floor and broken without my knowledge, and I was just finding the pieces. I didn't know if I should cry or laugh. So I did neither.
 
