@@ -2,7 +2,7 @@
 title: The Garden 
 date: 2025-04-19 00:00:00 -07:00
 tags:
-- Flash Fiction 
+- Fiction 
 - Creative Life 
 - Inner Work 
 layout: post
