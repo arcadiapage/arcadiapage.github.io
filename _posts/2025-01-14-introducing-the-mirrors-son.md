@@ -2,8 +2,7 @@
 title: The Mirror's Son--Love and Shadows in the Glass
 date: 2025-01-14 00:00:00 -07:00
 tags:
-- Flash Fiction
-- Book Announcements
+- Fiction
 layout: post
 subtitle: 'A Fantasy Romance Flash Fiction Collection'
 ---
