@@ -2,7 +2,7 @@
 title: You Are My Inspiration 
 date: 2025-04-16 00:00:00 -07:00
 tags:
-- Flash Fiction 
+- Fiction 
 - Creative Life 
 - Inner Work 
 layout: post
