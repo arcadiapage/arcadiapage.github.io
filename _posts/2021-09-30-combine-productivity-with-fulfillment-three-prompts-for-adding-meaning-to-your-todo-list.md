@@ -47,16 +47,3 @@ With these simple prompts, your day is already more meaningful. You now have tas
 
 It's also a way to reduce planning pressure and mix some positivity along with getting stuff done.
 
-Do you know someone is stressing out over their to-do list? Email this article to them! I'm sure they'll appreciate the three journal prompts.
-
-If you would like to keep up with the new posts in this series, feel free to [subscribe to my email list](https://tinyletter.com/arcadiapage).
-
-**Can't wait for my new posts? Here are some older posts you will probably enjoy:**
-
-[Creative and Disorganized? Here are Resources I've Found Helpful](https://arcadiapage.com/2018/04/creative-and-disorganized-here-are.html)
-
-[How to Plan When Life is Chaotic](https://arcadiapage.com/2020-08-28-how-to-plan-when-life-is-chaotic/)
-
-[How to Tell if a Weekly Planner is for You](https://arcadiapage.com/2020-12-07-how-to-tell-if-a-weekly-planner-is-for-you/)
-
-[How to Build a Planner from Scratch](https://arcadiapage.com/2020-09-19-how-to-build-a-planner-from-scratch/)
