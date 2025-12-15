@@ -70,7 +70,6 @@ I only pick one or two questions to meditate on to give my mind plenty of room t
 
 I also keep a journal nearby to take note of any insights that may arrive.
 
-If you're feeling ready to dig deeper into using contemplation to plan your day, you may like my book, [Thoughtful Planning:How to Use Questions for Self-reflection to Design Your Day](https://payhip.com/b/YSucT).
 
 # Rest
 
@@ -90,9 +89,7 @@ Rest is a central part of your productivity because it is what fuels you. Withou
 
 And the other issues I mentioned, emotional resistance and not thinking things through, can be amplified by not getting a moment of rest before you try being productive. 
 
-If you struggle to accept your need for rest as a highly sensitive person, and you feel ready to learn more about what you can do to make peace with slowing down to take care of yourself, check out my book, [Love Your Sensitivity:7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person](https://payhip.com/b/KI5eW).
-
-So those are the three habits that have made me more productive as a highly sensitive person. 
+So those are the three habits that have made me more productive as a highly sensitive person. Parts of my reflections from this post live in a longer form in my book, [Love Your Sensitivity:7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person.](https://payhip.com/b/KI5eW)
 
 The hard part about these three things is that they're not as easy as setting a Pomodoro timer and getting on it. They do take an investment of time and reflection—and can feel completely unproductive at first—but increased clarity and effectiveness with less effort are the payoffs. 
 
