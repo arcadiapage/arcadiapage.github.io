@@ -28,9 +28,10 @@ show_related_posts: true
 navbar-links:
   💎 Library: https://payhip.com/ArcadiaPage
   📘 Topics: tags
-  "\U0001F5A4 Substack": https://arcadiapage.substack.com/
+  The Quiet Room: the-quiet-room
   Resources:
   - About Me: aboutme
+  - "\U0001F5A4 Substack": https://arcadiapage.substack.com/
   - The Blue Room: the-blue-room
   - Thoughts: https://arcadia.thoughts.page
   - Disclosure: https://payhip.com/ArcadiaPage/privacy-policy
