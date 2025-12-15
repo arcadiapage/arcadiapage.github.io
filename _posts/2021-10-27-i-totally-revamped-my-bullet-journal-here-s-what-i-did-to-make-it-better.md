@@ -138,9 +138,3 @@ From now until November I'll be writing on the topic of **Thoughtful Planning**.
 
 12/4 UPDATE: My book is now out! The title is [**Thoughtful Planning: How I Learned to Use Journaling to Set Intentional Goals & Design Flexible Days**](https://payhip.com/b/YSucT)**. It not only includes this blog post but other planning/journal inspiration. It's now available at your favorite ebook retailer. 
 
-***
-
-Have thoughts on this post? 🤔
-
-* Comment via [email](https://arcadiapage.com/talk/)
-* Comment via [Twitter](https://mobile.twitter.com/arcadiapage/status/1453394954974334990)
