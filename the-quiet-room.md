@@ -11,4 +11,5 @@ subtitle:
 * [Using Journaling to Transform How You Plan for the Day](https://arcadiapage.com/2019/07/using-journaling-to-transform-how-you.html)
 * [Dragons, Creative Flow Secrets, and an Encore](https://arcadiapage.com/2025-10-17-dragons-and-creative-flow-secrets/)
 
+Some longer or finished works and collections live [elsewhere.](https://payhip.com/ArcadiaPage)
 If this space is meaningful to you and you’d like to help keep it going, there’s a way to do that [here.](https://arcadiapage.com/supportthiswriter/)
