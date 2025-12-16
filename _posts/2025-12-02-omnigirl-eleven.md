@@ -249,7 +249,7 @@ We searched for those plans all day, but there was no sign of them anywhere.
 
 ***
 
-*Note to my 14-year-old self: Dear mini-me, not too long ago I returned to the heart of the Twisted Forest. Although it’s still strange, I want you to know that [he never stopped waiting for you](https://arcadiapage.com/2025-04-16-You-Are-My-Inspiration/) among the fireflies.* 
+*Note to my 14-year-old self: Dear mini-me, not too long ago I returned to the heart of the Twisted Forest. Although it’s still strange, I want you to know that [he never stopped waiting for you](https://arcadiapage.com/2025-04-16-You-Are-My-Inspiration/) at the door among the fireflies.* 
 
   
 
