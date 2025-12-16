@@ -134,7 +134,5 @@ I hope that this post has given you inspiration on how to make your Bullet Journ
 
 I know there are a lot of technical things going on in this post. To make it easier to visualize, I'm doing a short series of Tiktok videos of my "Bullet Journal Hacks." For easier viewing, I'm pinning these to a [Pinterest board as I make them](https://pin.it/6T8NBDb). Also a version of this post with more illustrations will be in my upcoming book.
 
-From now until November I'll be writing on the topic of **Thoughtful Planning**. To keep up with my posts, follow me by [email](https://tinyletter.com/arcadiapage). Also if you happen to know anyone who needs a fresh take on Bullet Journaling, feel free to share this post with them.
-
-12/4 UPDATE: My book is now out! The title is [**Thoughtful Planning: How I Learned to Use Journaling to Set Intentional Goals & Design Flexible Days**](https://payhip.com/b/YSucT)**. It not only includes this blog post but other planning/journal inspiration. It's now available at your favorite ebook retailer. 
+12/4 UPDATE: This post and more is expanded on in my newest book, [**Thoughtful Planning: How I Learned to Use Journaling to Set Intentional Goals & Design Flexible Days**](https://payhip.com/b/YSucT).
 
