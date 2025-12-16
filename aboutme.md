@@ -6,7 +6,7 @@ subtitle: Here's where to start...
 
 ![20250525-175027-0000.png](https://i.postimg.cc/QMh05MKR/20250525-175027-0000.png){: .mx-auto.d-block :}
 
-Hello! I'm Arcadia Page, an intuitive writer, artist, and creative rebel⚡. Through my dreams, intuitive insights, and daily creative life, I share the experience of reconnecting to one's inner creative voice and universe. In this space I invite readers to slow down enough to feel their imagination again and remember their own creative depth.
+Hello! I'm Arcadia Page, an intuitive writer, artist, and creative rebel⚡. Through my dreams, intuitive insights, and daily creative life, I share the experience of reconnecting to one's inner creative voice and universe. This space is an invitation to slow down enough to feel imagination and remember creative depth.
 
 Overall, my body of work is a forest full of all kinds of twisted paths, turns, and forks in the road. So dear explorer, here's your map. 
 
