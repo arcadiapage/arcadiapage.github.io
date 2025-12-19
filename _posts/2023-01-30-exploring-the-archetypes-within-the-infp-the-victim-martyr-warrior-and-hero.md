@@ -119,4 +119,3 @@ At another time, try this exercise again, but instead of using ENFJ celebrities,
 
 So how does the INFP change when they are successful at creating more inner harmony by integrating their shadow side? [My next post will dig into that!](https://arcadiapage.com/2023-02-27-how-infps-heal-and-grow-and-experiencing-trauma/)
 
-And if you feel ready to go even deeper into the magic of working with your archetypes you may also enjoy taking my simple, yet insightful [INFP Archetype Connection Workshop.](https://payhip.com/b/1q4ld) 
