@@ -103,5 +103,3 @@ Once you get an idea of where you are, learn more about that archetype. Believe 
 * [Magician \+ Sage](https://pin.it/4XEdGqR)
 
 Thanks for sticking with me through all of this! I know it’s a deep dive, but it was so rewarding to write.
-
-And if you feel compelled to go even deeper into the magic of working with your archetypes you may also enjoy taking my simple, yet insightful [INFP Archetype Connection Workshop.](https://payhip.com/b/1q4ld) 
