@@ -33,7 +33,7 @@ After learning about inferior functions, this book is a good follow up. It's sho
 
 Not all INFPs are highly sensitive, but many are. If you're often overwhelmed by sounds, smells, or textures, or you are often deeply moved by art and nature, you may be highly sensitive. [Take the HSP questionnaire to see if this book is for you](http://hsperson.com/test/). Finding out about my high sensitivity has helped me to make my environment less draining, and I've learned that half of what I thought was social anxiety was actually over-stimulation. As a high sensation-seeking HSP, I also learned why is so important for me to add more peace and quiet space to my day.
 
-If you are an HSP, you may also want to check out [**Your Rainforest Mind**](https://bookshop.org/a/8232/9780692713105) by Paula Prober and [**Emotional Sensitivity and Intensity**](https://bookshop.org/a/8232/9781473656031) by Imi Lo. You may also enjoy reading my book on living with sensitivity, [**Love Your Sensitivity:7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person**](https://payhip.com/b/KI5eW)
+If you are an HSP, you may also want to check out [**Your Rainforest Mind**](https://bookshop.org/a/8232/9780692713105) by Paula Prober and [**Emotional Sensitivity and Intensity**](https://bookshop.org/a/8232/9781473656031) by Imi Lo. 
 
 # [Start Where You Are by Meera Lee Patel ](https://bookshop.org/a/8232/9780399174827)
 
@@ -67,21 +67,7 @@ My favorite idea from **Refuse to Choose** is the Scanner Daybook. I've never wr
 
 [**The Clutter Connection**](https://bookshop.org/a/8232/9781633538566) by Cassandra Aarssen
 
-And of course, a moment of shameless self-promo...
-
-# INFP Books and Resources by Arcadia Page
-
-[**Idealist Dreams: How I Learned to Plan as an INFP**](https://payhip.com/b/KrBh) 
-
-[**I Can't Help Being an INFP Writer: 100+ Tips to Help INFP Writers Capture Ideas, Stay Motivated, and Overcome Problems**](https://payhip.com/b/4tWM)
-
-[**The Focused Dreamer Planner: INFP Planning**](https://payhip.com/b/LZQNK)
-
-[**Discover Your INFP Archetypes Test and Workbook**](https://payhip.com/b/Di7wb) (Free!)
-
-[**So...What's Your Story? A Guide to Creating Powerful Personal Essays as an INFP Writer**](https://payhip.com/b/NeotK) (Also free!)
-
-
+Most, if not all, of these books I've referenced or written about in [my own published books about INFPs](https://payhip.com/ArcadiaPage). They're just too good and too helpful to keep to myself.
 
 # Follow the Rabbit Holes!
 
