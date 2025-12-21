@@ -66,4 +66,3 @@ When dealing with such people, you may also find it helpful to listen to music t
 
 Accomplishing unusual goals takes a lot of emotional energy and fortitude, so surround yourself with resources that refill you and don't drain your motivation.
 
-(P.S. If you need more help reaching your goals with focus as an INFP, check out [The Focused Dreamer Planner Printable](https://payhip.com/b/LZQNK))
