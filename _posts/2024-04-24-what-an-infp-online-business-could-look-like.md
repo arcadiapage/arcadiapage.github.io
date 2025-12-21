@@ -148,14 +148,4 @@ So this is a general overview of the insights I've had about doing online busine
 
 This research has made me aware of how much potential I have, and how much I’ve been missing out on! And honestly, I feel a deep sense of relief. I've never seen an autobiographical business before, but the title fits so well with what I actually do. I create from my life experiences. I feel like now, I can create from a place of more clarity and confidence.
 
-°•°•°•°•
-
-## Free Resources...
-
-[So...What's Your Story? A Guide to Creating Powerful Personal Essays as an INFP Writer](https://payhip.com/b/NeotK)
-
-[Discover Your INFP Archetypes Test and Workbook](https://payhip.com/b/Di7wb)
-
-[Hush Zine Issue 1: Crying is Awesome](https://payhip.com/b/5SHwg) Free to listen 🎧
-
 
