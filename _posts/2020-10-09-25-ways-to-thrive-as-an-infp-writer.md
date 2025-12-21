@@ -48,12 +48,6 @@ So here are 25 Ways to Thrive as an INFP Writer:
 24. Maintain your love of reading.
 25. Always be ready to take note of what inspires you.
 
-## How to Thrive Even More as an INFP Writer
-
-If this list resonates with you, here are two more things you can do to find your unique way of flourishing as an INFP Writer:
-
-1. Discover more inspiring and valuable information from my book [I Can't Help Being an INFP Writer: 100+ Tips to Help INFP Writers Capture Ideas, Stay Motivated, and Overcome Writing Problems](https://payhip.com/b/4tWM). This book is full of tips on how to align your writing process with your personality type.
-2. If you are looking to create an easy, compassionate writing practice that resonates with you as an INFP, you may also enjoy [Love Your Writing Life - A Self-coaching Course for INFP Writers.](https://payhip.com/b/l30Wi).
 
 ![](/uploads/infp-writer-cover.jpg){: .mx-auto.d-block :}
 
