@@ -49,17 +49,3 @@ I believe overall, using a planner/calendar really is about awareness. It's not 
 
 It's more about bringing awareness to what will need your attention and making yourself available to address that, if possible. So those are my insights from finally getting this planning stuff sorted. For now.
 
-And just for completeness, here are the books I wrote as a result of my planning experiments. Just maybe you'll find them to be helpful companions on your own journey towards managing your time better:
-
-[Idealist Dreams: How I Learned to Plan as an INFP](https://payhip.com/b/KrBh)
-
-[Thoughtful Planning:How to Use Questions for Self-reflection to Design Your Day](https://payhip.com/b/YSucT)
-
-[The Little Book of Tiny Tasks: Make Your Life More Calm While Getting Things Done 5 Minutes at a Time](https://payhip.com/b/e32lr)
-
-[I Want to Do All the Things: Finding Balance as a Polymath, Multipotentialite & Renaissance Soul](https://payhip.com/b/4ljG)
-
-
-
-
-
