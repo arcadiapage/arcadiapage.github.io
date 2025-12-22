@@ -17,7 +17,7 @@ Take your time. Start any where you want, anyway you want.
 <h1><a id="places-and-spaces">Places and Spaces</a></h1>
 
 * <a href="#fount-white-butterfly">Fount White Butterfly</a>
-* <a href="#the-listening-room">The Listening Room</a>
+* <a href="#the-quiet-room">The Quiet Room</a>
 * <a href="#the-avila-room">The Avila Room</a>
 * <a href="#hall-of-fluttering">The Avila Room: Hall of Fluttering Leaves</a>
 * <a href ="#endless-sky-canopy">Endless Sky Canopy</a>
@@ -45,23 +45,11 @@ Return to <a href="#places-and-spaces">Places and Spaces</a>
 
 ---
 
-<h1><a id="the-listening-room">The Listening Room</a></h1>
+<h1><a id="the-quiet-room">The Quiet Room</a></h1>
 
-![The-Listening-Room.png](https://i.postimg.cc/28Crjr5j/The-Listening-Room.png)
+This is my deeper archive where I curate and organize my favorite pieces from this ever expanding blog. 
 
-This is my deeper archive and supporter space where I share what doesn't fit anywhere else—not quite behind-the-scenes, not quite a journal, but designed for story-lovers, curious followers, and imaginative creators.
-
-If you wish to eavesdrop on the frequencies behind my work, then give [The Listening Room](https://payhip.com/b/ROPCQ) a look.
-
-💿Here are some audio excerpts:
-
-- [Sometimes I Have No Clue What I'm Writing](https://voca.ro/1fSPwzEvnhKK)
-
-<div><iframe width="300" height="60" src="https://vocaroo.com/embed/1fSPwzEvnhKK?autoplay=0" frameborder="0" allow="autoplay"></iframe><br><a href="https://voca.ro/1fSPwzEvnhKK" title="Vocaroo Voice Recorder" target="_blank">View on Vocaroo &gt;&gt;</a></div>
-
-- [Crying is Awesome](https://arcadiapage.bandcamp.com/track/crying-is-awesome)
-
-- [Tranquility and Pleasure](https://arcadiapage.bandcamp.com/track/tranquility-and-pleasure)
+If you wish to wander through blog posts and recordings that feel timeless, then give [The Quiet Room](https://arcadiapage.com/the-quiet-room) a look.
 
 Return to <a href="#places-and-spaces">Places and Spaces</a>
 
