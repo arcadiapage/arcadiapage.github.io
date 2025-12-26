@@ -39,6 +39,7 @@ It takes time to meet with these inner parts of yourself, ask them questions, an
 
 The key is not to overthink it. Pull out a journal, ask a specific archetype about themselves, and see what comes back. 
 
-[All it takes is asking your archetypes the right questions and listening with compassion to get impactful insights.](https://payhip.com/b/vWmjS)
+All it takes is asking your archetypes the right questions and listening with compassion to get impactful insights. If you would like to to spend more time with this concept, [it lives here](https://payhip.com/b/vWmjS)
+
 
 
