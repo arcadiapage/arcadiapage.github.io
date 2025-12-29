@@ -6,7 +6,7 @@ subtitle: Here's where to start...
 
 ![20250525-175027-0000.png](https://i.postimg.cc/QMh05MKR/20250525-175027-0000.png){: .mx-auto.d-block :}
 
-Hello! I'm Arcadia Page, an intuitive writer, artist, and creative rebel⚡. Through my dreams, intuitive insights, and daily creative life, I share the experience of reconnecting to one's inner creative voice and universe. This space is an invitation to slow down enough to feel imagination and remember creative depth.
+Hello! I'm Arcadia Page, an intuitive writer, artist, and creative rebel⚡. Through my dreams, intuitive insights, and daily creative life, I share the experience of reconnecting to one's inner creative voice and universe. This space is also an invitation to slow down, let go of hustle, and to listen to natural rhythms.
 
 Overall, my body of work is a forest full of all kinds of twisted paths, turns, and forks in the road. So dear explorer, here's your map. 
 
@@ -47,29 +47,17 @@ Return to <a href="#places-and-spaces">Places and Spaces</a>
 
 <h1><a id="the-quiet-room">The Quiet Room</a></h1>
 
-This is my deeper archive where I curate and organize my favorite pieces from this ever expanding blog. 
-
-If you wish to wander through blog posts and recordings that feel timeless, then give [The Quiet Room](https://arcadiapage.com/the-quiet-room) a look.
-
-Return to <a href="#places-and-spaces">Places and Spaces</a>
-
----
-
-<h1><a id="the-avila-room">The Avila Room</a></h1>
-
 ![20250525-174910-0000.png](https://i.postimg.cc/K8Wf45rs/20250525-174910-0000.png){: .mx-auto.d-block :}
 
-A room of blue and white with inviting tables and cozy chairs. Here is stored my blog writing. My posts have spanned many topics over the years, from creativity and art, to productivity, personality type and nocturnal dreams.
+A room of blue and white with inviting tables and cozy chairs. Here is stored a curated constellation of posts to get started with.🌌 
 
-🌌Here's a curated constellation of posts to get started with. Let them sink into you. 
+My posts have spanned many topics over the years, from creativity and art, to productivity, personality type and nocturnal dreams.
 
-- [From Seeking to Surrender: A Journey of Self-Integration](https://arcadiapage.com/2025-03-24-From-Seeking-to-Surrender-a-Journey-of-Self-Integration/)~On grabbing hold of the true-self and finding soul.
-- [How I Learned that the Standard Definition of Success is Not for Me](https://arcadiapage.com/2025-04-14-how-I-learned-that-the-standard-definition-of-success-is-not-for-me/)~For those struggling to connect with common narratives surrounding success.
-- [How I Got the Most Out of My Myers-Briggs Test Results](https://arcadiapage.com/2017/12/how-i-got-most-out-of-my-myers-briggs.html)~For explorers who are trying to uncover the true self.
-- [Being a Productive Human is Simple. Working Like a Machine is Complicated](https://arcadiapage.com/2023-12-31-being-a-productive-human-is-simple/)~For the hustle culture weary.
-- [I Want to Do All the Things](https://arcadiapage.com/2020-07-24-i-want-to-do-all-the-things/)~For anyone who loves having a treasure trove of interests.
+If you wish to wander through blog posts and recordings that feel timeless, then give [The Quiet Room](https://arcadiapage.com/the-quiet-room) a look and let its contents sink into you.
 
-[For the full collection of my posts, click here](https://arcadiapage.com/tags/). If you wish to see even older posts, visit my archived blog, [Manga & Mascara](https://manga-arcadia.blogspot.com/).
+[For the full collection of my posts, click here](https://arcadiapage.com/tags/). 
+
+For my even older posts, visit my archived blog, [Manga & Mascara](https://manga-arcadia.blogspot.com/).
 
 Return to <a href="#places-and-spaces">Places and Spaces</a>
 
@@ -77,7 +65,7 @@ Return to <a href="#places-and-spaces">Places and Spaces</a>
 
 <h1><a id="hall-of-fluttering">The Avila Room: The Hall of Fluttering Leaves</a></h1>
 
-Within the Avila Room is a deeper space. Here my thoughts fly and flutter unhindered and even a bit unhinged--like newly released butterflies.
+Within the Quiet Room is a deeper space. Here my thoughts fly and flutter unhindered and even a bit unhinged--like newly released butterflies.
 
 🍃Hear their random whispers...
 
