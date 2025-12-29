@@ -11,10 +11,11 @@ subtitle:
 * [Combine Productivity with Fulfillment: Three Prompts for Adding Meaning to Your Todo List](https://arcadiapage.com/2021-09-30-combine-productivity-with-fulfillment-three-prompts-for-adding-meaning-to-your-todo-list/)
 * [Using Journaling to Transform How You Plan for the Day](https://arcadiapage.com/2019/07/using-journaling-to-transform-how-you.html)
 * [I Want to Do All the Things](https://arcadiapage.com/2020-07-24-i-want-to-do-all-the-things/)
-* [Dragons, Creative Flow Secrets, and an Encore](https://arcadiapage.com/2025-10-17-dragons-and-creative-flow-secrets/)
-* [From Seeking to Surrender: A Journey of Self-Integration](https://arcadiapage.com/2025-03-24-From-Seeking-to-Surrender-a-Journey-of-Self-Integration/)
-* [The Omnigirl Collection](https://arcadiapage.com/2025-05-02-Omnigirl-Collection-Index/)
 * [The Art of Bringing Your INFP Archetypes into Your Everyday Life](https://arcadiapage.com/2023-12-26-How-to-bring-your-INFP-Archetypes-into-Your-Everyday-Life/)
+* [From Seeking to Surrender: A Journey of Self-Integration](https://arcadiapage.com/2025-03-24-From-Seeking-to-Surrender-a-Journey-of-Self-Integration/)
+* [Dragons, Creative Flow Secrets, and an Encore](https://arcadiapage.com/2025-10-17-dragons-and-creative-flow-secrets/)
+* [The Omnigirl Collection](https://arcadiapage.com/2025-05-02-Omnigirl-Collection-Index/)
+
 
 
 Some longer or finished works and collections live [elsewhere.](https://payhip.com/ArcadiaPage)
