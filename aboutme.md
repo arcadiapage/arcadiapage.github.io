@@ -18,8 +18,7 @@ Take your time. Start any where you want, anyway you want.
 
 * <a href="#fount-white-butterfly">Fount White Butterfly</a>
 * <a href="#the-quiet-room">The Quiet Room</a>
-* <a href="#the-avila-room">The Avila Room</a>
-* <a href="#hall-of-fluttering">The Avila Room: Hall of Fluttering Leaves</a>
+* <a href="#hall-of-fluttering">The Hall of Fluttering Leaves</a>
 * <a href ="#endless-sky-canopy">Endless Sky Canopy</a>
 * <a href="#collectors-cove">Collector's Cove Atelier</a>
 * <a href="#the-studio-at-blue-pearl-lake">The Studio at Blue Pearl Lake</a>-about me 💎
@@ -63,9 +62,9 @@ Return to <a href="#places-and-spaces">Places and Spaces</a>
 
 ---
 
-<h1><a id="hall-of-fluttering">The Avila Room: The Hall of Fluttering Leaves</a></h1>
+<h1><a id="hall-of-fluttering">The Hall of Fluttering Leaves</a></h1>
 
-Within the Quiet Room is a deeper space. Here my thoughts fly and flutter unhindered and even a bit unhinged--like newly released butterflies.
+Adjacent to the Quiet Room is a deeper space. Here my thoughts fly and flutter unhindered and even a bit unhinged--like newly released butterflies.
 
 🍃Hear their random whispers...
 
@@ -176,6 +175,7 @@ _CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2
 💌**Where else you can find me**
 
 - [Substack](https://substack.com/@arcadiapage?r=682i4&utm_campaign=profile&utm_medium=profile-page)
+- [Instagram](https://www.instagram.com/arcadiapage/)
 - [Pinterest](https://www.pinterest.com/arcadiapage/)
 - Getting lost in the forest of my imagination.
 
