@@ -43,15 +43,16 @@ Then a woman with long dark hair, a sleek black dress, and deep black eyes appea
 
 The journey of my inner feminine has gone [full circle](https://arcadiapage.com/2025-03-24-From-Seeking-to-Surrender-a-Journey-of-Self-Integration/).
 
-—
+***
 
 The following night I dreamed I was writing in a notebook. I wrote, “My inner masculine has long black hair and wears white lace.” 
 
 He’s no longer a shadow version anymore split from lunar and oceanic wisdom. He’s just, himself. 
 
-—
+***
 
 A lace-like web 
+
 The spider wove. 
 
 This dream was in anime style, which was quite unique. Also I knew the moment this dream started that the spider was my inner feminine, although nothing specifically told me so. 
@@ -62,7 +63,7 @@ At his words the spider paused and said sweetly, “I thought it would be nice i
 
 Then he relaxed and said with a faint smile, “Oh.” 
 
-—
+***
 
 My essence was being poured into all kinds of different containers. 
 
@@ -70,7 +71,7 @@ The color of it was a vibrant red, reminiscent of blood but too bright, more lik
 
 After going through many different storage methods I was at last poured into two tea cups that were sitting on saucers.
 
-—
+***
 
 I was sitting in the auditorium of a performance center. I wore a long, elegant, form fitting dress, and people kept approaching to talk to me. As much as I appreciated them, I was starting to find the attention a little tiring. 
 
