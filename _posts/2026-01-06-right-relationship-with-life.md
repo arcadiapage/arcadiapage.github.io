@@ -39,7 +39,7 @@ This inner rumination was shocked into silence. With love. It was such a relief.
 
 And the newly achieved quiet was enough to reveal the real focus of this part of myself. I turned away from him and declared, "But actually who I really want to kiss is my wife." 
 
-Then a woman with long dark hair, a sleek black dress, and deep black eyes appeared. She was very different from the previous woman of my shadow-masculine’s acquaintance, a light and girly blonde. Clearly, she was his/my feminine match. I wrapped her in my arms and gave her a truly passionate kiss. All while cameras were rolling. 
+Then a woman with long dark hair, a sleek black dress, and deep black eyes appeared. She was very different from the previous woman of my shadow-masculine’s acquaintance, a light and girly blonde. Clearly, she was his/my feminine match (Although to be honest, she looked as if she could be related to him too. How scandelous!). I wrapped her in my arms and gave her a truly passionate kiss. All while cameras were rolling. 
 
 The journey of my inner feminine has gone [full circle](https://arcadiapage.com/2025-03-24-From-Seeking-to-Surrender-a-Journey-of-Self-Integration/).
 
@@ -67,7 +67,7 @@ Then he relaxed and said with a faint smile, “Oh.”
 
 My essence was being poured into all kinds of different containers. 
 
-The color of it was a vibrant red, reminiscent of blood but too bright, more like a rich juice. Ruby red. 
+The color of it was a vibrant red, reminiscent of blood but too bright, more like a rich juice or ruby red wine. 
 
 After going through many different storage methods I was at last poured into two tea cups that were sitting on saucers.
 
