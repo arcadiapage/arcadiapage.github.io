@@ -70,7 +70,7 @@ I was walking downstairs to go to class when in an empty hallway I came across t
 
 I turned to keep walking, but then from behind she wrapped her arms around my waist and started biting my neck, which is impressive since I was taller than her. I wasn’t bothered by it, and as soon as I broke away, I planned on simply saying, "It was nice seeing you again," before heading on to class.
 
-But when I turned to look at her, I realized that she wasn't really a she, but a short, round, black guy who seemed feminine. I still said, "I was nice seeing you again," but as soon as those words left my lips, I felt a twist in my gut. I knew I would regret saying that. It felt like committing to something that was asking for more than I was willing to give.
+But when I turned to look at her, I realized that she wasn't really a she, but a short, round, black guy who seemed feminine. I still said, "I was nice seeing you again," but as soon as those words left my lips, I felt a twist in my gut. I knew I would regret saying that. It felt like committing to something that was asking for more than I was willing to give at the expense of reasonable boundaries.
 
 And in my dream universe, usually [I’m the only one who swaps genders…](https://arcadiapage.com/2026-01-06-right-relationship-with-life/)
 
