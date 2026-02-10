@@ -115,11 +115,13 @@ When that attempt failed and I left, it took a lesson from my intuitive movement
 
 So at the end of the dream this part of myself met me again, but with agency instead of as a [victim](https://arcadiapage.com/2023-01-30-exploring-the-archetypes-within-the-infp-the-victim-martyr-warrior-and-hero/) consumed by endless hunger. He could acknowledge me with admiration, but he could also walk away without desperate attachment. Bottomless desire is no longer driving the show.
 
-When desire is put into its proper place and proportion, it becomes direction. When desire goes from being a devouring presence to a secure and gentle voice of navigation and admiration, it’s astoundingly beautiful. Like the man standing in the river, sensing the flow of life, with his naturalness as his crown. 
+When desire is put into its proper place and proportion, it becomes direction. When desire goes from being a devouring presence to a secure and gentle voice of navigation and admiration, it’s astoundingly beautiful. Like the man standing in the river, sensing the flow of life, with his naturalness as his crown. Or the queen gently guiding with her crook and calling to the sheep with her voice.
 
-Desire works best when it serves life instead of trying to bite into it and own it, 
+Desire works best when it serves life instead of trying to bite into it and own it.
 
 This masculine part of me that was undifferentiated, carrying a lot, and always desiring more, finally found freedom. And that’s not even touching the underlying racial symbolism. It’s a kind of freedom of the inner self that runs too deep to fathom.
+
+But overall, it's hard to appreciate the way that the self and even others naturally move through life when our inner desire is stuck in survival mode and is actively trying to consume us.
 
  # A Ridiculous Parody
 
