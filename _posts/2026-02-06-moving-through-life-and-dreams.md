@@ -117,6 +117,8 @@ So at the end of the dream this part of myself met me again, but with agency ins
 
 When desire is put into its proper place and proportion, it becomes direction. When desire goes from being a devouring presence to a secure and gentle voice of navigation and admiration, it’s astoundingly beautiful. Like the man standing in the river, sensing the flow of life, with his naturalness as his crown. 
 
+Desire works best when it serves life instead of trying to bite into it and own it, 
+
 This masculine part of me that was undifferentiated, carrying a lot, and always desiring more, finally found freedom. And that’s not even touching the underlying racial symbolism. It’s a kind of freedom of the inner self that runs too deep to fathom.
 
  # A Ridiculous Parody
