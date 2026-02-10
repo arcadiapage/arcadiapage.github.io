@@ -109,11 +109,11 @@ Rewind this dream.
 The only person who swaps genders in my dreams is still ME. 
 
 The feminine presenting male was a part myself that was hungry, grasping, and weighed down. 
-This part of my psyche was watching and admiring the way my more integrated feminine self moves, to the point that it tried to merge with me—unsuccessfully. Within me, it represents desire that’s never satisfied.
+This part of my psyche was watching and admiring the way my more integrated feminine self moves, to the point that it tried to merge with me—unsuccessfully. Within me, it represents desire that’s never satisfied and is stuck in survival mode.
 
 When that attempt failed and I left, it took a lesson from my intuitive movements. By learning to get back into motion—to move instead of just desire—it was able to find lightness.
 
-So at the end of the dream this part of myself met me again, but with agency instead of as a victim consumed by endless hunger. He could acknowledge me with admiration, but he could also walk away without desperate attachment. Bottomless desire is no longer driving the show.
+So at the end of the dream this part of myself met me again, but with agency instead of as a [victim](https://arcadiapage.com/2023-01-30-exploring-the-archetypes-within-the-infp-the-victim-martyr-warrior-and-hero/) consumed by endless hunger. He could acknowledge me with admiration, but he could also walk away without desperate attachment. Bottomless desire is no longer driving the show.
 
 When desire is put into its proper place and proportion, it becomes direction. When desire goes from being a devouring presence to a secure and gentle voice of navigation and admiration, it’s astoundingly beautiful. Like the man standing in the river, sensing the flow of life, with his naturalness as his crown. 
 
