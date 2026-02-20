@@ -56,7 +56,7 @@ When I was trying to figure out how I could earn money from my creative work, I 
 
 During that time I came across the idea of being a multipotentialite and polymath. I read books like [Refuse to Choose](https://arcadiapage.com/2018/04/my-favorite-reads-for-polymaths.html) and so on. Then one day while browsing Pinterest, I came across a pin from an article about [how to create one brand when you have many passions](https://web.archive.org/web/20180421182933/https://mindfulpixels.com/blog/how-to-create-one-brand-when-you-have-many-passions) and the worksheet from that article introduced me to the concept of ikigai. I must say that in hindsight, the business advice from that post is very solid.
 
-![First Ikigai Worksheet](uploads/my-original-Ikigai-worksheet.jpg){: .mx-auto.d-block :}
+![First Ikigai Worksheet](/uploads/my-original-Ikigai-worksheet.jpg){: .mx-auto.d-block :}
 
 Thanks to this discovery, I was able to focus my wandering mind for years on a single topic that felt fulfilling, and that helped me to rebuild my online presence and recover from the creative burnout I was dealing with after wrapping up my webcomic.
 
@@ -64,13 +64,13 @@ I filled out the worksheet and discovered my first “ikigai” in early 2018:
 
 *Writing to help INFPs and those with similar traits navigate the world.*
 
-![2018 Purpose Journal](uploads/2018-purpose-ikigai.jpg){: .mx-auto.d-block :}
+![2018 Purpose Journal](/uploads/2018-purpose-ikigai.jpg){: .mx-auto.d-block :}
 
 I loved the process so much that I repeated it in an art journal that I was using to plan my creative business. So I ended up with a second point of focus for 2018:
 
 *Writing to help INFPs and encourage emotional care.*
 
-![2018 Purpose in Art Journal](uploads/2018-purpose-ikigai-in-art-journal.jpg){: .mx-auto.d-block :}
+![2018 Purpose in Art Journal](/uploads/2018-purpose-ikigai-in-art-journal.jpg){: .mx-auto.d-block :}
 
 It was my deep digging into the MBTI mechanics of my type that led me to exploring the ideas of being multipassionate and highly sensitive in the first place. Also I was deep into bullet journaling, productivity, and planners, not only to organize my time but also to give myself space to handle my battered mental health.
 
@@ -93,13 +93,13 @@ I thought that if following my ikigai could help me get started with a creative 
 
 *Writing about how INFPs and HSPs (Highly Sensitive People) can embrace their intuition, need for mental space, and get more done via anti-hustle.*
 
-![2022 Purpose Focus](uploads/2022-purpose-ikigai.jpg){: .mx-auto.d-block :}
+![2022 Purpose Focus](/uploads/2022-purpose-ikigai.jpg){: .mx-auto.d-block :}
 
 I wasn’t quite satisfied with those results, and I was curious about what my current reason for being could be without the narrow focus on personality type. So a little while later I did it again. This time my point of focus for 2022 was:
 
 *Illuminating blind spots, bringing wounds and pain to the surface, finding lessons, and overcoming them. Self-reflection, writing, journaling, storytelling.*
 
-![2022 Purpose Focus Two](uploads/2022-purpose-ikigai-2.jpg){: .mx-auto.d-block :}
+![2022 Purpose Focus Two](/uploads/2022-purpose-ikigai-2.jpg){: .mx-auto.d-block :}
 
 In the end, I brought [both of these themes together.](https://arcadiapage.com/2022-02-27-how-infps-can-turn-emotional-crisis-into-an-opportunity/) I wrote about pain, emotions, burnout, anti-hustle, intuition, and shadow work for INFPs, HSPs and others.
 
@@ -141,7 +141,7 @@ My new focus at the end of 2025:
 
 *Writing, editing, and sharing stories. Analyzing my dreams. Reflecting on patterns and analyzing them to discover connections and insights.* 
 
-![2025 Purpose Journal](uploads/2025-purpose-ikigai.jpg){: .mx-auto.d-block :}
+![2025 Purpose Journal](/uploads/2025-purpose-ikigai.jpg){: .mx-auto.d-block :}
 
 # Discovering My Purpose Axis
 
