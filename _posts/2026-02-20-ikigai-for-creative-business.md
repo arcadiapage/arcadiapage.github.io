@@ -9,6 +9,7 @@ tags:
 - Goal Setting
 - Productivity
 - On Writing
+- Season 1 INFP Entrepreneur
 layout: post
 subtitle: 'Thoughts on working from my raison d’être'
 ---
