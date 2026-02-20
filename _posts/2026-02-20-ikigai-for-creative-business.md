@@ -109,7 +109,7 @@ I created my book [Love Your Sensitivity](https://payhip.com/b/KI5eW), which is 
 
 Currently the sales of these books don’t even come close to the sales of the books from my first…era?
 
-But the blog posts I created are another story. Even as I write this today, my most popular posts are from 2022 to 2024. 
+But the blog posts I created are another story. Even as I write this today, all except one of my top ten popular posts are from 2022 to 2024. 
 
 
 Some long lived posts include:
