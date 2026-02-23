@@ -17,6 +17,5 @@ subtitle:
 * [The Omnigirl Collection](https://arcadiapage.com/2025-05-02-Omnigirl-Collection-Index/)
 
 
-
-Some longer or finished works and collections live [elsewhere.](https://payhip.com/ArcadiaPage)
+Some longer or finished works and collections live [elsewhere.](https://payhip.com/ArcadiaPage). I especially recommend checking out the [The Quiet Depths Collection](https://payhip.com/b/UQYtm).
 If this space is meaningful to you and you’d like to support it, there’s a way to do that [here.](https://arcadiapage.com/supportthiswriter/)
