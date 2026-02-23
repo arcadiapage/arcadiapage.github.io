@@ -4,7 +4,7 @@ layout: page
 subtitle: this starry-eyed writer ✨
 ---
 
-  🌸 [Donate to the Quiet Depths Collection – a private archive of printables, essays, and more that grows over time.](https://payhip.com/b/UQYtm)
+  🌸 [Enjoy pay-what-you-want access to the Quiet Depths Collection – a private archive of printables, essays, and more](https://payhip.com/b/UQYtm)
   
   📚 [Buy one of my books – stories & insights to keep you inspired](https://payhip.com/ArcadiaPage)
 
