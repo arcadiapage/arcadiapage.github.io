@@ -4,7 +4,7 @@ layout: page
 subtitle: this starry-eyed writer ✨
 ---
 
-  🌸 [Give a Gift (PayPal) – if you feel like giving back directly, you can send a one-time or recurring gift.](https://www.paypal.com/donate/?hosted_button_id=9J588XN8BJKUW)
+  🌸 [Donate to the Quiet Depths Collection – a private archive of printables, essays, and more that grows over time.](https://payhip.com/b/UQYtm)
   
   📚 [Buy one of my books – stories & insights to keep you inspired](https://payhip.com/ArcadiaPage)
 
