@@ -33,7 +33,8 @@ Originally written in 2001/2002 💿
 - [Chapter Nine](https://arcadiapage.com/2025-10-24-omnigirl-nine/)
 - [Chapter Ten](https://arcadiapage.com/2025-12-02-omnigirl-ten/)
 - [Chapter Eleven](https://arcadiapage.com/2025-12-02-omnigirl-eleven/)
-- Chapter Twelve (Coming Soon!)
+- [Chapter Twelve](https://arcadiapage.com/2026-03-02-omnigirl-twelve/)
+- Chapter Thirteen (Coming Soon!)
   
   
 
