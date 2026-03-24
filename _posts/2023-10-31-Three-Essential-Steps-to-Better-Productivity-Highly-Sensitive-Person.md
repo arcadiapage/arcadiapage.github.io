@@ -89,7 +89,7 @@ Rest is a central part of your productivity because it is what fuels you. Withou
 
 And the other issues I mentioned, emotional resistance and not thinking things through, can be amplified by not getting a moment of rest before you try being productive. 
 
-So those are the three habits that have made me more productive as a highly sensitive person. Parts of my reflections from this post live in a longer form in my book, [Love Your Sensitivity:7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person.](https://payhip.com/b/KI5eW)
+So those are the three habits that have made me more productive as a highly sensitive person. Parts of my reflections from this post live in a longer form in my book, [Love Your Sensitivity:7 Essential Life Changes to Make After Learning You're a Highly Sensitive Person.](https://payhip.com/b/KI5eW). I also share some more up-to-date variations of this concept in [Wildly Flexible: Routines for Neurodivergent Rebels](https://payhip.com/b/ai65M).
 
 The hard part about these three things is that they're not as easy as setting a Pomodoro timer and getting on it. They do take an investment of time and reflection—and can feel completely unproductive at first—but increased clarity and effectiveness with less effort are the payoffs. 
 
