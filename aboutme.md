@@ -6,15 +6,11 @@ subtitle: Here's where to start...
 
 ![20250525-175027-0000.png](https://i.postimg.cc/QMh05MKR/20250525-175027-0000.png){: .mx-auto.d-block :}
 
-Hello! I'm Arcadia Page, an intuitive writer and artist who creates reflective spaces that help people reconnect with their inner truth, intuition, and sense of meaning. 
+Hello! I'm Arcadia Page, an artist and creative non-fiction writer, who explores personal growth, creative productivity, and storytelling through lived experience. Via my dreams, intuitive insights, and daily creative life, I share the process of reconnecting to one's inner creative voice and universe. 
 
-Through my dreams, intuitive insights, and daily creative life, I share the experience of reconnecting to one's inner creative voice and universe. 
+I started this blog as a burned out creative who was looking for identity, purpose, and impactful self-care. My dream is to be creative and happy in ways the reflect my truest self. I'm not here to really teach anything. Instead I'm here to share what moves through me, and sometimes doing so helps people to remember what they've always known. 
 
-I'm not here to really teach anything.
-
-Instead I'm here to share what moves through me, and sometimes doing so helps people to remember what they've always known. This space is also an invitation to slow down, let go of hustle, and to listen to one's natural rhythms. 
-
-Overall, my body of work is a forest full of all kinds of twisted paths, turns, and forks in the road. So dear explorer, here's your map. 
+Like life, my body of work is a forest full of all kinds of twisted paths, turns, and forks in the road. So dear explorer, here's your map. 
 
 Go through this guide in order or run towards whatever calls to you, because this space is for wandering. 
 
@@ -43,8 +39,6 @@ Making with my hands energizes, refreshes, and transforms me.
 Quiet is necessary if I really want to hear. Quiet is also necessary if I want to see. 
 
 Anyone who I can sit with comfortably in quiet is a potential friend.
-
-Feel free to whisper quiet dreams to [the wall of wishes.](https://arcadiapage.com/the-wishing-wall/) 
 
 Return to <a href="#places-and-spaces">Places and Spaces</a>
 
