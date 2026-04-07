@@ -10,6 +10,8 @@ Hello! I'm Arcadia Page, an artist and creative non-fiction writer, who explores
 
 I started this blog as a burned out creative who was looking for identity, purpose, and impactful self-care. My dream is to be creative and happy in ways the reflect my truest self. I'm not here to really teach anything. Instead I'm here to share what moves through me, and sometimes doing so helps people to remember what they've always known. 
 
+If you like personal growth and the process of understanding the reality of one's self and purpose, you'll like what I do. 
+
 Like life, my body of work is a forest full of all kinds of twisted paths, turns, and forks in the road. So dear explorer, here's your map. 
 
 Go through this guide in order or run towards whatever calls to you, because this space is for wandering. 
