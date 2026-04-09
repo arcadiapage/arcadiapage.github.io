@@ -12,7 +12,7 @@ By sharing my dreams, fiction, intuitive insights, and daily creative life, I ex
 
 I started this blog as a burned out creative who was looking for identity and purpose, and I want to share what it’s like to experience inner transformation in real-time.
 
-So if you're into identity shifts and pivots, you might like what I do. 
+So if you're into self-understanding, meaning-making, and identity shifts, you might like what I do. 
 
 Like life, my body of work is a forest full of all kinds of twisted paths, turns, and forks in the road. So dear explorer, here's your map. 
 
