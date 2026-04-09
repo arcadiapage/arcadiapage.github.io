@@ -6,13 +6,13 @@ subtitle: Here's where to start...
 
 ![20250525-175027-0000.png](https://i.postimg.cc/QMh05MKR/20250525-175027-0000.png){: .mx-auto.d-block :}
 
-Hello! I'm Arcadia Page, an intuitive artist and creative non-fiction writer, who explores personal growth, creative productivity, and storytelling through lived experience. Currently my work is about the inner process, not the outcome, so my focus is on asking, "What's happening inside of me and what does it mean?" 
+Hello! I'm Arcadia Page, an intuitive artist and creative non-fiction writer who explores personal growth, creative productivity, and storytelling through lived experience. Currently my work is about the inner process of transformation, so my focus is on asking, "What's happening inside of me and what does it mean?" 
 
-By sharing my dreams, fiction, intuitive insights, and daily creative life, I explore the process of reconnecting to one's inner voice when your sense of self is actively changing within. 
+By sharing my dreams, fiction, intuitive insights, and daily creative life, I explore what it takes to stay connected to who I am when my sense of self is actively changing within. 
 
-I started this blog as a burned out creative who was looking for identity, purpose, and impactful self-care. My goal is to explore and express what it’s like to experience inner transformation in real-time with the purpose of being creative in ways that reflect one's truest self. 
+I started this blog as a burned out creative who was looking for identity and purpose, and I want to share what it’s like to experience inner transformation in real-time.
 
-So if you're into identity shifts and exploring inner transformation, you might like what I do. 
+So if you're into identity shifts and pivots, you might like what I do. 
 
 Like life, my body of work is a forest full of all kinds of twisted paths, turns, and forks in the road. So dear explorer, here's your map. 
 
