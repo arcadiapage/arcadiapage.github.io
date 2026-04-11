@@ -1,6 +1,6 @@
 ---
 title: 'Omnigirl Chapter Thirteen'
-date: 2026-03-02 00:00:00 -07:00
+date: 2026-04-11 00:00:00 -07:00
 tags:
 - Inner Work 
 - Fiction
