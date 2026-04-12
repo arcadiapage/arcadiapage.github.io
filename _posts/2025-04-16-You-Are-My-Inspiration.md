@@ -6,10 +6,10 @@ tags:
 - Creative Life 
 - Inner Work 
 layout: post
-subtitle: ''
+subtitle: 'Processing my inner world through story'
 ---
 
-This is a completely fictional story. Sort of...
+This is completely fictional. Sort of...
 
 ---
 
