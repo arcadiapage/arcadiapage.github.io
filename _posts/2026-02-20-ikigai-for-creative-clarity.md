@@ -1,5 +1,5 @@
 ---
-title: 'I Used Ikigai to Find the Purpose of My Creative Business. This is What Happened.'
+title: 'I Used Ikigai to Find Creative Clarity'
 date: 2026-02-20 00:00:00 -07:00
 tags:
 - Inner Work 
