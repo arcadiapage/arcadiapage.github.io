@@ -6,9 +6,9 @@ subtitle: Here's where to start...
 
 ![20250525-175027-0000.png](https://i.postimg.cc/QMh05MKR/20250525-175027-0000.png){: .mx-auto.d-block :}
 
-Hello! I'm Arcadia Page, an intuitive writer and artist who explores personal growth, creative productivity, and storytelling. My work is mainly focused on the inner process of transformation and asking, "What's happening inside of me, and what does it mean?" 
+Hello! I'm Arcadia Page, an intuitive writer and artist who explores personal growth, creative productivity, and storytelling. My work is mainly focused on helping others make sense of their inner world so they can move through life in a way that fits them. 
 
-I started this blog as a burned out creative looking for identity and purpose. So as I result, I began experimenting with ways to stay connected to who I am even when my sense of self was actively changing. 
+I started this blog as a burned out creative looking for identity and purpose. So as I result, I began experimenting with ways to stay connected to who I am even when my sense of self was actively changing. In the face of inner transformation I like asking, "What's happening inside of me, and what does it mean?" 
 
 I often create from dreams, altered states of awareness, and the space between dreaming and awakening. My work encourages letting go of the pressure to find clarity immediately and leaving room for inner knowing to arise naturally instead, which leads to deeper self-perception. So if you're into self-understanding and identity shifts, you might like what I do. 
 
