@@ -6,7 +6,7 @@ tags:
 - Creative Life
 - Productivity & Simplicity 
 layout: post
-subtitle: ''
+subtitle: 'Using notes to create clarity inside and outside'
 ---
 
 The library of the mansion was beautifully designed with classic elegance. I admired the glossy wood paneling on the walls and the sturdy shelving made of heavier, more robust wood, highly polished and stained dark.
