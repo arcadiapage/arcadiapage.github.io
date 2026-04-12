@@ -9,7 +9,7 @@ layout: post
 subtitle: 'Experiencing the clarity of inner belonging'
 ---
 
-There’s nothing more fun than taking on the subconscious body of my masculine shadow-self in my dreams. Good times. 
+There’s nothing more fun than taking on the subconscious body of my masculine shadow-self in my dreams. Doing so helps me to see myself in ways I never have before. So let's explore how I processed this part of my inner world into meaningful clarity this time around.
 
 Sometimes I don't know if I'm calling these parts of my psyche back to myself, or if I'm being called to inhabit them from the inside. But either way, I get a moment to experience life through strange nocturnal eyes.
 
