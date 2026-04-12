@@ -1,5 +1,5 @@
 ---
-title: 'A Collection on Meeting and Understanding The Ego and The Self'
+title: 'A Collection on Meeting the Ego and The Self with Clarity'
 date: 2026-01-07 00:00:00 -07:00
 tags:
 - Inner Work 
@@ -10,38 +10,34 @@ layout: post
 subtitle: ''
 ---
 
-The dance between my ego and self has been a life long journey.
+The dance between my ego and self has been a life long journey of looking for inner clarity.
 
-When I was fourteen, I fell into exploring the rhythm of the dance. I asked myself, “If I could live completely as myself, what would my life possibly be like?” 
+When I was fourteen, I fell into exploring the rhythm of the dance. I asked myself, “If I could live completely as myself, what would my life possibly be like?” I was looking for a clear view of my innermost self, the secret person of the heart.
 
-[Then I wrote a novel about it.](https://arcadiapage.com/2025-05-02-Omnigirl-Collection-Index/) 
+[Then I wrote a novel about it, entitled Omnigirl.](https://arcadiapage.com/2025-05-02-Omnigirl-Collection-Index/) 
 
-Lila is the potential of the Self.
+The character of Lila is my creative potential.
 
-Levi is the Ego.
+Levi is my Ego.
 
-After collecting her own lost pieces, Lila created Levi, letting him form from the blue pearl within herself.  
+So here's how I'm currently using the roles of these characters to process my inner world. This post is a bit deep, so I recommend reading [Omnigirl](https://arcadiapage.com/2025-05-02-Omnigirl-Collection-Index/) first (or at least what I've posted so far) to fully understand this. But I do think on some level, parts of this post can be kind of understood, even if you haven't read the novel yet.
 
-Being opposites, they didn't get along at first but eventually they came together, the Ego mirroring back to the Self her own hidden power and the force of her intuition.
+# Inner Seeing Through Story
 
-But even after coming together, the Ego was still immature and damaged, [wearing a mask](https://payhip.com/b/XtCk7) to make up for the shadows and often violating the boundaries of the Self. And the Self still lacked confidence.
+Throughout Omnigirl, Lila is collecting her own lost pieces, the other girls of The Five. Only until they are assembled and working together does she find Levi. It's almost as if he's formed from the blue pearl within herself.  
 
-The Self suffered greatly under the Ego's desperate attempts at control [until she let him go.](https://arcadiapage.com/2025-03-24-From-Seeking-to-Surrender-a-Journey-of-Self-Integration/)
+Being opposites, they do not get along at first but even still, Levi mirrors back the Lila her own hidden power and the force of her intuition. The character style of Levi is a mirror that shows up again and again in my work. He's a way for me to see the parts of myself I'm not ready to claim. Early on, this character has often shown up in ways that immature and damaged, [wearing a mask](https://payhip.com/b/XtCk7) or hiding who he is.
+
+This part of me was so not ready to face life, that other parts of my innerself literally had to [let him go.](https://arcadiapage.com/2025-03-24-From-Seeking-to-Surrender-a-Journey-of-Self-Integration/)
 
 Ego release. 
 
-Now separated and differentiated once again, the Self worked on her own healing, without the pretenses of the Ego. Strange how much healing without the Ego feels like [raw perpetual failure.](https://arcadiapage.com/2025-01-14-navigating-waters-of-change/)
+As freeing as that sounds, healing without the Ego and without pretense feels like [raw perpetual failure.](https://arcadiapage.com/2025-01-14-navigating-waters-of-change/) But when the Self surrenders the Ego, life returns. 
 
-But when the Self surrenders, life returns to her. 
+So eventually, the Ego returned, [testing to see if the more organized parts of my inner self was ready to accept him](https://arcadiapage.com/2025-04-16-You-Are-My-Inspiration/) and remember. She was. And although he returned more wise and experienced than before, he still carried [shadow versions of himself.](https://arcadiapage.com/2025-05-29-that-time-I-stole-some-guys-body/)
 
-So eventually, the Ego returned to the Self, [testing to see if she was willing to accept him](https://arcadiapage.com/2025-04-16-You-Are-My-Inspiration/) and remember. She was. And although he was more wise and experienced than before, the Ego was still damaged and carried [shadow versions of himself.](https://arcadiapage.com/2025-05-29-that-time-I-stole-some-guys-body/)
-
-The Self worked with the Ego until he had healed enough to [regain his wings](https://arcadiapage.com/2025-10-17-dragons-and-creative-flow-secrets/) and wield a form of control that didn't come from fear, but [from love that's not bound to fear](https://arcadiapage.com/2025-10-14-recollecting-the-lost-pieces-of-myself/). The Ego loved his shadows back into himself and then was finally enough to hold the Self and meet her where she stood.
+I took time and work for this part of me to heal enough to [regain his wings](https://arcadiapage.com/2025-10-17-dragons-and-creative-flow-secrets/) and wield a form of control that doesn't come from fear, but [from love that's not bound to fear](https://arcadiapage.com/2025-10-14-recollecting-the-lost-pieces-of-myself/). The Ego loved his shadows back into himself and then was finally enough to hold the Self and meet her where she stood.
 
 [Afterwards they recombined once more, now with the goal of creating together.](https://arcadiapage.com/2026-01-06-right-relationship-with-life/)
 
-Instead of being overly controlling the Ego now sits in his rightful place, offering his energy to the Self and helping her to maintain boundaries and well-being. He gives her the energy to build her web and is a guardian of what matters. 
-
-And the creative Self sits between his steady, judicious, intuitively structured nature and the spontaneous joy of the Child, feeling deep love for them both as she brings their unique expressions into the material world.
-
-This has been the work.
+Now, instead of being overly controlling, the Ego sits in his rightful place within me, helping me to maintain my boundaries and well-being. He gives Lila, my creative self, the energy to build her web of creations and is a guardian of what matters. 
