@@ -9,7 +9,7 @@ tags:
 - Goal Setting
 - Productivity
 layout: post
-subtitle: ''
+subtitle: 'Good vision boards create clarity'
 ---
 
 Before diving into this post, I just have to say that I’ve been a bit antagonistic towards vision boards, although I’ve made them plenty of times. For me, the results of creating a vision board have often fallen into two categories: a bunch of feel good platitudes that do nothing for me practically or pictures that remind me of all the things I’ve failed to achieve. 
