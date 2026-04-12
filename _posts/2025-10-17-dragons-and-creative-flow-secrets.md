@@ -8,7 +8,7 @@ tags:
 - On Writing
 - Productivity & Simplicity 
 layout: post
-subtitle: ''
+subtitle: 'Finding creative clarity through dreams'
 ---
 
 I was sleeping on the living room floor of an unfamiliar house. While laying there in the dark, I cracked my eyes open just enough to see the shadow of someone crouching and watching me sleep. And they seemed to have dragon wings?
