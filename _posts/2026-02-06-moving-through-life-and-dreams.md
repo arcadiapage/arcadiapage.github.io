@@ -6,7 +6,7 @@ tags:
 - Emotional Healing
 - Mindful Living
 layout: post
-subtitle: 'And finding freedom from bottomless desire'
+subtitle: 'And finding clarity through understanding desire'
 ---
 In between sleeping and waking I kept getting flashes of the same subconscious image: the picture of a young queen. 
 
