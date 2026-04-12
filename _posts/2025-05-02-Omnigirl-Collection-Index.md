@@ -16,6 +16,8 @@ The girl who is becoming everything she truly is.
 
 Originally written in 2001/2002 💿
 
+Although I wrote this a really long time ago, I can see how much of my inner world I was processing through this story.
+
 # Chapter List/TOC 
 (Updated serially. A more formal introduction follows
 💙 )
