@@ -6,7 +6,7 @@ tags:
 - Emotional Healing
 - Personality Type
 layout: post
-subtitle: 'Experiencing the clarity inner belonging'
+subtitle: 'Experiencing the clarity of inner belonging'
 ---
 
 There’s nothing more fun than taking on the subconscious body of my masculine shadow-self in my dreams. Good times. 
