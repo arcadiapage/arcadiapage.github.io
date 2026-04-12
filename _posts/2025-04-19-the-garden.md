@@ -6,7 +6,7 @@ tags:
 - Creative Life 
 - Inner Work 
 layout: post
-subtitle: ''
+subtitle: 'From processing the forest to processing the garden of my inner world'
 ---
 [*You're My Inspiration continued...*](https://arcadiapage.com/2025-04-16-You-Are-My-Inspiration/)
 
