@@ -1,5 +1,5 @@
 ---
-title: From Seeking to Surrender – A Journey of Self-Integration
+title: From Seeking to Surrender – Finding Clarity by Letting Go
 date: 2025-03-24 00:00:00 -07:00
 tags:
 - Inner Work 
