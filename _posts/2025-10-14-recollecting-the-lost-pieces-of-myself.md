@@ -8,7 +8,7 @@ tags:
 - On Writing
 - On Art
 layout: post
-subtitle: ''
+subtitle: 'Making sense of who I am through dreamwork'
 ---
 
 Over the course of this year, I've been shedding [more and more the need to push myself creatively](https://arcadiapage.com/2025-06-11-creative-fire-is-classic-do-not-get-burned/). To be real, this feels very strange. 
