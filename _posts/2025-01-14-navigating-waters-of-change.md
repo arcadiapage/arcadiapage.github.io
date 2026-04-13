@@ -6,7 +6,7 @@ tags:
 - Emotional Healing
 - Creative Life
 layout: post
-subtitle: ''
+subtitle: 'Making sense of my inner world as my sense of self changes'
 ---
 
 As much as I enjoy what I do, I can't shake that fish out of water feeling. I've experienced so much change over the past year, that the things I've accomplished even recently feel like they've been done a million years ago by someone else. ([The Love Your Business](https://payhip.com/b/UyQZk) stuff? So a million years ago...)
