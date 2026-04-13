@@ -9,7 +9,7 @@ tags:
 - Productivity
 - Productivity & Simplicity
 layout: post
-subtitle: 'An clear vision of what success is to me'
+subtitle: 'A clear vision of what success is to me'
 ---
 
 Dear Arcadia, 
