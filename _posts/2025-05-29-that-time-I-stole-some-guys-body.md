@@ -5,7 +5,7 @@ tags:
 - Emotional Healing 
 - Inner Work 
 layout: post
-subtitle: 'The most mind-bending dream I have ever had'
+subtitle: 'Processing this mind-bending dream into inner clarity'
 ---
 
 My hand gripped a rope as I swung into the open door of a shop that was owned by a friend. Curiously, the rope seemed to be attached to nothing more than the ether. As I came in for a landing, I let go of the girl I was carrying. Her full skirt flared as she stepped across the shop floor and gave a little twirl for me. Her dress was a lovely pink and well-tailored. Her full bodied, chestnut brown hair was pinned up, retro style.
