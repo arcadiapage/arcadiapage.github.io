@@ -7,7 +7,7 @@ tags:
 - Creative Life
 - Creative Business 
 layout: post
-subtitle: ''
+subtitle: 'Clearing Inner Noise to Reveal the Care I Need'
 ---
 
 Right now, I feel like life is challenging me with financial pressure, work pressure, and pressure from my inner shadows. 
