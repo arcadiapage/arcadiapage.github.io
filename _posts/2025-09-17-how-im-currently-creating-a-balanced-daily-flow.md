@@ -1,5 +1,5 @@
 ---
-title: 'How I am Currently Creating a Balanced Daily Flow'
+title: 'Creating a Balanced Daily Flow for Daily Clarity'
 date: 2025-09-17 00:00:00 -07:00
 tags:
 - Productivity
