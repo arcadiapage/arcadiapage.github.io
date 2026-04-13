@@ -1,5 +1,5 @@
 ---
-title: '10 Ways to Get More Organized in 5 Minutes'
+title: '5 Minute Organizing for Daily Clarity'
 date: 2025-08-22 00:00:00 -07:00
 tags:
 - Productivity
