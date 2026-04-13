@@ -7,7 +7,7 @@ tags:
 - Creative Life
 - Creative Business 
 layout: post
-subtitle: ''
+subtitle: 'Beware of letting overwhelm become creative burnout'
 ---
 
 I followed the administrative officials around as they gave me a tour of their all-boys school. Thankfully, [I wasn't a boy myself](https://arcadiapage.com/2025-05-29-that-time-I-stole-some-guys-body/) this time. Not that I mind appearing as a male in my dreams, but in this situation, I'm glad that I didn't. 
