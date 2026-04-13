@@ -5,7 +5,7 @@ tags:
 - Emotional Healing 
 - Inner Work 
 layout: post
-subtitle: ''
+subtitle: 'Using dreamwork to process grief'
 ---
 This week my husband had to say goodbye to his mother. Her death was definitely heartbreaking. I’m lucky that I can honestly say that she was an amazing mother-in-law and a lovely individual. The way she shared her creativity through thoughtful home-cooked meals, handmade greeting cards, and gentle works of art and photography holds a special place in my heart. She leaves behind a family and a husband who loved her very much. 
 
