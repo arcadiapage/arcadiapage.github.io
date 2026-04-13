@@ -7,7 +7,7 @@ tags:
 - Mindful Living
 - Creative Business 
 layout: post
-subtitle: ''
+subtitle: 'Finding clarity on my personal definition of success through dreamwork'
 ---
 
 My family and I were staying in this huge house owned by a six figure making business coach who I admired. And her house was a mess. 
