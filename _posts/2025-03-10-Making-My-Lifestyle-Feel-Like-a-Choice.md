@@ -6,7 +6,7 @@ tags:
 - Creative Life
 - Creative Business 
 layout: post
-subtitle: ''
+subtitle: 'Untangling feelings around having low income'
 ---
 
 It's too bad that people tend to snub the best overlooked resources. 
