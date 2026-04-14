@@ -6,7 +6,7 @@ subtitle: Here's where to start...
 
 ![20250525-175027-0000.png](https://i.postimg.cc/QMh05MKR/20250525-175027-0000.png){: .mx-auto.d-block :}
 
-Hello! I'm Arcadia Page, an intuitive writer and artist who explores personal growth, creative productivity, and storytelling. My work is focused on helping emotionally overwhelmed, introspective people make sense of what they’re going through so they can find clarity and move forward in a way that feels right for them.
+Hello! I'm Arcadia Page, an intuitive writer and artist who explores personal growth, creativity, productivity, and storytelling. My work shares how I find clarity and move forward in a way that feels right for me as a sensitive, introspective person who is often emotionally overwhelmed.
 
 I started this blog as a burned out creative looking for identity and purpose. So as I result, I began experimenting with ways to stay connected to who I am even when my sense of self was actively changing. In the face of inner transformation I like asking, "What's happening inside of me, and what does it mean?" 
 
