@@ -6,7 +6,7 @@ tags:
 - Personality Type 
 - Mindful Living 
 layout: post
-subtitle: ''
+subtitle: 'Hating the victim and ignoring the shadow martyr within doesn't work'
 ---
 
 (UPDATE: If you would like to get a better idea of which of these archetypes are you right now, there's a test for that! Check out the free [Discover Your INFP Archetypes Test and Workbook](https://payhip.com/b/Di7wb))
@@ -117,5 +117,16 @@ Now read what you wrote. Do you see any of the traits you noticed in the celebri
 
 At another time, try this exercise again, but instead of using ENFJ celebrities, use people who you know personally.
 
-So how does the INFP change when they are successful at creating more inner harmony by integrating their shadow side? [My next post will dig into that!](https://arcadiapage.com/2023-02-27-how-infps-heal-and-grow-and-experiencing-trauma/)
+# The Dance Between Stagnation and Action
+
+So if you're feeling tension between being stuck and taking action, it's probably because you're experiencing a combination of the archtypes shared here. If you're noticing any one of these archtypal patterns in your life right now, start by doing this one thing: by asking yourself, "What do I need right now?"
+
+* Do I need rest and care? (Victim)
+* Do I need to find a way to be brave enough to take responsibilty for my own problems and actions? (Shadow Martyr) 
+* Do I need to become my own advocate? (Warrior)
+* Do I need to reconnect with what supports me and makes me strong? (Hero)
+
+If you want more help with seeing these patterns in your own life clearly and what to do about them, I do exactly that in my book, [Discover Your INFP Archetypes](https://payhip.com/b/vWmjS).
+
+So how does the INFP change when they are successful at creating more inner harmony by integrating their shadow? [My next post will dig into that!](https://arcadiapage.com/2023-02-27-how-infps-heal-and-grow-and-experiencing-trauma/)
 
