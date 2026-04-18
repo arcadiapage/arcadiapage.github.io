@@ -6,7 +6,7 @@ tags:
 - Personality Type 
 - Mindful Living 
 layout: post
-subtitle: 'Hating the victim and ignoring the shadow martyr within doesn't work'
+subtitle: 'Hating the victim and ignoring the shadow martyr within does not work'
 ---
 
 (UPDATE: If you would like to get a better idea of which of these archetypes are you right now, there's a test for that! Check out the free [Discover Your INFP Archetypes Test and Workbook](https://payhip.com/b/Di7wb))
