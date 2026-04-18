@@ -80,4 +80,10 @@ If you prefer working with paper, you can also make your paper vision board digi
 
 **Don’t use AI to create your vision board.** It has more impact if you let your body and mind pick images and words from a pool of resources. Your intuition and personal taste is an important tool in this process. Don’t outsource it. Also if there is an image that is crying out to be added to your vision board, just add it, even if it doesn’t make sense at the moment. You might discover later that one image added the balance your vision board needed. 
 
-Thanks to this process, I now have a vision board that is inspiring and effective, and I hope these tips will help you to create a vision board that actually makes a difference.   
+# So Are You Struggling With Your Digital Vision Board? 
+
+If you're having a hard time with making a digital vision board that works for you, it's usually because it's not aligned with what truly makes you feel alive, and it's not displayed somewhere you can see it every day. Thanks to this process, I now have a vision board that is inspiring and effective, and I hope these tips will help you to create a vision board that actually makes a difference.   
+
+And if you notice that you have this pattern of setting goals while struggling to create a clear vision of what that goal means to you, start by focusing in on the goals that will bring your life the most peace and regulate your nervous system. Those goals are typically very simple and easy to visualize. 
+
+If you need help with seeing your goals clearly right now, you can also learn more about how to do this in my book [Thoughtful Planning: How to Use Questions for Self-reflection to Design Your Day ](https://payhip.com/b/YSucT)
