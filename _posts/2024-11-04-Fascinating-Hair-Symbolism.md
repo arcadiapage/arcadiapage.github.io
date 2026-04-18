@@ -134,6 +134,16 @@ That shift in your business could definitely be reflected in the dream. The long
 
 It could also represent the confidence and ease that comes with aligning more closely with your true identity. As you move into this new phase, the dream may be affirming that this change is natural and part of your personal growth, inviting you to fully embrace your intuitive, artistic self.
 
+# If You're Having Dreams About Hair, Your Current Identity Probably Isn't Working for You
+
+If you're experiencing hair symbolism, be it in dreams or in the stories you write, that's usually because something about you or the way you see yourself is shifting. If you're noticing this pattern, you can start unraveling what's going on simply by taking some detailed notes on what it was like to expereince the symbolism and then asking yourself: 
+
+* What does this mean to me based on my lived experience?
+* What is the emotional dynamic? How did this symbolism make me feel?
+* What part of me is changing?
+
+These questions alone are enough to get you moving in the right direction. If you want more help with connecting to your intuition and using your findings to impact not only your creativity but also your life, you may also find helpful tips in my book [Traveling by Starlight: Learning to Trust My Intuition as an Empathic Creative](https://payhip.com/b/gxAZ5).
+
 # My Own Journey With Identity
 
 So as I write characters who are shedding previous identities, I’m in the process of shedding my own identity as well. 
