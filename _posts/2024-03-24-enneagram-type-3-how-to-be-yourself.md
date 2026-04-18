@@ -6,7 +6,7 @@ tags:
 - Personality Type
 - Mindful Living 
 layout: post
-subtitle: 'Trying to always look successful doesn't work'
+subtitle: 'Trying to always look successful does not work'
 ---
 
 Often the Enneagram Type 3 is described as a chameleon, shape shifting to be whatever wins admiration and success.
