@@ -87,7 +87,10 @@ I also want you to know that you're not crazy. The narcissist will do all they c
 
 As a victim, you deserve all the healing you can get. If you feel that you need a therapist to help you sort out your feelings, don't hesitate to find one. A good therapist can help you distinguish reality from the gaslighting, set boundaries, and recover your self-esteem. 
 
-I know therapy isn't available to everyone, so if that's you, do your best to educate yourself on how to recover from emotional abuse and put some space between you and the narcissist. As you educate yourself, keep a journal to track what recovery methods you are trying to use, what's working, and how the emotional abuse has affected the way you view yourself. Also work to build friendships with people who will take your side and not the side of the narcissist. Living with the INFP personality type can be quite the journey, cycling through discovery, growth, and healing. I write more about these emotional waves in my book, [Discover Your INFP Archetypes](https://payhip.com/b/vWmjS).
+I know therapy isn't available to everyone, so if that's you, do your best to educate yourself on how to recover from emotional abuse and put some space between you and the narcissist. As you educate yourself, keep a journal to track what recovery methods you are trying to use, what's working, and how the emotional abuse has affected the way you view yourself. Also work to build friendships with people who will take your side and not the side of the narcissist. 
+
+If you're noticing a pattern of victimhood in your life, start addressing it by understanding that feeling like a victim is signal that you need care and help with reconnecting with your personal power and agency. If you want help with understanding this pattern more clearly, I do so in my post, [Exploring the Archetypes Within the INFP: the Victim, Martyr, Warrior, and Hero](https://arcadiapage.com/2023-01-30-exploring-the-archetypes-within-the-infp-the-victim-martyr-warrior-and-hero/).
+
 
 
 
