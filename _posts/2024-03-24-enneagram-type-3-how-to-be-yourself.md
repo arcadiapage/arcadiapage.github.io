@@ -6,7 +6,7 @@ tags:
 - Personality Type
 - Mindful Living 
 layout: post
-subtitle: ''
+subtitle: 'Trying to always look successful doesn't work'
 ---
 
 Often the Enneagram Type 3 is described as a chameleon, shape shifting to be whatever wins admiration and success.
@@ -126,5 +126,9 @@ To be honest, there are a lot of things I want to accomplish with my blogging an
 So as an Enneagram Type 3, try to find a place where you can use your authentic voice. It may be through writing, journaling, art or even singing. It doesn’t matter if you’re good at it or not. In fact it may be better if you’re bad at it. Being not so great at something helps you to move away from the performance mindset and more into the experiencing. Your voice may sound rusty at first, or you may not even like it, but that’s okay too. Our voices gain clarity and strength with use and practice. 
 
 The important thing is to have a place where you can express what you truly feel, desire, and dream of with as little influence from others as possible. This is the key to learning to truly see yourself as an Enneagram Type 3. 
+
+So if you're feeling disconnected from yourself as an Enneagram 3, it's most likely because you're not taking the time to learn more about yourself in a way that feels real, authentic, and actionable. I feel like for Enneagram 3's, making what you learn about yourself actionable and productive is key. So if you're noticing that you are currently in a space of feeling disconnected with who you really are, first start with one of the personality tests I shared here. Pick the one the sounds the most appealing to you, and then choose one thing from the results that you can act on today. 
+
+If you want help with connecting your newly found self-knowledge to productive action, this is also exactly what I offer in my book [Thoughtful Planning: How to Use Questions for Self-reflection to Design Your Day](https://payhip.com/b/YSucT). You don't have to shape-shift to be admired or successful. You just need to use the knowledge of who you are right now to take you where you want to go. 
 
 
