@@ -69,6 +69,15 @@ My favorite idea from **Refuse to Choose** is the Scanner Daybook. I've never wr
 
 Most, if not all, of these books I've referenced or written about in [my own published books about INFPs](https://payhip.com/ArcadiaPage). They're just too good and too helpful to keep to myself.
 
-# Follow the Rabbit Holes!
+# Why is it so hard to find personal growth books that work for INFPs anyways?
 
-As you read these books, you may run into other ideas and topics you want to explore. Don't ignore that urge. Follow the tangents that take you off track. You will be amazed by what you discover.
+If you're struggling to find personal growth and productivity books that resonate with you as an INFP, it's most likely because you're looking at books that don't reflect how you actually prefer to operate. So if this pattern of reading personal growth books and finding that they do nothing for you sounds familiar, you can turn that trend around by doing this one thing:
+
+Start by reading books that are specifically for INFPs.
+
+As you read these books, you'll find yourself running into other ideas and topics worth exploring, and those new ideas will take you to the books that truly fit you.
+
+If you want help with discovering what other concepts could lead you to finding more productivity and personal growth books for INFPs, this is actually what I do in my books. I recommend starting with either [Discover Your INFP Archetypes](https://payhip.com/b/vWmjS) or [Idealist Dreams: How I Learned to Plan as an INFP](https://payhip.com/b/KrBh). If you are really into writing, [I Can't Help Being an INFP Writer: 100+ Tips to Help INFP Writers Capture Ideas, Stay Motivated, and Overcome Problems](https://payhip.com/b/4tWM) might be a better. 
+
+It is possible to find books that not only fit who you are but also help you grow into a version of yourself that you love. I hope this lists starts as a meaningful starting point for diving into learning more about yourself.
+
