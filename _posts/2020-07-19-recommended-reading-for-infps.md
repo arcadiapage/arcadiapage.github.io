@@ -77,7 +77,7 @@ Start by reading books that are specifically for INFPs.
 
 As you read these books, you'll find yourself running into other ideas and topics worth exploring, and those new ideas will take you to the books that truly fit you.
 
-If you want help with discovering what other concepts could lead you to finding more productivity and personal growth books for INFPs, this is actually what I do in my books. I recommend starting with either [Discover Your INFP Archetypes](https://payhip.com/b/vWmjS) or [Idealist Dreams: How I Learned to Plan as an INFP](https://payhip.com/b/KrBh). If you are really into writing, [I Can't Help Being an INFP Writer: 100+ Tips to Help INFP Writers Capture Ideas, Stay Motivated, and Overcome Problems](https://payhip.com/b/4tWM) might be a better. 
+If you want help with discovering what other concepts could lead you to finding more productivity and personal growth books for INFPs, this is actually what I do in my books. I recommend starting with either [Discover Your INFP Archetypes](https://payhip.com/b/vWmjS) or [Idealist Dreams: How I Learned to Plan as an INFP](https://payhip.com/b/KrBh). 
 
 It is possible to find books that not only fit who you are but also help you grow into a version of yourself that you love. I hope this lists starts as a meaningful starting point for diving into learning more about yourself.
 
