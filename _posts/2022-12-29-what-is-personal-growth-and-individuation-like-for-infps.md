@@ -6,7 +6,8 @@ tags:
 - Emotional Healing
 - Personality Type 
 layout: post
-subtitle: It's quite the journey...
+subtitle: Ignoring the call towards personal growth does not work for INFPs
+
 ---
 
 The INFP, like all MBTI personality types, is full of fascinating contrasts. There is introversion that looks for quiet, comfort, and safety, mixed with a need for exploration. There is also emotional sensitivity paired with emotional grit. As an INFP, I realize that I regularly work with emotions within myself that others wouldn't dare touch.
@@ -25,7 +26,7 @@ Individuation is also necessary to create boundaries between where you end, and 
 
 Unlike in fiction, the process of individuation can take many years, maybe even a lifetime. However, the results are that little by little we learn how to understand and accept our conflicting personality traits and integrate them into our identity.
 
-This often involves working with repressed emotional experiences, and cultural archetypes and integrating parts of these into oneself. This also means coming to terms with the masks we wear, accepting our inner "masculine" and "feminine" energies, and working with our shadows and blind spots.
+This often involves working with repressed emotional experiences and cultural archetypes and integrating parts of these into oneself. This also means coming to terms with the masks we wear, accepting our inner "masculine" and "feminine" energies, and working with our shadows and blind spots.
 
 # But why are INFPs sometimes attracted to working with psychological material that others may find threatening?
 
@@ -56,8 +57,6 @@ At the start, the INFP will most likely embody these archetypes:
 * The Explorer
 * The Child
 
-(UPDATE: If you would like to get a better idea of which of these archetypes are you right now, there's a test for that! Check out the free [Discover Your INFP Archetypes Test and Workbook](https://payhip.com/b/Di7wb))
-
 There is an emotional naivete, and maybe even blindness not only towards the negative intentions of others, but also the negative aspects of oneself. At this stage the INFP may also be the Explorer, feeling like something is missing in their life, but having no clue what. There is the sensation of looking for something that's out of reach.
 
 The common description of INFPs being "gooey cinnamon rolls" really fits here. This makes me think of how back in middle school, there was a girl who was always making fun of me, and I would laugh along with her. But then one day, one of my friends was like, "Hey, do you like it when that girl treats you like that?"
@@ -72,11 +71,14 @@ This is also a good time to journal regularly about your dreams and desires, no 
 
 The Innocent archetype also tends to think that life should always go the way they want. They are naive to the concept of flowing with the unpredictability of life.
 
-By the way, you can embody these archetypes at any point in your life. The Innocent archetype was me two years ago before my life-altering experience with chronic pain.  You can embody multiple archetypes at the same time as well.
+By the way, you can embody these archetypes at any point in your life. The Innocent archetype was me two years ago before my life-altering experience with chronic pain. You can embody multiple archetypes at the same time as well.
 
-So what happens to the Innocent that rocks their view of the world? How does that ignite the personal growth of the INFP?  [I'll answer that in my next post!](https://arcadiapage.com/2023-01-30-exploring-the-archetypes-within-the-infp-the-victim-martyr-warrior-and-hero/)
+If you're experiencing a desire to explore personal growth as an INFP, it's usually because you're sensing that things can no longer stay as they are. You could be starting to see the flaws in being the Innocent and are stepping into following the path of the Explorer. Or other archetypes such as the Victim, Martyr, or even Hero might be at work, pushing you forwards. 
 
-Also, you may want to check out some of the archetypes I mentioned here and see if they resonate with you. Pinterest is a great place to start your research. 
+I write more about these archtypes in the follow up to this post:[Exploring the Archetypes Within the INFP: The Victim, Martyr, Warrior and Hero.](https://arcadiapage.com/2023-01-30-exploring-the-archetypes-within-the-infp-the-victim-martyr-warrior-and-hero/)
 
+If you want help in seeing more clearly how you can put the energy of your current archetypes into practice to initiate change in your life, I actually do that in my free [Discover Your INFP Archetype Test.](https://payhip.com/b/Di7wb)
+
+Just because you are changing and your life is changing, that doesn't mean it's impossible to know where you are. Understanding the dynamics of archetypes can create a clear picture of who you are right now and where you're headed.
 
 ![Healthy INFP, INFP Burnout, INFP Tips ](/uploads/infp-personal-growth-tips.png "4 Tips on How to Be a Healthy INFP"){: .mx-auto.d-block :}
