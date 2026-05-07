@@ -6,11 +6,11 @@ subtitle: Here's where to start...
 
 ![20250525-175027-0000.png](https://i.postimg.cc/QMh05MKR/20250525-175027-0000.png){: .mx-auto.d-block :}
 
-Hello! I'm Arcadia Page, an intuitive writer and artist who explores personal growth, creativity, productivity, and storytelling. My work shares how I find clarity and move forward in a way that feels right for me as a sensitive, introspective person who is often emotionally overwhelmed.
+Hello! I'm Arcadia Page, an intuitive writer and artist who explores what creates identity and stability during times of transition. I'm all about answering the question, "As I change and as things change around me, what keeps me stable and connected to who I am?" 
 
-I started this blog as a burned out creative looking for identity and purpose. So as I result, I began experimenting with ways to stay connected to who I am even when my sense of self was actively changing. In the face of inner transformation I like asking, "What's happening inside of me, and what does it mean?" 
+My work ranges from essays and fiction to comics, but regardless of what I make, I'm here to share how I move forward in a way that is right for me as a sensitive, introspective person in an overwhelming and ever changing world. I often create from dreams, altered states of awareness, and the space between dreaming and awakening. My work encourages leaving room for inner knowing to arise naturally, which leads to deeper self-perception.
 
-I often create from dreams, altered states of awareness, and the space between dreaming and awakening. My work encourages leaving room for inner knowing to arise naturally, which leads to deeper self-perception. So if you're into self-understanding and identity shifts, you might like what I do. 
+I started this blog as a burned out creative looking for identity and purpose. So as I result, I began experimenting with ways to stay connected to who I am even when my sense of self was actively changing, constantly asking, "What's happening inside of me, and what does it mean?" 
 
 Like life, my body of work is a forest full of all kinds of twisted paths, turns, and forks in the road. So dear explorer, here's your map. 
 
