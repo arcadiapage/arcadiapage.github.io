@@ -8,15 +8,15 @@ subtitle: Here's where to start...
 
 Hello! I'm Arcadia Page, an intuitive writer and artist who explores what creates identity and stability during times of transition. 
 
-I'm all about answering the question, "As I change and as things change around me, what keeps me stable, grounded and connected to who I am?" I've explored creativity, productivity, self-care, MBTI, the Enneagram, and even my noctural dreams to find the answer.
+I'm about answering the question, "As I change and as things change around me, what keeps me stable, grounded and connected to who I am?" I've explored creativity, productivity, self-care, the MBTI, the Enneagram, and even my noctural dreams to find the answer.
 
-My work ranges from essays and fiction to comics, but regardless of what I make, I'm here to share how I move forward in a way that is right for me as a sensitive, introspective person in an overwhelming and ever changing world. I often create from dreams, altered states of awareness, and the space between dreaming and awakening. My work encourages leaving room for inner knowing to arise naturally, which leads to deeper self-perception.
+My work ranges from essays, fiction, comics and more, but regardless of what I make, I'm here to share how I move forward in a way that is right for me as a sensitive, introspective person in an overwhelming and ever changing world. I often create from dreams, altered states of awareness, and the space between dreaming and awakening. My work encourages leaving room for inner knowing to arise naturally, which leads to deeper self-perception.
 
-I started this blog as a burned out creative looking for identity and purpose. So as I result, I began experimenting with ways to stay connected to who I am even when my sense of self was actively changing, constantly asking, "What's happening inside of me, and what does it mean?" 
+I started this blog as a burned out creative looking for identity and purpose. So as I result, I began experimenting with ways to stay connected to who I am even when my sense of self was actively changing, constantly asking, "What's happening inside of me, and what does it mean?"
 
-Like life, my body of work is a forest full of all kinds of twisted paths, turns, and forks in the road. So dear explorer, here's your map. 
+If you're feeling overwhelmed by change, it's usually because you're strugging to stay connected with what creates structure, identity, and safety for you, which is totally normal!❤️ If you notice that's where you are right now, start by paying [The Quiet Room](https://arcadiapage.com/the-quiet-room/) a visit. There you'll find my most impactful articles about staying connected to purpose, structure and who you are as things shift. 
 
-Go through this guide in order or run towards whatever calls to you, because this space is for wandering. 
+Like life, my body of work is a forest full of all kinds of twisted paths, turns, and forks in the road. So below is also a guide that you can go through in order or by exploring whatever calls to you.
 
 Take your time. Start any where you want, anyway you want. 
 
