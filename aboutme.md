@@ -6,7 +6,9 @@ subtitle: Here's where to start...
 
 ![20250525-175027-0000.png](https://i.postimg.cc/QMh05MKR/20250525-175027-0000.png){: .mx-auto.d-block :}
 
-Hello! I'm Arcadia Page, an intuitive writer and artist who explores what creates identity and stability during times of transition. I'm all about answering the question, "As I change and as things change around me, what keeps me stable and connected to who I am?" 
+Hello! I'm Arcadia Page, an intuitive writer and artist who explores what creates identity and stability during times of transition. 
+
+I'm all about answering the question, "As I change and as things change around me, what keeps me stable, grounded and connected to who I am?" I've explored creativity, productivity, self-care, MBTI, the Enneagram, and even my noctural dreams to find the answer.
 
 My work ranges from essays and fiction to comics, but regardless of what I make, I'm here to share how I move forward in a way that is right for me as a sensitive, introspective person in an overwhelming and ever changing world. I often create from dreams, altered states of awareness, and the space between dreaming and awakening. My work encourages leaving room for inner knowing to arise naturally, which leads to deeper self-perception.
 
