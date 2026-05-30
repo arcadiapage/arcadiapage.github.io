@@ -40,7 +40,7 @@ Although I wrote this a really long time ago, I can see how much of my inner wor
 - [Chapter Fourteen](https://arcadiapage.com/2026-05-30-omnigirl-fourteen/)
 - Chapter Fifteen (Coming Soon!)
 
-IMPORTANT: Chapter 14 is the last chapter posted to my blog in full. From Chapter 15 to the end, entire chapters can be read by downloading Omnigirl from my book shop. Future blog posts will be previews of the new chapters I'm making available for download. 
+IMPORTANT: Chapter 14 is the last chapter posted to my blog in full. From Chapter 15 to the end, entire chapters can be read by [downloading Omnigirl from my book shop](https://payhip.com/b/MjRD9). Future blog posts will be previews of the new chapters I'm making available for download. 
 
 I intend to keep this story available for free until I’m feeling ready to publish it more officially (e.g. to Amazon, Barnes and Noble, etc…).
 
