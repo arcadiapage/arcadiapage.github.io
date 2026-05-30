@@ -117,11 +117,7 @@ If any imagery or plot lines from it sticks with you, positive or negative, I st
 
   
 
-Here on my blog, my main focus is on sharing the story. Although it has symbolism that crosses collective themes, what matters most is what it brings up for you. So to leave space for that and to keep from cluttering things up, I'll be sharing my deeper insights and reflections related to this story separately in [The Listening Room.](https://payhip.com/b/ROPCQ)
-
-  
-
-Although I want to share my thoughts, I don't want to tell you what you should think it all means. I want to leave connecting the dots and stars of this story up to you.
+Here on my blog, my main focus is on sharing the story. Although it has symbolism that crosses collective themes, what matters most is what it brings up for you. Although I want to share my thoughts, I don't want to tell you what you should think it all means. I want to leave connecting the dots and stars of this story up to you.
 
   
 
