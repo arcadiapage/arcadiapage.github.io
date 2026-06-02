@@ -6,7 +6,7 @@ subtitle: Here's where to start...
 
 ![20250525-175027-0000.png](https://i.postimg.cc/QMh05MKR/20250525-175027-0000.png){: .mx-auto.d-block :}
 
-Hello! I'm Arcadia Page, an intuitive writer, artist, and creative rebel ⚡
+Hello! I'm Arcadia Page, an intuitive writer, artist, creative rebel, and a certifed self-care coach ⚡
 
 This blog and all things connected to it are spaces devoted to regular creative presence and practice. Through my work I mainly seek to answer the question, "As I change and as things change around me, what keeps me stable, grounded and connected to who I am? Who am I during times of change and transition?" 
 
