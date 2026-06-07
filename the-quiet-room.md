@@ -84,6 +84,9 @@ subtitle:
 * [I Wish Everyone Had More Compassion For Their Inner Child](https://arcadiapage.com/2024-07-29-I-Wish-Everyone-Had-More-Compassion-for-Their-Inner-Child/)
 * [Just So I Do Not Forget What Success Is](https://arcadiapage.com/2026-02-06-just-so-I-don't-forget-what-success-is/)
 
+*Remember who you are while becoming who you're becoming.*
+
+.𖥔 ݁ ˖   ✦    ‧₊˚ ⋅
 
 *When the world feels noisy, rushed, performative, or overwhelming, [here is a place that helps you reconnect with yourself](https://payhip.com/b/UQYtm).💚*
 
