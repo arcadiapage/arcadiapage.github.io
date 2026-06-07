@@ -10,9 +10,9 @@ Hello! I'm Arcadia Page, an intuitive writer, artist, creative rebel, and a cert
 
 This blog and all things connected to it are spaces devoted to regular creative presence and practice. Through my work I mainly seek to answer the question, "As I change and as things change around me, what keeps me stable, grounded and connected to who I am? Who am I during times of change and transition?" 
 
-I started this blog as a burned out creative looking for identity and purpose, exploring practices that could help me to stay connected to who I am even when my sense of self was actively changing, constantly asking, "What's happening inside of me, and what does it mean?"
+I started this blog as a burned out creative looking for identity and purpose, exploring practices that could help me to stay connected to who I am even when my sense of self was actively changing, constantly asking, "What's happening inside of me, and what does it mean? How do people become more fully themselves?"
 
-I often create from dreams, altered states of awareness, and the space between sleeping and awakening. But I also share my thoughts on every day things, such as productivity, self-care, and personality type frameworks, like the MBTI or Enneagram. My work ranges from essays, fiction, comics and more, but regardless of what I make, I'm here to share how I move as a sensitive, introspective person in an overwhelming and ever changing world. 
+I often create from dreams and the space between sleeping and awakening. But I also share my thoughts on every day things, such as productivity, self-care, and personality type frameworks, like the MBTI or Enneagram. My work ranges from essays, fiction, comics and more, but regardless of what I make, I'm here to share how I move as a sensitive, introspective person in an overwhelming and ever changing world. 
 
 If you're feeling overwhelmed by change, it's most likely because you're strugging to stay connected with what creates structure, identity, and safety for you, which is totally normal!❤️ If that's where you are right now, start by paying [The Quiet Room](https://arcadiapage.com/the-quiet-room/) a visit. There you'll find my most impactful articles about staying connected to purpose, structure and who you are as things shift. 
 
