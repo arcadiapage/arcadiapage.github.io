@@ -28,9 +28,9 @@ Take your time. Start any where you want, anyway you want.
 * <a href="#the-quiet-room">The Quiet Room</a>
 * <a href="#hall-of-fluttering">The Hall of Fluttering Leaves</a>
 * <a href ="#endless-sky-canopy">Endless Sky Canopy</a>
-* <a href="#collectors-cove">Collector's Cove Atelier</a> | the everything ✨
-* <a href="#the-studio-at-blue-pearl-lake">The Studio at Blue Pearl Lake</a> | about me 💎
-* <a href="#dreamline">The Dreamline</a> | find me 💖 
+* <a href="#collectors-cove">Collector's Cove Atelier</a> :: the everything ✨
+* <a href="#the-studio-at-blue-pearl-lake">The Studio at Blue Pearl Lake</a> :: about me 💎
+* <a href="#dreamline">The Dreamline</a> :: find me 💖 
 
 ---
 
