@@ -4,6 +4,8 @@ layout: page
 subtitle: 
 ---
 
+*How do I understand the deeper patterns shaping life, creativity, and identity?*
+
 *How do people become more fully themselves, even during change?✨*
 
 ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆
