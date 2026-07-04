@@ -8,9 +8,9 @@ subtitle: Here's where to start...
 
 Hello! I'm Arcadia Page, an intuitive writer, artist, creative rebel, and a certifed self-care coach ⚡
 
-I enjoy exploring what it means to live a wholehearted, creative, reflective life. Through my work I mainly seek to answer the question, "As I change and as things change around me, what keeps me stable, grounded and connected to who I am? Who am I during times of change and transition?" 
+I enjoy exploring what it means to live a wholehearted, creative, reflective life. 
 
-I started this blog as a burned out creative looking for identity and purpose, exploring practices that could help me to stay connected to who I am even when my sense of self was actively changing.
+I started this blog as a burned out creative looking for identity and purpose, exploring practices that could help me to keep things simple and stay connected to who I am even when my sense of self was actively changing.
 
 My work ranges from essays, fiction, comics and more, but regardless of what I make, I'm here to share how I move as a sensitive, introspective person in an overwhelming and ever changing world. 
 
