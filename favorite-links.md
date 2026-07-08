@@ -34,7 +34,7 @@ _CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2
 <h2><a id="websites-i-visit">Websites I Visit</a></h2>
 
 * [The Plain Text Project](https://plaintextproject.online/)
-* [Humble Bundle | game bundles, book bundles, software bundles, and more](https://www.humblebundle.com/)
+* [Humble Bundle game bundles, book bundles, software bundles, and more](https://www.humblebundle.com/)
 * [ATCsForAll: Your Creative Haven for Art Trading](https://atcsforall.com/)
 * [Swap-bot](https://swap-bot.com/swap/search.php)
 
@@ -61,7 +61,7 @@ _CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2
 <h2><a id="useful-tools">Useful Tools</a></h2>
 
 * [Schedual](https://schedual.app/) Simple, free online todo app.
-* [Calendar Link Generator | Free Add to Calendar Link Generator Tool](https://calendarlinkgenerator.com/#generator)
+* [Calendar Link Generator Free Add to Calendar Link Generator Tool](https://calendarlinkgenerator.com/#generator)
 * [Zen Browser](https://zen-browser.app/) 💖 The best browser for getting stuff done. 
 * [Canva: Free Design Tool: Presentations, Video, Social Media + More](https://www.canva.com/) 💖 I used to have Canva Pro when I could afford it. It's worth every penny if you're running an online business.
 * [Beautiful Free Images & Pictures Unsplash](https://unsplash.com/)
@@ -70,7 +70,7 @@ _CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2
 * [EmojiDB](https://emojidb.org/) 💖 An AMAZING emoji database. I use it all the time. 
 * [Pop!_OS by System76](https://pop.system76.com/)
 * [Linux Mint](https://linuxmint.com/)
-* [Skinamp – a skin maker for Winamp | Sascha Hlusiak](https://www.saschahlusiak.de/skinamp/)
+* [Skinamp – a skin maker for Winamp Sascha Hlusiak](https://www.saschahlusiak.de/skinamp/)
 * [F-Droid - Free and Open Source Android App Repository](https://f-droid.org/)
 * [Idiomatic](https://idiomatic.rosano.ca/) 💖 Converts plain-text, markdown, etc to HTML and vice-versa.
 * [ravel](https://ravel.neocities.org/) 💖 Easy way to create nested foldable text in HTML
@@ -83,7 +83,7 @@ _CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2
 * [Typogram](https://typogram.vercel.app/) 💖 Probably not as useful for IG anymore, but still good for blog post graphics. 
 * [MandalaGaba - a free tool for creating Zen Geometry](https://www.mandalagaba.com/)
 * [POSEMANIACS - Royalty free 3d pose reference for all artists](https://www.posemaniacs.com/)
-* [手のイラスト資料集 -Hand Reference | Hato King](https://hatoking.com/journal/download/4352.html) 💖 References for drawing hands!!!
+* [手のイラスト資料集 -Hand Reference Hato King](https://hatoking.com/journal/download/4352.html) 💖 References for drawing hands!!!
 * [Line of Action](https://line-of-action.com/) 💖 More drawing motivation and inspo.
 * [Graphic Design Resources from Nuxill on Neocities](https://nuxill.neocities.org/resources#fonts)
 * [HTML Comment Box - Hosted Website Comments!](https://www.htmlcommentbox.com/)  💖 Need to add to my site. 
@@ -94,7 +94,7 @@ _CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2
 * [Web Making Guides](https://solaria.neocities.org/guides/)
 * [Resources List for the Personal Web - Community Wiki - 32-Bit Cafe](https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49) 💖 Absolutely everything you could possibly need to create your own website/blog.
 * [CSS Bed](https://www.cssbed.com/) Classless CSS.
-* [1,700 Free Online Courses from Top Universities | Open Culture](https://www.openculture.com/freeonlinecourses)
+* [1,700 Free Online Courses from Top Universities Open Culture](https://www.openculture.com/freeonlinecourses)
   
  
 
@@ -104,8 +104,8 @@ _CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2
 
 * [Alexandra Franzen](http://www.alexandrafranzen.com/)
 * [Hundred Rabbits — home](https://100r.co/site/home.html)
-* [Everest Pipkin | index.html](https://everest-pipkin.com/#)
-* [215,000 Japanese Woodblock Prints by Masters Spanning the Tradition's 350-Year History | Open Culture](https://www.openculture.com/2021/12/download-215000-japanese-woodblock-prints-by-masters-spanning-the-traditions-350-year-history.html)
+* [Everest Pipkin index.html](https://everest-pipkin.com/#)
+* [215,000 Japanese Woodblock Prints by Masters Spanning the Tradition's 350-Year History Open Culture](https://www.openculture.com/2021/12/download-215000-japanese-woodblock-prints-by-masters-spanning-the-traditions-350-year-history.html)
 * [P I X E L - S O U P](https://pixel-soup.tumblr.com/)
 * [SMALL PIXELS](https://sadthemes.tumblr.com/smolpxl)
 
