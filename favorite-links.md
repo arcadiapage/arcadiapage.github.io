@@ -78,7 +78,8 @@ _CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2
 * [8 Sacred Money Archetypes®: What are they and how to use them](https://www.denisedt.com/blog/8-sacred-money-archetypes-what-are-they-how-to-use-them)
 * [Your Sacred Money Archetypes® Cheat Sheet](https://www.denisedt.com/cheat)
 * [How to Create a Microbusiness that Matters](https://bemorewithless.com/micro/)
-* [Ruth Poundwhite. All the free & Paid Stuff I Do](https://ruthpoundwhite.com/everything/) 💖 Intuitive business resources. 
+* [Ruth Poundwhite. All the free & Paid Stuff I Do](https://ruthpoundwhite.com/everything/) 💖 Intuitive business resources.
+* [Free Coaching Tools](https://www.thecoachingtoolscompany.com/free_coaching_tools/#alphalist) 💖 Perfect for if you want to coach others or yourself.
 * [Hyperdraft](https://hyperdraft.rosano.ca/)
 * [Joybox](https://joybox.rosano.ca/en/play/)
 * [Typogram](https://typogram.vercel.app/) 💖 Probably not as useful for IG anymore, but still good for blog post graphics. 
