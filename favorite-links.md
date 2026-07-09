@@ -34,6 +34,7 @@ _CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2
 <h2><a id="websites-i-visit">Websites I Visit</a></h2>
 
 * [The Plain Text Project](https://plaintextproject.online/)
+* [Analog Office](https://analogoffice.net/)
 * [Humble Bundle game bundles, book bundles, software bundles, and more](https://www.humblebundle.com/)
 * [ATCsForAll: Your Creative Haven for Art Trading](https://atcsforall.com/)
 * [Swap-bot](https://swap-bot.com/swap/search.php)
