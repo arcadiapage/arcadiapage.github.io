@@ -7,7 +7,7 @@ tags: []
 
 ![](https://64.media.tumblr.com/460e90cbd60d50f37a59236acbd41a19/tumblr_orvdjmknOr1ucpx1qo2_r1_250.gif){: .mx-auto.d-block :}
 
-✨ This library is a curated collection of favorite resources I've discovered across the Internet. 
+✨ This library is a curated collection of favorite resources I've discovered across the Internet. This collection is especially useful if you feel like taking a break from social media.
 
 ✨ As a library visitor, feel free to leave a comment in the chatbox. If you have more in-depth inquires (or noticed any broken links 😬), sending me an [email](mailto:arcadia@arcadiapage.com) would be better.
 
@@ -39,6 +39,11 @@ _CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2
 * [ATCsForAll: Your Creative Haven for Art Trading](https://atcsforall.com/)
 * [Swap-bot](https://swap-bot.com/swap/search.php)
 * [Me and Qi](https://www.meandqi.com/)
+* [Soft Girl Aesthetic
+Game by dolldivine](https://meiker.io/play/12930/online.html)
+* [E-Girl Meiker
+Game by dolldivine](https://meiker.io/play/11922/online.html)
+
 
 <a href="#Index"> Back to Top </a>
 
