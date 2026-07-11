@@ -45,6 +45,7 @@ _CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2
 <h2><a id="digital-gardens">Digital Gardens</a></h2>
 
 * [Bear Blog](https://bearblog.dev/)
+* [Sites with a Now page](https://nownownow.com/)
 * [Neocities: Create your own free website!](https://neocities.org/)
 * [MelonLand Surf Club - Webring](https://melonland.net/surf-club)
 * [nekoweb](https://nekoweb.org/)
