@@ -100,6 +100,7 @@ _CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2
 * [Resources List for the Personal Web - Community Wiki - 32-Bit Cafe](https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49) 💖 Absolutely everything you could possibly need to create your own website/blog.
 * [CSS Bed](https://www.cssbed.com/) Classless CSS.
 * [1,700 Free Online Courses from Top Universities Open Culture](https://www.openculture.com/freeonlinecourses)
+* [The Best Life Coach Certifications Online](https://robkish.life/affordable-life-coaching-certification-online/)
   
  
 
