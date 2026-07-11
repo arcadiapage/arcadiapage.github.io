@@ -63,6 +63,7 @@ _CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2
 
 <h2><a id="useful-tools">Useful Tools</a></h2>
 
+* [Thoughts Page](https://thoughts.page/) 💖For a sample of what a Thoughts Page is like, [check out mine.](https://arcadia.thoughts.page/)
 * [Schedual](https://schedual.app/) Simple, free online todo app.
 * [Calendar Link Generator Free Add to Calendar Link Generator Tool](https://calendarlinkgenerator.com/#generator)
 * [Zen Browser](https://zen-browser.app/) 💖 The best browser for getting stuff done. 
