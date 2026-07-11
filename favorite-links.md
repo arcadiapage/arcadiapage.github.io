@@ -118,6 +118,7 @@ _CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2
 
 * [Killing the Sacred Cows of Publishing – Dean Wesley Smith](https://www.deanwesleysmith.com/category/killing-the-sacred-cows-of-publishing/) 💖 This is the article that inspired me to go all-in with being an indie writer.
 * [Just write.](https://www.sarasoueidan.com/desk/just-write/)
+* [My website is a shifting house next to a river of knowledge](https://web.archive.org/web/20200220031406/https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/)
 
 
 <a href="#Index"> Back to Top </a>
