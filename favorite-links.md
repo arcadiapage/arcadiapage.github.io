@@ -43,6 +43,10 @@ _CHATBOX ![](http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2
 Game by dolldivine](https://meiker.io/play/12930/online.html)
 * [E-Girl Meiker
 Game by dolldivine](https://meiker.io/play/11922/online.html)
+* [Plant Love Avatar | meiker.io](https://meiker.io/play/12838/online.html)
+* [Bemuse: BEAT☆MUSIC☆SEQUENCE](https://bemuse.ninja/)
+* [imood.com](https://www.imood.com/)  💖 Today the internet is feeling...
+
 
 
 <a href="#Index"> Back to Top </a>
@@ -50,6 +54,7 @@ Game by dolldivine](https://meiker.io/play/11922/online.html)
 <h2><a id="digital-gardens">Digital Gardens</a></h2>
 
 * [Bear Blog](https://bearblog.dev/)
+* [People and Blogs | Zachary Kai](https://zacharykai.net/notes/pb/)
 * [Sites with a Now page](https://nownownow.com/)
 * [Neocities: Create your own free website!](https://neocities.org/)
 * [MelonLand Surf Club - Webring](https://melonland.net/surf-club)
@@ -61,6 +66,7 @@ Game by dolldivine](https://meiker.io/play/11922/online.html)
 * [The Online Books Page](https://onlinebooks.library.upenn.edu/)
 * [The Manga Library : Internet Archive](https://archive.org/details/manga_library)
 * [Zines Forever - Create and Share Zines Online](https://zinesforever.com/)
+* [softheartclinic - Home](https://softheartclinic.neocities.org/home)
 
 
 
@@ -68,7 +74,7 @@ Game by dolldivine](https://meiker.io/play/11922/online.html)
 
 <h2><a id="useful-tools">Useful Tools</a></h2>
 
-* [Thoughts Page](https://thoughts.page/) 💖For a sample of what a Thoughts Page is like, [check out mine.](https://arcadia.thoughts.page/)
+* [Thoughts Page](https://thoughts.page/) 💖 For a sample of what a Thoughts Page is like, [check out mine.](https://arcadia.thoughts.page/)
 * [Schedual](https://schedual.app/) Simple, free online todo app.
 * [Calendar Link Generator Free Add to Calendar Link Generator Tool](https://calendarlinkgenerator.com/#generator)
 * [Zen Browser](https://zen-browser.app/) 💖 The best browser for getting stuff done. 
@@ -81,6 +87,7 @@ Game by dolldivine](https://meiker.io/play/11922/online.html)
 * [Linux Mint](https://linuxmint.com/)
 * [Skinamp – a skin maker for Winamp Sascha Hlusiak](https://www.saschahlusiak.de/skinamp/)
 * [F-Droid - Free and Open Source Android App Repository](https://f-droid.org/)
+* [Welcome to Merlot! | Merlot](https://merlot.vercel.app/Welcome%20to%20Merlot!) 💖 A markdown writing app
 * [Idiomatic](https://idiomatic.rosano.ca/) 💖 Converts plain-text, markdown, etc to HTML and vice-versa.
 * [ravel](https://ravel.neocities.org/) 💖 Easy way to create nested foldable text in HTML
 * [8 Sacred Money Archetypes®: What are they and how to use them](https://www.denisedt.com/blog/8-sacred-money-archetypes-what-are-they-how-to-use-them)
@@ -119,6 +126,9 @@ Game by dolldivine](https://meiker.io/play/11922/online.html)
 * [215,000 Japanese Woodblock Prints by Masters Spanning the Tradition's 350-Year History Open Culture](https://www.openculture.com/2021/12/download-215000-japanese-woodblock-prints-by-masters-spanning-the-traditions-350-year-history.html)
 * [P I X E L - S O U P](https://pixel-soup.tumblr.com/)
 * [SMALL PIXELS](https://sadthemes.tumblr.com/smolpxl)
+* [🜊 k o i l w o o d 🜊](https://koilwood.neocities.org/)
+* [Projects | thesephist.com](https://thesephist.com/projects/)
+* [Downsizing – Manu](https://manuelmoreale.com/thoughts/downsizing)
 
 <a href="#Index"> Back to Top </a>
 
