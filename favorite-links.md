@@ -46,6 +46,8 @@ Game by dolldivine](https://meiker.io/play/11922/online.html)
 * [Plant Love Avatar : meiker.io](https://meiker.io/play/12838/online.html)
 * [Bemuse: BEAT☆MUSIC☆SEQUENCE](https://bemuse.ninja/)
 * [imood.com](https://www.imood.com/)  💖 Today the internet is feeling...
+* [Custom Soundscapes for Focus, Relaxation & Sleep - myNoise ®](https://mynoise.net/)
+* [Lady Writer](https://www.eadeverell.com/)
 
 
 
@@ -75,6 +77,7 @@ Game by dolldivine](https://meiker.io/play/11922/online.html)
 <h2><a id="useful-tools">Useful Tools</a></h2>
 
 * [Thoughts Page](https://thoughts.page/) 💖 For a sample of what a Thoughts Page is like, [check out mine.](https://arcadia.thoughts.page/)
+* [🌙 Lavender Moon Writing Terminal](https://arcadiapage.neocities.org/LavenderMoonWritingTerminal) 💖 I created this one with some coding help from AI. I use this almost every day. 
 * [Schedual](https://schedual.app/) Simple, free online todo app.
 * [Calendar Link Generator Free Add to Calendar Link Generator Tool](https://calendarlinkgenerator.com/#generator)
 * [Zen Browser](https://zen-browser.app/) 💖 The best browser for getting stuff done. 
@@ -85,6 +88,7 @@ Game by dolldivine](https://meiker.io/play/11922/online.html)
 * [EmojiDB](https://emojidb.org/) 💖 An AMAZING emoji database. I use it all the time. 
 * [Pop!_OS by System76](https://pop.system76.com/)
 * [Linux Mint](https://linuxmint.com/)
+* [Zorin OS - Your computer. Better.](https://zorin.com/os/)
 * [Skinamp – a skin maker for Winamp Sascha Hlusiak](https://www.saschahlusiak.de/skinamp/)
 * [F-Droid - Free and Open Source Android App Repository](https://f-droid.org/)
 * [Welcome to Merlot!- Merlot](https://merlot.vercel.app/Welcome%20to%20Merlot!) 💖 A markdown writing app
