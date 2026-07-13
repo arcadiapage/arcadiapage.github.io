@@ -77,7 +77,8 @@ Game by dolldivine](https://meiker.io/play/11922/online.html)
 <h2><a id="useful-tools">Useful Tools</a></h2>
 
 * [Thoughts Page](https://thoughts.page/) 💖 For a sample of what a Thoughts Page is like, [check out mine.](https://arcadia.thoughts.page/)
-* [🌙 Lavender Moon Writing Terminal](https://arcadiapage.neocities.org/LavenderMoonWritingTerminal) 💖 I created this one with some coding help from AI. I use this almost every day. 
+* [🌙 Lavender Moon Writing Terminal](https://arcadiapage.neocities.org/LavenderMoonWritingTerminal) 💖 I created this one with some coding help from AI. I use this almost every day.
+* [Vocaroo - Online voice recorder](https://vocaroo.com/)
 * [Schedual](https://schedual.app/) Simple, free online todo app.
 * [Calendar Link Generator Free Add to Calendar Link Generator Tool](https://calendarlinkgenerator.com/#generator)
 * [Zen Browser](https://zen-browser.app/) 💖 The best browser for getting stuff done. 
