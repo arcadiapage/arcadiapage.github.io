@@ -78,6 +78,17 @@ Game by dolldivine](https://meiker.io/play/11922/online.html)
 
 * [Thoughts Page](https://thoughts.page/) 💖 For a sample of what a Thoughts Page is like, [check out mine.](https://arcadia.thoughts.page/)
 * [🌙 Lavender Moon Writing Terminal](https://arcadiapage.neocities.org/LavenderMoonWritingTerminal) 💖 I created this one with some coding help from AI. I use this almost every day.
+* [Workflowy](https://workflowy.com/) 💖 One of my favorite notes apps.
+* [TiddlyWiki v5.4.1 — a non-linear personal web notebook](https://tiddlywiki.com/) 💖 My favorite notes app. I talk about it quite a bit [here](https://arcadiapage.substack.com/p/my-favorite-note-taking-apps-b-side)
+* [Nute](https://nute.app/) 💖 Simple online notes app
+* [Hyperdraft](https://hyperdraft.rosano.ca/) 💖 Simple online/offline notes app for interconnected notes.
+* [Welcome to Merlot!- Merlot](https://merlot.vercel.app/Welcome%20to%20Merlot!) 💖 A markdown writing app
+* [Litewrite](https://litewrite.net/#!(1c2b73e8-de5e-493b-91cd-d2532a4b99e4)-litewrite) 💖 A light writing app
+* [WordCount — Free Word Counter, Instant & Private](https://wordcount.com/)
+* [Idiomatic](https://idiomatic.rosano.ca/) 💖 Converts plain-text, markdown, etc to HTML and vice-versa.
+* [ravel](https://ravel.neocities.org/) 💖 Easy way to create nested foldable text in HTML
+* [HTML Journal](https://journal.miso.town/)  💖 Tool for making a simple HTML journal. Could be hosted on Neocities!
+* [Itty bitty site](https://itty.bitty.site) 💖 Tool for creating simple, free websites that can be hosted in a QR code or shared link.
 * [Vocaroo - Online voice recorder](https://vocaroo.com/)
 * [Schedual](https://schedual.app/) Simple, free online todo app.
 * [Calendar Link Generator Free Add to Calendar Link Generator Tool](https://calendarlinkgenerator.com/#generator)
@@ -92,15 +103,12 @@ Game by dolldivine](https://meiker.io/play/11922/online.html)
 * [Zorin OS - Your computer. Better.](https://zorin.com/os/)
 * [Skinamp – a skin maker for Winamp Sascha Hlusiak](https://www.saschahlusiak.de/skinamp/)
 * [F-Droid - Free and Open Source Android App Repository](https://f-droid.org/)
-* [Welcome to Merlot!- Merlot](https://merlot.vercel.app/Welcome%20to%20Merlot!) 💖 A markdown writing app
-* [Idiomatic](https://idiomatic.rosano.ca/) 💖 Converts plain-text, markdown, etc to HTML and vice-versa.
-* [ravel](https://ravel.neocities.org/) 💖 Easy way to create nested foldable text in HTML
 * [8 Sacred Money Archetypes®: What are they and how to use them](https://www.denisedt.com/blog/8-sacred-money-archetypes-what-are-they-how-to-use-them)
 * [Your Sacred Money Archetypes® Cheat Sheet](https://www.denisedt.com/cheat)
 * [How to Create a Microbusiness that Matters](https://bemorewithless.com/micro/)
 * [Ruth Poundwhite. All the free & Paid Stuff I Do](https://ruthpoundwhite.com/everything/) 💖 Intuitive business resources.
 * [Free Coaching Tools](https://www.thecoachingtoolscompany.com/free_coaching_tools/#alphalist) 💖 Perfect for if you want to coach others or yourself.
-* [Hyperdraft](https://hyperdraft.rosano.ca/)
+* [The Best Life Coach Certifications Online](https://robkish.life/affordable-life-coaching-certification-online/)
 * [Joybox](https://joybox.rosano.ca/en/play/)
 * [Typogram](https://typogram.vercel.app/) 💖 Probably not as useful for IG anymore, but still good for blog post graphics. 
 * [MandalaGaba - a free tool for creating Zen Geometry](https://www.mandalagaba.com/)
@@ -112,12 +120,10 @@ Game by dolldivine](https://meiker.io/play/11922/online.html)
 * [Atabook - Get your free guestbook](https://atabook.org/)  💖 Also need to add...
 * [Catbox](https://catbox.moe/) 💖 Free/supporter based file storage and sharing
 * [Zine machine!](https://rowan.fyi/made/zine-machine/)  💖 Tool for making a website that can be printed as a zine. 
-* [HTML Journal](https://journal.miso.town/)  💖 Tool for making a simple HTML journal. Could be hosted on Neocities!
 * [Web Making Guides](https://solaria.neocities.org/guides/)
 * [Resources List for the Personal Web - Community Wiki - 32-Bit Cafe](https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49) 💖 Absolutely everything you could possibly need to create your own website/blog.
 * [CSS Bed](https://www.cssbed.com/) Classless CSS.
 * [1,700 Free Online Courses from Top Universities Open Culture](https://www.openculture.com/freeonlinecourses)
-* [The Best Life Coach Certifications Online](https://robkish.life/affordable-life-coaching-certification-online/)
   
  
 
