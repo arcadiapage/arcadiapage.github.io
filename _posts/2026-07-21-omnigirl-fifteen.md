@@ -1,6 +1,6 @@
 ---
 title: 'Omnigirl Chapter Fifteen'
-date: 2026-05-30 00:00:00 -07:00
+date: 2026-07-21 00:00:00 -07:00
 tags:
 - Inner Work 
 - Fiction
