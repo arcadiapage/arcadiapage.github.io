@@ -79,6 +79,7 @@ Game by dolldivine](https://meiker.io/play/11922/online.html)
 
 * [e.ggtimer - a simple countdown timer](https://e.ggtimer.com/)
 * [Schedual](https://schedual.app/) Simple, free online todo app.
+* [jukil/plain-text-life: A template to organise life in plain text files](https://github.com/jukil/plain-text-life)
 * [Leptum](https://leptum.mpeters.dev/) 💖 A more detailed personal productivity tracker. A bit too granular for me, but can be useful sometimes.
 * [Calendar Link Generator Free Add to Calendar Link Generator Tool](https://calendarlinkgenerator.com/#generator)
 * [Zen Browser](https://zen-browser.app/) 💖 The best browser for getting stuff done. 
@@ -102,6 +103,7 @@ Game by dolldivine](https://meiker.io/play/11922/online.html)
 * [Zine machine!](https://rowan.fyi/made/zine-machine/)  💖 Tool for making a website that can be printed as a zine. 
 * [Web Making Guides](https://solaria.neocities.org/guides/)
 * [Resources List for the Personal Web - Community Wiki - 32-Bit Cafe](https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49) 💖 Absolutely everything you could possibly need to create your own website/blog.
+* [Odie](https://odie.us/) 💖 Make a website with a Google Doc
 * [HTML Comment Box - Hosted Website Comments!](https://www.htmlcommentbox.com/)  💖 Need to add to my site. 
 * [Atabook - Get your free guestbook](https://atabook.org/)  💖 Also need to add...
 * [Vocaroo - Online voice recorder](https://vocaroo.com/)
@@ -131,6 +133,8 @@ Game by dolldivine](https://meiker.io/play/11922/online.html)
 * [手のイラスト資料集 -Hand Reference Hato King](https://hatoking.com/journal/download/4352.html) 💖 References for drawing hands!!!
 * [Line of Action](https://line-of-action.com/) 💖 More drawing motivation and inspo.
 * [Graphic Design Resources from Nuxill on Neocities](https://nuxill.neocities.org/resources#fonts)
+* [Rarebit HTML Webcomic Template](https://rarebit.neocities.org/)
+* [Bookletize.js](https://jywarren.github.io/bookletize.js/) 💖 Makes any pdf in to a booklet with binding style considerations.
 
 
 <a href="#Index"> Back to Top </a>
@@ -160,7 +164,9 @@ Game by dolldivine](https://meiker.io/play/11922/online.html)
 
 <h2><a id="seasonal-inspirations">Seasonal Inspirations</a></h2>
 
-Nothing here yet... 💖
+* [Herobook simple version by Hellper](https://hellper.itch.io/herobook-simple-version)
+* [Diary Email](https://diaryemail.com/)
+* [OpenCut](https://opencut.app/)
 
 <a href="#Index"> Back to Top </a>
 
