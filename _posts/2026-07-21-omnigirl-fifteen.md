@@ -8,9 +8,11 @@ layout: post
 subtitle: 'Mob Action'
 ---
 
-Summary: Lila faces Ms. Rinehart the angry people of Avila with the truth.
+Summary: Lila faces Ms. Rinehart and the angry people of Avila with the truth.
 
-*Author’s note: I lied! I know in the last chapter I said that was going to be the last chapter I'm posting in full to my blog, but I thought about it, and I really don't want to do that. So chapters 1-14 of Omnigirl can still be downloaded from [my book shop for free](https://payhip.com/b/MjRD9), but I'm going to just post the whole thing here. However, I won't be updating what can be downloaded from my Payhip shop until the full story is posted. Just saving myself some extra work.*
+*Author’s note: I lied! I know in the last chapter I said this was going to be the last chapter I'm posting in full to my blog, but I thought about it, and I really don't want to do that.*
+
+*So chapters 1-14 of Omnigirl can still be downloaded from [my book shop for free](https://payhip.com/b/MjRD9), but I'm going to just post the whole thing here. However, I won't be updating what can be downloaded from my Payhip shop until the full story is posted. Just saving myself some extra work.*
 
 *And as I said earlier, I intend to keep this story available for free until I’m feeling ready to publish it more officially (e.g. to Amazon, Barnes and Noble, etc…). Thank you for reading! 💖*
 
