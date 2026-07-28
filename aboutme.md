@@ -8,11 +8,11 @@ subtitle: Here's where to start...
 
 Hello! I'm Arcadia Page, an intuitive writer, artist, creative rebel, and a certifed self-care coach ⚡
 
-I enjoy exploring what it means to live a wholehearted creative life, and I help thoughtful, introspective, and sensitive creative people overcome overwhelm by creating a way of living and working that fits who they truly are.
+I enjoy exploring what it means to live a wholehearted creative life, and I help thoughtful, introspective, and sensitive creative people overcome overwhelm by designing a way of living and working that fits who they truly are.
 
-I started this blog while feeling totally burned out and looking for identity and purpose, exploring practices that could help me to keep things simple and stay connected to who I am even when my sense of self was actively changing.
+I started this blog while feeling totally burned out. I was looking for identity and purpose, exploring practices that could help me to keep things simple and stay connected to who I am even when my sense of self was changing.
 
-My work ranges from essays, fiction, comics and more, but regardless of what I make, I'm here to share how I move as a sensitive, introspective person in an ever changing world. My work is for thoughtful, curious, and creative people who are interested in personal growth, gentle productivity, and authentic living.
+My work here ranges from essays, fiction, comics and more, but regardless of what I make, my purpose is to share how I move through life as someone who is sensitive and introspective. What I do is for thoughtful, curious, and creative people who are interested in personal growth, gentle productivity, and authentic living.
 
 If you're feeling overwhelmed by change, it's most likely because you're strugging to stay connected with what creates structure, identity, and safety for you, which is totally normal!❤️ 
 
