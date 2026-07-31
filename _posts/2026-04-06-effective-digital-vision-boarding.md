@@ -86,4 +86,4 @@ If you're having a hard time with making a digital vision board that works for y
 
 And if you notice that you have this pattern of setting goals while struggling to create a clear vision of what that goal means to you, start by focusing in on the goals that will bring your life the most peace and regulate your nervous system. Those goals are typically very simple and easy to visualize. 
 
-If you need help with seeing your goals clearly right now, you can also learn more about how to do this in my book [Thoughtful Planning: How to Use Questions for Self-reflection to Design Your Day ](https://payhip.com/b/YSucT)
+If you enjoyed this guide and you're feeling ready to apply these ideas to your own life with personalized support, [here's how to work with me.](https://tally.so/r/RG167J)
