@@ -6,17 +6,19 @@ subtitle: Here's where to start...
 
 ![20250525-175027-0000.png](https://i.postimg.cc/QMh05MKR/20250525-175027-0000.png){: .mx-auto.d-block :}
 
-Hello! I'm Arcadia Page, an intuitive writer, artist, creative rebel, and a certifed self-care coach ⚡
+Hello! I'm Arcadia Page, an intuitive writer, artist, creative rebel, and a certified self-care coach ⚡
 
 I enjoy exploring what it means to live a wholehearted creative life, and I help thoughtful, introspective, and sensitive creative people overcome overwhelm by designing a way of living and working that fits who they truly are.
 
 I started this blog while feeling totally burned out. I was looking for identity and purpose, exploring practices that could keep me connected to who I am even when my sense of self was changing.
 
-My work here ranges from essays, fiction, comics and more, but regardless of what I make, my purpose is to share how I move through life as someone who is sensitive and introspective in a way that fits me--this is REAL self-care. I'm here for thoughtful, curious, and creative people who are interested in personal growth, gentle productivity, and authentic living.
+My work here ranges from essays, fiction, comics and more, but regardless of what I make, my purpose is to share how I move through life as someone who is sensitive and introspective in a way that fits me--this is the REAL self-care. I'm here for thoughtful, curious, and creative people who are interested in personal growth, gentle productivity, and authentic living.
 
-If you're feeling overwhelmed by change, it's most likely because you're strugging to stay connected with what creates structure, identity, and safety for you, which is totally normal!❤️ 
+If you're feeling overwhelmed by change, it's most likely because you're struggling to stay connected with a life that feels true for you in this current season, which is totally normal!❤️ 
 
-If that's where you are right now, start by paying [The Quiet Room](https://arcadiapage.com/the-quiet-room/) a visit. There you'll find my most impactful articles about staying connected to purpose, structure and who you are as things shift. 
+If that's where you are right now, start by paying [The Quiet Room](https://arcadiapage.com/the-quiet-room/) a visit. There you'll find my most impactful articles about staying connected to purpose, structure, safety and who you are as things shift. 
+
+And if you would like to have some personalized support with applying these ideas and creating a life that is true to who you are, [here's how to work with me.](https://tally.so/r/RG167J)
 
 Like life, my body of work is a forest full of all kinds of twisted paths, turns, and forks in the road. So below is also a guide that you can go through in order or by exploring whatever calls to you.
 
