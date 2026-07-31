@@ -52,15 +52,10 @@ I bought quite a few inexpensive fashion items that day that I loved, but were o
 
 # Give some time to your inner child 
 
-Do yourself a favor and take your inner child on a date. Buy weird art items, cheap dolls and action figures, or unique fashion finds that aren't the norm for you, but that you love anyways.
+Do yourself a favor and take your inner child on a date. Buy weird art items, cheap dolls and action figures, or unique fashion finds that aren't the norm for you, but that you love anyway.
 
 I've always believed that the way we spend money points to what we value.
 
 For me, being twelve was a very difficult period in my life that I'm still trying to heal from. Going out and mindfully spending some time and money on that part of myself was like telling that lonely and sad little girl, “Hey, I see you. I think you're amazing. And what you love and enjoy is valuable, even if no one else gets it.”
 
-°•°•°•°•
-
-# Paid Resources 
-
-[Inner Universe, Outer Worlds: A Guided Journal for Introverts Who Want to Explore Their Inner Universe and Share It With Others](https://payhip.com/b/3JsxQ)
-
+If you enjoyed this essay and feel drawn towards designing a life that aligns with your true, creative self with personalized support, let's chat a little. [Here's how to work with me.](https://tally.so/r/RG167J)
