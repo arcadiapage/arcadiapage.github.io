@@ -47,6 +47,8 @@ Going back to that diagram, depending on who you are, you might also find that t
 
 For me, work that comes from my purpose isn’t always SEO friendly but then there is just something about it that warps what is expected. It just has its own kind of magic. At least, that has been my experience. Not sure if I can explain it fully in this post, but I’m going to try.
 
+Before I dive into this, I want to share that if you find ideas from this post inspiring and you would like to have some personalized support with applying them to yourself and creating a life that is true to who you are, [here's how to work with me.](https://tally.so/r/RG167J)
+
 # How I Got Started With Understanding My Ikigai
 
 So I had moved on from my previous blog, [Manga and Mascara](https://manga-arcadia.blogspot.com/), and I was busy wrangling with life. 
