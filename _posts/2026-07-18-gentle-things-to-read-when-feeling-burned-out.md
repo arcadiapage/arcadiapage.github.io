@@ -13,7 +13,7 @@ subtitle: 'Here are my best articles and resources'
 
 I’ve written a lot about burnout recovery in my books and blog posts over the years because moving in and out of burnout has been an ongoing theme in my life. So here I’m sharing a list of gentle things to read from this blog and my books when you’re burned out. 
 
-And just incase you're wondering if what you are feeling counts as burnout, I want to hightlight that burnout is what happens when you are beyond tired. 
+And just in case you're wondering if what you are feeling counts as burnout, I want to highlight that burnout is what happens when you are beyond tired. 
 
 You’re exhausted, anxious, maybe even a bit depressed. When I look back on my [past moments of burnout](https://arcadiapage.com/aboutme/), what really stands out is how lost and pressured I felt. 
 
@@ -56,4 +56,6 @@ And as a bonus, there are plenty of things to not only read but also listen to i
 * Here's how I manage multiple creative projects without burnout
 
 You may also enjoy my audio note, *Finding the Way to Pressure Release and Creative Aliveness*.
+
+If you enjoyed this guide and you're ready to apply these ideas to your own life along with personalized support, [here's how to work with me.](https://tally.so/r/RG167J)
 
