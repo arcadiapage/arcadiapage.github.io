@@ -75,6 +75,7 @@ subtitle:
 * [Creative Fire is Classic. Just Don't Get Burned.](https://arcadiapage.com/2025-06-11-creative-fire-is-classic-do-not-get-burned/)
 * [The Fascinating Symbolism of Hair](https://arcadiapage.com/2024-11-04-Fascinating-Hair-Symbolism/)
 * [The Omnigirl Collection](https://arcadiapage.com/2025-05-02-Omnigirl-Collection-Index/)
+* [Entre Chien et Loup](https://arcadiapage.com/2026-08-07-between-dog-and-wolf/)
 * [Sitting in Right Relationship With Life](https://arcadiapage.com/2026-01-06-right-relationship-with-life/)
 
 ## Remember What You've Forgotten 
