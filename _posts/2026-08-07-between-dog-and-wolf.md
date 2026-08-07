@@ -1,6 +1,6 @@
 ---
 title: 'Entre Chien et Loup'
-date: 2027-08-07 00:00:00 -07:00
+date: 2026-08-07 00:00:00 -07:00
 tags:
 - Inner Work
 - Creative Life
