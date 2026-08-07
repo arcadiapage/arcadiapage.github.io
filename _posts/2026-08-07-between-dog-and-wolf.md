@@ -12,9 +12,7 @@ subtitle: 'An essay composed of White Wolf dreams gathered from dusk to dawn.'
 I wasn’t sure if I was seeing a dog or a wolf.
 
 
-(*Author's note: These dreams actually inspired and brought to life my short fiction works, [You Are My Inspiration](https://arcadiapage.com/2025-04-16-You-Are-My-Inspiration/) and [The Garden](https://arcadiapage.com/2025-04-19-the-garden/).*
-
-*Some of the dreams in this essay are also in an earlier blog post entitled, [Dragons, Creative Flow Secrets, and an Encore](https://arcadiapage.com/2025-10-17-dragons-and-creative-flow-secrets/).*)
+(*Author's note: These dreams actually inspired and brought to life my short fiction works, [You Are My Inspiration](https://arcadiapage.com/2025-04-16-You-Are-My-Inspiration/) and [The Garden](https://arcadiapage.com/2025-04-19-the-garden/). Some of the dreams in this essay are also in an earlier blog post entitled, [Dragons, Creative Flow Secrets, and an Encore](https://arcadiapage.com/2025-10-17-dragons-and-creative-flow-secrets/).*)
 
 
 I had been sitting in the back of a mini-van with the sliding door wide open. While I was there, a beautiful and notably large white dog with ocean blue eyes approached. When I saw him I thought, “Although he’s beautiful, he better not come in here.”
