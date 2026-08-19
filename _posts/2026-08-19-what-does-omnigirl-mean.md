@@ -83,7 +83,7 @@ An Omnigirl uses play to discover and improve her natural gifts. She finds those
 
 But before Lila discovered the Omnigirls of Omni High School, she had a longing. It was for the ring with the Blue Pearl. 
 
-![20250525-174910-0000.png](https://i.postimg.cc/K8Wf45rs/20250525-174910-0000.png) {: .mx-auto.d-block :}
+![20250525-174910-0000.png](https://i.postimg.cc/K8Wf45rs/20250525-174910-0000.png){: .mx-auto.d-block :}
 
 # Lila, The Blue Pearl, and the Oath
 
