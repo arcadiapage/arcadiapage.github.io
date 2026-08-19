@@ -160,6 +160,7 @@ And if you're feeling adventurous, here are some of my other posts about my drea
 - [From Seeking to Surrender – A Journey of Self-Integration](https://arcadiapage.com/2025-03-24-From-Seeking-to-Surrender-a-Journey-of-Self-Integration/)
 - [That One Time I Stole the Body of Some Random Guy](https://arcadiapage.com/2025-05-29-that-time-I-stole-some-guys-body/)
 - [Creative Fire is Classic. Just Don't Get Burned.](https://arcadiapage.com/2025-06-11-creative-fire-is-classic-do-not-get-burned/)
+- [Entre Chien et Loup: An essay composed of White Wolf dreams gathered from dusk to dawn.](https://arcadiapage.com/2026-08-07-between-dog-and-wolf/)
 - [Dragons, Creative Flow Secrets, and an Encore](https://arcadiapage.com/2025-10-17-dragons-and-creative-flow-secrets/)
 - [The Journey of Recollecting the Lost Pieces of Myself](https://arcadiapage.com/2025-10-14-recollecting-the-lost-pieces-of-myself/)
   
