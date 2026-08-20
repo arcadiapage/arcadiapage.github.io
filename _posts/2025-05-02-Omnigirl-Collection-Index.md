@@ -41,6 +41,8 @@ Although I wrote this a really long time ago, I can see how much of my inner wor
 - [Chapter Fifteen](https://arcadiapage.com/2026-07-21-omnigirl-fifteen/)
 - Chapter Sixteen (Coming soon!)
 
+**Extra**
+- [What Does Omnigirl Mean?](https://arcadiapage.com/2026-08-19-what-does-omnigirl-mean/)
 
 # Introduction:
 
