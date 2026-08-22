@@ -10,9 +10,9 @@ subtitle: 'From processing the forest to processing the garden of my inner world
 ---
 [*You're My Inspiration continued...*](https://arcadiapage.com/2025-04-16-You-Are-My-Inspiration/)
 
-Weeks went by after my meeting on the lake with that shape-shifting man.  Part of me wanted to obsess over it—to attempt to draw him with pencils and write down his words, just so I could make more sense of what exactly he was to me.
+Weeks went by after my meeting on the lake with that shape-shifting man.  Part of me wanted to obsess over it—to attempt to draw him with pencils and write down his words, just so I could make more sense of what exactly he is to me.
 
-But I didn't have time for that. I had practical things to do like going to work and writing snappy website copy for clients. And then after that, I was much too tired to create, so I ended up watching online videos instead. This is the reality. Besides, all that stuff about staring at fireflies and remembering were just a dream. 
+But I didn't have time for that. I had practical things to do like going to work and writing snappy website copy for clients. And then after that, I was much too tired to create, so I ended up watching online videos instead. This is the reality. Besides, all that stuff about staring at fireflies and remembering was just a dream anyway.
 
 Another weekend came around, and I found myself with a wide open Saturday. It was a day with nice weather, and the possibility of sitting on my porch and enjoying it all was inviting. After blending a strawberry banana smoothie and grabbing a book on graphic design fundamentals, I relaxed on the lounge chair outside.
 
@@ -20,11 +20,11 @@ Part of me was like, "This is the perfect day for reading a novel, not some book
 
 But it's been so long since I've read a novel, I didn't have a clue of what I would read. Besides, I enjoy graphic design. There's nothing wrong with brushing up on my craft while enjoying the breeze.
 
-I read a little bit, but I found myself getting distracted. The occasional yellow and orange butterflies that flitted by were delightful. The buzzing bumblebees and wasps were a bit unnerving, but as long as they stayed industrious and far away from me, that was fine.
+I read a little bit, but then I found myself getting distracted. The occasional yellow and orange butterflies that flitted by were delightful. The buzzing bumblebees and wasps were a bit unnerving, but as long as they stayed industrious and far away from me, that was fine.
 
 And then I found myself reliving what felt like a memory. 
 
-I wandered into a garden without meaning to. The sky was that quiet blue-gray of late afternoon, where time stretches like a lazy yawn. [I didn't remember how I got to that garden. I remembered no roads and no gate.](https://payhip.com/b/6DqyO)
+I wandered into a garden without meaning to. The sky was that quiet blue-gray of late afternoon, where time stretches like a lazy yawn. I didn't remember how I got there. I remembered no roads and no gate.
 
 And then I realized, this was no memory. 
 
@@ -34,29 +34,29 @@ It was like I had stepped into a memory that never quite happened. The garden pa
 
 And then—he was there.
 
-Not waiting. Not watching. Just...there. Sitting beneath a canopy of climbing roses, his long legs crossed in unhurried leisure. Today he wore trousers and a loose fitting white dress shirt. The sunlight dappled his cheeks like soft lace, and his eyes—half-lidded, unreadable—tracked the movement of a bee. 
+Not quite waiting or watching. Just...there. Sitting beneath a canopy of climbing roses, his long legs crossed in unhurried leisure. Today he wore trousers and a loose fitting white dress shirt. The sunlight dappled his cheeks like soft lace, and his eyes, half-lidded and unreadable, tracked the movement of a bee. 
 
-He was so still, so quiet, I nearly missed the way his fingers brushed the pages of a small, weatherworn book resting on his lap.
+He was so still, I nearly missed the way his fingers brushed the edge of a page in a small, weather-worn book that rested on his lap.
 
 He looked up, his crisp blue eyes falling on me.
 
-He wasn't startled. And he wasn't looking at me in a way that beckoned me to come closer. It was just a gaze that met mine--almost as if he knew me before I was born. 
+He wasn't startled. And he wasn't looking at me in a way that asked me to come closer. It was just a gaze that met mine—almost as if he knew me before I was born. 
 
 "You found your way," he said in that relaxed, cultured voice of his. It was like he belonged everywhere and nowhere.
 
 I opened my mouth to reply, but the words left me before they could land. I had too many questions and too much to say, so all that came out was nothing. He noticed this and simply smiled—not with amusement, but with a kind of inner knowing, like he’d seen this moment a thousand times. And loved it every time.
 
-He closed the book he held in his hands
+He closed the book he held in his hands.
 
-“You’ve heard me,” he said. “In pieces. In pauses. In the shiver before a choice. And honestly, I'm a bit disappointed. This is the perfect day for reading a novel—"
+“You’ve heard me,” he said. “In pieces. In pauses. In the space before a choice. And honestly, I'm a bit disappointed. This is the perfect day for reading a novel—"
 
 My heart started to race from recognition.
 
-"—not some book about work," I finished breathlessly, before he could. I stepped closer him. That mesmerizing floral scent I couldn't quite pin down stirred in the air.
+"—not some book about work," I finished breathlessly, before he could. I stepped closer to him. That mesmerizing floral scent I couldn't quite pin down stirred in the air.
 
 "What are you?" I said in almost a whisper. "Are you some kind of...muse?"
 
-He tilted his head, and wispy silver strands fell across his brow. "That's always the question, isn't it?" He let out a soft laugh. “I’m much more than just some muse. I'm the part you try not to need. The part you forget when the world gets too loud. But I’m also the part that kept you creating in the dark.”
+He tilted his head, and wispy silver strands fell across his brow. "That's always the question, isn't it?" He let out a soft laugh. “I’m much more than just some muse. I'm the part you try not to need. The part you forget when the world gets too loud. But I’m also the part that keeps you creating in the dark.”
 
 I rolled my eyes. "Ugh. It's always more riddles with you! I don't get it at all."
 
@@ -76,7 +76,7 @@ He rose at my words, fluid and effortless, like mist lifting off the lake.
 
 "Oh."
 
-That was all I could say. Maybe I judged... wrong?
+That was all I could say. Maybe I judged...wrong?
 
 "So...are you a dog or a wolf?"
 
@@ -88,7 +88,7 @@ Silence fell between us. I took another look at the blossoms swinging in the bre
 
 "They're ylang-ylang," he said softly. "My favorite."
 
-I found myself remembering. Some years ago, my best friend Michelle had bought some organic ylang-ylang essential oil for her diffuser. She complained about how the sweet floral scent wasn't exactly what she expected, and she ended up passing it on to me. And I—I loved it. I used that bottle down to the very last drop, and I added it to my online shopping wishlist. 
+I found myself remembering. Some years ago, my best friend Michelle had bought some organic ylang-ylang essential oil for her diffuser. She complained about how the sweet floral scent wasn't exactly what she expected, and she ended up passing it on to me. And I—I loved it. I used that bottle down to the very last drop, and I added it to my online shopping wish list. 
 
 But I never bought any for myself. I had completely—
 
