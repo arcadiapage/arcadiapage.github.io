@@ -6,7 +6,7 @@ subtitle: Here's where to start...
 
 ![20250525-175027-0000.png](https://i.postimg.cc/QMh05MKR/20250525-175027-0000.png){: .mx-auto.d-block :}
 
-Hello! I'm Arcadia Page, an intuitive writer, artist, creative rebel, and an authentic life alignment coach ⚡
+Hello! I'm Arcadia Page, an intuitive writer, artist, creative rebel, and a certified self-care and authentic life alignment coach ⚡
 
 I enjoy exploring what it means to live a wholehearted creative life, and I help thoughtful, introspective, and sensitive creative people overcome overwhelm by designing a way of living and working that fits who they truly are.
 
