@@ -40,7 +40,7 @@ Although I wrote this a really long time ago, I can see how much of my inner wor
 - [Chapter Fourteen](https://arcadiapage.com/2026-05-30-omnigirl-fourteen/)
 - [Chapter Fifteen](https://arcadiapage.com/2026-07-21-omnigirl-fifteen/)
 - [Chapter Sixteen](https://arcadiapage.com/2026-08-21-omnigirl-sixteen/)
-- [Chapter Seventeen] (The official last chapter of the original--Coming Soon!) 
+- Chapter Seventeen (The official last chapter of the original--Coming Soon!)
 
 **Extra**
 - [What Does Omnigirl Mean?](https://arcadiapage.com/2026-08-19-what-does-omnigirl-mean/)
