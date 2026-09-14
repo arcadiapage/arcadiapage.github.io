@@ -18,7 +18,7 @@ If you're feeling overwhelmed by change, it's most likely because you're struggl
 
 If that's where you are right now, start by paying [The Quiet Room](https://arcadiapage.com/the-quiet-room/) a visit. There you'll find my most impactful articles about staying connected to purpose, structure, safety and who you are as things shift. 
 
-And if you would like to have some personalized support with applying these ideas and creating a life that is true to who you are, [here's how to work with me.](https://tally.so/r/RG167J)
+And if you would like to have some personalized support with applying these ideas and creating a life that is true to who you are, you might like [Discover Your True Colors: A Free, 20 Minute Self-care Alignment Discovery Session](https://payhip.com/b/a8tLK)
 
 Like life, my body of work is a forest full of all kinds of twisted paths, turns, and forks in the road. So below is also a guide that you can go through in order or by exploring whatever calls to you.
 
