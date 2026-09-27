@@ -19,7 +19,7 @@ Originally written in 2001/2002 💿
 Although I wrote this a really long time ago, I can see how much of my inner world I was processing through this story.
 
 # Chapter List/TOC 
-(Updated serially. A more formal introduction follows
+(This story is now completed! A more formal introduction follows
 💙 )
 
 - [Chapter One](https://arcadiapage.com/2025-05-02-omnigirl-one/)
@@ -40,7 +40,7 @@ Although I wrote this a really long time ago, I can see how much of my inner wor
 - [Chapter Fourteen](https://arcadiapage.com/2026-05-30-omnigirl-fourteen/)
 - [Chapter Fifteen](https://arcadiapage.com/2026-07-21-omnigirl-fifteen/)
 - [Chapter Sixteen](https://arcadiapage.com/2026-08-21-omnigirl-sixteen/)
-- Chapter Seventeen (The official last chapter of the original--Coming Soon!)
+- [Chapter Seventeen](https://arcadiapage.com/2026-09-27-omnigirl-seventeen/)
 
 **Extra**
 - [What Does Omnigirl Mean?](https://arcadiapage.com/2026-08-19-what-does-omnigirl-mean/)
