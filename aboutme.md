@@ -10,6 +10,8 @@ Hello! I'm Arcadia Page, an intuitive writer, artist, creative rebel, and a cert
 
 I enjoy exploring what it means to live a wholehearted creative life, and I help thoughtful, introspective, and sensitive creative people overcome overwhelm by designing a way of living and working that fits who they truly are. I'm here to answer the question, "What happens when you stop trying to build a life that looks right and start building one that feels like yours?"
 
+*“How do I construct a little world in which I can actually be myself?”*
+
 I started this blog while feeling totally burned out. I was looking for meaning and purpose, exploring practices that could keep me connected to who I am even when my sense of self was changing.
 
 My work here ranges from essays, fiction, comics and more, but regardless of what I make, my goal is to share how I move through life as someone who is sensitive and introspective in a way that fits me. I'm here for thoughtful, curious, and creative people who are interested in personal growth, gentle productivity, and authentic living.
