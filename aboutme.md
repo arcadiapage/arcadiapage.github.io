@@ -8,7 +8,7 @@ subtitle: Here's where to start...
 
 Hello! I'm Arcadia Page, an intuitive writer, artist, creative rebel, and a certified self-care and authentic life alignment coach ⚡
 
-I enjoy exploring what it means to live a wholehearted creative life, and I help thoughtful, introspective, and sensitive creative people overcome overwhelm by designing a way of living and working that fits who they truly are.
+I enjoy exploring what it means to live a wholehearted creative life, and I help thoughtful, introspective, and sensitive creative people overcome overwhelm by designing a way of living and working that fits who they truly are. I'm here to answer the question, "What happens when you stop trying to build a life that looks right and start building one that feels like yours?"
 
 I started this blog while feeling totally burned out. I was looking for meaning and purpose, exploring practices that could keep me connected to who I am even when my sense of self was changing.
 
