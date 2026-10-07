@@ -5,7 +5,7 @@ layout: null
   {% for post in site.posts %}
     {
       "title"    : {{ post.title | jsonify | strip_html }},
-      "tags"     : "{{ post.tags | join: ', ' }}",
+      "tags" : {{ post.tags | join: ', ' | jsonify }},
       "url"      : "{{ post.url }}",
       "date"     : "{{ post.date | date: "%b %-d, %Y" }}",
       "excerpt" : {{ post.excerpt | jsonify | strip_html }},
