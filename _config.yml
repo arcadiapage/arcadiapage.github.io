@@ -25,10 +25,10 @@ defaults:
 description: intuitive writer, artist, creative rebel, and a certified self-care and authentic life alignment coach  
 author: Arcadia Page
 show_related_posts: true
-navbar-links:
-  💠 About: aboutme
+navbar-links: 
   💎 Books: https://payhip.com/ArcadiaPage
   📘 Thoughts: https://arcadia.thoughts.page
+  💠 About: aboutme
   Resources:
   - Topics: tags
   - The Quiet Room: the-quiet-room
