@@ -2,3 +2,33 @@
 title: Photo Gallery 
 layout: page
 ---
+<style>
+.photo-gallery {
+  column-count: 3;
+  column-gap: 12px;
+}
+
+.photo-gallery img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-bottom: 12px;
+}
+
+@media (max-width: 700px) {
+  .photo-gallery {
+    column-count: 2;
+  }
+}
+
+@media (max-width: 450px) {
+  .photo-gallery {
+    column-count: 1;
+  }
+}
+  </style>
+<div class="photo-gallery">
+<a href="assets/photos/b612_tempextra_2015-05-18-13-54-42.jpg">
+<img src="assets/photos/b612_tempextra_2015-05-18-13-54-42.jpg" alt="A cute little cup">
+</a>
+</div>
