@@ -22,7 +22,7 @@ defaults:
   values:
     layout: page
     show-avatar: true
-description: Learn to have a life aligned with your true creative self.  
+description: intuitive writer, artist, creative rebel, and a certified self-care and authentic life alignment coach  
 author: Arcadia Page
 show_related_posts: true
 navbar-links:
@@ -33,6 +33,7 @@ navbar-links:
   Resources:
   - The Quiet Room: the-quiet-room
   - Thoughts: https://arcadia.thoughts.page
+  - Photo Gallery: photos
   - The Blue Room: the-blue-room
   - Disclosure: https://payhip.com/ArcadiaPage/privacy-policy
 avatar: "assets/img/2025ProfileDrawingFinished.png"
