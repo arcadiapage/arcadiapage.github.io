@@ -6,7 +6,7 @@
 <style>
 #search-input:focus {
   outline: none;
-  border-color: #163b66;
+  border-color: #92bfdb;
   box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1);
 }
 #results-container {
@@ -31,7 +31,7 @@ span.post-meta {
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  json: '/search.json'
+  json: '/search.json',
   searchResultTemplate: '<li><a href="{url}">{title}</a><br><span class="post-meta">{date}</span></li>'
 })
 </script>
