@@ -62,7 +62,7 @@ Game by dolldivine](https://meiker.io/play/11922/online.html)
 * [Neocities: Create your own free website!](https://neocities.org/)
 * [MelonLand Surf Club - Webring](https://melonland.net/surf-club)
 * [nekoweb](https://nekoweb.org/)
-* [quxnet - about](https://quxnet.net/about)
+* [quxnet - about](https://quxnet.net/about) 💖 A really creative online community space that includes a blog, a web page, and an RSS reader.
 * [Trend List – Documenting visual trends in graphic design since 2011.](https://trendlist.org/)
 * [⋆ ˚｡⋆୨୧˚ lavender fields ✿⋆˚₊ ⊹](https://lavenderblues.neocities.org/home)
 * [loveberry ♡ links](https://loveberry.nekoweb.org/links)
@@ -104,7 +104,6 @@ Game by dolldivine](https://meiker.io/play/11922/online.html)
 * [Zine machine!](https://rowan.fyi/made/zine-machine/)  💖 Tool for making a website that can be printed as a zine. 
 * [Web Making Guides](https://solaria.neocities.org/guides/)
 * [Resources List for the Personal Web - Community Wiki - 32-Bit Cafe](https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49) 💖 Absolutely everything you could possibly need to create your own website/blog.
-* [Odie](https://odie.us/) 💖 Make a website with a Google Doc
 * [HTML Comment Box - Hosted Website Comments!](https://www.htmlcommentbox.com/)   
 * [Atabook - Get your free guestbook](https://atabook.org/)
 * [Tally](https://tally.so/) 💖 The easy and free way to create online forms. 
@@ -112,6 +111,7 @@ Game by dolldivine](https://meiker.io/play/11922/online.html)
 * [Canva: Free Design Tool: Presentations, Video, Social Media + More](https://www.canva.com/) 💖 I used to have Canva Pro when I could afford it. It's worth every penny if you're running an online business.
 * [Beautiful Free Images & Pictures Unsplash](https://unsplash.com/)
 * [AudioMass - Audio Editor](https://audiomass.co/)
+* [White Noise Generator: Free, 7 Colours, No Download](https://decibelshield.app/white-noise-generator/) 💖 Actually this is more than just a white noise generator--this is actually a nice collection of audio tools. I also appreciate the different audio meters and [pitch tuning tools](https://decibelshield.app/pitch-detector/). Great for my ukulele practice.
 * [✂︎ Pixel Sea ✂︎](https://pixelsea.neocities.org/#)
 * [EmojiDB](https://emojidb.org/) 💖 An AMAZING emoji database. I use it all the time. 
 * [Pop!_OS by System76](https://pop.system76.com/)
@@ -158,7 +158,7 @@ Game by dolldivine](https://meiker.io/play/11922/online.html)
 <h2><a id="books-that-shaped-me">Books and Articles that Shaped Me</a></h2>
 
 * [Killing the Sacred Cows of Publishing – Dean Wesley Smith](https://www.deanwesleysmith.com/category/killing-the-sacred-cows-of-publishing/) 💖 This is the article that inspired me to go all-in with being an indie writer.
-* [Just write.](https://www.sarasoueidan.com/desk/just-write/)
+* [Just write.](https://web.archive.org/web/20240324222901/https://www.sarasoueidan.com/desk/just-write/)
 * [My website is a shifting house next to a river of knowledge](https://web.archive.org/web/20200220031406/https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/)
 
 
