@@ -49,6 +49,7 @@ Game by dolldivine](https://meiker.io/play/11922/online.html)
 * [imood.com](https://www.imood.com/)  💖 Today the internet is feeling...
 * [Custom Soundscapes for Focus, Relaxation & Sleep - myNoise ®](https://mynoise.net/)
 * [Lady Writer](https://www.eadeverell.com/)
+* [Download the latest indie games - itch.io](https://itch.io/)
 
 
 
@@ -96,6 +97,7 @@ Game by dolldivine](https://meiker.io/play/11922/online.html)
 * [Welcome to Merlot!- Merlot](https://merlot.vercel.app/Welcome%20to%20Merlot!) 💖 A markdown writing app
 * [Litewrite](https://litewrite.net/#!(1c2b73e8-de5e-493b-91cd-d2532a4b99e4)-litewrite) 💖 A light writing app
 * [WordCount — Free Word Counter, Instant & Private](https://wordcount.com/)
+* [Power Thesaurus: Comprehensive, Fast & User-Friendly Thesaurus](https://www.powerthesaurus.org/) 💖 A thesaurus with a minimalist interface. 
 * [Idiomatic](https://idiomatic.rosano.ca/) 💖 Converts plain-text, markdown, etc to HTML and vice-versa.
 * [ravel](https://ravel.neocities.org/) 💖 Easy way to create nested foldable text in HTML
 * [HTML Journal](https://journal.miso.town/)  💖 Tool for making a simple HTML journal. Could be hosted on Neocities!
@@ -104,6 +106,8 @@ Game by dolldivine](https://meiker.io/play/11922/online.html)
 * [Zine machine!](https://rowan.fyi/made/zine-machine/)  💖 Tool for making a website that can be printed as a zine. 
 * [Web Making Guides](https://solaria.neocities.org/guides/)
 * [Resources List for the Personal Web - Community Wiki - 32-Bit Cafe](https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49) 💖 Absolutely everything you could possibly need to create your own website/blog.
+* [GoatCounter – open source web analytics](https://www.goatcounter.com/) 💖 Privacy respecting website stat counter that I already use. 
+* [NeatStats - Simple, lightweight, privacy-first web stats](https://neatstats.net/) 💖 Privacy respecting website stat counter that I would like to try. 
 * [HTML Comment Box - Hosted Website Comments!](https://www.htmlcommentbox.com/)   
 * [Atabook - Get your free guestbook](https://atabook.org/)
 * [Tally](https://tally.so/) 💖 The easy and free way to create online forms. 
@@ -135,8 +139,10 @@ Game by dolldivine](https://meiker.io/play/11922/online.html)
 * [手のイラスト資料集 -Hand Reference Hato King](https://hatoking.com/journal/download/4352.html) 💖 References for drawing hands!!!
 * [Line of Action](https://line-of-action.com/) 💖 More drawing motivation and inspo.
 * [Graphic Design Resources from Nuxill on Neocities](https://nuxill.neocities.org/resources#fonts)
+* [Flexoki · Steph Ango](https://stephango.com/flexoki)  💖 Love using this website for digital color inspiration. 
 * [Rarebit HTML Webcomic Template](https://rarebit.neocities.org/)
 * [Bookletize.js](https://jywarren.github.io/bookletize.js/) 💖 Makes any pdf in to a booklet with binding style considerations.
+* [PDF Booklet Maker Free: Print a PDF as a Folded Booklet](https://pdf-file.com/pdf-booklet#size) 💖 Also makes any pdf into a booklet along with an amazing collection PDF editing tools. 
 
 
 <a href="#Index"> Back to Top </a>
